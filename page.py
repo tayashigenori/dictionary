@@ -11,17 +11,11 @@ class Page:
         import urllib2
         response = urllib2.urlopen(self._url)
         return response.read()
-    def get_hrefs(self,
-                  href_pattern = "^/wiki/",
-                  text_pattern = "^.$"
-                  ):
+    # override me
+    def get_hrefs(self,):
         from BeautifulSoup import BeautifulSoup as bs
-        #print self._html
         soup = bs(self._html)
-        return soup.findAll('a',
-                            href=re.compile(href_pattern),
-                            text=re.compile(text_pattern),
-                            )
+        return soup.findAll('a')
     """
     def get_href(self,):
         import lxml.html
@@ -33,6 +27,7 @@ class Page:
                 res.append(href)
         return res
     """
+    # override me
     def get_table(self, target_data_type = []):
         res = {}
 
@@ -44,11 +39,7 @@ class Page:
             for row in table.findAll('tr')[1:]:
                 col = row.findAll('td')
                 try:
-                    #data_type = col[0].find('a').text
-                    data_type = col[0].text
-                    data = col[1].text
-                    if data_type in target_data_type:
-                        res[data_type] = data
+                    res[col[0]] = col[1:]
                 except IndexError:
                     pass
         return res

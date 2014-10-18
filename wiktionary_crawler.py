@@ -19,6 +19,17 @@ class WiktionaryPage(Page):
              }
     READINGS = {'Japanese': ['Goon', "Kan'on"]}
     """
+    def get_hrefs(self,
+                  href_pattern = "^/wiki/",
+                  text_pattern = "^.$"
+                  ):
+        from BeautifulSoup import BeautifulSoup as bs
+        #print self._html
+        soup = bs(self._html)
+        return soup.findAll('a',
+                            href=re.compile(href_pattern),
+                            text=re.compile(text_pattern),
+                            )
 
 def main():
     for strokes in range(1,2):

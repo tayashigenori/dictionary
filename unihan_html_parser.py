@@ -13,6 +13,26 @@ class UnihanPage(Page):
     def get_dictionary(self,):
         return self.get_table(self.DATA_TYPE)
 
+    def get_table(self, target_data_type = []):
+        res = {}
+
+        from BeautifulSoup import BeautifulSoup as bs
+        #print self._html
+        soup = bs(self._html)
+
+        for table in soup.findAll("table", border=1):
+            for row in table.findAll('tr')[1:]:
+                col = row.findAll('td')
+                try:
+                    #data_type = col[0].find('a').text
+                    data_type = col[0].text
+                    data = col[1].text
+                    if data_type in target_data_type:
+                        res[data_type] = data
+                except IndexError:
+                    pass
+        return res
+
 
 def main():
     # urls are supposed to be stored in file
