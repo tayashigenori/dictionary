@@ -1,7 +1,5 @@
 # coding: utf-8
 
-import re
-
 class Page:
     def __init__(self, url):
         self._url = url
@@ -9,7 +7,10 @@ class Page:
         return
     def get_html(self,):
         import urllib2
+        import time
         response = urllib2.urlopen(self._url)
+        # always wait 1 second
+        time.sleep(1)
         return response.read()
     # override me
     def get_hrefs(self,):
