@@ -3,6 +3,11 @@
 WIKTIONARY_URL_BASE = "http://en.wiktionary.org/wiki/Index:Chinese_total_strokes/%d"
 UNIHAN_URL_BASE = "http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=%s"
 
+DICT_PATH_BASE = "./dict/%d.txt"
+DICT_SEPATATOR = ","
+
+STROKES_UPPER = 21
+
 import sys,os
 import re
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
@@ -33,15 +38,26 @@ class WiktionaryPage(Page):
                             text=re.compile(text_pattern),
                             )
 
-def main():
-    for strokes in range(1,21):
-        target_url = WIKTIONARY_URL_BASE %(strokes)
+def process(stroke):
+    dictname = DICT_PATH_BASE %(stroke)
+    f = open(dictname, 'w+')
+    try:
+        target_url = WIKTIONARY_URL_BASE %(stroke)
         page = WiktionaryPage(target_url)
         for codepoint in page.get_hrefs():
             codepoint = codepoint.strip()
-            if not codepoint:
-                continue
-            print UNIHAN_URL_BASE %(codepoint)
+            if codepoint:
+                #d  = [codepoint]
+                d = [UNIHAN_URL_BASE %(codepoint)]
+                f.write(DICT_SEPATATOR.join(d).encode('utf-8'))
+                f.write("\n")
+    finally:
+        f.close()
+    return
+
+def main():
+    for stroke in range(1, STROKES_UPPER):
+        process(stroke)
 
 if __name__ == '__main__':
     main()
