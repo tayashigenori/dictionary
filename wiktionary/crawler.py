@@ -3,8 +3,10 @@
 WIKTIONARY_URL_BASE = "http://en.wiktionary.org/wiki/Index:Chinese_total_strokes/%d"
 UNIHAN_URL_BASE = "http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=%s"
 
-from page import Page
+import sys,os
 import re
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
+from page import Page
 
 class WiktionaryPage(Page):
     """
@@ -32,11 +34,13 @@ class WiktionaryPage(Page):
                             )
 
 def main():
-    for strokes in range(1,2):
+    for strokes in range(1,21):
         target_url = WIKTIONARY_URL_BASE %(strokes)
         page = WiktionaryPage(target_url)
         for codepoint in page.get_hrefs():
-            #print UNIHAN_URL_BASE %(codepoint.replace("\u", ""))
+            codepoint = codepoint.strip()
+            if not codepoint:
+                continue
             print UNIHAN_URL_BASE %(codepoint)
 
 if __name__ == '__main__':
