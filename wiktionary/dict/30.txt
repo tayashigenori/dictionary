@@ -1,0 +1,16 @@
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=[
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=]
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䂅
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䆐
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䉹
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䖆
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䶑
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=厵
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=癵
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=籱
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=韊
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=驫
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=鱺
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=鸝
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=鸞
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=,

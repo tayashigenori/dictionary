@@ -1,0 +1,6 @@
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=[
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=]
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䖇
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䴒
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=䶫
+http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=齾

@@ -6,7 +6,7 @@ UNIHAN_URL_BASE = "http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=%s"
 DICT_PATH_BASE = "./dict/%d.txt"
 DICT_SEPATATOR = ","
 
-STROKES_UPPER = 21
+STROKES_UPPER = 65
 
 import sys,os
 import re
@@ -43,6 +43,7 @@ def process(stroke):
     f = open(dictname, 'w+')
     try:
         target_url = WIKTIONARY_URL_BASE %(stroke)
+        sys.stderr.write("getting resource: %s\n" %target_url)
         page = WiktionaryPage(target_url)
         for codepoint in page.get_hrefs():
             codepoint = codepoint.strip()
@@ -51,12 +52,15 @@ def process(stroke):
                 d = [UNIHAN_URL_BASE %(codepoint)]
                 f.write(DICT_SEPATATOR.join(d).encode('utf-8'))
                 f.write("\n")
+    except:
+        sys.stderr.write("could not get resource: %s\n" %target_url)
+        pass
     finally:
         f.close()
     return
 
 def main():
-    for stroke in range(1, STROKES_UPPER):
+    for stroke in range(21, STROKES_UPPER):
         process(stroke)
 
 if __name__ == '__main__':
