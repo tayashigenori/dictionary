@@ -4,9 +4,9 @@
 乚,{"kMandarin": "y\u01d0n", "kJapaneseOn": "IN ON"}
 乛,{"kMandarin": "ya"}
 丶,{"kKorean": "CWU", "kMandarin": "zh\u01d4", "kCantonese": "zyu2", "kJapaneseOn": "CHU"}
-乙,{"kHangul": "\uc744", "kMandarin": "y\u01d0", "kKorean": "UL", "kVietnamese": "\u1ea5t", "kCantonese": "jyut3 jyut6", "kJapaneseOn": "OTSU", "kTang": "qyit"}
+乙,{"kHangul": "\uc744", "kMandarin": "y\u01d0", "kKorean": "UL", "kVietnamese": "\u1ea5t", "kCantonese": "jyut3 jyut6", "kJapaneseOn": "OTSU", "kHanyuPinlu": "yi3(45)", "kTang": "qyit"}
 丨,{"kKorean": "KON", "kMandarin": "g\u01d4n", "kCantonese": "jat1 kwan2", "kJapaneseOn": "KON SHI JO NYO"}
 [,{}
 ],{}
 乁,{"kMandarin": "y\u00ed", "kJapaneseOn": "I"}
-一,{"kHangul": "\uc77c", "kMandarin": "y\u012b", "kKorean": "IL", "kVietnamese": "nh\u1ea5t", "kCantonese": "jat1", "kJapaneseOn": "ICHI ITSU", "kTang": "*qit qit"}
+一,{"kHangul": "\uc77c", "kMandarin": "y\u012b", "kKorean": "IL", "kVietnamese": "nh\u1ea5t", "kCantonese": "jat1", "kJapaneseOn": "ICHI ITSU", "kHanyuPinlu": "yi1(32747)", "kTang": "*qit qit"}

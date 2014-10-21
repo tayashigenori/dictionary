@@ -17,7 +17,9 @@ from page import Page
 
 class UnihanPage(Page):
     READINGS_DATA_TYPE = ['kCantonese', 'kMandarin', 'kTang',
-                          # 'kHanyuPinlu', 'kHanyuPinyin', 'kXHC1983',
+                          'kHanyuPinlu',
+                          # 'kHanyuPinyin',
+                          # 'kXHC1983',
                           'kHangul', 'kKorean',
                           'kJapaneseOn',
                           # 'kJapaneseKun',
@@ -86,7 +88,7 @@ def main():
     #target_url = UNIHAN_URL_BASE %(codepoint)
     #pages = [target_url]
     STROKES_UPPER = 21
-    for stroke in range(11, STROKES_UPPER):
+    for stroke in range(12, STROKES_UPPER):
         # get url and parse
         source_url_name = SOURCE_URL_PATH_BASE %(stroke)
         readings = get_readings_from_source_url(source_url_name)
