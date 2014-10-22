@@ -1,0 +1,2483 @@
+詎,{"kKorean": "KE", "kTang": "*ghi\u01d4", "kMandarin": "j\u00f9", "kCantonese": "geoi6", "kJapaneseOn": "KYO GO"}
+圐,{"kMandarin": "k\u016b"}
+㾞,{"kCantonese": "zaau4 zuk1", "kMandarin": "y\u00f3u"}
+圎,{"kKorean": "WEN", "kMandarin": "yu\u00e1n", "kJapaneseOn": "EN"}
+圌,{"kKorean": "CHEN", "kMandarin": "chu\u00e1n", "kCantonese": "cyun2 cyun4 seoi4", "kJapaneseOn": "SEN ZEN SUI ZUI"}
+圍,{"kHangul": "\uc704", "kMandarin": "w\u00e9i", "kKorean": "WI", "kVietnamese": "v\u00e8", "kCantonese": "wai4", "kJapaneseOn": "I", "kHanyuPinlu": "wei2(654)", "kTang": "*hiu\u0259i"}
+珷,{"kKorean": "MWU", "kHangul": "\ubb34", "kMandarin": "w\u01d4", "kCantonese": "mou5", "kJapaneseOn": "BU MU"}
+詏,{"kCantonese": "aau2 ngaau3", "kMandarin": "y\u00e0o"}
+歮,{"kMandarin": "s\u00e8", "kJapaneseOn": "JUU"}
+歯,{"kKorean": "CHI", "kMandarin": "ch\u01d0", "kCantonese": "ci2", "kJapaneseOn": "SHI"}
+閍,{"kVietnamese": "mu\u00f4n", "kMandarin": "b\u0113ng", "kJapaneseOn": "HOU HYOU BEN MEN"}
+棰,{"kMandarin": "chu\u00ed", "kCantonese": "ceoi4", "kJapaneseOn": "SOI TA"}
+棱,{"kVietnamese": "s\u0103ng", "kTang": "l\u0259ng l\u0259\u0300ng", "kMandarin": "l\u00e9ng", "kCantonese": "ling4", "kJapaneseOn": "ROU RYOU CHOU"}
+棲,{"kHangul": "\uc11c", "kMandarin": "q\u012b", "kKorean": "SE", "kCantonese": "cai1", "kJapaneseOn": "SEI", "kTang": "*sei"}
+棳,{"kCantonese": "zyut3", "kMandarin": "zhu\u014d"}
+棴,{"kMandarin": "f\u00fa"}
+棵,{"kHanyuPinlu": "ke1(170)", "kMandarin": "k\u0113", "kCantonese": "fo1 fo2 po1", "kJapaneseOn": "KAN KA", "kVietnamese": "qu\u1ea3"}
+棶,{"kMandarin": "l\u00e1i", "kCantonese": "loi4", "kJapaneseOn": "RAI"}
+棷,{"kCantonese": "sau2 zau1", "kMandarin": "z\u014du"}
+棸,{"kCantonese": "zau1", "kMandarin": "z\u014du"}
+棹,{"kHangul": "\ub3c4", "kMandarin": "zh\u00e0o", "kKorean": "TO", "kVietnamese": "ch\u00e8o", "kCantonese": "zaau6 zoek3", "kJapaneseOn": "TOU TAKU", "kTang": "*djh\u00e0u"}
+棺,{"kHangul": "\uad00", "kMandarin": "gu\u0101n", "kKorean": "KWAN", "kVietnamese": "quan", "kCantonese": "gun1", "kJapaneseOn": "KAN", "kHanyuPinlu": "guan1(9)", "kTang": "gu\u0251n"}
+棻,{"kKorean": "PWUN", "kHangul": "\ubd84", "kCantonese": "fan1", "kMandarin": "f\u0113n"}
+棼,{"kKorean": "PWUN", "kHangul": "\ubd84", "kMandarin": "f\u00e9n", "kCantonese": "fan4", "kJapaneseOn": "HUN BUN"}
+棽,{"kMandarin": "sh\u0113n", "kCantonese": "cam1", "kJapaneseOn": "CHIN SHIN RIN"}
+棾,{"kMandarin": "q\u00edng"}
+棿,{"kVietnamese": "ngh\u00ea", "kMandarin": "n\u00ed"}
+棠,{"kHangul": "\ub2f9", "kMandarin": "t\u00e1ng", "kKorean": "TANG", "kCantonese": "tong4", "kJapaneseOn": "TOU DOU", "kTang": "dh\u0251ng"}
+棡,{"kMandarin": "g\u0101ng", "kCantonese": "gong1 gong3", "kJapaneseOn": "KOU"}
+棢,{"kCantonese": "mong1", "kMandarin": "w\u01ceng"}
+棣,{"kKorean": "CHEY", "kHangul": "\uccb4", "kMandarin": "d\u00ec", "kCantonese": "dai6", "kJapaneseOn": "TEI TAI"}
+棤,{"kMandarin": "cu\u00f2"}
+棥,{"kMandarin": "f\u00e1n", "kJapaneseOn": "HAN BON"}
+棦,{"kVietnamese": "ranh", "kCantonese": "caang1", "kMandarin": "ch\u0113ng"}
+棧,{"kHangul": "\uc794", "kMandarin": "zh\u00e0n", "kKorean": "CAN CEN", "kVietnamese": "su\u00f4ng s\u00e0n", "kCantonese": "zaan2 zaan6", "kJapaneseOn": "SAN SEN", "kTang": "jrh\u00e0n"}
+棨,{"kKorean": "KYEY", "kHangul": "\uacc4", "kMandarin": "q\u01d0", "kCantonese": "kai2", "kJapaneseOn": "KEI KEN"}
+棩,{"kMandarin": "yu\u0101n"}
+棪,{"kMandarin": "y\u01cen", "kJapaneseOn": "EN SEN"}
+棫,{"kMandarin": "y\u00f9", "kCantonese": "wik6", "kJapaneseOn": "YOKU IKI IKU"}
+棬,{"kKorean": "KWEN", "kHangul": "\uad8c", "kMandarin": "qu\u0101n", "kCantonese": "hyun1", "kJapaneseOn": "KEN KAN"}
+棭,{"kMandarin": "y\u00ec", "kJapaneseOn": "EKI YOKU"}
+森,{"kHangul": "\uc0bc", "kMandarin": "s\u0113n", "kKorean": "SAM", "kVietnamese": "ch\u00f9m", "kCantonese": "sam1", "kJapaneseOn": "SHIN", "kHanyuPinlu": "sen1(85)", "kTang": "*shrim"}
+棯,{"kVietnamese": "n\u1ea1m", "kMandarin": "r\u011bn", "kCantonese": "nim1 nim6", "kJapaneseOn": "JIN DEN SHIN"}
+棐,{"kKorean": "PI", "kHangul": "\ube44", "kMandarin": "f\u011bi", "kCantonese": "fei2", "kJapaneseOn": "HI BI"}
+棑,{"kMandarin": "p\u00e1i", "kCantonese": "paai4", "kJapaneseOn": "HAI BAI"}
+棒,{"kHangul": "\ubd09", "kMandarin": "b\u00e0ng", "kKorean": "PONG", "kVietnamese": "v\u1ed5ng", "kCantonese": "paang5", "kJapaneseOn": "BOU HOU", "kHanyuPinlu": "bang4(97)"}
+棓,{"kMandarin": "b\u00e0ng", "kCantonese": "bui4 paang5", "kJapaneseOn": "HOU BOU"}
+棔,{"kMandarin": "h\u016bn", "kCantonese": "fan1", "kJapaneseOn": "KON"}
+棕,{"kKorean": "CONG", "kHangul": "\uc885", "kMandarin": "z\u014dng", "kCantonese": "zung1", "kJapaneseOn": "SHU SOU"}
+棖,{"kHangul": "\uc815", "kMandarin": "ch\u00e9ng", "kKorean": "CENG", "kVietnamese": "tr\u01b0\u1eddng", "kCantonese": "caam4 caam5 caan5 caang4", "kJapaneseOn": "TOU JOU"}
+棗,{"kHangul": "\uc870", "kMandarin": "z\u01ceo", "kKorean": "CO", "kVietnamese": "t\u00e1o", "kCantonese": "zou2", "kJapaneseOn": "SOU", "kHanyuPinlu": "zao3(20)", "kTang": "tz\u0251\u030cu"}
+棘,{"kHangul": "\uadf9", "kMandarin": "j\u00ed", "kKorean": "KUK", "kVietnamese": "g\u1ea5c", "kCantonese": "gik1", "kJapaneseOn": "KYOKU", "kTang": "*gi\u0259k"}
+棙,{"kMandarin": "l\u00ec", "kCantonese": "lai6", "kJapaneseOn": "REI RAI RETSU RECHI"}
+棚,{"kHangul": "\ubd95", "kMandarin": "p\u00e9ng", "kKorean": "PWUNG", "kCantonese": "paang4", "kJapaneseOn": "HOU", "kHanyuPinlu": "peng2(62) peng5(14)"}
+棛,{"kMandarin": "y\u00f9"}
+棜,{"kMandarin": "y\u00f9", "kCantonese": "jyu3", "kJapaneseOn": "YO O"}
+棝,{"kMandarin": "g\u00f9", "kJapaneseOn": "KO KU"}
+棞,{"kMandarin": "j\u00f9n"}
+棟,{"kHangul": "\ub3d9", "kMandarin": "d\u00f2ng", "kKorean": "TONG", "kVietnamese": "nh\u1eafm \u0111\u1ed1ng", "kCantonese": "dung3 dung6", "kJapaneseOn": "TOU", "kTang": "d\u00f9ng"}
+棃,{"kTang": "*li", "kCantonese": "lei4", "kMandarin": "l\u00ed"}
+亵,{"kCantonese": "sit3", "kMandarin": "xi\u00e8"}
+亴,{"kKorean": "YU", "kHangul": "\uc6b0", "kMandarin": "y\u00f2u"}
+棆,{"kVietnamese": "su\u00f4n", "kTang": "luin", "kMandarin": "l\u00fan", "kJapaneseOn": "RIN"}
+棇,{"kMandarin": "c\u014dng"}
+棈,{"kMandarin": "qi\u00e0n", "kJapaneseOn": "SEN SEI SHOU"}
+棉,{"kHangul": "\uba74", "kMandarin": "mi\u00e1n", "kKorean": "MYEN", "kCantonese": "min4", "kJapaneseOn": "MEN", "kHanyuPinlu": "mian2(392)", "kTang": "*mi\u025bn"}
+棊,{"kKorean": "KI", "kHangul": "\uae30", "kMandarin": "q\u00ed", "kCantonese": "kei4", "kJapaneseOn": "KI GI"}
+棋,{"kHangul": "\uae30", "kMandarin": "q\u00ed", "kKorean": "KI", "kVietnamese": "c\u1eddi", "kCantonese": "kei4", "kJapaneseOn": "KI GI", "kHanyuPinlu": "qi2(21)", "kTang": "ghi\u0259"}
+棌,{"kKorean": "CHAY", "kHangul": "\ucc44", "kMandarin": "c\u00e0i", "kJapaneseOn": "SAI"}
+棍,{"kHangul": "\uace4", "kMandarin": "g\u00f9n", "kKorean": "KON HON", "kVietnamese": "\u0111i\u1ec1m c\u00f4n", "kCantonese": "gwan3", "kJapaneseOn": "KON", "kHanyuPinlu": "gun4(74)"}
+棎,{"kMandarin": "ch\u00e1n"}
+棏,{"kMandarin": "d\u00e9", "kJapaneseOn": "TOKU DOKU TAKU CHAKU"}
+䞝,{"kCantonese": "zuk6", "kMandarin": "y\u00f9"}
+䞟,{"kCantonese": "bak1", "kMandarin": "p\u00f2"}
+䞞,{"kCantonese": "faat1 maan5", "kMandarin": "f\u00fa"}
+䯧,{"kCantonese": "at3 got3 king2 king3", "kMandarin": "q\u01d0ng"}
+㹃,{"kCantonese": "fe3 fei2 he3", "kMandarin": "f\u00e8i"}
+㹁,{"kCantonese": "loeng4", "kMandarin": "li\u00e1ng"}
+䞤,{"kMandarin": "q\u00fa"}
+䞡,{"kCantonese": "tan2 tan2", "kMandarin": "t\u01cen"}
+䞠,{"kMandarin": "zh\u012b"}
+䞣,{"kCantonese": "cak3", "kMandarin": "ch\u011b"}
+䞢,{"kCantonese": "zaa3 zok3 zok6", "kMandarin": "zu\u00f3"}
+㑺,{"kCantonese": "zeoi6 zeon3", "kMandarin": "j\u00f9n"}
+㑹,{"kCantonese": "gwat3 mok6 wui6", "kMandarin": "hu\u00ec"}
+㑸,{"kCantonese": "ziu4", "kMandarin": "y\u00e1o"}
+㑳,{"kCantonese": "zaau3", "kMandarin": "zh\u00f2u"}
+㑷,{"kCantonese": "taai3", "kMandarin": "t\u00e0i"}
+㑶,{"kCantonese": "haai4 hei3", "kMandarin": "x\u00ec"}
+㑵,{"kCantonese": "zat6", "kMandarin": "h\u00e0n"}
+㑴,{"kCantonese": "caam1 cam1"}
+開,{"kHangul": "\uac1c", "kMandarin": "k\u0101i", "kKorean": "KAY", "kVietnamese": "khai", "kCantonese": "hoi1", "kJapaneseOn": "KAI", "kHanyuPinlu": "kai1(3483)", "kTang": "*k\u0259i"}
+释,{"kHanyuPinlu": "shi4(123)", "kCantonese": "sik1", "kMandarin": "sh\u00ec"}
+焔,{"kKorean": "YEN", "kMandarin": "y\u00e0n", "kJapaneseOn": "EN"}
+焙,{"kHangul": "\ubc30", "kMandarin": "b\u00e8i", "kKorean": "PAY", "kVietnamese": "v\u00f9i", "kCantonese": "bui6", "kJapaneseOn": "HOU HAI HOI"}
+焚,{"kHangul": "\ubd84", "kMandarin": "f\u00e9n", "kKorean": "PWUN", "kCantonese": "fan4", "kJapaneseOn": "FUN", "kTang": "bhi\u0259n"}
+焛,{"kMandarin": "l\u00ecn"}
+焜,{"kKorean": "HON", "kHangul": "\ud63c", "kMandarin": "k\u016bn", "kCantonese": "gwan1", "kJapaneseOn": "KON"}
+焝,{"kVietnamese": "hun", "kMandarin": "h\u00f9n"}
+焞,{"kHangul": "\ub3c8", "kMandarin": "t\u016bn", "kKorean": "TON", "kVietnamese": "h\u1eedng", "kCantonese": "seon4 teon1", "kJapaneseOn": "TON DON TAI TSUI"}
+焟,{"kMandarin": "x\u012b"}
+揣,{"kHangul": "\ucdcc", "kMandarin": "chu\u0101i", "kKorean": "CHWI THA", "kCantonese": "ceoi2 cyun2", "kJapaneseOn": "SHI SUI TAN", "kHanyuPinlu": "chuai1(12)"}
+酡,{"kMandarin": "tu\u00f3", "kCantonese": "to4", "kJapaneseOn": "TA DA"}
+舄,{"kKorean": "SEK", "kTang": "si\u025bk", "kMandarin": "x\u00ec", "kCantonese": "sik1", "kJapaneseOn": "SHAKU SAKU SEKI TAKU"}
+焰,{"kHangul": "\uc5fc", "kMandarin": "y\u00e0n", "kKorean": "YEN", "kVietnamese": "di\u1ec5m", "kCantonese": "jim4 jim6", "kJapaneseOn": "EN", "kHanyuPinlu": "yan4(34)"}
+焱,{"kKorean": "HYEK", "kHangul": "\ud601", "kMandarin": "y\u00e0n", "kCantonese": "jim6", "kJapaneseOn": "EN KEKI KYAKU"}
+焲,{"kMandarin": "y\u00ec"}
+焳,{"kMandarin": "ju\u00e9"}
+焴,{"kMandarin": "y\u00f9"}
+焵,{"kMandarin": "g\u00e0ng"}
+然,{"kHangul": "\uc5f0", "kMandarin": "r\u00e1n", "kKorean": "YEN", "kVietnamese": "nhi\u00ean", "kCantonese": "jin4", "kJapaneseOn": "ZEN NEN", "kHanyuPinlu": "ran2(3549) ran5(84)", "kTang": "*nji\u025bn"}
+焷,{"kMandarin": "p\u00ed"}
+焸,{"kMandarin": "xi\u00f2ng", "kJapaneseOn": "KO KU KEI KYOU"}
+焹,{"kMandarin": "wang"}
+焺,{"kMandarin": "sh\u0113ng"}
+焻,{"kMandarin": "ch\u00e0ng", "kJapaneseOn": "SHOU"}
+焼,{"kKorean": "SO", "kMandarin": "sh\u0101o", "kJapaneseOn": "SHOU"}
+焽,{"kMandarin": "xi\u01d2ng"}
+焾,{"kVietnamese": "n\u00e1m", "kCantonese": "nam4", "kMandarin": "ni\u01cen"}
+焿,{"kCantonese": "gang1", "kMandarin": "g\u0113ng"}
+焠,{"kHangul": "\uc26c", "kMandarin": "cu\u00ec", "kKorean": "SWI", "kVietnamese": "s\u1ed1t", "kCantonese": "ceoi3 seoi6", "kJapaneseOn": "SAI SUI"}
+無,{"kHangul": "\ubb34", "kMandarin": "w\u00fa", "kKorean": "MWU", "kVietnamese": "v\u00f4", "kCantonese": "mou4", "kJapaneseOn": "MU BU", "kHanyuPinlu": "wu2(1997)", "kTang": "*mio"}
+焢,{"kMandarin": "h\u014dng"}
+焣,{"kMandarin": "ch\u01ceo"}
+焤,{"kMandarin": "f\u01d4"}
+焥,{"kMandarin": "w\u00f2"}
+焦,{"kHangul": "\ucd08", "kMandarin": "ji\u0101o", "kKorean": "CHO", "kCantonese": "ziu1", "kJapaneseOn": "SHOU", "kHanyuPinlu": "jiao1(80)", "kTang": "tzi\u025bu"}
+焧,{"kMandarin": "c\u014dng"}
+焨,{"kMandarin": "f\u00e8ng"}
+焩,{"kVietnamese": "v\u1eb1ng", "kMandarin": "p\u00edng"}
+焪,{"kMandarin": "qi\u00f3ng"}
+焫,{"kMandarin": "ru\u00f2", "kCantonese": "naat3", "kJapaneseOn": "ZETSU NECHI"}
+焬,{"kMandarin": "x\u012b"}
+焭,{"kKorean": "KYENG", "kHangul": "\uacbd", "kMandarin": "qi\u00f3ng", "kCantonese": "king4", "kJapaneseOn": "KEI"}
+焮,{"kKorean": "HUN", "kHangul": "\ud754", "kCantonese": "jan1", "kMandarin": "x\u00ecn"}
+焯,{"kKorean": "CAK", "kHangul": "\uc791", "kMandarin": "ch\u0101o", "kCantonese": "coek3 zoek3", "kJapaneseOn": "SHAKU TOKU TAKU"}
+㻕,{"kCantonese": "gwat6", "kMandarin": "ju\u00e9"}
+閖,{"kMandarin": "shui"}
+㻔,{"kCantonese": "do2", "kMandarin": "du\u01d2"}
+㻖,{"kCantonese": "doi6", "kMandarin": "d\u00e0i"}
+㻑,{"kCantonese": "gwaai3 gwan3", "kMandarin": "j\u00ec"}
+践,{"kKorean": "CHEN", "kHanyuPinlu": "jian4(312)", "kMandarin": "ji\u00e0n", "kCantonese": "cin5", "kJapaneseOn": "SEN"}
+跎,{"kHangul": "\ud0c0", "kMandarin": "tu\u00f3", "kKorean": "THA", "kCantonese": "to4", "kJapaneseOn": "TA DA", "kTang": "*dh\u0251"}
+跏,{"kKorean": "KA", "kHangul": "\uac00", "kMandarin": "ji\u0101", "kCantonese": "gaa1", "kJapaneseOn": "KA"}
+跌,{"kHangul": "\uc9c8", "kMandarin": "di\u0113", "kKorean": "CIL", "kVietnamese": "tr\u1eb7c", "kCantonese": "dit3", "kJapaneseOn": "TETSU", "kHanyuPinlu": "die1(47)", "kTang": "dhet"}
+跍,{"kMandarin": "k\u016b"}
+疎,{"kHangul": "\uc18c", "kMandarin": "sh\u016b", "kKorean": "SO", "kCantonese": "so1", "kJapaneseOn": "SO", "kTang": "*shriu"}
+㻓,{"kCantonese": "lit6 zaau1", "kMandarin": "z\u014du"}
+跈,{"kMandarin": "ni\u01cen", "kCantonese": "nin2 nin5", "kJapaneseOn": "DEN NEN SEN ZEN"}
+跉,{"kMandarin": "l\u00edng"}
+跆,{"kKorean": "THAY", "kHangul": "\ud0dc", "kMandarin": "t\u00e1i", "kCantonese": "toi4", "kJapaneseOn": "TAI DAI"}
+跇,{"kMandarin": "y\u00ec", "kCantonese": "jai6", "kJapaneseOn": "EI TEI SEI ZEI"}
+㻒,{"kCantonese": "kwaan2", "kMandarin": "j\u00f9n"}
+跞,{"kCantonese": "lik1 lok3", "kMandarin": "l\u00ec"}
+跜,{"kMandarin": "n\u00ed"}
+距,{"kHangul": "\uac70", "kMandarin": "j\u00f9", "kKorean": "KE", "kVietnamese": "c\u1ef1a", "kCantonese": "geoi6 keoi5", "kJapaneseOn": "KYO", "kHanyuPinlu": "ju4(129)"}
+跚,{"kKorean": "SAN", "kMandarin": "sh\u0101n", "kCantonese": "saan1", "kJapaneseOn": "SAN"}
+跛,{"kHangul": "\ud30c", "kMandarin": "b\u01d2", "kKorean": "PHA PHI", "kCantonese": "bai1 bei3 bo2", "kJapaneseOn": "HA HI", "kHanyuPinlu": "bo3(11)"}
+跘,{"kMandarin": "p\u00e1n"}
+㻜,{}
+跖,{"kHangul": "\ucc99", "kMandarin": "zh\u00ed", "kKorean": "CHEK", "kCantonese": "zek3", "kJapaneseOn": "SEKI", "kTang": "ji\u025bk"}
+跗,{"kKorean": "PWU", "kHangul": "\ubd80", "kMandarin": "f\u016b", "kCantonese": "fu1", "kJapaneseOn": "FU BU"}
+跔,{"kMandarin": "j\u016b", "kCantonese": "keoi1", "kJapaneseOn": "KU"}
+跕,{"kHangul": "\uc811", "kMandarin": "di\u01cen", "kKorean": "CEP", "kVietnamese": "ch\u1ed3m", "kCantonese": "cip3 dim3 dip6", "kJapaneseOn": "CHOU", "kTang": "tep"}
+跒,{"kMandarin": "qi\u01ce"}
+㩾,{"kCantonese": "zeoi1", "kMandarin": "zhu\u00ec"}
+跐,{"kCantonese": "ci2", "kMandarin": "c\u012b"}
+跑,{"kHanyuPinlu": "pao3(986)", "kMandarin": "p\u01ceo", "kCantonese": "paau2 paau4", "kJapaneseOn": "HOU BYOU HAKU"}
+亁,{"kKorean": "KEN KAN", "kMandarin": "g\u0101n", "kJapaneseOn": "KEN"}
+閐,{"kMandarin": "s\u00e0n"}
+䤟,{"kMandarin": "ch\u00e9n"}
+䤞,{"kCantonese": "wan5", "kMandarin": "y\u01d4n"}
+䤝,{"kCantonese": "ngang6", "kMandarin": "y\u00ecng"}
+㻙,{}
+㻘,{}
+㻛,{}
+㻚,{}
+絎,{"kMandarin": "h\u00e1ng", "kCantonese": "han6 hong4", "kJapaneseOn": "KOU"}
+閑,{"kHangul": "\ud55c", "kMandarin": "xi\u00e1n", "kKorean": "HAN", "kVietnamese": "nh\u00e0n", "kCantonese": "haan4", "kJapaneseOn": "KAN KEN", "kHanyuPinlu": "xian2(89)", "kTang": "*h\u025bn"}
+聠,{"kMandarin": "p\u012bng", "kJapaneseOn": "HEI HYOU"}
+犊,{"kCantonese": "duk6", "kMandarin": "d\u00fa"}
+犋,{"kCantonese": "geoi6", "kMandarin": "j\u00f9"}
+犈,{"kMandarin": "qu\u00e1n"}
+犉,{"kMandarin": "ch\u00fan", "kCantonese": "seon4", "kJapaneseOn": "JUN NIN ZEN NEN"}
+犆,{"kCantonese": "dak6 dat6 zik6", "kMandarin": "zh\u00ed"}
+犇,{"kKorean": "PWUN", "kHangul": "\ubd84", "kMandarin": "b\u0113n", "kCantonese": "ban1", "kJapaneseOn": "HON"}
+犄,{"kMandarin": "j\u012b", "kCantonese": "gei1", "kJapaneseOn": "I KI"}
+䤠,{"kVietnamese": "ch\u1ec9a", "kCantonese": "zi2", "kMandarin": "zh\u01d0"}
+犂,{"kTang": "lei", "kMandarin": "l\u00ed", "kCantonese": "lai4", "kJapaneseOn": "RI REI RYUU"}
+犃,{"kMandarin": "p\u01d2u"}
+犀,{"kHangul": "\uc11c", "kMandarin": "x\u012b", "kKorean": "SE", "kVietnamese": "t\u00ea", "kCantonese": "sai1", "kJapaneseOn": "SEI SAI", "kHanyuPinlu": "xi1(13)", "kTang": "sei"}
+間,{"kHangul": "\uac04", "kMandarin": "ji\u0101n", "kKorean": "KAN", "kVietnamese": "gian", "kCantonese": "gaan1 gaan3", "kJapaneseOn": "KAN KEN", "kHanyuPinlu": "jian1(2080) jian5(37) jian4(15)", "kTang": "*g\u025bn"}
+牍,{"kCantonese": "duk6", "kMandarin": "d\u00fa"}
+牌,{"kHangul": "\ud328", "kMandarin": "p\u00e1i", "kKorean": "PHAY PAY", "kVietnamese": "b\u00e0i", "kCantonese": "paai4", "kJapaneseOn": "HAI", "kHanyuPinlu": "pai2(73)"}
+絠,{"kMandarin": "g\u01cei"}
+廃,{"kKorean": "PHYEY", "kMandarin": "f\u00e8i", "kCantonese": "fai3", "kJapaneseOn": "HAI"}
+廂,{"kHangul": "\uc0c1", "kMandarin": "xi\u0101ng", "kKorean": "SANG", "kVietnamese": "r\u01b0\u01a1ng", "kCantonese": "soeng1", "kJapaneseOn": "SHOU SOU", "kHanyuPinlu": "xiang1(18)", "kTang": "si\u0251ng"}
+㰶,{"kCantonese": "zaau2", "kMandarin": "y\u01d2u"}
+帾,{"kMandarin": "d\u01d4", "kCantonese": "dou2", "kJapaneseOn": "TO TSU"}
+帿,{"kKorean": "HWU", "kHangul": "\ud6c4", "kMandarin": "h\u00f3u"}
+帽,{"kHangul": "\ubaa8", "kMandarin": "m\u00e0o", "kKorean": "MO", "kVietnamese": "m\u00e3o", "kCantonese": "mou6", "kJapaneseOn": "BOU MOU", "kHanyuPinlu": "mao4(188)", "kTang": "*m\u0251\u0300u"}
+朁,{"kCantonese": "caam2", "kMandarin": "c\u01cen"}
+最,{"kHangul": "\ucd5c", "kMandarin": "zu\u00ec", "kKorean": "CHOY", "kVietnamese": "t\u1ed1i", "kCantonese": "zeoi3", "kJapaneseOn": "SAI", "kHanyuPinlu": "zui4(2100)", "kTang": "*tzu\u0251\u0300i"}
+朂,{"kMandarin": "x\u00f9"}
+㐤,{"kCantonese": "kaau4", "kMandarin": "d\u0101n"}
+朝,{"kHangul": "\uc870", "kMandarin": "ch\u00e1o", "kKorean": "CO", "kVietnamese": "tri\u1ec1u", "kCantonese": "ciu4 ziu1", "kJapaneseOn": "CHOU", "kHanyuPinlu": "chao2(296) zhao1(10)", "kTang": "*djhi\u025bu *dji\u025bu"}
+朜,{"kMandarin": "t\u016bn", "kJapaneseOn": "TON"}
+期,{"kHangul": "\uae30", "kMandarin": "q\u012b", "kKorean": "KI", "kVietnamese": "k\u00ec", "kCantonese": "gei1 kei4", "kJapaneseOn": "KI GO", "kHanyuPinlu": "qi1(1012)", "kTang": "*ghi\u0259"}
+朞,{"kKorean": "KI", "kHangul": "\uae30", "kMandarin": "j\u012b", "kCantonese": "gei1", "kJapaneseOn": "KI"}
+,,{}
+粦,{"kKorean": "LIN", "kHangul": "\ub9b0", "kMandarin": "l\u00edn", "kCantonese": "leon4", "kJapaneseOn": "RIN"}
+粧,{"kHangul": "\uc7a5", "kMandarin": "zhu\u0101ng", "kKorean": "CANG", "kCantonese": "zong1", "kJapaneseOn": "SHOU", "kTang": "*jri\u0251ng"}
+粤,{"kKorean": "WEL", "kHangul": "\uc6d4", "kMandarin": "yu\u00e8", "kCantonese": "jyut6", "kJapaneseOn": "ETSU OCHI"}
+粥,{"kHangul": "\uc8fd", "kMandarin": "zh\u014du", "kKorean": "CWUK YUK", "kCantonese": "zuk1", "kJapaneseOn": "SHUKU IKU", "kHanyuPinlu": "zhou1(48)"}
+粢,{"kKorean": "CA", "kHangul": "\uc790", "kMandarin": "z\u012b", "kCantonese": "zi1", "kJapaneseOn": "SHI SEI"}
+粠,{"kMandarin": "h\u00f3ng", "kJapaneseOn": "KOU"}
+粡,{"kVietnamese": "\u0111\u00f2ng", "kMandarin": "t\u00f3ng", "kJapaneseOn": "TOU ZU"}
+粬,{"kMandarin": "q\u016b"}
+粭,{"kMandarin": "he"}
+粪,{"kHanyuPinlu": "fen4(36)", "kCantonese": "fan3", "kMandarin": "f\u00e8n"}
+粫,{"kMandarin": "\u00e9r", "kJapaneseOn": "JI"}
+粨,{"kKorean": "PAYK", "kHangul": "\ubc31", "kMandarin": "b\u01cei"}
+粩,{"kMandarin": "lao"}
+鹅,{"kHanyuPinlu": "e2(24)", "kCantonese": "ngo4", "kMandarin": "\u00e9"}
+鹄,{"kCantonese": "guk1 huk1", "kMandarin": "g\u01d4"}
+鹇,{"kCantonese": "haan4", "kMandarin": "xi\u00e1n"}
+鹆,{"kCantonese": "juk6", "kMandarin": "y\u00f9"}
+鹁,{"kCantonese": "but6", "kMandarin": "b\u00f3"}
+鹀,{"kMandarin": "w\u00fa", "kJapaneseOn": "BU MU"}
+鹃,{"kHanyuPinlu": "juan1(16)", "kCantonese": "gyun1", "kMandarin": "ju\u0101n"}
+鹂,{"kHanyuPinlu": "li2(14)", "kCantonese": "lei4", "kMandarin": "l\u00ed"}
+鹈,{"kCantonese": "tai4", "kMandarin": "t\u00ed"}
+牋,{"kHangul": "\uc804", "kMandarin": "ji\u0101n", "kKorean": "CEN", "kVietnamese": "ti\u00ean", "kCantonese": "zin1", "kJapaneseOn": "SEN", "kTang": "tzen"}
+聏,{"kCantonese": "ji4", "kMandarin": "\u00e9r"}
+掲,{"kKorean": "KEY KAL", "kMandarin": "ji\u0113", "kJapaneseOn": "KEI KETSU"}
+掱,{"kCantonese": "paa4", "kMandarin": "p\u00e1"}
+掿,{"kVietnamese": "nh\u1eafc", "kMandarin": "nu\u00f2"}
+掾,{"kHangul": "\uc5f0", "kMandarin": "yu\u00e0n", "kKorean": "YEN", "kCantonese": "jyun6", "kJapaneseOn": "EN TEN", "kTang": "iu\u025b\u0300n"}
+掣,{"kMandarin": "ch\u00e8", "kKorean": "CHEY CHEL", "kVietnamese": "xi\u1ebft", "kCantonese": "cit3 zai3", "kJapaneseOn": "SEI SETSU", "kTang": "chi\u025bt"}
+掔,{"kMandarin": "qi\u0101n", "kCantonese": "haan1", "kJapaneseOn": "KAN KEN"}
+镺,{"kCantonese": "ou2", "kMandarin": "\u01ceo"}
+棄,{"kHangul": "\uae30", "kMandarin": "q\u00ec", "kKorean": "KI", "kCantonese": "hei3", "kJapaneseOn": "KI", "kHanyuPinlu": "qi4(51)", "kTang": "*k\u00ec"}
+掌,{"kHangul": "\uc7a5", "kMandarin": "zh\u01ceng", "kKorean": "CANG", "kCantonese": "zoeng2", "kJapaneseOn": "SHOU", "kHanyuPinlu": "zhang3(279) zhang5(14)", "kTang": "*ji\u0251\u030cng"}
+棅,{"kKorean": "PYENG", "kHangul": "\ubcd1", "kMandarin": "b\u00ecng", "kJapaneseOn": "HEI HYOU"}
+䟟,{"kCantonese": "cyut3 zung2", "kMandarin": "c\u00f9"}
+聐,{"kMandarin": "y\u00e0"}
+髠,{"kMandarin": "k\u016bn", "kJapaneseOn": "KON"}
+聑,{"kMandarin": "ti\u0113"}
+聒,{"kHangul": "\uad04", "kMandarin": "gu\u0101", "kKorean": "KWAL", "kCantonese": "kut3", "kJapaneseOn": "KATSU", "kTang": "gu\u0251t"}
+聓,{"kMandarin": "xu"}
+联,{"kHanyuPinlu": "lian2(578)", "kCantonese": "lyun4", "kMandarin": "li\u00e1n"}
+䟪,{"kCantonese": "fung2", "kMandarin": "f\u011bng"}
+䟫,{"kCantonese": "caang1 jaang3 zing3", "kMandarin": "ch\u0113ng"}
+䟨,{"kCantonese": "man4", "kMandarin": "m\u00edn"}
+䟩,{"kCantonese": "fui1 geoi3 hai6 koek3", "kMandarin": "li\u011b"}
+䟬,{"kVietnamese": "kheo", "kMandarin": "qi\u00f9"}
+䟭,{"kCantonese": "tou4", "kMandarin": "ti\u00e1o"}
+䟢,{"kVietnamese": "gi\u1eaby", "kCantonese": "caan3 sung1", "kMandarin": "ch\u00e9n"}
+䟣,{"kMandarin": "ch\u00f9"}
+䟠,{"kCantonese": "zyut6", "kMandarin": "yu\u00e8"}
+䟡,{"kCantonese": "daai3", "kMandarin": "zh\u012b"}
+䟦,{"kCantonese": "bat6", "kMandarin": "b\u00e1"}
+䟧,{"kCantonese": "tin4 zing4", "kMandarin": "ti\u00e1n"}
+䟤,{"kCantonese": "bit1", "kMandarin": "b\u00ec"}
+䟥,{"kMandarin": "m\u00e9ng"}
+進,{"kHangul": "\uc9c4", "kMandarin": "j\u00ecn", "kKorean": "CIN", "kVietnamese": "ti\u1ebfn", "kCantonese": "zeon3", "kJapaneseOn": "SHIN JIN", "kHanyuPinlu": "jin4(3920)", "kTang": "*tz\u00ecn"}
+逳,{"kMandarin": "y\u00f9", "kCantonese": "juk1", "kJapaneseOn": "IKU"}
+逰,{"kKorean": "YU", "kMandarin": "y\u00f3u", "kJapaneseOn": "YUU YU"}
+週,{"kHangul": "\uc8fc", "kMandarin": "zh\u014du", "kKorean": "CWU", "kVietnamese": "chu", "kCantonese": "zau1", "kJapaneseOn": "SHUU"}
+逶,{"kHangul": "\uc704", "kMandarin": "w\u0113i", "kKorean": "WI", "kCantonese": "wai1", "kJapaneseOn": "I", "kTang": "*qyu\u025b"}
+逷,{"kMandarin": "t\u00ec", "kJapaneseOn": "KEKI CHAKU"}
+逴,{"kHangul": "\ud0c1", "kMandarin": "chu\u014d", "kKorean": "THAK", "kVietnamese": "r\u01b0\u1edbc", "kCantonese": "coek3", "kJapaneseOn": "TAKU CHAKU"}
+逵,{"kKorean": "KYU", "kHangul": "\uaddc", "kMandarin": "ku\u00ed", "kCantonese": "kwai4", "kJapaneseOn": "KI"}
+逺,{"kKorean": "WEN", "kMandarin": "yu\u01cen", "kJapaneseOn": "EN ON"}
+逻,{"kHanyuPinlu": "luo2(24)", "kCantonese": "lo4 lo6", "kMandarin": "lu\u00f3"}
+逸,{"kHangul": "\uc77c", "kMandarin": "y\u00ec", "kKorean": "IL", "kVietnamese": "d\u1eadt", "kCantonese": "jat6", "kJapaneseOn": "ITSU ICHI", "kTang": "it"}
+逹,{"kMandarin": "d\u00e1", "kJapaneseOn": "TATSU DACHI"}
+㦸,{"kCantonese": "gik1", "kMandarin": "j\u01d0"}
+逪,{"kMandarin": "cu\u00f2", "kJapaneseOn": "SAKU"}
+逫,{"kMandarin": "ju\u00e9"}
+逨,{"kMandarin": "l\u00e1i", "kJapaneseOn": "RAI"}
+逩,{"kMandarin": "b\u00e8n", "kJapaneseOn": "KAMU"}
+逮,{"kHangul": "\uccb4", "kMandarin": "d\u01cei", "kKorean": "CHEY THAY", "kCantonese": "dai6 doi6", "kJapaneseOn": "TAI TEI", "kHanyuPinlu": "dai3(20) dai4(20)", "kTang": "dh\u00e8i dh\u0259\u0300i"}
+逯,{"kMandarin": "l\u00f9", "kCantonese": "luk6", "kJapaneseOn": "RYOKU ROKU TAI DAI"}
+逬,{"kMandarin": "b\u00e8ng", "kJapaneseOn": "HOU HYOU HEI"}
+逭,{"kVietnamese": "qu\u1ea7n", "kMandarin": "hu\u00e0n", "kCantonese": "wun6", "kJapaneseOn": "KAN GAN"}
+巯,{"kCantonese": "kau4", "kMandarin": "qi\u00fa"}
+巽,{"kHangul": "\uc190", "kMandarin": "x\u00f9n", "kKorean": "SON", "kVietnamese": "r\u1ed1n", "kCantonese": "seon3", "kJapaneseOn": "SON"}
+覘,{"kKorean": "CEM", "kHangul": "\uc810", "kMandarin": "ch\u0101n", "kCantonese": "zim1", "kJapaneseOn": "TEN"}
+奟,{"kMandarin": "b\u0113ng", "kJapaneseOn": "KOU HOU HYOU"}
+覚,{"kKorean": "KAK KYO", "kMandarin": "ju\u00e9", "kCantonese": "gaau3 gok3", "kJapaneseOn": "KAKU KOU"}
+覕,{"kMandarin": "mi\u00e8", "kCantonese": "bit1 pit3", "kJapaneseOn": "BETSU MECHI HIN HETSU"}
+覗,{"kKorean": "SA", "kHangul": "\uc0ac", "kMandarin": "s\u00ec", "kCantonese": "zi6", "kJapaneseOn": "SHI"}
+覃,{"kKorean": "TAM", "kHangul": "\ub2f4", "kMandarin": "t\u00e1n", "kCantonese": "taam4", "kJapaneseOn": "TAN EN"}
+覄,{"kMandarin": "fu"}
+短,{"kHangul": "\ub2e8", "kMandarin": "du\u01cen", "kKorean": "TAN", "kVietnamese": "\u0111o\u1ea3n", "kCantonese": "dyun2", "kJapaneseOn": "TAN", "kHanyuPinlu": "duan3(318)", "kTang": "*du\u0251\u030cn"}
+奥,{"kKorean": "O WUK", "kMandarin": "\u00e0o", "kCantonese": "ou3", "kJapaneseOn": "OU"}
+奤,{"kMandarin": "h\u01ce"}
+奡,{"kTang": "ng\u0251\u0300u", "kMandarin": "\u00e0o", "kCantonese": "ngou6", "kJapaneseOn": "GAU GOU"}
+奠,{"kHangul": "\uc804", "kMandarin": "di\u00e0n", "kKorean": "CEN", "kCantonese": "din6", "kJapaneseOn": "TEN DEN TEI", "kHanyuPinlu": "dian4(26)", "kTang": "dh\u00e8n"}
+奣,{"kMandarin": "w\u011bng", "kJapaneseOn": "WAN KOU"}
+奢,{"kHangul": "\uc0ac", "kMandarin": "sh\u0113", "kKorean": "SA", "kVietnamese": "xa", "kCantonese": "ce1 se1", "kJapaneseOn": "SHA", "kTang": "shia"}
+剳,{"kKorean": "CHA", "kMandarin": "d\u00e1", "kCantonese": "zaap3", "kJapaneseOn": "TOU SATSU"}
+割,{"kHangul": "\ud560", "kMandarin": "g\u0113", "kKorean": "HAL", "kVietnamese": "c\u1eaft", "kCantonese": "got3", "kJapaneseOn": "KATSU", "kHanyuPinlu": "ge1(128)", "kTang": "*g\u0251t"}
+創,{"kHangul": "\ucc3d", "kMandarin": "chu\u00e0ng", "kKorean": "CHANG", "kVietnamese": "s\u00e1ng", "kCantonese": "cong1 cong3", "kJapaneseOn": "SOU", "kHanyuPinlu": "chuang4(435) chuang1(13)", "kTang": "chri\u0251\u0300ng"}
+剴,{"kKorean": "KAY", "kHangul": "\uac1c", "kMandarin": "k\u01cei", "kCantonese": "hoi2", "kJapaneseOn": "GAI KAI"}
+剩,{"kHangul": "\uc789", "kMandarin": "sh\u00e8ng", "kKorean": "ING", "kCantonese": "sing6 zing6", "kJapaneseOn": "JOU", "kHanyuPinlu": "sheng4(199)"}
+㴔,{"kCantonese": "kaap1 zaap1", "kMandarin": "x\u012b"}
+㴕,{"kCantonese": "caap1 zap6", "kMandarin": "j\u00ed"}
+㴖,{"kCantonese": "lok6", "kMandarin": "lu\u00f2"}
+㴗,{"kCantonese": "zaau1", "kMandarin": "y\u014du"}
+㴐,{"kCantonese": "min5 min6", "kMandarin": "mi\u00e0n"}
+㴑,{"kCantonese": "sou3", "kMandarin": "s\u00f9"}
+㴒,{"kCantonese": "zik6", "kMandarin": "y\u00ec"}
+㴓,{"kCantonese": "zaai2", "kMandarin": "sh\u0101i"}
+㴜,{"kCantonese": "pin3", "kMandarin": "bi\u00e0n"}
+㴝,{"kCantonese": "lai4", "kMandarin": "l\u00ed"}
+㴞,{"kCantonese": "caai3 caau4 dou1 tou1 zaau6"}
+㴟,{}
+㴘,{"kCantonese": "mou6 muk6", "kMandarin": "m\u00e0o"}
+㴙,{"kCantonese": "zaa3", "kMandarin": "zh\u01ce"}
+㴚,{"kCantonese": "seoi6", "kMandarin": "su\u00ec"}
+㴛,{"kCantonese": "zi3", "kMandarin": "zh\u00ec"}
+㴅,{"kCantonese": "siu1"}
+㴏,{"kCantonese": "wong1 wong2 wu1", "kMandarin": "w\u01ceng"}
+䥺,{"kCantonese": "ze4", "kMandarin": "y\u00e9"}
+䥻,{}
+䥼,{}
+跋,{"kHangul": "\ubc1c", "kMandarin": "b\u00e1", "kKorean": "PAL", "kCantonese": "bat6", "kJapaneseOn": "BATSU HATSU", "kTang": "bh\u0251t"}
+㴤,{}
+㴠,{}
+㴡,{}
+㴢,{}
+㴣,{}
+䘖,{}
+骩,{"kCantonese": "gei1", "kMandarin": "w\u011bi"}
+骗,{"kHanyuPinlu": "pian4(96)", "kCantonese": "pin3", "kMandarin": "pi\u00e0n"}
+骘,{"kCantonese": "zat1", "kMandarin": "zh\u00ec"}
+骙,{"kCantonese": "kwai4", "kMandarin": "ku\u00ed"}
+骚,{"kCantonese": "sou1", "kMandarin": "s\u0101o"}
+骛,{"kCantonese": "mou6", "kMandarin": "w\u00f9"}
+䘮,{"kCantonese": "song1 song3", "kMandarin": "s\u0101ng"}
+䘭,{"kCantonese": "sak3 si6 taai4 zi3", "kMandarin": "zh\u00ec"}
+䘬,{"kCantonese": "zung4", "kMandarin": "r\u00f3ng"}
+䘫,{"kCantonese": "zyu4", "kMandarin": "n\u00f2u"}
+䘪,{"kCantonese": "cung1", "kMandarin": "ch\u014dng"}
+䘩,{"kCantonese": "ceon4 jyun6", "kMandarin": "x\u00fan"}
+䘨,{"kCantonese": "gaau1 gau2", "kMandarin": "ji\u01ceo"}
+㓹,{"kCantonese": "zeoi6", "kMandarin": "ru\u00ec"}
+㓸,{"kCantonese": "coek3 sau2 zoek3", "kMandarin": "zhu\u014d"}
+㓻,{"kCantonese": "gong1"}
+㓺,{"kCantonese": "gin1 gin6 kin4", "kMandarin": "ji\u0101n"}
+㓷,{"kCantonese": "nau4 zi6", "kMandarin": "y\u00ec"}
+罀,{"kCantonese": "diu6", "kMandarin": "zhao"}
+㓃,{"kCantonese": "dou3", "kMandarin": "d\u00f9"}
+給,{"kHangul": "\uae09", "kMandarin": "g\u011bi", "kKorean": "KUP", "kVietnamese": "c\u1ea5p", "kCantonese": "kap1", "kJapaneseOn": "KYUU KYOU", "kHanyuPinlu": "gei3(2860) ji3(80)", "kTang": "gyip"}
+䊁,{"kCantonese": "caap1 saan1"}
+䊃,{"kCantonese": "paau2 pui3", "kMandarin": "p\u00e8i"}
+䊂,{"kCantonese": "caak3", "kMandarin": "c\u00e8"}
+䊅,{"kCantonese": "maat6 ming4", "kMandarin": "m\u00edng"}
+䊄,{"kCantonese": "kung4", "kMandarin": "qi\u00f3ng"}
+䊆,{"kCantonese": "kaau3", "kMandarin": "ji\u00f9"}
+㓕,{}
+㓔,{"kCantonese": "ze6", "kMandarin": "xi\u00e8"}
+罦,{"kKorean": "PWU", "kHangul": "\ubd80", "kMandarin": "f\u00fa", "kCantonese": "fau4 fu1", "kJapaneseOn": "HU HUU BU"}
+罥,{"kTang": "gu\u011bn", "kMandarin": "ju\u00e0n", "kCantonese": "gyun3", "kJapaneseOn": "KEN"}
+罤,{"kMandarin": "t\u00ed", "kJapaneseOn": "TEI DAI KON"}
+訷,{"kMandarin": "sh\u0113n", "kJapaneseOn": "SHIN"}
+訶,{"kKorean": "KA", "kHangul": "\uac00", "kMandarin": "h\u0113", "kCantonese": "ho1", "kJapaneseOn": "KA"}
+訵,{"kMandarin": "ch\u012b", "kJapaneseOn": "CHI"}
+㨇,{"kCantonese": "fuk6 po4 pun4", "kMandarin": "p\u00f3"}
+註,{"kHangul": "\uc8fc", "kMandarin": "zh\u00f9", "kKorean": "CWU", "kVietnamese": "ch\u00fa", "kCantonese": "zyu3", "kJapaneseOn": "CHUU CHU"}
+㨉,{"kCantonese": "maan5", "kMandarin": "m\u00edn"}
+㨊,{"kCantonese": "waai4", "kMandarin": "w\u011bi"}
+㨋,{"kCantonese": "ze2", "kMandarin": "ch\u011b"}
+㨌,{"kCantonese": "gau3", "kMandarin": "g\u00f2u"}
+訾,{"kHangul": "\uc790", "kMandarin": "z\u012b", "kKorean": "CA", "kCantonese": "zi2", "kJapaneseOn": "SHI JI SEI SAI SO", "kTang": "tzi\u025b"}
+㨎,{"kCantonese": "zyu4", "kMandarin": "r\u00fa"}
+㨏,{"kCantonese": "taan1", "kMandarin": "t\u0101n"}
+㨐,{"kCantonese": "buk1", "kMandarin": "b\u01d4"}
+㨑,{"kCantonese": "zung1", "kMandarin": "z\u014dng"}
+㨒,{"kCantonese": "fui1", "kMandarin": "ku\u012b"}
+㨓,{"kCantonese": "lou4", "kMandarin": "l\u00e1o"}
+㨔,{"kVietnamese": "gi\u1eb1m", "kCantonese": "haam6 ngaan4", "kMandarin": "h\u00e0n"}
+㨕,{"kCantonese": "zing4", "kMandarin": "y\u00edng"}
+㨖,{"kCantonese": "zat1 zi3", "kMandarin": "zh\u00ec"}
+㨗,{"kCantonese": "zit6", "kMandarin": "ji\u00e9"}
+㨘,{"kCantonese": "saang2", "kMandarin": "x\u01d0ng"}
+晭,{"kMandarin": "zh\u01d2u"}
+援,{"kHangul": "\uc6d0", "kMandarin": "yu\u00e1n", "kKorean": "WEN", "kVietnamese": "vi\u1ec7n", "kCantonese": "jyun4 jyun6 wun4", "kJapaneseOn": "EN", "kHanyuPinlu": "yuan2(137)", "kTang": "hiu\u00e6n"}
+揵,{"kKorean": "KEN", "kHangul": "\uac74", "kMandarin": "qi\u00e1n", "kCantonese": "kin4", "kJapaneseOn": "KEN GEN GON"}
+揶,{"kKorean": "YA", "kHangul": "\uc57c", "kMandarin": "y\u00e9", "kCantonese": "je4", "kJapaneseOn": "YA"}
+揷,{"kKorean": "SAP", "kHangul": "\uc0bd", "kMandarin": "ch\u0101", "kJapaneseOn": "SOU"}
+揰,{"kCantonese": "cung3", "kMandarin": "ch\u00f2ng"}
+揲,{"kKorean": "SEL", "kHangul": "\uc124", "kMandarin": "di\u00e9", "kCantonese": "dip6 sip3 sit3", "kJapaneseOn": "SETSU ZECHI CHOU JOU"}
+揳,{"kVietnamese": "kh\u1ebf", "kMandarin": "xi\u0113", "kCantonese": "se2 sip3 sit3", "kJapaneseOn": "SETSU SECHI KETSU KECHI KATSU"}
+揼,{"kCantonese": "dam1 dam2 dam3 dam4 dap6", "kMandarin": "beng"}
+揽,{"kCantonese": "laam5", "kMandarin": "l\u01cen"}
+揾,{"kVietnamese": "\u00f9n", "kCantonese": "wan3", "kMandarin": "w\u00e8n"}
+揿,{"kCantonese": "gam6", "kMandarin": "q\u00ecn"}
+揸,{"kMandarin": "zh\u0101", "kCantonese": "zaa1 zaa2", "kJapaneseOn": "SA"}
+揹,{"kMandarin": "b\u0113i", "kCantonese": "bui3", "kJapaneseOn": "HAI"}
+揺,{"kMandarin": "y\u00e1o", "kJapaneseOn": "YOU"}
+揻,{"kMandarin": "w\u0113i"}
+揤,{"kCantonese": "zat1 zeot1", "kMandarin": "j\u00ed"}
+揥,{"kMandarin": "t\u00ec", "kCantonese": "dai3 tai3 zaai6", "kJapaneseOn": "TEI TAI TEKI CHAKU"}
+揦,{"kCantonese": "laa2 laa3 laa5", "kMandarin": "l\u00e1"}
+揠,{"kKorean": "AL", "kHangul": "\uc54c", "kMandarin": "y\u00e0", "kCantonese": "aat1 aat3", "kJapaneseOn": "SATSU ATSU"}
+握,{"kHangul": "\uc545", "kMandarin": "w\u00f2", "kKorean": "AK", "kCantonese": "aak1 ak1", "kJapaneseOn": "AKU", "kHanyuPinlu": "wo4(337)", "kTang": "qak"}
+揢,{"kCantonese": "kak1", "kMandarin": "k\u00e9"}
+䎜,{"kCantonese": "fan1", "kMandarin": "h\u016bn"}
+揬,{"kVietnamese": "d\u1ee5t", "kMandarin": "t\u00fa", "kCantonese": "dat1", "kJapaneseOn": "TOTSU DOCHI"}
+揭,{"kHangul": "\uac8c", "kMandarin": "ji\u0113", "kKorean": "KEY KAL", "kVietnamese": "y\u1ebft", "kCantonese": "kit3", "kJapaneseOn": "KEI KETSU", "kHanyuPinlu": "jie1(118)"}
+揮,{"kHangul": "\ud718", "kMandarin": "hu\u012b", "kKorean": "HWI", "kVietnamese": "huy", "kCantonese": "fai1", "kJapaneseOn": "KI", "kHanyuPinlu": "hui1(365)", "kTang": "*xiu\u0259i"}
+揯,{"kCantonese": "hang4", "kMandarin": "g\u00e8n"}
+揨,{"kMandarin": "ch\u00e9n"}
+揩,{"kHangul": "\uac1c", "kMandarin": "k\u0101i", "kKorean": "KAY", "kCantonese": "haai1", "kJapaneseOn": "KAI KATSU", "kHanyuPinlu": "kai1(12)"}
+揪,{"kHanyuPinlu": "jiu1(37)", "kMandarin": "ji\u016b", "kCantonese": "zau1", "kJapaneseOn": "SHUU SHU"}
+揔,{"kMandarin": "z\u01d2ng", "kJapaneseOn": "SOU SU"}
+揕,{"kVietnamese": "ch\u1ea1m", "kMandarin": "zh\u00e8n", "kCantonese": "zam3", "kJapaneseOn": "CHIN"}
+揖,{"kHangul": "\uc74d", "kMandarin": "y\u012b", "kKorean": "UP CUP", "kVietnamese": "\u1eadp", "kCantonese": "jap1", "kJapaneseOn": "YUU SHUU", "kTang": "qip"}
+揗,{"kCantonese": "tan4", "kMandarin": "x\u00fan"}
+提,{"kHangul": "\uc81c", "kMandarin": "t\u00ed", "kKorean": "CEY SI", "kVietnamese": "\u0111\u1ec1", "kCantonese": "dai2 tai4", "kJapaneseOn": "TEI DAI", "kHanyuPinlu": "ti2(1557)", "kTang": "dhei zhi\u025b"}
+揑,{"kMandarin": "ni\u0113", "kCantonese": "nip6", "kJapaneseOn": "GETSU GECHI NETSU"}
+插,{"kMandarin": "ch\u0101", "kKorean": "SAP", "kVietnamese": "ch\u1eafp", "kCantonese": "caap3", "kJapaneseOn": "SOU", "kHanyuPinlu": "cha1(170)", "kTang": "*chr\u00e6p"}
+揓,{"kMandarin": "sh\u00ec", "kCantonese": "ci3", "kJapaneseOn": "SHI"}
+揜,{"kKorean": "AM EM", "kMandarin": "y\u01cen", "kCantonese": "jim2", "kJapaneseOn": "EN AN ON"}
+揝,{"kCantonese": "zaan6", "kMandarin": "z\u01cen"}
+揞,{"kVietnamese": "\u1eb5m", "kCantonese": "ngam2", "kMandarin": "\u01cen"}
+揟,{"kKorean": "SE", "kHangul": "\uc11c", "kMandarin": "x\u016b"}
+揘,{"kMandarin": "y\u00f3ng"}
+揙,{"kMandarin": "bi\u0101n"}
+揚,{"kHangul": "\uc591", "kMandarin": "y\u00e1ng", "kKorean": "YANG", "kVietnamese": "d\u01b0\u01a1ng", "kCantonese": "joeng4", "kJapaneseOn": "YOU", "kHanyuPinlu": "yang2(179)", "kTang": "*iang"}
+換,{"kHangul": "\ud658", "kMandarin": "hu\u00e0n", "kKorean": "HWAN", "kCantonese": "wun6", "kJapaneseOn": "KAN", "kHanyuPinlu": "huan4(351)", "kTang": "*hu\u0251\u0300n"}
+揄,{"kKorean": "YU", "kHangul": "\uc720", "kMandarin": "y\u00fa", "kCantonese": "jyu4", "kJapaneseOn": "YU YUU"}
+揆,{"kHangul": "\uaddc", "kMandarin": "ku\u00ed", "kKorean": "KYU", "kVietnamese": "qu\u1eaby", "kCantonese": "kwai4 kwai5", "kJapaneseOn": "KI"}
+揇,{"kCantonese": "naam3 naam5", "kMandarin": "n\u01cen"}
+揀,{"kHangul": "\uac04", "kMandarin": "ji\u01cen", "kKorean": "KAN YEN", "kVietnamese": "gi\u00f3ng", "kCantonese": "gaan2", "kJapaneseOn": "KAN KEN", "kHanyuPinlu": "jian3(84)", "kTang": "g\u025b\u030cn"}
+揁,{"kVietnamese": "rinh", "kMandarin": "zh\u0113ng", "kJapaneseOn": "TEI CHOU KOU KYOU"}
+揂,{"kVietnamese": "d\u00f9a", "kMandarin": "ji\u016b"}
+揃,{"kKorean": "CEN", "kHangul": "\uc804", "kMandarin": "ji\u01cen", "kCantonese": "zin1 zin2", "kJapaneseOn": "SEN"}
+揌,{"kCantonese": "sak1 si1", "kMandarin": "s\u0101i"}
+揍,{"kHanyuPinlu": "zou4(25)", "kCantonese": "zau3", "kMandarin": "z\u00f2u"}
+揎,{"kMandarin": "xu\u0101n", "kCantonese": "syun1", "kJapaneseOn": "SEN"}
+描,{"kHangul": "\ubb18", "kMandarin": "mi\u00e1o", "kKorean": "MYO", "kVietnamese": "mi\u00eau", "kCantonese": "miu4", "kJapaneseOn": "BYOU", "kHanyuPinlu": "miao2(56)"}
+揈,{"kMandarin": "h\u014dng", "kCantonese": "fang4 gwang1", "kJapaneseOn": "KOU KEN KIKU"}
+揉,{"kHangul": "\uc720", "kMandarin": "r\u00f3u", "kKorean": "YU", "kCantonese": "jau4", "kJapaneseOn": "JUU", "kHanyuPinlu": "rou2(44)"}
+揊,{"kCantonese": "bik1", "kMandarin": "p\u00ec"}
+揋,{"kMandarin": "w\u0113i"}
+䦑,{"kMandarin": "xu\u00e8"}
+䦐,{"kMandarin": "t\u01d0ng"}
+㷉,{"kCantonese": "wan6", "kMandarin": "w\u00e8i"}
+㷈,{"kCantonese": "at3", "kMandarin": "\u00e8"}
+㷋,{"kCantonese": "dam2 tam4", "kMandarin": "t\u00e1n"}
+㷊,{"kCantonese": "faan4 faan5", "kMandarin": "f\u00e9n"}
+㷍,{"kCantonese": "leon4", "kMandarin": "l\u00fan"}
+㷌,{}
+㷃,{"kCantonese": "ceoi5", "kMandarin": "chu\u01d0"}
+㷂,{"kCantonese": "seoi6 syun4", "kMandarin": "sh\u00f9"}
+㷅,{"kCantonese": "caau2", "kMandarin": "ch\u01ceo"}
+㷄,{"kCantonese": "gun3 kui2", "kMandarin": "hu\u01d0"}
+㷇,{"kCantonese": "fui1", "kMandarin": "hu\u012b"}
+㷆,{"kCantonese": "fu5", "kMandarin": "f\u00f9"}
+絨,{"kHangul": "\uc735", "kMandarin": "r\u00f3ng", "kKorean": "YUNG", "kVietnamese": "nhung", "kCantonese": "jung4", "kJapaneseOn": "JUU", "kHanyuPinlu": "rong2(27)"}
+貯,{"kHangul": "\uc800", "kMandarin": "zh\u00f9", "kKorean": "CE", "kVietnamese": "tr\u1eef", "kCantonese": "cyu5", "kJapaneseOn": "CHO", "kTang": "dji\u01d4"}
+畫,{"kHangul": "\ud654", "kMandarin": "hu\u00e0", "kKorean": "HWA HOYK", "kVietnamese": "ho\u1ea1", "kCantonese": "waa2 waa6 waak6", "kJapaneseOn": "KAKU GA KAI", "kHanyuPinlu": "hua4(493)", "kTang": "*hu\u025b\u0300i hu\u025bk"}
+番,{"kHangul": "\ubc88", "kMandarin": "f\u0101n", "kKorean": "PEN PAN", "kVietnamese": "d\u1ebbo phen", "kCantonese": "faan1 pun1", "kJapaneseOn": "BAN HAN", "kHanyuPinlu": "fan1(84)"}
+絯,{"kCantonese": "goi1", "kMandarin": "g\u0101i"}
+釿,{"kKorean": "KUN", "kHangul": "\uadfc", "kMandarin": "j\u012bn", "kCantonese": "gan1", "kJapaneseOn": "KIN GIN"}
+畯,{"kKorean": "CWUN", "kHangul": "\uc900", "kMandarin": "j\u00f9n", "kCantonese": "zeon3", "kJapaneseOn": "SHUN"}
+釽,{"kMandarin": "p\u00ec", "kCantonese": "pik1", "kJapaneseOn": "HEKI HYAKU HAKU"}
+畮,{"kKorean": "MWU", "kMandarin": "m\u01d4"}
+畭,{"kMandarin": "y\u00fa", "kJapaneseOn": "YO"}
+畬,{"kTang": "shia", "kMandarin": "sh\u0113", "kCantonese": "jyu4 se1", "kJapaneseOn": "YO"}
+絮,{"kHangul": "\uc11c", "kMandarin": "x\u00f9", "kKorean": "SE YE", "kCantonese": "seoi5 seoi6", "kJapaneseOn": "JO SHO", "kTang": "*si\u00f9"}
+竢,{"kKorean": "SA", "kHangul": "\uc0ac", "kMandarin": "s\u00ec", "kCantonese": "zi6", "kJapaneseOn": "SHI"}
+童,{"kHangul": "\ub3d9", "kMandarin": "t\u00f3ng", "kKorean": "TONG", "kVietnamese": "\u0111\u1ed3ng", "kCantonese": "tung4", "kJapaneseOn": "DOU TOU", "kHanyuPinlu": "tong2(55)", "kTang": "*dhung"}
+竤,{"kMandarin": "h\u00f3ng"}
+淼,{"kHangul": "\ubb18", "kMandarin": "mi\u01ceo", "kKorean": "MYO", "kCantonese": "miu5", "kJapaneseOn": "BYOU MYOU", "kTang": "mi\u025b\u030cu"}
+㹂,{"kCantonese": "hin2", "kMandarin": "qi\u01cen"}
+淾,{"kMandarin": "y\u01d0n"}
+竧,{"kMandarin": "j\u00ecng"}
+量,{"kHangul": "\ub7c9 \uc591", "kMandarin": "li\u00e0ng", "kKorean": "LYANG", "kCantonese": "loeng4 loeng6", "kJapaneseOn": "RYOU", "kHanyuPinlu": "liang4(1265) liang5(433) liang2(208)", "kTang": "li\u0251ng li\u0251\u0300ng"}
+竦,{"kKorean": "SONG", "kHangul": "\uc1a1", "kMandarin": "s\u01d2ng", "kCantonese": "sung2", "kJapaneseOn": "SHOU"}
+絭,{"kCantonese": "gyun3", "kMandarin": "ju\u00e0n"}
+釉,{"kKorean": "YU", "kHangul": "\uc720", "kMandarin": "y\u00f2u", "kCantonese": "jau6", "kJapaneseOn": "YUU"}
+颉,{"kCantonese": "git3 kit3", "kMandarin": "ji\u00e9"}
+颊,{"kHanyuPinlu": "jia2(10)", "kCantonese": "gaap3", "kMandarin": "ji\u00e1"}
+颋,{"kCantonese": "ting5", "kMandarin": "t\u01d0ng"}
+陼,{"kKorean": "CE", "kHangul": "\uc800", "kMandarin": "zh\u01d4", "kCantonese": "zyu2", "kJapaneseOn": "SHO TO TSU ZU"}
+颌,{"kCantonese": "gap3", "kMandarin": "h\u00e9"}
+絬,{"kVietnamese": "th\u01b0\u1ee3t", "kMandarin": "xi\u00e8"}
+颍,{"kCantonese": "wing6", "kMandarin": "y\u01d0ng"}
+颎,{"kCantonese": "wing6", "kMandarin": "ji\u01d2ng"}
+颏,{"kCantonese": "hoi4", "kMandarin": "k\u0113"}
+铻,{"kCantonese": "jyu5", "kMandarin": "w\u00fa"}
+胾,{"kKorean": "CA", "kHangul": "\uc790", "kMandarin": "z\u00ec", "kCantonese": "zi3", "kJapaneseOn": "SHI"}
+铺,{"kHanyuPinlu": "pu4(111) pu1(96) pu5(11)", "kCantonese": "pou3", "kMandarin": "p\u00f9"}
+雯,{"kKorean": "MWUN", "kHangul": "\ubb38", "kMandarin": "w\u00e9n", "kCantonese": "man4", "kJapaneseOn": "BUN MON"}
+雮,{"kMandarin": "m\u00f9"}
+雭,{"kMandarin": "s\u00e8"}
+雬,{"kMandarin": "f\u01d2u"}
+雳,{"kCantonese": "lik1 lik6", "kMandarin": "l\u00ec"}
+雲,{"kHangul": "\uc6b4", "kMandarin": "y\u00fan", "kKorean": "WUN", "kVietnamese": "v\u00e2n", "kCantonese": "wan4", "kJapaneseOn": "UN", "kTang": "*hiu\u0259n"}
+雱,{"kMandarin": "p\u0101ng", "kCantonese": "pong4", "kJapaneseOn": "HOU"}
+雰,{"kKorean": "PWUN", "kHangul": "\ubd84", "kMandarin": "f\u0113n", "kCantonese": "fan1", "kJapaneseOn": "FUN"}
+項,{"kHangul": "\ud56d", "kMandarin": "xi\u00e0ng", "kKorean": "HANG", "kVietnamese": "h\u1ea1ng", "kCantonese": "hong6", "kJapaneseOn": "KOU GOU", "kHanyuPinlu": "xiang4(236)"}
+雃,{"kMandarin": "qi\u0101n"}
+雂,{"kMandarin": "q\u00edn"}
+雁,{"kHangul": "\uc548", "kMandarin": "y\u00e0n", "kKorean": "AN", "kCantonese": "ngaan6", "kJapaneseOn": "GAN", "kTang": "*ng\u00e0n"}
+雇,{"kHangul": "\uace0", "kMandarin": "g\u00f9", "kKorean": "KO HO", "kCantonese": "gu3", "kJapaneseOn": "KO", "kHanyuPinlu": "gu4(25)"}
+集,{"kHangul": "\uc9d1", "kMandarin": "j\u00ed", "kKorean": "CIP", "kVietnamese": "t\u1eadp", "kCantonese": "zaap6", "kJapaneseOn": "SHUU JUU", "kHanyuPinlu": "ji2(751)", "kTang": "*dzhip"}
+雅,{"kHangul": "\uc544", "kMandarin": "y\u01ce", "kKorean": "A", "kVietnamese": "nh\u00e3", "kCantonese": "aa1 ngaa5", "kJapaneseOn": "GA A", "kTang": "*ng\u01ce"}
+雄,{"kHangul": "\uc6c5", "kMandarin": "xi\u00f3ng", "kKorean": "WUNG", "kVietnamese": "h\u00f9ng", "kCantonese": "hung4", "kJapaneseOn": "YUU", "kHanyuPinlu": "xiong2(214)", "kTang": "*hiung"}
+雈,{"kMandarin": "hu\u00e1n", "kCantonese": "wun4", "kJapaneseOn": "KAN GAN"}
+軪,{"kMandarin": "\u0101o"}
+軫,{"kHangul": "\uc9c4", "kMandarin": "zh\u011bn", "kKorean": "CIN", "kCantonese": "zan2", "kJapaneseOn": "SHIN", "kTang": "j\u01d0n"}
+軨,{"kKorean": "LYENG", "kHangul": "\ub839", "kMandarin": "l\u00edng", "kCantonese": "ling4", "kJapaneseOn": "REI RYOU"}
+軩,{"kMandarin": "d\u00e0i"}
+䙼,{"kMandarin": "sh\u00e0o"}
+䙽,{"kMandarin": "xi\u00e9"}
+䙾,{"kCantonese": "si1", "kMandarin": "sh\u012b"}
+䙿,{"kCantonese": "mei6", "kMandarin": "w\u00e8i"}
+軮,{"kMandarin": "y\u01ceng", "kCantonese": "ong3", "kJapaneseOn": "OU HUKU BUKU"}
+軯,{"kCantonese": "paang1", "kMandarin": "p\u0113ng"}
+軬,{"kCantonese": "faan4 faan6", "kMandarin": "f\u00e0n"}
+矬,{"kMandarin": "cu\u00f3", "kCantonese": "co4", "kJapaneseOn": "SA ZA"}
+䙵,{"kCantonese": "saai1", "kMandarin": "x\u012b"}
+䙶,{}
+軦,{"kMandarin": "ku\u00e0ng"}
+軧,{"kCantonese": "dai2", "kMandarin": "d\u01d0"}
+軤,{"kMandarin": "h\u016b"}
+軥,{"kCantonese": "keoi4", "kMandarin": "q\u00fa"}
+軺,{"kHangul": "\ucd08", "kMandarin": "y\u00e1o", "kKorean": "CHO", "kCantonese": "jiu4", "kJapaneseOn": "YOU SHOU JOU CHOU", "kTang": "i\u025bu zhi\u025bu"}
+軻,{"kHangul": "\uac00", "kMandarin": "k\u0113", "kKorean": "KA", "kCantonese": "o1", "kJapaneseOn": "KA", "kTang": "k\u0251 k\u0251\u030c"}
+軸,{"kHangul": "\ucd95", "kMandarin": "zh\u00f3u", "kKorean": "CHWUK", "kVietnamese": "tr\u1ee5c", "kCantonese": "zuk6", "kJapaneseOn": "JIKU", "kHanyuPinlu": "zhou2(39)", "kTang": "djhiuk"}
+軹,{"kKorean": "CI", "kHangul": "\uc9c0", "kMandarin": "zh\u01d0", "kCantonese": "zi2", "kJapaneseOn": "SHI KI SHIN"}
+軼,{"kKorean": "IL", "kHangul": "\uc77c", "kMandarin": "y\u00ec", "kCantonese": "dit6 jat6", "kJapaneseOn": "ITSU TETSU"}
+軽,{"kKorean": "KYENG", "kMandarin": "zh\u00ec", "kJapaneseOn": "KEI KYOU KIN"}
+軲,{"kCantonese": "ku1", "kMandarin": "g\u016b"}
+軳,{"kMandarin": "p\u00e1o"}
+軰,{"kMandarin": "b\u00e8i", "kCantonese": "bui3", "kJapaneseOn": "HAI"}
+軱,{"kMandarin": "g\u016b", "kCantonese": "gu1", "kJapaneseOn": "KO KU"}
+軶,{"kCantonese": "aak1 ngaak1", "kMandarin": "\u00e8"}
+軷,{"kMandarin": "b\u00e1", "kCantonese": "bat6 but6", "kJapaneseOn": "HATSU BACHI HAI BAI"}
+軴,{"kMandarin": "zh\u00f9"}
+軵,{"kCantonese": "fu2 jung5", "kMandarin": "r\u01d2ng"}
+觞,{"kCantonese": "soeng1", "kMandarin": "sh\u0101ng"}
+夡,{"kMandarin": "q\u00ec", "kJapaneseOn": "KI"}
+觚,{"kKorean": "KO", "kHangul": "\uace0", "kMandarin": "g\u016b", "kCantonese": "gu1", "kJapaneseOn": "KO"}
+觛,{"kMandarin": "d\u00e0n"}
+鈍,{"kHangul": "\ub454", "kMandarin": "d\u00f9n", "kKorean": "TWUN", "kVietnamese": "nh\u1ecdn", "kCantonese": "deon6", "kJapaneseOn": "DON TON", "kTang": "dhu\u0259\u0300n"}
+觌,{"kCantonese": "dik6", "kMandarin": "d\u00ed"}
+觍,{"kMandarin": "ti\u01cen"}
+鈆,{"kMandarin": "qi\u0101n", "kCantonese": "jyun4", "kJapaneseOn": "EN"}
+鈄,{"kMandarin": "d\u01d2u", "kCantonese": "dau2", "kJapaneseOn": "TOU ZU"}
+鈅,{"kMandarin": "yu\u00e8", "kCantonese": "joek6", "kJapaneseOn": "GETSU GACHI"}
+琬,{"kHangul": "\uc644", "kMandarin": "w\u01cen", "kKorean": "WAN", "kCantonese": "jyun2", "kJapaneseOn": "EN ON WAN", "kTang": "qiu\u00e6\u030cn"}
+琭,{"kMandarin": "l\u00f9", "kCantonese": "luk6", "kJapaneseOn": "KOKU"}
+琮,{"kKorean": "CONG", "kHangul": "\uc885", "kMandarin": "c\u00f3ng", "kCantonese": "cung4", "kJapaneseOn": "SOU ZU SU"}
+琯,{"kKorean": "KWAN", "kHangul": "\uad00", "kMandarin": "gu\u01cen", "kCantonese": "gun2", "kJapaneseOn": "KAN KON"}
+琨,{"kKorean": "KON", "kHangul": "\uace4", "kMandarin": "k\u016bn", "kCantonese": "gwan1", "kJapaneseOn": "KON"}
+㫀,{"kCantonese": "ding2", "kMandarin": "d\u01d0ng"}
+琪,{"kKorean": "KI", "kHangul": "\uae30", "kMandarin": "q\u00ed", "kCantonese": "kei4", "kJapaneseOn": "KI GI"}
+琫,{"kKorean": "PONG", "kHangul": "\ubd09", "kMandarin": "b\u011bng", "kCantonese": "bung2 fung2 pung2", "kJapaneseOn": "HOU HU"}
+㫍,{"kCantonese": "zaau4", "kMandarin": "y\u00f3u"}
+琥,{"kHangul": "\ud638", "kMandarin": "h\u01d4", "kKorean": "HO", "kCantonese": "fu2", "kJapaneseOn": "KO", "kTang": "x\u01d2"}
+琦,{"kKorean": "KI", "kHangul": "\uae30", "kMandarin": "q\u00ed", "kCantonese": "kei4", "kJapaneseOn": "KI GI"}
+琠,{"kKorean": "CEN", "kHangul": "\uc804", "kMandarin": "ti\u01cen"}
+琡,{"kKorean": "SWU", "kHangul": "\uc219", "kCantonese": "cuk1", "kMandarin": "ch\u00f9"}
+琢,{"kHangul": "\ud0c1", "kMandarin": "zu\u00f3", "kKorean": "THAK", "kVietnamese": "ch\u00e1c", "kCantonese": "doek3", "kJapaneseOn": "TAKU", "kHanyuPinlu": "zuo2(18)"}
+琣,{"kMandarin": "b\u011bng"}
+琼,{"kCantonese": "king4", "kMandarin": "qi\u00f3ng"}
+琸,{"kKorean": "THAK", "kHangul": "\ud0c1", "kMandarin": "zhu\u00f3"}
+琹,{"kMandarin": "q\u00edn", "kJapaneseOn": "KIN"}
+琺,{"kKorean": "PEP", "kHangul": "\ubc95", "kMandarin": "f\u00e0", "kCantonese": "faat3", "kJapaneseOn": "HOU"}
+琻,{"kMandarin": "jin"}
+琴,{"kHangul": "\uae08", "kMandarin": "q\u00edn", "kKorean": "KUM", "kVietnamese": "c\u1ea7m", "kCantonese": "kam4", "kJapaneseOn": "KIN", "kHanyuPinlu": "qin2(59)", "kTang": "*ghyim"}
+琵,{"kHangul": "\ube44", "kMandarin": "p\u00ed", "kKorean": "PI", "kVietnamese": "t\u00ec", "kCantonese": "pei4", "kJapaneseOn": "BI HI", "kTang": "*bhi"}
+琶,{"kHangul": "\ud30c", "kMandarin": "p\u00e1", "kKorean": "PHA", "kVietnamese": "b\u00e0", "kCantonese": "paa4", "kJapaneseOn": "HA BE", "kTang": "*bha"}
+琷,{"kMandarin": "qu\u00e8"}
+琰,{"kHangul": "\uc5fc", "kMandarin": "y\u01cen", "kKorean": "YEM", "kCantonese": "jim5", "kJapaneseOn": "EN", "kTang": "i\u025b\u030cm"}
+琱,{"kKorean": "CO", "kHangul": "\uc870", "kMandarin": "di\u0101o", "kCantonese": "diu1", "kJapaneseOn": "CHOU"}
+琲,{"kKorean": "PAY", "kHangul": "\ubc30", "kMandarin": "b\u00e8i", "kCantonese": "pui3 pui5", "kJapaneseOn": "HAI"}
+琳,{"kHangul": "\ub9bc", "kMandarin": "l\u00edn", "kKorean": "LIM", "kCantonese": "lam4", "kJapaneseOn": "RIN", "kTang": "lim"}
+詐,{"kHangul": "\uc0ac", "kMandarin": "zh\u00e0", "kKorean": "SA", "kVietnamese": "tr\u00e1", "kCantonese": "zaa3", "kJapaneseOn": "SA"}
+詑,{"kKorean": "I", "kHangul": "\uc774", "kMandarin": "y\u00ed", "kCantonese": "to4", "kJapaneseOn": "TA I"}
+詒,{"kKorean": "I THAY", "kMandarin": "y\u00ed", "kCantonese": "ji4", "kJapaneseOn": "TAI"}
+詓,{"kMandarin": "q\u01d4", "kJapaneseOn": "KYO KO"}
+詔,{"kHangul": "\uc870", "kMandarin": "zh\u00e0o", "kKorean": "CO", "kVietnamese": "chi\u1ebfu", "kCantonese": "ziu3 ziu6", "kJapaneseOn": "SHOU", "kTang": "*ji\u025b\u0300u"}
+評,{"kHangul": "\ud3c9", "kMandarin": "p\u00edng", "kKorean": "PHYENG", "kVietnamese": "b\u00ecnh", "kCantonese": "ping4", "kJapaneseOn": "HYOU HEI", "kHanyuPinlu": "ping2(439)"}
+詖,{"kKorean": "PHI", "kHangul": "\ud53c", "kMandarin": "b\u00ec", "kCantonese": "bei1 bei3", "kJapaneseOn": "HI HA"}
+詗,{"kKorean": "HYENG", "kHangul": "\ud615", "kMandarin": "xi\u00f2ng", "kCantonese": "gwing2 hing3", "kJapaneseOn": "KYOU CHOU KEI"}
+詘,{"kKorean": "KWUL", "kHangul": "\uad74", "kMandarin": "q\u016b", "kCantonese": "wat1 zeot1", "kJapaneseOn": "KUTSU KUCHI CHUTSU CHUCHI TOTSU"}
+詙,{"kMandarin": "b\u00e1"}
+詚,{"kMandarin": "d\u00e1"}
+詛,{"kHangul": "\uc800", "kMandarin": "z\u01d4", "kKorean": "CE", "kVietnamese": "tr\u1edb", "kCantonese": "zo3", "kJapaneseOn": "SO SHO"}
+詜,{"kMandarin": "t\u0101o", "kJapaneseOn": "TOU"}
+詝,{"kMandarin": "zh\u01d4", "kJapaneseOn": "CHO"}
+詞,{"kHangul": "\uc0ac", "kMandarin": "c\u00ed", "kKorean": "SA", "kVietnamese": "t\u1eeb", "kCantonese": "ci4", "kJapaneseOn": "SHI JI", "kHanyuPinlu": "ci2(72)", "kTang": "*zi\u0259"}
+詟,{"kMandarin": "zh\u00e9"}
+㫵,{"kCantonese": "fei1", "kMandarin": "f\u0113i"}
+琝,{"kMandarin": "w\u00e9n"}
+㫷,{"kCantonese": "gei1", "kMandarin": "j\u012b"}
+㫶,{"kCantonese": "zau2", "kMandarin": "zh\u01d2u"}
+琘,{"kMandarin": "m\u00edn"}
+琙,{"kMandarin": "y\u00f9"}
+琚,{"kMandarin": "j\u016b", "kCantonese": "geoi1", "kJapaneseOn": "KYO KO"}
+琛,{"kKorean": "CHIM", "kHangul": "\uce68", "kMandarin": "ch\u0113n", "kCantonese": "sam1", "kJapaneseOn": "CHIN SHIN"}
+㫽,{"kCantonese": "luk6", "kMandarin": "l\u00f9"}
+㫼,{"kVietnamese": "x\u1ebf", "kCantonese": "zaai3 zit3", "kMandarin": "di\u00e9"}
+㫿,{}
+㫾,{"kVietnamese": "th\u1eedng"}
+㫹,{"kCantonese": "cuk1", "kMandarin": "sh\u00f9"}
+㫸,{"kCantonese": "cip3 zip3", "kMandarin": "ji\u0113"}
+㫻,{"kVietnamese": "lu\u00f4n", "kCantonese": "kwaan3", "kMandarin": "k\u00f9n"}
+㫺,{"kCantonese": "sik1"}
+凿,{"kHanyuPinlu": "zao2(34)", "kCantonese": "zok6", "kMandarin": "z\u00e1o"}
+脿,{"kVietnamese": "\u00f3ng b\u00e9o", "kMandarin": "bi\u0101o"}
+凲,{"kMandarin": "g\u0101n", "kJapaneseOn": "KAN KEN"}
+凱,{"kHangul": "\uac1c", "kMandarin": "k\u01cei", "kKorean": "KAY", "kVietnamese": "kh\u1ea3i", "kCantonese": "hoi2 ngoi2", "kJapaneseOn": "GAI KAI"}
+脼,{"kMandarin": "li\u01ceng", "kJapaneseOn": "RYOU"}
+脻,{"kMandarin": "ji\u0113"}
+脺,{"kKorean": "SWU", "kHangul": "\uc218", "kMandarin": "cu\u00ec", "kCantonese": "seoi6", "kJapaneseOn": "ZEI"}
+脹,{"kHangul": "\ucc3d", "kMandarin": "zh\u00e0ng", "kKorean": "CHANG", "kVietnamese": "tr\u01b0\u1edbng", "kCantonese": "zoeng3", "kJapaneseOn": "CHOU", "kHanyuPinlu": "zhang4(54)"}
+觝,{"kKorean": "CE", "kHangul": "\uc800", "kMandarin": "d\u01d0", "kCantonese": "dai2", "kJapaneseOn": "TEI"}
+鈎,{"kMandarin": "g\u014du", "kCantonese": "gau1 ngau1", "kJapaneseOn": "KOU KU"}
+脔,{"kCantonese": "lyun5", "kMandarin": "lu\u00e1n"}
+凓,{"kKorean": "YUL", "kMandarin": "l\u00ec", "kCantonese": "leot6", "kJapaneseOn": "RITSU RICHI"}
+凒,{"kKorean": "UY", "kHangul": "\uc758", "kMandarin": "y\u00ed", "kJapaneseOn": "GI GE KAI GAI"}
+凖,{"kKorean": "CWUN", "kMandarin": "zhun", "kJapaneseOn": "JUN SETSU"}
+凕,{"kMandarin": "m\u01d0ng", "kJapaneseOn": "BEI MYOU"}
+凔,{"kKorean": "CHANG", "kHangul": "\ucc3d", "kMandarin": "chu\u00e0ng", "kCantonese": "cong1", "kJapaneseOn": "SAU SHAU"}
+䧶,{"kCantonese": "bak6 but3 git3 kit3", "kMandarin": "ku\u00ed"}
+䧴,{"kCantonese": "zi1", "kMandarin": "zh\u012b"}
+䧵,{"kCantonese": "zaam6 zaan1", "kMandarin": "q\u00ed"}
+䧗,{"kMandarin": "b\u00ec"}
+䧘,{"kCantonese": "saai3 syun6", "kMandarin": "zhu\u00e0n"}
+䧙,{"kCantonese": "ling4", "kMandarin": "l\u00edng"}
+缘,{"kHanyuPinlu": "yuan2(77)", "kCantonese": "jyun4", "kMandarin": "yu\u00e1n"}
+缐,{"kKorean": "SEN", "kMandarin": "xi\u00e0n", "kJapaneseOn": "SEN"}
+缑,{"kCantonese": "kau1", "kMandarin": "g\u014du"}
+缒,{"kCantonese": "zeoi6", "kMandarin": "zhu\u00ec"}
+缓,{"kHanyuPinlu": "huan3(155)", "kCantonese": "wun6", "kMandarin": "hu\u01cen"}
+缔,{"kHanyuPinlu": "di4(12)", "kCantonese": "dai3", "kMandarin": "d\u00ec"}
+缕,{"kHanyuPinlu": "l&#xfc;3(18)", "kCantonese": "leoi5", "kMandarin": "l\u01da"}
+编,{"kHanyuPinlu": "bian1(215)", "kCantonese": "pin1", "kMandarin": "bi\u0101n"}
+㒽,{"kCantonese": "hyun1", "kMandarin": "qu\u0101n"}
+缈,{"kCantonese": "miu5", "kMandarin": "mi\u01ceo"}
+缉,{"kCantonese": "cap1", "kMandarin": "j\u012b"}
+缊,{"kKorean": "ON", "kCantonese": "wan3", "kMandarin": "y\u016bn"}
+缋,{"kCantonese": "kui2", "kMandarin": "hu\u00ec"}
+缌,{"kCantonese": "si1", "kMandarin": "s\u012b"}
+缍,{"kMandarin": "du\u01d2"}
+缎,{"kHanyuPinlu": "duan4(9)", "kCantonese": "dyun6", "kMandarin": "du\u00e0n"}
+缏,{"kCantonese": "pin4", "kMandarin": "bi\u00e0n"}
+缂,{"kCantonese": "kaak1", "kMandarin": "k\u00e8"}
+缃,{"kCantonese": "soeng1", "kMandarin": "xi\u0101ng"}
+缄,{"kCantonese": "gaam1", "kMandarin": "ji\u0101n"}
+缅,{"kCantonese": "min5", "kMandarin": "mi\u01cen"}
+缆,{"kCantonese": "laam6", "kMandarin": "l\u01cen"}
+缇,{"kCantonese": "tai4", "kMandarin": "t\u00ed"}
+悳,{"kKorean": "TEK", "kHangul": "\ub355", "kMandarin": "du\u00f3", "kCantonese": "dak1", "kJapaneseOn": "TOKU"}
+悲,{"kHangul": "\ube44", "kMandarin": "b\u0113i", "kKorean": "PI", "kVietnamese": "bi", "kCantonese": "bei1", "kJapaneseOn": "HI", "kHanyuPinlu": "bei1(127)", "kTang": "*byi"}
+䋕,{"kCantonese": "zaam6 zi1", "kMandarin": "r\u00e8n"}
+悶,{"kHangul": "\ubbfc", "kMandarin": "m\u00e8n", "kKorean": "MIN", "kVietnamese": "mu\u1ed1n", "kCantonese": "mun6", "kJapaneseOn": "MON", "kHanyuPinlu": "men4(46) men1(29)"}
+缾,{"kHangul": "\ubcd1", "kMandarin": "p\u00edng", "kKorean": "PYENG", "kVietnamese": "b\u00ecnh", "kCantonese": "ping4", "kJapaneseOn": "HEI"}
+缿,{"kKorean": "HANG", "kHangul": "\ud56d", "kMandarin": "xi\u00e0ng", "kCantonese": "hau6 hong6", "kJapaneseOn": "TOU ZU KOU GU"}
+䋞,{"kCantonese": "maau5 mong4 mong5 mou5", "kMandarin": "w\u01ceng"}
+悹,{"kMandarin": "gu\u00e0n"}
+䋝,{"kCantonese": "zing1"}
+䋚,{"kCantonese": "zik6", "kMandarin": "y\u00ec"}
+䋛,{"kCantonese": "mai5", "kMandarin": "m\u01d0"}
+䋘,{"kCantonese": "teoi4 zeoi6", "kMandarin": "chu\u00f2"}
+䋙,{"kCantonese": "ngaai6 zi5", "kMandarin": "\u011br"}
+笿,{"kMandarin": "lu\u00f2", "kJapaneseOn": "RAKU"}
+搅,{"kHanyuPinlu": "jiao3(41)", "kCantonese": "gaau2", "kMandarin": "ji\u01ceo"}
+搄,{"kMandarin": "g\u0113ng"}
+搁,{"kHanyuPinlu": "ge1(51) ge5(9)", "kCantonese": "gok3", "kMandarin": "g\u0113"}
+搀,{"kHanyuPinlu": "chan1(27)", "kCantonese": "caam1 caam4", "kMandarin": "ch\u0101n"}
+搃,{"kMandarin": "z\u01d2ng"}
+搂,{"kHanyuPinlu": "lou3(25)", "kCantonese": "lau1 lau2 lau4 lau5", "kMandarin": "l\u01d2u"}
+锎,{"kMandarin": "k\u0101i"}
+鄅,{"kMandarin": "y\u01d4", "kCantonese": "jyu5", "kJapaneseOn": "GU"}
+锌,{"kHanyuPinlu": "xin1(13)", "kCantonese": "san1", "kMandarin": "x\u012bn"}
+锍,{"kMandarin": "li\u01d4"}
+锊,{"kCantonese": "lyut3", "kMandarin": "l&#xfc;\u00e8"}
+㪏,{"kCantonese": "bei2", "kMandarin": "b\u01d0"}
+锈,{"kHanyuPinlu": "xiu4(22)", "kCantonese": "sau3", "kMandarin": "xi\u00f9"}
+锉,{"kCantonese": "co3", "kMandarin": "cu\u00f2"}
+瓹,{"kCantonese": "gyun1", "kMandarin": "ju\u0101n"}
+锇,{"kCantonese": "ngo4", "kMandarin": "\u00e9"}
+瓻,{"kMandarin": "ch\u012b", "kCantonese": "ci1", "kJapaneseOn": "CHI TEKI CHAKU"}
+瓺,{"kMandarin": "ch\u00e1ng", "kJapaneseOn": "CHOU JOU"}
+锂,{"kCantonese": "lei5", "kMandarin": "l\u01d0"}
+瓼,{}
+销,{"kHanyuPinlu": "xiao1(92)", "kCantonese": "siu1", "kMandarin": "xi\u0101o"}
+锁,{"kHanyuPinlu": "suo3(68)", "kCantonese": "so2", "kMandarin": "su\u01d2"}
+㪚,{"kCantonese": "san3", "kMandarin": "s\u00e0n"}
+㪘,{"kCantonese": "lim5", "kMandarin": "li\u01cen"}
+㪙,{"kCantonese": "fo2", "kMandarin": "k\u011b"}
+㪒,{"kCantonese": "ngaai4", "kMandarin": "n\u00ed"}
+㪓,{"kCantonese": "cai4 zak3", "kMandarin": "chu\u00e1i"}
+㪐,{"kCantonese": "luk6", "kMandarin": "l\u00f9"}
+㪑,{"kCantonese": "zip6", "kMandarin": "y\u00e8"}
+㪖,{"kCantonese": "luk6", "kMandarin": "l\u00f9"}
+㪗,{"kCantonese": "tau2", "kMandarin": "t\u01d2u"}
+㪔,{"kCantonese": "saan3", "kMandarin": "s\u00e0n"}
+㪕,{"kCantonese": "diu6", "kMandarin": "di\u00e0o"}
+㪸,{"kCantonese": "caam2 zaam1"}
+跊,{"kMandarin": "m\u00e8i", "kJapaneseOn": "BAI MAI ME"}
+疏,{"kHangul": "\uc18c", "kMandarin": "sh\u016b", "kKorean": "SO", "kVietnamese": "s\u1edb", "kCantonese": "so1 so3", "kJapaneseOn": "SO SHO", "kHanyuPinlu": "shu1(21)", "kTang": "*shriu shri\u00f9"}
+隀,{"kMandarin": "ch\u00f3ng"}
+舃,{"kKorean": "SEK", "kHangul": "\uc11d", "kMandarin": "x\u00ec", "kJapaneseOn": "SHAKU SAKU SEKI TAKU"}
+隂,{"kMandarin": "y\u012bn", "kCantonese": "jam1", "kJapaneseOn": "IN"}
+隃,{"kMandarin": "sh\u00f9", "kCantonese": "jyu4 jyu6", "kJapaneseOn": "SHU YU YOU"}
+隄,{"kHangul": "\uc81c", "kMandarin": "d\u012b", "kKorean": "CEY", "kVietnamese": "\u0111\u00ea", "kCantonese": "tai4", "kJapaneseOn": "TEI TAI SHI JI", "kTang": "*dei dhei"}
+隅,{"kHangul": "\uc6b0", "kMandarin": "y\u00fa", "kKorean": "WU", "kCantonese": "jyu4 jyu6", "kJapaneseOn": "GUU GU", "kTang": "*ngio"}
+隆,{"kHangul": "\ub96d \uc735", "kMandarin": "l\u00f3ng", "kKorean": "LYUNG", "kVietnamese": "long", "kCantonese": "lung4", "kJapaneseOn": "RYUU", "kHanyuPinlu": "long2(46) long1(10)", "kTang": "*liung"}
+隇,{"kMandarin": "w\u0113i"}
+隈,{"kKorean": "OY", "kTang": "qu\u0259i", "kMandarin": "w\u0113i", "kCantonese": "wui1", "kJapaneseOn": "WAI E"}
+隉,{"kKorean": "EL", "kMandarin": "ni\u00e8", "kCantonese": "nip6", "kJapaneseOn": "GETSU GECHI"}
+隊,{"kHangul": "\ub300", "kMandarin": "du\u00ec", "kKorean": "TAY", "kVietnamese": "\u0111\u1ed9i", "kCantonese": "deoi6", "kJapaneseOn": "TAI TSUI", "kHanyuPinlu": "dui4(1474)"}
+隋,{"kHangul": "\uc218", "kMandarin": "su\u00ed", "kKorean": "SWU", "kCantonese": "ceoi4", "kJapaneseOn": "TA DA ZUI", "kTang": "ziu\u025b"}
+隌,{"kMandarin": "\u01cen"}
+隍,{"kHangul": "\ud669", "kMandarin": "hu\u00e1ng", "kKorean": "HWANG", "kCantonese": "wong4", "kJapaneseOn": "KOU", "kTang": "hu\u0251ng"}
+階,{"kHangul": "\uacc4", "kMandarin": "ji\u0113", "kKorean": "KYEY", "kVietnamese": "giai", "kCantonese": "gaai1", "kJapaneseOn": "KAI", "kHanyuPinlu": "jie1(1888)", "kTang": "*g\u00e6i"}
+随,{"kKorean": "SWU", "kHanyuPinlu": "sui2(599)", "kMandarin": "su\u00ed", "kCantonese": "ceoi4", "kJapaneseOn": "ZUI SUI"}
+隐,{"kKorean": "UN", "kHanyuPinlu": "yin3(109)", "kMandarin": "y\u01d0n", "kCantonese": "jan2", "kJapaneseOn": "IN ON"}
+嵍,{"kMandarin": "w\u00f9"}
+嵌,{"kHangul": "\uac10", "kMandarin": "qi\u00e0n", "kKorean": "KAM", "kCantonese": "haam1 ham3 ham6", "kJapaneseOn": "KAN", "kHanyuPinlu": "qian4(17)", "kTang": "kam"}
+嵏,{"kMandarin": "z\u014dng"}
+嵎,{"kHangul": "\uc6b0", "kMandarin": "y\u00fa", "kKorean": "YU", "kVietnamese": "gi\u1ee7ng", "kCantonese": "jyu4", "kJapaneseOn": "GUU GU"}
+嵉,{"kMandarin": "t\u00edng", "kJapaneseOn": "TEI CHAU"}
+嵈,{"kMandarin": "hu\u00e0n", "kJapaneseOn": "KAN GAN"}
+嵋,{"kHangul": "\ubbf8", "kMandarin": "m\u00e9i", "kKorean": "MI", "kVietnamese": "mi", "kCantonese": "mei4", "kJapaneseOn": "BI BAI MI", "kTang": "myi"}
+嵅,{"kMandarin": "h\u00e1n", "kJapaneseOn": "KAN KON"}
+嵄,{"kMandarin": "m\u011bi"}
+嵇,{"kTang": "hei", "kMandarin": "j\u012b", "kCantonese": "kai1", "kJapaneseOn": "KEI GEI"}
+嵆,{"kMandarin": "j\u012b", "kJapaneseOn": "KEI GEI"}
+嵁,{"kHangul": "\uac10", "kMandarin": "k\u0101n", "kKorean": "KAM", "kVietnamese": "kham", "kCantonese": "ham1", "kJapaneseOn": "KAN KON KEN SEN ZEN CHIN GAN"}
+嵀,{"kMandarin": "zh\u00f9", "kJapaneseOn": "CHIU JIYU"}
+嵃,{"kMandarin": "y\u01cen", "kJapaneseOn": "GEN GAN"}
+嵂,{"kKorean": "LYUL", "kHangul": "\ub960", "kMandarin": "l\u01dc", "kCantonese": "leot6", "kJapaneseOn": "RITSU RICHI"}
+嵝,{"kCantonese": "lau5", "kMandarin": "l\u01d2u"}
+嵜,{"kMandarin": "ti", "kJapaneseOn": "KI"}
+嵙,{"kMandarin": "ke"}
+嵘,{"kCantonese": "wing4", "kMandarin": "r\u00f3ng"}
+嵛,{"kMandarin": "y\u00fa"}
+嵚,{"kKorean": "KUM", "kCantonese": "jam1", "kMandarin": "q\u012bn"}
+嵕,{"kMandarin": "z\u014dng", "kCantonese": "zung1", "kJapaneseOn": "SOU"}
+嵔,{"kKorean": "OY", "kHangul": "\uc678", "kMandarin": "w\u011bi"}
+嵗,{"kMandarin": "su\u00ec", "kCantonese": "seoi3", "kJapaneseOn": "SEI"}
+嵖,{"kMandarin": "ch\u00e1", "kCantonese": "zaa6", "kJapaneseOn": "SA"}
+嵑,{"kMandarin": "k\u011b", "kCantonese": "hot3 kit3", "kJapaneseOn": "KETSU GECHI KATSU KACHI"}
+嵐,{"kHangul": "\ub0a8 \ub78c", "kMandarin": "l\u00e1n", "kKorean": "LAM", "kCantonese": "laam4", "kJapaneseOn": "RAN", "kTang": "lom"}
+嵓,{"kKorean": "AM", "kHangul": "\uc554", "kMandarin": "y\u00e1n", "kJapaneseOn": "GAN"}
+嵒,{"kKorean": "AM", "kMandarin": "y\u00e1n", "kCantonese": "ngaam4", "kJapaneseOn": "GAN"}
+景,{"kHangul": "\uacbd", "kMandarin": "j\u01d0ng", "kKorean": "KYENG YENG", "kVietnamese": "c\u1ea3nh", "kCantonese": "ging2 jing2", "kJapaneseOn": "KEI EI", "kHanyuPinlu": "jing3(303)", "kTang": "*gi\u00e6\u030cng *qi\u00e6\u030cng"}
+㸜,{"kCantonese": "hung1", "kMandarin": "k\u00f2ng"}
+琤,{"kKorean": "CAYNG", "kHangul": "\uc7c1", "kMandarin": "ch\u0113ng", "kCantonese": "saang1 zaang1 zang1", "kJapaneseOn": "SOU SHOU"}
+跙,{"kMandarin": "j\u00f9", "kCantonese": "zeoi1 zeoi2", "kJapaneseOn": "SHO JO SHA SO"}
+[,{}
+壻,{"kHangul": "\uc11c", "kMandarin": "x\u00f9", "kKorean": "SE", "kVietnamese": "t\u1ebf", "kCantonese": "sai3", "kJapaneseOn": "SEI", "kTang": "s\u00e8i"}
+壺,{"kHangul": "\ud638", "kMandarin": "h\u00fa", "kKorean": "HO", "kCantonese": "wu4", "kJapaneseOn": "KO", "kHanyuPinlu": "hu2(47)", "kTang": "*ho"}
+壹,{"kHangul": "\uc77c", "kMandarin": "y\u012b", "kKorean": "IL", "kVietnamese": "nh\u1ea5t", "kCantonese": "jat1 jik1", "kJapaneseOn": "ICHI ITSU", "kTang": "qit"}
+詠,{"kHangul": "\uc601", "kMandarin": "y\u01d2ng", "kKorean": "YENG", "kVietnamese": "v\u1ecbnh", "kCantonese": "wing6", "kJapaneseOn": "EI", "kTang": "*hiu\u00e6\u0300ng"}
+跓,{"kMandarin": "zh\u00f9"}
+龂,{"kCantonese": "ngan4", "kMandarin": "y\u00edn"}
+減,{"kHangul": "\uac10", "kMandarin": "ji\u01cen", "kKorean": "KAM", "kVietnamese": "gi\u1ea3m", "kCantonese": "gaam2", "kJapaneseOn": "GEN KAN", "kHanyuPinlu": "jian3(300)", "kTang": "g\u00e6\u030cm"}
+鄉,{"kKorean": "HYANG", "kHanyuPinlu": "xiang1(433)", "kMandarin": "xi\u0101ng", "kCantonese": "hoeng1 hoeng3", "kJapaneseOn": "KYOU GOU"}
+鄆,{"kMandarin": "y\u00f9n", "kCantonese": "wan6", "kJapaneseOn": "UN"}
+鄇,{"kCantonese": "hau4 hau6", "kMandarin": "h\u00f3u"}
+腔,{"kHangul": "\uac15", "kMandarin": "qi\u0101ng", "kKorean": "KANG", "kVietnamese": "xoang", "kCantonese": "hong1", "kJapaneseOn": "KOU", "kHanyuPinlu": "qiang1(62)"}
+腕,{"kHangul": "\uc644", "kMandarin": "w\u00e0n", "kKorean": "WAN", "kVietnamese": "o\u1ea3n", "kCantonese": "wun2", "kJapaneseOn": "WAN", "kTang": "qu\u0251\u0300n"}
+腖,{"kMandarin": "d\u00f2ng"}
+腗,{"kMandarin": "p\u00ed", "kJapaneseOn": "HI"}
+腑,{"kHangul": "\ubd80", "kMandarin": "f\u01d4", "kKorean": "PWU", "kVietnamese": "ph\u1ee7", "kCantonese": "fu2", "kJapaneseOn": "FU"}
+腒,{"kKorean": "KE", "kHangul": "\uac70", "kMandarin": "j\u016b", "kCantonese": "geoi1 keoi4", "kJapaneseOn": "KYO KO"}
+腓,{"kHangul": "\ube44", "kMandarin": "f\u00e9i", "kKorean": "PI", "kCantonese": "fei4", "kJapaneseOn": "HI", "kTang": "bhi\u0259i"}
+鄂,{"kHangul": "\uc545", "kMandarin": "\u00e8", "kKorean": "AK", "kCantonese": "ngok6", "kJapaneseOn": "GAKU", "kTang": "ng\u0251k"}
+腘,{"kMandarin": "gu\u00f3", "kJapaneseOn": "KAKU KYAKU KOKU"}
+腙,{"kMandarin": "z\u014dng"}
+腚,{"kMandarin": "d\u00ecng"}
+腄,{"kCantonese": "ceoi4", "kMandarin": "chu\u00ed"}
+腅,{"kMandarin": "d\u00e0n", "kJapaneseOn": "TAN DAN"}
+腆,{"kKorean": "CEN", "kHangul": "\uc804", "kMandarin": "ti\u01cen", "kCantonese": "tin2", "kJapaneseOn": "TEN"}
+腇,{"kMandarin": "n\u011bi", "kCantonese": "neoi5", "kJapaneseOn": "DAI NAI WA WAI"}
+腀,{"kMandarin": "l\u00fan"}
+腁,{"kKorean": "PYEN", "kHangul": "\ubcc0", "kMandarin": "pi\u00e1n", "kJapaneseOn": "HEN BEN"}
+腂,{"kMandarin": "l\u011bi"}
+腃,{"kMandarin": "ku\u00ec"}
+腌,{"kMandarin": "y\u0101n", "kCantonese": "jim1", "kJapaneseOn": "YOU OU EN"}
+腍,{"kCantonese": "jam6 nam4 nam6", "kMandarin": "r\u00e8n"}
+腎,{"kHangul": "\uc2e0", "kMandarin": "sh\u00e8n", "kKorean": "SIN", "kVietnamese": "th\u1eadn", "kCantonese": "san5 san6", "kJapaneseOn": "JIN"}
+腏,{"kCantonese": "zyut3", "kMandarin": "chu\u00f2"}
+腈,{"kHanyuPinlu": "jing1(21)", "kMandarin": "j\u012bng"}
+腉,{"kMandarin": "n\u00e1i"}
+腊,{"kKorean": "SEK", "kHangul": "\uc11d", "kMandarin": "l\u00e0", "kCantonese": "laap6 sik1", "kJapaneseOn": "SEKI SHAKU ROU"}
+腋,{"kHangul": "\uc561", "kMandarin": "y\u00e8", "kKorean": "AYK", "kVietnamese": "n\u00e1ch", "kCantonese": "jat6 jik6 jit6", "kJapaneseOn": "EKI SEKI"}
+筋,{"kHangul": "\uadfc", "kMandarin": "j\u012bn", "kKorean": "KUN", "kVietnamese": "g\u00e2n", "kCantonese": "gan1", "kJapaneseOn": "KIN KON", "kHanyuPinlu": "jin1(60)", "kTang": "gi\u0259n"}
+筊,{"kCantonese": "gaau2", "kMandarin": "xi\u00e1o"}
+等,{"kHangul": "\ub4f1", "kMandarin": "d\u011bng", "kKorean": "TUNG", "kVietnamese": "\u0111\u1eb3ng", "kCantonese": "dang2", "kJapaneseOn": "TOU", "kHanyuPinlu": "deng3(2469)", "kTang": "*d\u0259\u030cng"}
+筈,{"kKorean": "KWAL", "kHangul": "\uad04", "kMandarin": "ku\u00f2", "kCantonese": "kut3", "kJapaneseOn": "KATSU"}
+筏,{"kHangul": "\ubc8c", "kMandarin": "f\u00e1", "kKorean": "PEL", "kVietnamese": "ph\u1eb9t", "kCantonese": "fat6", "kJapaneseOn": "BATSU HATSU"}
+筎,{"kMandarin": "r\u00fa", "kJapaneseOn": "JO NYO"}
+筍,{"kHangul": "\uc21c", "kMandarin": "s\u01d4n", "kKorean": "SWUN", "kCantonese": "seon2", "kJapaneseOn": "JUN SHUN", "kTang": "su\u01d0n"}
+筌,{"kHangul": "\uc804", "kMandarin": "qu\u00e1n", "kKorean": "CEN", "kCantonese": "cyun4", "kJapaneseOn": "SEN", "kTang": "tsiu\u025bn"}
+筃,{"kMandarin": "y\u012bn"}
+筂,{"kMandarin": "ch\u00ed"}
+筁,{"kMandarin": "q\u016b", "kJapaneseOn": "KYOKU KOKU"}
+筀,{"kMandarin": "gu\u00ec", "kCantonese": "gai3", "kJapaneseOn": "KEI KE"}
+筇,{"kMandarin": "qi\u00f3ng", "kCantonese": "kung4", "kJapaneseOn": "KYOU KU"}
+筆,{"kHangul": "\ud544", "kMandarin": "b\u01d0", "kKorean": "PHIL", "kVietnamese": "b\u00fat", "kCantonese": "bat1", "kJapaneseOn": "HITSU", "kHanyuPinlu": "bi3(308)", "kTang": "*byit"}
+筅,{"kKorean": "SEN", "kHangul": "\uc120", "kMandarin": "xi\u01cen", "kCantonese": "sin2", "kJapaneseOn": "SEN"}
+筄,{"kCantonese": "jiu6", "kMandarin": "y\u00e0o"}
+筛,{"kHanyuPinlu": "shai1(12)", "kCantonese": "sai1", "kMandarin": "sh\u0101i"}
+筚,{"kCantonese": "bat1", "kMandarin": "b\u00ec"}
+筙,{"kMandarin": "l\u00e1i"}
+筘,{"kCantonese": "kau3", "kMandarin": "k\u00f2u"}
+筝,{"kMandarin": "zh\u0113ng", "kCantonese": "zaang1 zang1", "kJapaneseOn": "SOU SHOU"}
+筜,{"kCantonese": "dong1", "kMandarin": "d\u0101ng"}
+筓,{"kKorean": "KYEY", "kVietnamese": "k\u00ea", "kHangul": "\uacc4", "kMandarin": "j\u012b"}
+筒,{"kHangul": "\ud1b5", "kMandarin": "t\u01d2ng", "kKorean": "THONG", "kVietnamese": "\u0111\u1ed3ng", "kCantonese": "tung2 tung4", "kJapaneseOn": "TOU", "kHanyuPinlu": "tong3(45)", "kTang": "dhung"}
+筑,{"kHangul": "\ucd95", "kMandarin": "zh\u00f9", "kKorean": "CHWUK", "kVietnamese": "tr\u00fac", "kCantonese": "zuk1", "kJapaneseOn": "CHIKU", "kHanyuPinlu": "zhu4(274)"}
+筐,{"kHangul": "\uad11", "kMandarin": "ku\u0101ng", "kKorean": "KWANG", "kCantonese": "hong1 kwaang1 kwaang2", "kJapaneseOn": "KYOU", "kHanyuPinlu": "kuang1(49)", "kTang": "kiu\u0251ng"}
+筗,{"kMandarin": "zh\u00f2ng"}
+策,{"kHangul": "\ucc45", "kMandarin": "c\u00e8", "kKorean": "CHAYK", "kVietnamese": "s\u00e1ch", "kCantonese": "caak3", "kJapaneseOn": "SAKU", "kHanyuPinlu": "ce4(259)", "kTang": "*chr\u025bk"}
+筕,{"kMandarin": "h\u00e1ng", "kJapaneseOn": "KOU GYOU GUU"}
+答,{"kHangul": "\ub2f5", "kMandarin": "d\u00e1", "kKorean": "TAP", "kVietnamese": "\u0111\u00e1p", "kCantonese": "daap3", "kJapaneseOn": "TOU", "kHanyuPinlu": "da2(457) da1(193)", "kTang": "*dop"}
+琜,{"kVietnamese": "trai", "kMandarin": "l\u00e1i"}
+詁,{"kKorean": "KO", "kHangul": "\uace0", "kMandarin": "g\u01d4", "kCantonese": "gu2 gu3", "kJapaneseOn": "KO"}
+詂,{"kMandarin": "f\u00f9"}
+1,{}
+琟,{"kMandarin": "w\u00e9i"}
+詄,{"kCantonese": "dit6", "kMandarin": "di\u00e9"}
+詅,{"kMandarin": "l\u00edng", "kCantonese": "ling4", "kJapaneseOn": "REI RYOU"}
+惑,{"kHangul": "\ud639", "kMandarin": "hu\u00f2", "kKorean": "HOK", "kVietnamese": "ho\u1eb7c", "kCantonese": "waak6", "kJapaneseOn": "WAKU", "kHanyuPinlu": "huo4(12) huo5(11)"}
+惒,{"kMandarin": "h\u00e9"}
+翙,{"kMandarin": "hu\u00ec"}
+翘,{"kHanyuPinlu": "qiao4(30)", "kCantonese": "kiu4", "kMandarin": "qi\u00e0o"}
+惖,{"kKorean": "CHEK", "kMandarin": "t\u00ec", "kCantonese": "tik1", "kJapaneseOn": "TEKI CHAKU"}
+翚,{"kKorean": "HWI", "kMandarin": "hu\u012b"}
+翕,{"kHangul": "\ud761", "kMandarin": "x\u012b", "kKorean": "HUP", "kVietnamese": "h\u1ea5p", "kCantonese": "jap1", "kJapaneseOn": "KYUU"}
+翔,{"kHangul": "\uc0c1", "kMandarin": "xi\u00e1ng", "kKorean": "SANG", "kCantonese": "coeng4", "kJapaneseOn": "SHOU", "kHanyuPinlu": "xiang2(9)", "kTang": "*zi\u0251ng"}
+翗,{"kMandarin": "k\u00e9"}
+翖,{"kKorean": "HUP", "kHangul": "\ud761", "kMandarin": "x\u00ec"}
+翓,{"kMandarin": "xi\u00e9"}
+惁,{"kMandarin": "x\u012b"}
+惄,{"kKorean": "NYEK", "kHangul": "\ub141", "kMandarin": "n\u00ec", "kCantonese": "nik6", "kJapaneseOn": "DEKI"}
+㕠,{"kCantonese": "soeng1", "kMandarin": "shu\u0101ng"}
+惉,{"kKorean": "CHEM", "kHangul": "\ucca8", "kMandarin": "zh\u0101n", "kCantonese": "zim1", "kJapaneseOn": "SEN"}
+惌,{"kCantonese": "jyun3", "kMandarin": "yu\u0101n"}
+琖,{"kCantonese": "zaan1 zaan2", "kMandarin": "zh\u01cen"}
+惎,{"kMandarin": "j\u00ec", "kCantonese": "gei6", "kJapaneseOn": "KI GI"}
+惰,{"kKorean": "THA", "kHangul": "\ud0c0", "kMandarin": "du\u00f2", "kCantonese": "do6", "kJapaneseOn": "DA"}
+惱,{"kHangul": "\ub1cc", "kMandarin": "n\u01ceo", "kKorean": "NOY", "kVietnamese": "n\u00e3o", "kCantonese": "nou5", "kJapaneseOn": "NOU", "kHanyuPinlu": "nao3(27)"}
+惲,{"kKorean": "WUN", "kHangul": "\uc6b4", "kMandarin": "y\u00f9n", "kCantonese": "wan6", "kJapaneseOn": "UN KIN GIN"}
+琗,{"kMandarin": "s\u00e8"}
+惴,{"kHangul": "\ucdcc", "kMandarin": "zhu\u00ec", "kKorean": "CHWEY", "kVietnamese": "nhoai", "kCantonese": "cyun3 zeoi3", "kJapaneseOn": "ZUI SUI"}
+惵,{"kMandarin": "di\u00e9", "kCantonese": "dip6", "kJapaneseOn": "CHOU JOU KYOU"}
+惶,{"kHangul": "\ud669", "kMandarin": "hu\u00e1ng", "kKorean": "HWANG", "kVietnamese": "ho\u00e0ng", "kCantonese": "wong4", "kJapaneseOn": "KOU", "kHanyuPinlu": "huang2(13)"}
+惸,{"kKorean": "KYENG", "kHangul": "\uacbd", "kMandarin": "qi\u00f3ng", "kCantonese": "king4", "kJapaneseOn": "KEI GYOU"}
+詌,{"kMandarin": "g\u00e0n"}
+惺,{"kKorean": "SENG HWANG", "kHangul": "\uc131", "kMandarin": "x\u012bng", "kCantonese": "sing1", "kJapaneseOn": "SEI"}
+惻,{"kHangul": "\uce21", "kMandarin": "c\u00e8", "kKorean": "CHUK", "kCantonese": "caak1 cak1", "kJapaneseOn": "SOKU SHOKU", "kTang": "*chri\u0259k"}
+惼,{"kHangul": "\ud3b8", "kMandarin": "bi\u01cen", "kKorean": "PHYEN", "kVietnamese": "b\u1ebdn", "kCantonese": "bin2", "kJapaneseOn": "HEN"}
+惽,{"kMandarin": "m\u01d0n", "kJapaneseOn": "KON BIN"}
+惾,{"kCantonese": "zung1", "kMandarin": "z\u014dng"}
+惿,{"kMandarin": "t\u00ed"}
+惠,{"kHangul": "\ud61c", "kMandarin": "hu\u00ec", "kKorean": "HYEY", "kVietnamese": "hu\u1ec7", "kCantonese": "wai6", "kJapaneseOn": "KEI E", "kTang": "*hu\u00e8i"}
+惡,{"kHangul": "\uc545 \uc624", "kMandarin": "\u00e8", "kKorean": "AK O", "kVietnamese": "\u00e1c", "kCantonese": "ngok3 ok3 wu1 wu3", "kJapaneseOn": "O AKU", "kHanyuPinlu": "e4(157) wu4(40)", "kTang": "*q\u0251k q\u00f2"}
+䄉,{"kCantonese": "ngo4", "kMandarin": "\u00e9"}
+䄈,{"kCantonese": "coeng4 daau2 daau6 hiu1", "kMandarin": "d\u00f2u"}
+惥,{"kMandarin": "y\u01d2ng", "kJapaneseOn": "YOU"}
+惩,{"kHanyuPinlu": "cheng2(15)", "kCantonese": "cing4", "kMandarin": "ch\u00e9ng"}
+惫,{"kCantonese": "baai6 bei6", "kMandarin": "b\u00e8i"}
+䄇,{"kCantonese": "cing4 zing6", "kMandarin": "ch\u00e9ng"}
+虠,{"kMandarin": "ji\u0101o", "kJapaneseOn": "KOU"}
+虡,{"kMandarin": "j\u00f9", "kCantonese": "geoi6", "kJapaneseOn": "KYO GO"}
+渮,{"kMandarin": "h\u00e9", "kCantonese": "go1", "kJapaneseOn": "KA"}
+脾,{"kHangul": "\ube44", "kMandarin": "p\u00ed", "kKorean": "PI", "kVietnamese": "t\u00ec", "kCantonese": "pei4", "kJapaneseOn": "HI HAI HEI", "kHanyuPinlu": "pi2(85)", "kTang": "bhi\u025b"}
+脽,{"kCantonese": "seoi4 zeoi1", "kMandarin": "shu\u00ed"}
+渥,{"kHangul": "\uc545", "kMandarin": "w\u00f2", "kKorean": "AK", "kVietnamese": "\u1ed1c", "kCantonese": "ak1", "kJapaneseOn": "AKU"}
+渤,{"kHangul": "\ubc1c", "kMandarin": "b\u00f3", "kKorean": "PAL", "kVietnamese": "b\u1ecdt", "kCantonese": "but6", "kJapaneseOn": "BOTSU HOTSU"}
+犅,{"kCantonese": "gong1", "kMandarin": "g\u0101ng"}
+㭿,{"kCantonese": "ngong4", "kMandarin": "\u00e1ng"}
+㭾,{"kCantonese": "gwat6", "kMandarin": "ju\u00e9"}
+㭽,{"kCantonese": "dai2", "kMandarin": "d\u01d0"}
+㭼,{"kCantonese": "dap6", "kMandarin": "t\u00e0"}
+㭻,{"kCantonese": "tong4", "kMandarin": "t\u00e1ng"}
+㭺,{"kCantonese": "zim2", "kMandarin": "y\u01cen"}
+㭹,{"kCantonese": "zin4", "kMandarin": "xi\u00e1n"}
+㭸,{"kCantonese": "tou4 tung4 zak6", "kMandarin": "t\u00fa"}
+㭶,{}
+睏,{"kMandarin": "k\u00f9n", "kCantonese": "kwan3", "kJapaneseOn": "KON"}
+蚈,{"kMandarin": "qi\u0101n", "kJapaneseOn": "KEN"}
+䠶,{"kCantonese": "se6", "kMandarin": "sh\u00e8"}
+䠵,{"kCantonese": "fu6 kwaai1 waa1", "kMandarin": "f\u00f9"}
+䠴,{"kMandarin": "zh\u011bn"}
+䠳,{"kMandarin": "ch\u0113n"}
+䠲,{"kCantonese": "ling4", "kMandarin": "l\u00edng"}
+睎,{"kMandarin": "x\u012b", "kCantonese": "hei1", "kJapaneseOn": "KI KE"}
+跅,{"kMandarin": "tu\u00f2", "kCantonese": "tok3", "kJapaneseOn": "TAKU SEKI SHAKU"}
+酠,{"kMandarin": "qi\u01ce"}
+酣,{"kHangul": "\uac10", "kMandarin": "h\u0101n", "kKorean": "KEM", "kCantonese": "ham4", "kJapaneseOn": "KAN GAN KON", "kTang": "*h\u0251m"}
+酢,{"kKorean": "CHO CAK", "kHangul": "\ucd08", "kMandarin": "c\u00f9", "kCantonese": "cou3 zaa3 zok6", "kJapaneseOn": "SAKU"}
+酥,{"kKorean": "SO", "kHangul": "\uc18c", "kMandarin": "s\u016b", "kCantonese": "sou1", "kJapaneseOn": "SO"}
+酤,{"kHangul": "\uace0", "kMandarin": "g\u016b", "kKorean": "KO", "kCantonese": "gu1", "kJapaneseOn": "KO KU GO", "kTang": "*go g\u00f2 h\u01d2"}
+崲,{"kMandarin": "hu\u00e1ng", "kJapaneseOn": "KOU WAU"}
+崳,{"kMandarin": "y\u00fa", "kJapaneseOn": "YU"}
+崱,{"kMandarin": "z\u00e8", "kCantonese": "zak1", "kJapaneseOn": "SHOKU JIKI"}
+崶,{"kMandarin": "f\u0113ng", "kCantonese": "fung1", "kJapaneseOn": "HOU HU"}
+崷,{"kMandarin": "qi\u00fa", "kCantonese": "cau4", "kJapaneseOn": "SHIU JU"}
+崴,{"kKorean": "OY", "kHangul": "\uc678", "kMandarin": "w\u01cei", "kCantonese": "wai1", "kJapaneseOn": "WAI E I"}
+崵,{"kMandarin": "y\u00e1ng", "kJapaneseOn": "SEU TAU"}
+崺,{"kMandarin": "y\u01d0", "kCantonese": "ji5", "kJapaneseOn": "I"}
+崻,{"kMandarin": "zh\u00ec"}
+崸,{"kMandarin": "y\u00e1ng", "kJapaneseOn": "TON DON"}
+崹,{"kMandarin": "t\u00ed", "kJapaneseOn": "TEI DAI"}
+崾,{"kMandarin": "y\u01ceo"}
+崿,{"kTang": "ng\u0251k", "kMandarin": "\u00e8", "kCantonese": "ngok6", "kJapaneseOn": "GAKU"}
+崼,{"kMandarin": "sh\u00ec", "kJapaneseOn": "SHI TETSU"}
+崽,{"kHangul": "\uc7ac", "kMandarin": "z\u01cei", "kKorean": "CAY", "kCantonese": "zoi2", "kJapaneseOn": "SAI SHA SHI", "kHanyuPinlu": "zai3(10)"}
+羢,{"kMandarin": "r\u00f3ng", "kCantonese": "jung4", "kJapaneseOn": "JOU NYU"}
+羠,{"kCantonese": "ji4", "kMandarin": "y\u00ed"}
+羡,{"kMandarin": "xi\u00e0n", "kKorean": "SEN YEN", "kVietnamese": "ti\u1ec7n", "kCantonese": "sin4 sin6", "kJapaneseOn": "SEN EN", "kHanyuPinlu": "xian4(24)"}
+㔸,{"kCantonese": "cam2 taai1 zyun1", "kMandarin": "t\u012b"}
+㔡,{"kCantonese": "bit3", "kMandarin": "bi\u0113"}
+裉,{"kCantonese": "kang3", "kMandarin": "k\u00e8n"}
+㔩,{"kTang": "qop", "kCantonese": "aap6", "kMandarin": "\u00e8"}
+䅐,{"kCantonese": "gan2 zin6", "kMandarin": "ji\u01cen"}
+䅑,{"kCantonese": "zeoi4", "kMandarin": "ru\u00ed"}
+䅒,{"kCantonese": "mong4", "kMandarin": "m\u00e1ng"}
+䅓,{"kCantonese": "geoi2", "kMandarin": "j\u01d4"}
+䅋,{"kCantonese": "wan5", "kMandarin": "w\u01cen"}
+䅌,{"kCantonese": "gyun1 haa1 syun6", "kMandarin": "ju\u0101n"}
+䅍,{"kCantonese": "ting5 zaau3 zim1", "kMandarin": "t\u01d0ng"}
+䅎,{"kCantonese": "ngaa4 zaau5", "kMandarin": "y\u01d2u"}
+䅏,{"kCantonese": "mei5 min5", "kMandarin": "hu\u00ec"}
+斯,{"kHangul": "\uc0ac", "kMandarin": "s\u012b", "kKorean": "SA", "kCantonese": "si1", "kJapaneseOn": "SHI", "kHanyuPinlu": "si1(77)", "kTang": "*si\u025b"}
+斮,{"kMandarin": "cu\u00f2", "kCantonese": "zoek3", "kJapaneseOn": "SAKU SHAKU"}
+斝,{"kKorean": "KA", "kHangul": "\uac00", "kMandarin": "ji\u01ce", "kCantonese": "gaa2", "kJapaneseOn": "KA KE"}
+斑,{"kHangul": "\ubc18", "kMandarin": "b\u0101n", "kKorean": "PAN", "kCantonese": "baan1", "kJapaneseOn": "HAN", "kTang": "ban"}
+斐,{"kHangul": "\ube44", "kMandarin": "f\u011bi", "kKorean": "PI", "kVietnamese": "ph\u1ec9", "kCantonese": "fei2", "kJapaneseOn": "HI"}
+陽,{"kHangul": "\uc591", "kMandarin": "y\u00e1ng", "kKorean": "YANG", "kVietnamese": "d\u01b0\u01a1ng", "kCantonese": "joeng4", "kJapaneseOn": "YOU", "kHanyuPinlu": "yang2(513)", "kTang": "*i\u0251ng"}
+荘,{"kKorean": "CANG", "kMandarin": "zhu\u0101ng", "kJapaneseOn": "SOU SHOU"}
+陿,{"kMandarin": "xi\u00e1", "kJapaneseOn": "KYOU"}
+陾,{"kMandarin": "r\u00e9ng", "kCantonese": "jing4", "kJapaneseOn": "JOU NYOU JI NI"}
+陻,{"kMandarin": "y\u012bn", "kCantonese": "jan1", "kJapaneseOn": "IN SHU JU TOU ZU"}
+荙,{"kCantonese": "daat6", "kMandarin": "d\u00e1"}
+荚,{"kCantonese": "gaap3", "kMandarin": "ji\u00e1"}
+荛,{"kCantonese": "jiu4", "kMandarin": "r\u00e1o"}
+荔,{"kMandarin": "l\u00ec", "kVietnamese": "l\u1ec7", "kCantonese": "lai6", "kJapaneseOn": "RI REI REN", "kHanyuPinlu": "li4(28)", "kTang": "l\u00e8i li\u025b\u0300"}
+笄,{"kMandarin": "j\u012b", "kCantonese": "gai1", "kJapaneseOn": "KEI"}
+],{}
+䛆,{"kCantonese": "zaau3", "kMandarin": "zh\u00f2u"}
+䛇,{"kMandarin": "yu\u01cen"}
+䛄,{"kMandarin": "yu\u01cen"}
+䛅,{"kMandarin": "xi\u00e1"}
+䛎,{"kMandarin": "xu\u00e8"}
+䛏,{"kCantonese": "nei4", "kMandarin": "n\u00ed"}
+䛌,{"kCantonese": "tou4", "kMandarin": "t\u00e1o"}
+䛍,{"kCantonese": "fai3", "kMandarin": "f\u00e8i"}
+䛊,{"kMandarin": "x\u012b"}
+䛋,{"kMandarin": "j\u00ec"}
+䛈,{"kCantonese": "hin1 saai6", "kMandarin": "sh\u00ec"}
+䛉,{"kMandarin": "mi\u00e0n"}
+䛒,{"kCantonese": "bin6", "kMandarin": "bi\u00e0n"}
+䛓,{"kCantonese": "gam1 ham4"}
+䛐,{"kCantonese": "ci4", "kMandarin": "c\u00ed"}
+䛑,{"kCantonese": "mat6", "kMandarin": "m\u00ec"}
+舒,{"kHangul": "\uc11c", "kMandarin": "sh\u016b", "kKorean": "SE", "kVietnamese": "th\u01b0", "kCantonese": "syu1", "kJapaneseOn": "JO SHO", "kHanyuPinlu": "shu1(143)", "kTang": "*shiu"}
+舜,{"kHangul": "\uc21c", "kMandarin": "sh\u00f9n", "kKorean": "SWUN", "kVietnamese": "thu\u1ea5n", "kCantonese": "seon3", "kJapaneseOn": "SHUN"}
+溋,{"kVietnamese": "du\u1ec1nh", "kMandarin": "y\u00edng"}
+溊,{"kMandarin": "xia"}
+溉,{"kKorean": "KAY", "kHanyuPinlu": "gai4(75)", "kMandarin": "g\u00e0i", "kCantonese": "koi3", "kJapaneseOn": "GAI KAI"}
+溈,{"kMandarin": "w\u00e9i", "kCantonese": "gwai1", "kJapaneseOn": "KI I"}
+溌,{"kKorean": "PAL", "kMandarin": "p\u014d", "kJapaneseOn": "HATSU"}
+溃,{"kHanyuPinlu": "kui4(10)", "kCantonese": "kui2", "kMandarin": "ku\u00ec"}
+溂,{"kMandarin": "la", "kJapaneseOn": "RATSU"}
+溁,{"kKorean": "YENG", "kMandarin": "y\u00edng"}
+満,{"kMandarin": "m\u01cen", "kJapaneseOn": "MAN BAN"}
+溇,{"kMandarin": "l\u00f3u"}
+溆,{"kCantonese": "zeoi6", "kMandarin": "x\u00f9"}
+溅,{"kHanyuPinlu": "jian4(23)", "kCantonese": "zin1 zin3", "kMandarin": "ji\u00e0n"}
+溄,{"kMandarin": "feng"}
+舿,{"kMandarin": "kua"}
+舾,{"kCantonese": "sai1", "kMandarin": "x\u012b"}
+舽,{"kKorean": "PANG", "kHangul": "\ubc29", "kMandarin": "p\u00e1ng"}
+舼,{"kMandarin": "qi\u00f3ng"}
+粞,{"kMandarin": "x\u012b", "kCantonese": "sai1", "kJapaneseOn": "SEI SAI"}
+鄊,{"kMandarin": "xi\u0101ng"}
+鄈,{"kMandarin": "ku\u00ed", "kJapaneseOn": "KI GI"}
+粟,{"kHangul": "\uc18d", "kMandarin": "s\u00f9", "kKorean": "SOK", "kCantonese": "suk1", "kJapaneseOn": "ZOKU SHOKU SOKU", "kTang": "siok"}
+㺂,{"kCantonese": "gaam2 him1 ngam4", "kMandarin": "y\u00e1n"}
+㺃,{"kCantonese": "gau2", "kMandarin": "g\u01d2u"}
+鄄,{"kMandarin": "ju\u00e0n", "kCantonese": "gyun3", "kJapaneseOn": "KEN SEN SHIN IN"}
+㺁,{"kCantonese": "nou5", "kMandarin": "n\u01ceo"}
+㺆,{}
+鄃,{"kCantonese": "syu1", "kMandarin": "sh\u016b"}
+㺄,{"kTang": "i\u01d2", "kCantonese": "zyu5", "kMandarin": "y\u01d4"}
+㺅,{"kCantonese": "hau4 ngau4", "kMandarin": "h\u00f3u"}
+琩,{"kMandarin": "ch\u0101ng", "kJapaneseOn": "SHOU"}
+塈,{"kMandarin": "j\u00ec", "kCantonese": "hei3 kei3", "kJapaneseOn": "KI GI KE KAI GAI"}
+塁,{"kMandarin": "lei", "kJapaneseOn": "RUI"}
+塀,{"kKorean": "PYENG", "kHangul": "\ubcd1", "kMandarin": "ping", "kJapaneseOn": "HEI"}
+塂,{"kMandarin": "xi\u00e0ng"}
+塅,{"kMandarin": "du\u00e0n"}
+塄,{"kMandarin": "l\u00e9ng"}
+塇,{"kMandarin": "xu\u0101n"}
+塆,{"kMandarin": "w\u0101n"}
+兠,{"kMandarin": "d\u014du"}
+兟,{"kKorean": "SIN", "kMandarin": "sh\u0113n", "kCantonese": "san1", "kJapaneseOn": "SHIN"}
+鲃,{"kCantonese": "baa1", "kMandarin": "b\u0101"}
+猲,{"kMandarin": "xi\u0113", "kCantonese": "hit3 hot3", "kJapaneseOn": "KATSU KACHI RYOU"}
+椁,{"kKorean": "KWAK", "kHangul": "\uacfd", "kMandarin": "gu\u01d2", "kCantonese": "gwok3", "kJapaneseOn": "KAKU"}
+椀,{"kHangul": "\uc644", "kMandarin": "w\u01cen", "kKorean": "WAN", "kCantonese": "wun2", "kJapaneseOn": "WAN", "kTang": "qu\u0251\u030cn"}
+椃,{"kMandarin": "h\u00e1o"}
+椂,{"kMandarin": "l\u00f9"}
+椅,{"kHangul": "\uc758", "kMandarin": "y\u01d0", "kKorean": "UY", "kCantonese": "ji1 ji2", "kJapaneseOn": "I", "kHanyuPinlu": "yi3(105)"}
+椄,{"kKorean": "CEP", "kHangul": "\uc811", "kMandarin": "ji\u0113", "kCantonese": "zip3", "kJapaneseOn": "SETSU SHOU"}
+椇,{"kVietnamese": "g\u1ee5", "kCantonese": "geoi2", "kMandarin": "j\u01d4"}
+椆,{"kMandarin": "ch\u00f3u", "kJapaneseOn": "CHUU JU SHUU SHU"}
+椉,{"kMandarin": "ch\u00e9ng", "kJapaneseOn": "JOU"}
+椈,{"kMandarin": "j\u00fa", "kCantonese": "guk1", "kJapaneseOn": "KIKU KOKU"}
+椋,{"kKorean": "LYANG", "kHangul": "\ub7c9", "kMandarin": "li\u00e1ng", "kCantonese": "loeng4", "kJapaneseOn": "RYOU"}
+椊,{"kVietnamese": "ch\u1ed1t", "kMandarin": "zu\u00f3", "kCantonese": "zyut6", "kJapaneseOn": "SOTSU SATSU SUI"}
+植,{"kHangul": "\uc2dd", "kMandarin": "zh\u00ed", "kKorean": "SIK CHI", "kVietnamese": "th\u1ef1c", "kCantonese": "zik6", "kJapaneseOn": "SHOKU CHI", "kHanyuPinlu": "zhi2(218)", "kTang": "djhi\u0259\u0300"}
+椌,{"kMandarin": "qi\u0101ng", "kCantonese": "hong1", "kJapaneseOn": "KOU KYOU KU"}
+椏,{"kMandarin": "y\u0101", "kCantonese": "aa1 ngaa4", "kJapaneseOn": "A"}
+椎,{"kHangul": "\ucd94", "kMandarin": "chu\u00ed", "kKorean": "CHWU", "kVietnamese": "ch\u00f2i", "kCantonese": "ceoi4 zeoi1", "kJapaneseOn": "TSUI SUI", "kTang": "djhui"}
+椑,{"kKorean": "PI", "kHangul": "\ube44", "kMandarin": "b\u0113i", "kCantonese": "bei1 pei4", "kJapaneseOn": "HEI BAI"}
+椐,{"kMandarin": "j\u016b", "kCantonese": "geoi1", "kJapaneseOn": "KYO KO"}
+椓,{"kMandarin": "zhu\u00f3", "kCantonese": "doek3", "kJapaneseOn": "TAKU"}
+椒,{"kHangul": "\ucd08", "kMandarin": "ji\u0101o", "kKorean": "CHO", "kVietnamese": "ti\u00eau", "kCantonese": "ziu1", "kJapaneseOn": "SHOU", "kHanyuPinlu": "jiao1(12)", "kTang": "tzi\u025bu"}
+椕,{"kMandarin": "b\u012bn"}
+椔,{"kMandarin": "z\u012b"}
+椗,{"kMandarin": "d\u00ecng", "kCantonese": "ding3", "kJapaneseOn": "TEI"}
+椖,{"kMandarin": "p\u00e9ng", "kJapaneseOn": "HOU"}
+椙,{"kKorean": "CHANG", "kHangul": "\ucc3d", "kMandarin": "chang"}
+椘,{"kMandarin": "ch\u01d4"}
+椛,{"kMandarin": "hua"}
+椚,{"kVietnamese": "mun", "kMandarin": "men"}
+椝,{"kMandarin": "gu\u012b"}
+検,{"kKorean": "KEM", "kMandarin": "ji\u01cen", "kJapaneseOn": "KEN"}
+椟,{"kCantonese": "duk6", "kMandarin": "d\u00fa"}
+椞,{"kMandarin": "x\u00ec"}
+椡,{"kMandarin": "dao"}
+椠,{"kCantonese": "cim3", "kMandarin": "qi\u00e0n"}
+椣,{"kMandarin": "dian"}
+椢,{"kMandarin": "gui", "kJapaneseOn": "KAI KE"}
+椥,{"kVietnamese": "tre", "kCantonese": "zi1", "kMandarin": "zh\u012b"}
+椤,{"kCantonese": "lo4", "kMandarin": "lu\u00f3"}
+椧,{"kKorean": "MYENG", "kHangul": "\uba85", "kMandarin": "m\u00ecng"}
+椦,{"kMandarin": "quan", "kJapaneseOn": "KEN"}
+椩,{"kMandarin": "geng"}
+椨,{"kMandarin": "fu"}
+椫,{"kMandarin": "zh\u01cen"}
+椪,{"kCantonese": "pung3", "kMandarin": "p\u00e8ng"}
+椭,{"kHanyuPinlu": "tuo3(11)", "kCantonese": "to5", "kMandarin": "tu\u01d2"}
+椬,{"kMandarin": "yi"}
+椮,{"kMandarin": "s\u0113n"}
+敞,{"kHangul": "\ucc3d", "kMandarin": "chang", "kKorean": "CHANG", "kCantonese": "cong2", "kJapaneseOn": "SHOU", "kHanyuPinlu": "chang5(19)", "kTang": "chi\u0251\u030cng"}
+䡐,{"kCantonese": "to4", "kMandarin": "tu\u00f3"}
+䡑,{"kCantonese": "man4", "kMandarin": "m\u00edn"}
+䡒,{"kCantonese": "tin4", "kMandarin": "ti\u00e1n"}
+聎,{"kMandarin": "ti\u0101o"}
+辝,{"kMandarin": "c\u00ed", "kJapaneseOn": "JI"}
+辜,{"kHangul": "\uace0", "kMandarin": "g\u016b", "kKorean": "KO", "kCantonese": "gu1", "kJapaneseOn": "KO", "kHanyuPinlu": "gu1(9)", "kTang": "go"}
+辇,{"kCantonese": "lin5", "kMandarin": "ni\u01cen"}
+辈,{"kHanyuPinlu": "bei4(87)", "kCantonese": "bui3", "kMandarin": "b\u00e8i"}
+辋,{"kCantonese": "mong5", "kMandarin": "w\u01ceng"}
+辊,{"kCantonese": "gwan2", "kMandarin": "g\u01d4n"}
+辍,{"kCantonese": "zyut3", "kMandarin": "chu\u00f2"}
+辌,{"kCantonese": "loeng4", "kMandarin": "li\u00e1ng"}
+辎,{"kCantonese": "zi1", "kMandarin": "z\u012b"}
+普,{"kHangul": "\ubcf4", "kMandarin": "p\u01d4", "kKorean": "PO", "kVietnamese": "ph\u1ed5", "kCantonese": "pou2", "kJapaneseOn": "FU HO", "kHanyuPinlu": "pu3(322)"}
+貼,{"kHangul": "\ucca9", "kMandarin": "ti\u0113", "kKorean": "CHEP", "kCantonese": "tip3", "kJapaneseOn": "TEN CHOU", "kHanyuPinlu": "tie1(124)"}
+䆥,{"kCantonese": "cyun1"}
+䆤,{"kCantonese": "cyun1"}
+缗,{"kCantonese": "fan1 man4", "kMandarin": "m\u00edn"}
+䆡,{"kCantonese": "long4", "kMandarin": "l\u00e1ng"}
+䆣,{"kCantonese": "san4", "kMandarin": "ch\u00e9n"}
+䆢,{"kCantonese": "kyut3", "kMandarin": "yu\u00e8"}
+㗑,{"kVietnamese": "b\u1edbi", "kCantonese": "bai6", "kMandarin": "bai"}
+㗐,{}
+㗉,{"kCantonese": "loek6", "kMandarin": "l&#xfc;\u00e8"}
+㗈,{"kCantonese": "maan6", "kMandarin": "m\u00e0n"}
+㗋,{"kCantonese": "hau4", "kMandarin": "h\u00f3u"}
+㗊,{"kCantonese": "leoi4 lo4", "kMandarin": "j\u00ed"}
+㗍,{}
+㗌,{"kCantonese": "zaat6", "kMandarin": "zh\u00ec"}
+㗏,{"kMandarin": "w\u0101i"}
+㗎,{"kCantonese": "gaa2 gaa3 gaa4"}
+㗁,{"kCantonese": "ngok6 zit6", "kMandarin": "\u00e8"}
+㗀,{"kCantonese": "zaau1", "kMandarin": "y\u014du"}
+㗃,{"kCantonese": "maan4 maan5", "kMandarin": "w\u011bn"}
+㗂,{"kCantonese": "saang2", "kMandarin": "sh\u011bng"}
+㗅,{"kCantonese": "wu4", "kMandarin": "h\u00fa"}
+㗄,{"kCantonese": "man4 man6 ming4", "kMandarin": "k\u016b"}
+㗇,{"kCantonese": "gaa5 haa4", "kMandarin": "xi\u00e1"}
+㗆,{"kCantonese": "gaak3", "kMandarin": "g\u00e9"}
+䡏,{"kCantonese": "waang4 wang4 wui4 zyun1", "kMandarin": "h\u00f3ng"}
+㬀,{}
+睑,{"kCantonese": "gim2", "kMandarin": "ji\u01cen"}
+睐,{"kCantonese": "loi6", "kMandarin": "l\u00e0i"}
+睋,{"kCantonese": "ngo4", "kMandarin": "\u00e9"}
+睊,{"kMandarin": "ju\u00e0n", "kCantonese": "gyun1 gyun3", "kJapaneseOn": "EN DAN"}
+睉,{"kMandarin": "cu\u00f3"}
+睈,{"kMandarin": "ch\u011bng"}
+㬸,{"kCantonese": "tiu1", "kMandarin": "ti\u0101o"}
+㬹,{"kCantonese": "zaang1", "kMandarin": "zh\u0113ng"}
+睍,{"kKorean": "HYEN", "kHangul": "\ud604", "kMandarin": "xi\u00e0n", "kCantonese": "jin5", "kJapaneseOn": "KEN GEN"}
+睌,{"kMandarin": "m\u01cen"}
+睃,{"kMandarin": "su\u014d"}
+睂,{"kMandarin": "m\u00e9i", "kJapaneseOn": "BI MI"}
+睇,{"kHangul": "\uc81c", "kMandarin": "d\u00ec", "kKorean": "CEY", "kCantonese": "tai2", "kJapaneseOn": "TEI DAI", "kTang": "dh\u00e8i"}
+睆,{"kKorean": "HWAN", "kHangul": "\ud658", "kMandarin": "hu\u00e0n", "kCantonese": "wun2", "kJapaneseOn": "KAN GEN WAN"}
+睅,{"kMandarin": "h\u00e0n", "kCantonese": "hon6", "kJapaneseOn": "KAN GEN GAN"}
+睄,{"kCantonese": "ciu4 saau3 saau4", "kMandarin": "sh\u00e0o"}
+䋖,{"kVietnamese": "lu\u1ed9t", "kCantonese": "leot6 waat6", "kMandarin": "y\u00f9"}
+㾡,{"kCantonese": "koek3", "kMandarin": "qu\u00e8"}
+䋗,{"kCantonese": "gin1 zin2"}
+寋,{"kMandarin": "ji\u00e0n", "kCantonese": "gin2", "kJapaneseOn": "KEN"}
+寊,{"kMandarin": "zh\u0113n", "kJapaneseOn": "TEI CHAWA"}
+寏,{"kMandarin": "hu\u00e1n", "kJapaneseOn": "KAN GAN"}
+寎,{"kMandarin": "b\u00ecng", "kCantonese": "bing2 bing3", "kJapaneseOn": "HEI KEI"}
+寍,{"kMandarin": "n\u00edng", "kCantonese": "ning4", "kJapaneseOn": "NEI"}
+富,{"kHangul": "\ubd80", "kMandarin": "f\u00f9", "kKorean": "PWU", "kVietnamese": "ph\u00fa", "kCantonese": "fu3", "kJapaneseOn": "FU FUU", "kHanyuPinlu": "fu4(314)", "kTang": "*bi\u00f2u"}
+寓,{"kHangul": "\uc6b0", "kMandarin": "y\u00f9", "kKorean": "WU", "kVietnamese": "ng\u1ee5", "kCantonese": "jyu6", "kJapaneseOn": "GUU GYO", "kHanyuPinlu": "yu4(11)", "kTang": "ngi\u01d2"}
+寒,{"kHangul": "\ud55c", "kMandarin": "h\u00e1n", "kKorean": "HAN", "kVietnamese": "h\u00e0n", "kCantonese": "hon4", "kJapaneseOn": "KAN", "kHanyuPinlu": "han2(145)", "kTang": "*h\u0251n"}
+寑,{"kMandarin": "q\u01d0n", "kCantonese": "cam2", "kJapaneseOn": "SHIN"}
+寐,{"kHangul": "\ub9e4", "kMandarin": "m\u00e8i", "kKorean": "MAY", "kVietnamese": "m\u1ecb", "kCantonese": "mei6", "kJapaneseOn": "BI", "kTang": "m\u00ec"}
+寕,{"kKorean": "NYENG", "kMandarin": "n\u00edng", "kJapaneseOn": "NEI NYOU"}
+寔,{"kHangul": "\uc2dd", "kMandarin": "sh\u00ed", "kKorean": "SIK", "kVietnamese": "th\u1ef1c", "kCantonese": "sat6", "kJapaneseOn": "SHOKU"}
+寪,{"kMandarin": "w\u011bi", "kCantonese": "wai2", "kJapaneseOn": "I GI"}
+阒,{"kCantonese": "gwik1", "kMandarin": "q\u00f9"}
+阓,{"kCantonese": "fui2", "kMandarin": "hu\u00ec"}
+阑,{"kCantonese": "laan4", "kMandarin": "l\u00e1n"}
+䋜,{"kCantonese": "hing3", "kMandarin": "q\u00ecng"}
+阔,{"kHanyuPinlu": "kuo4(148)", "kCantonese": "fut3", "kMandarin": "ku\u00f2"}
+阕,{"kCantonese": "kyut3", "kMandarin": "qu\u00e8"}
+䢠,{"kCantonese": "sung3", "kMandarin": "s\u00f2ng"}
+䢂,{"kCantonese": "lip1"}
+䢝,{"kCantonese": "aa3", "kMandarin": "y\u00e0"}
+䢜,{"kCantonese": "gwai1"}
+䢟,{"kCantonese": "zaau4", "kMandarin": "y\u00f3u"}
+䢞,{"kMandarin": "sh\u00f9"}
+絣,{"kKorean": "PYENG", "kHangul": "\ubcd1", "kMandarin": "b\u0113ng", "kCantonese": "bang1 bing1", "kJapaneseOn": "HOU"}
+滞,{"kMandarin": "zh\u00ec", "kCantonese": "zai6", "kJapaneseOn": "TAI"}
+絢,{"kHangul": "\ud604", "kMandarin": "xu\u00e0n", "kKorean": "HYEN", "kCantonese": "hyun3 seon1", "kJapaneseOn": "KEN", "kHanyuPinlu": "xuan4(13)"}
+絡,{"kHangul": "\ub77d", "kMandarin": "lu\u00f2", "kKorean": "LAK", "kVietnamese": "r\u1ea1c", "kCantonese": "lok3 lok6", "kJapaneseOn": "RAKU", "kHanyuPinlu": "luo4(27)", "kTang": "l\u0251k"}
+滋,{"kHangul": "\uc790", "kMandarin": "z\u012b", "kKorean": "CA", "kCantonese": "zi1", "kJapaneseOn": "JI SHI", "kHanyuPinlu": "zi1(27)", "kTang": "*tzi\u0259"}
+絧,{"kMandarin": "d\u00f2ng", "kJapaneseOn": "TOU ZU"}
+㽠,{"kCantonese": "haap1 kit3", "kMandarin": "xi\u00e1"}
+㽟,{"kCantonese": "lyut3", "kMandarin": "li\u00e8"}
+絥,{"kMandarin": "f\u00fa", "kJapaneseOn": "HI BI FUKU BUKU"}
+絤,{"kMandarin": "xi\u00e0n"}
+㽒,{"kCantonese": "saang1 sang1"}
+絫,{"kCantonese": "leoi4 leoi5", "kMandarin": "l\u011bi"}
+絪,{"kKorean": "IN", "kHangul": "\uc778", "kMandarin": "y\u012bn", "kCantonese": "jan1", "kJapaneseOn": "IN"}
+絩,{"kKorean": "CO", "kVietnamese": "th\u00eau", "kHangul": "\uc870", "kMandarin": "ti\u00e0o"}
+喨,{"kKorean": "LYANG", "kHangul": "\ub7c9", "kMandarin": "li\u00e0ng", "kCantonese": "loeng6", "kJapaneseOn": "RYOU"}
+喩,{"kKorean": "YU", "kHangul": "\uc720", "kMandarin": "y\u00f9", "kJapaneseOn": "YU"}
+喪,{"kHangul": "\uc0c1", "kMandarin": "s\u00e0ng", "kKorean": "SANG", "kVietnamese": "tang", "kCantonese": "song1 song3", "kJapaneseOn": "SOU", "kHanyuPinlu": "sang4(22)", "kTang": "*s\u0251\u0300ng"}
+喫,{"kHangul": "\ub07d", "kMandarin": "ch\u012b", "kKorean": "KKIK", "kVietnamese": "kh\u1ecbt", "kCantonese": "hek3 jaak3", "kJapaneseOn": "KITSU KEKI"}
+喬,{"kHangul": "\uad50", "kMandarin": "qi\u00e1o", "kKorean": "KYO", "kCantonese": "kiu4", "kJapaneseOn": "KYOU GYOU", "kTang": "ghy\u025bu"}
+喭,{"kKorean": "AN EN", "kVietnamese": "ng\u00e1n", "kMandarin": "y\u00e0n", "kCantonese": "jin5 jin6 ngon6", "kJapaneseOn": "GEN GAN"}
+單,{"kHangul": "\ub2e8", "kMandarin": "d\u0101n", "kKorean": "TAN SEN", "kVietnamese": "\u0111\u01a1n", "kCantonese": "daan1 sin4 sin6", "kJapaneseOn": "TAN", "kHanyuPinlu": "dan1(603)", "kTang": "*zhi\u025bn d\u0251n"}
+喯,{"kVietnamese": "bu\u00f4ng", "kMandarin": "p\u00e8n"}
+喠,{"kKorean": "CONG", "kVietnamese": "gi\u00f3ng", "kMandarin": "zh\u01d2ng"}
+喡,{"kVietnamese": "v\u1ea7y", "kMandarin": "w\u00e9i", "kJapaneseOn": "I"}
+喢,{"kMandarin": "sh\u00e0", "kCantonese": "saap3", "kJapaneseOn": "TEHU SEHU SAHU"}
+喣,{"kKorean": "HWU", "kHangul": "\ud6c4", "kMandarin": "x\u00f9", "kCantonese": "heoi2", "kJapaneseOn": "KU"}
+喤,{"kKorean": "HWANG", "kHangul": "\ud669", "kMandarin": "hu\u00e1ng", "kCantonese": "wong4", "kJapaneseOn": "KOU OU KYOU"}
+喥,{"kVietnamese": "d\u1ea1c", "kMandarin": "du\u00f3", "kCantonese": "dou6", "kJapaneseOn": "TO TSU TAKU DAKU"}
+喦,{"kKorean": "YEP", "kVietnamese": "nham", "kMandarin": "ni\u00e8", "kCantonese": "ngaam4", "kJapaneseOn": "JOU NYOU"}
+喧,{"kHangul": "\ud6e4", "kMandarin": "xu\u0101n", "kKorean": "HWEN", "kVietnamese": "huy\u00ean", "kCantonese": "hyun1", "kJapaneseOn": "KEN", "kTang": "*xiu\u00e6n"}
+喸,{"kKorean": "PHOS", "kMandarin": "b\u01d4"}
+喹,{"kMandarin": "ku\u00ed"}
+喺,{"kCantonese": "hai2", "kMandarin": "x\u00ec"}
+喻,{"kMandarin": "y\u00f9", "kKorean": "YU", "kVietnamese": "d\u1ee5", "kCantonese": "jyu6", "kJapaneseOn": "YU", "kTang": "i\u00f2"}
+喼,{"kCantonese": "gep1 gip1 kep1 kip1", "kMandarin": "ji\u00e9"}
+喽,{"kHanyuPinlu": "lou5(46)", "kCantonese": "lau1 lau4", "kMandarin": "lou"}
+喾,{"kCantonese": "guk1", "kMandarin": "k\u00f9"}
+喰,{"kKorean": "SIK", "kHangul": "\uc2dd", "kMandarin": "c\u0101n"}
+喱,{"kMandarin": "l\u00ed", "kCantonese": "lei1", "kJapaneseOn": "RI"}
+喲,{"kKorean": "YAK", "kHanyuPinlu": "yo1(64) yo5(32)", "kMandarin": "y\u014d", "kCantonese": "jo1", "kJapaneseOn": "YAKU"}
+喳,{"kKorean": "SA", "kMandarin": "zh\u0101", "kCantonese": "caa1 caa4 zaa1", "kJapaneseOn": "SA"}
+喴,{"kMandarin": "w\u0113i", "kCantonese": "wai1 wi1", "kJapaneseOn": "I"}
+喵,{"kVietnamese": "m\u1ebfu", "kCantonese": "miu1", "kMandarin": "mi\u0101o"}
+営,{"kKorean": "YENG", "kMandarin": "y\u00edng", "kJapaneseOn": "EI"}
+喷,{"kHanyuPinlu": "pen1(111)", "kCantonese": "pan3", "kMandarin": "p\u0113n"}
+喈,{"kKorean": "KAY", "kMandarin": "ji\u0113", "kCantonese": "gaai1", "kJapaneseOn": "KAI"}
+喉,{"kHangul": "\ud6c4", "kMandarin": "h\u00f3u", "kKorean": "HWU", "kVietnamese": "h\u1ea7u", "kCantonese": "hau4", "kJapaneseOn": "KOU", "kHanyuPinlu": "hou2(51)"}
+喊,{"kHangul": "\ud568", "kMandarin": "h\u01cen", "kKorean": "HAM", "kCantonese": "haam3 ham6", "kJapaneseOn": "KAN", "kHanyuPinlu": "han3(464)"}
+喋,{"kHangul": "\ucca9", "kMandarin": "di\u00e9", "kKorean": "CHEP CAP", "kVietnamese": "nh\u1ecbp", "kCantonese": "dip6", "kJapaneseOn": "CHOU TOU"}
+喌,{"kKorean": "CWU CWUK", "kMandarin": "zh\u014du", "kCantonese": "zau1", "kJapaneseOn": "SHUKU SHUU"}
+喎,{"kVietnamese": "oa", "kMandarin": "w\u0101i", "kCantonese": "waa1 wo3 wo4 wo5 wo6", "kJapaneseOn": "KA"}
+喏,{"kKorean": "YA", "kMandarin": "nu\u00f2", "kCantonese": "je5", "kJapaneseOn": "SHA NYA JAKU NYAKU DAKU"}
+喀,{"kKorean": "KAYK", "kHangul": "\uac1d", "kMandarin": "k\u0101", "kCantonese": "haak3 kaa1 kaa3 kak1", "kJapaneseOn": "KAKU"}
+喁,{"kHangul": "\uc639", "kMandarin": "y\u00f3ng", "kKorean": "ONG WU", "kVietnamese": "ng\u1ee5m", "kCantonese": "jung4 jyu4", "kJapaneseOn": "GYOU GU GOU"}
+喂,{"kHanyuPinlu": "wei4(151)", "kMandarin": "w\u00e8i", "kCantonese": "wai2 wai3", "kJapaneseOn": "KI KAI", "kVietnamese": "\u1ecfi"}
+喃,{"kHangul": "\ub0a8", "kMandarin": "n\u00e1n", "kKorean": "NAM", "kVietnamese": "n\u00f4m", "kCantonese": "naam4", "kJapaneseOn": "NAN", "kHanyuPinlu": "nan2(26)"}
+善,{"kHangul": "\uc120", "kMandarin": "sh\u00e0n", "kKorean": "SEN", "kVietnamese": "thi\u1ec7n", "kCantonese": "sin6", "kJapaneseOn": "ZEN", "kHanyuPinlu": "shan4(206)", "kTang": "*zhi\u025b\u030cn"}
+喅,{"kKorean": "YUK", "kMandarin": "y\u00f9"}
+喆,{"kKorean": "CHEL", "kHangul": "\ucca0", "kMandarin": "zh\u00e9", "kCantonese": "zit3", "kJapaneseOn": "TETSU"}
+喇,{"kHangul": "\ub098 \ub77c", "kMandarin": "l\u01ce", "kKorean": "LAL LA", "kVietnamese": "l\u1ea1t", "kCantonese": "laa1", "kJapaneseOn": "RATSU RA", "kHanyuPinlu": "la3(25)"}
+喘,{"kHangul": "\ucc9c", "kMandarin": "chu\u01cen", "kKorean": "CHEN", "kVietnamese": "suy\u1ec5n", "kCantonese": "cyun2", "kJapaneseOn": "ZEN SEN", "kHanyuPinlu": "chuan3(76)", "kTang": "chiu\u025b\u030cn"}
+喙,{"kKorean": "HWEY", "kHangul": "\ud6fc", "kMandarin": "hu\u00ec", "kCantonese": "fui3", "kJapaneseOn": "KAI"}
+喚,{"kHangul": "\ud658", "kMandarin": "hu\u00e0n", "kKorean": "HWAN", "kVietnamese": "ho\u00e1n", "kCantonese": "fun3 wun6", "kJapaneseOn": "KAN", "kHanyuPinlu": "huan4(57) huan5(35)", "kTang": "hu\u0251\u0300n"}
+喛,{"kKorean": "HWAN", "kMandarin": "hu\u00e0n", "kJapaneseOn": "KAN KEN EN ON KAI KE KA WA"}
+喜,{"kHangul": "\ud76c", "kMandarin": "x\u01d0", "kKorean": "HUY", "kVietnamese": "h\u1ec9", "kCantonese": "hei2", "kJapaneseOn": "KI SHI", "kHanyuPinlu": "xi3(459)", "kTang": "*xi\u0259\u030c"}
+喝,{"kHangul": "\uac08", "kMandarin": "h\u0113", "kKorean": "KAL AY", "kVietnamese": "h\u00e1t", "kCantonese": "hot3", "kJapaneseOn": "KATSU AI", "kHanyuPinlu": "he1(340) he5(37) he4(19)", "kTang": "x\u0251t"}
+喞,{"kKorean": "CUL CIK", "kHangul": "\uc989", "kTang": "tzi\u0259k", "kMandarin": "j\u012b", "kJapaneseOn": "SOKU SHOKU"}
+喟,{"kHangul": "\uc704", "kMandarin": "ku\u00ec", "kKorean": "WI KOY", "kVietnamese": "v\u1ecb", "kCantonese": "wai2 wai6", "kJapaneseOn": "KI KUWAI KE"}
+喐,{"kCantonese": "juk1", "kMandarin": "y\u00f9"}
+喑,{"kHangul": "\uc74c", "kMandarin": "y\u012bn", "kKorean": "UM", "kVietnamese": "\u1ea7m", "kCantonese": "jam1", "kJapaneseOn": "IN ON AN"}
+喒,{"kKorean": "CAM", "kMandarin": "z\u00e1", "kCantonese": "zaa1", "kJapaneseOn": "SAN"}
+喓,{"kHangul": "\uc694", "kMandarin": "y\u0101o", "kKorean": "YO", "kVietnamese": "eo", "kCantonese": "jiu1 oe1", "kJapaneseOn": "EU"}
+喔,{"kHangul": "\uc545", "kMandarin": "\u014d", "kKorean": "AK", "kVietnamese": "\u1ed9c", "kCantonese": "ak1 o1", "kJapaneseOn": "AKU RAKU OKU", "kHanyuPinlu": "o1(103)"}
+喕,{"kMandarin": "mi\u01cen", "kJapaneseOn": "BEN MEN"}
+喖,{"kMandarin": "h\u00fa"}
+喗,{"kKorean": "WUN", "kMandarin": "y\u01d4n", "kJapaneseOn": "GIN GON GUN"}
+㙓,{"kMandarin": "ku\u00ed"}
+㙒,{"kCantonese": "ze5 zi2", "kMandarin": "y\u011b"}
+㙑,{"kCantonese": "zyu5", "kMandarin": "y\u01d4"}
+㙐,{"kTang": "njiu\u025bn", "kCantonese": "deoi2 do2", "kMandarin": "du\u01d2"}
+㙗,{"kCantonese": "fai3", "kMandarin": "w\u0113i"}
+㙖,{}
+㙕,{"kCantonese": "faai3", "kMandarin": "ku\u00e0i"}
+㙔,{"kCantonese": "hon4", "kMandarin": "w\u011bi"}
+臶,{"kKorean": "CHEN", "kHangul": "\ucc9c", "kMandarin": "ji\u00e0n", "kJapaneseOn": "SEN ZEN SON ZON"}
+臷,{"kCantonese": "dit6", "kMandarin": "di\u00e9"}
+㙘,{"kCantonese": "ziu1", "kMandarin": "y\u0101o"}
+臰,{"kMandarin": "ch\u00f2u", "kJapaneseOn": "SHUU"}
+臮,{"kCantonese": "kei3", "kMandarin": "j\u00ec"}
+臯,{"kCantonese": "gou1", "kMandarin": "g\u0101o"}
+臦,{"kMandarin": "gu\u00e0ng"}
+㙏,{"kCantonese": "fuk1", "kMandarin": "f\u00f9"}
+㙎,{"kCantonese": "wai1", "kMandarin": "w\u0113i"}
+䰲,{"kCantonese": "at3 zat3", "kMandarin": "y\u00e0"}
+韩,{"kCantonese": "hon4", "kMandarin": "h\u00e1n"}
+韌,{"kHanyuPinlu": "ren4(11)", "kMandarin": "r\u00e8n", "kCantonese": "jan6 ngan6", "kJapaneseOn": "JIN NIN"}
+噅,{"kKorean": "WI", "kVietnamese": "vay", "kMandarin": "hu\u012b", "kJapaneseOn": "KI"}
+迸,{"kHangul": "\ubcd1", "kMandarin": "b\u00e8ng", "kKorean": "PYENG", "kCantonese": "bing3", "kJapaneseOn": "HOU HYOU HEI", "kTang": "b\u025b\u0300ng"}
+堮,{"kMandarin": "\u00e8", "kCantonese": "ngok6", "kJapaneseOn": "GAKU"}
+堯,{"kHangul": "\uc694", "kMandarin": "y\u00e1o", "kKorean": "YO", "kVietnamese": "nghi\u00eau", "kCantonese": "jiu4", "kJapaneseOn": "GYOU", "kTang": "*ng\u0259u"}
+堬,{"kMandarin": "y\u00fa", "kJapaneseOn": "YU"}
+堭,{"kMandarin": "hu\u00e1ng", "kCantonese": "wong4", "kJapaneseOn": "KAU WAU"}
+堪,{"kHangul": "\uac10", "kMandarin": "k\u0101n", "kKorean": "KAM", "kVietnamese": "kham", "kCantonese": "ham1", "kJapaneseOn": "KAN TAN", "kHanyuPinlu": "kan1(29)", "kTang": "*kom"}
+堫,{"kMandarin": "z\u014dng"}
+堨,{"kMandarin": "y\u00e8", "kCantonese": "aat3 ngaat3 ngoi2 oi2", "kJapaneseOn": "GETSU GECHI ATSU ACHI AI"}
+堩,{"kMandarin": "g\u00e8ng", "kCantonese": "gang2 gang3", "kJapaneseOn": "KOU"}
+堦,{"kKorean": "KYEY", "kHangul": "\uacc4", "kMandarin": "ji\u0113", "kCantonese": "gaai1", "kJapaneseOn": "KAI"}
+堧,{"kKorean": "YEN", "kHangul": "\uc5f0", "kMandarin": "ru\u00e1n", "kCantonese": "jyun4", "kJapaneseOn": "ZEN NEN DA NA DAN NAN"}
+堤,{"kHangul": "\uc81c", "kMandarin": "d\u012b", "kKorean": "CEY", "kVietnamese": "\u0111\u00ea", "kCantonese": "tai4", "kJapaneseOn": "TEI SHI", "kHanyuPinlu": "di1(55)"}
+堥,{"kMandarin": "m\u00e1o", "kJapaneseOn": "BOU MU BAU MOU BU"}
+堢,{"kMandarin": "b\u01ceo"}
+堣,{"kKorean": "YU", "kHangul": "\uc6b0", "kMandarin": "y\u00fa", "kJapaneseOn": "GU"}
+堠,{"kKorean": "HWU", "kHangul": "\ud6c4", "kMandarin": "h\u00f2u", "kCantonese": "hau6", "kJapaneseOn": "KOU KU"}
+堡,{"kHangul": "\ubcf4", "kMandarin": "b\u01ceo", "kKorean": "PO", "kCantonese": "bou2", "kJapaneseOn": "HOU HO", "kHanyuPinlu": "bao3(24)"}
+堾,{"kMandarin": "ch\u016bn"}
+堿,{"kMandarin": "ji\u01cen", "kCantonese": "gaan2", "kJapaneseOn": "KAN KON"}
+堼,{"kMandarin": "h\u00e8ng", "kJapaneseOn": "KOU GOU HOU HU"}
+堺,{"kKorean": "KYEY", "kHangul": "\uacc4", "kMandarin": "ji\u00e8", "kJapaneseOn": "KAI"}
+堻,{"kMandarin": "j\u012bn", "kJapaneseOn": "SHIN"}
+堸,{"kMandarin": "f\u00e9ng", "kJapaneseOn": "HU BU"}
+堹,{"kMandarin": "zh\u00f2ng", "kJapaneseOn": "SHOU SHU"}
+堶,{"kMandarin": "tu\u00f3", "kCantonese": "to4", "kJapaneseOn": "KU GU"}
+堷,{"kVietnamese": "om", "kMandarin": "y\u00ecn", "kJapaneseOn": "AN ON"}
+場,{"kHangul": "\uc7a5", "kMandarin": "ch\u01ceng", "kKorean": "CANG", "kVietnamese": "tr\u01b0\u1eddng", "kCantonese": "coeng4", "kJapaneseOn": "JOU", "kHanyuPinlu": "chang3(773) chang2(141)", "kTang": "*djhi\u0251ng"}
+堵,{"kHangul": "\ub3c4", "kMandarin": "d\u01d4", "kKorean": "TO", "kCantonese": "dou2", "kJapaneseOn": "TO", "kHanyuPinlu": "du3(78)", "kTang": "d\u01d2"}
+堲,{"kMandarin": "c\u00ed", "kCantonese": "zik1", "kJapaneseOn": "SHITSU SHICHI SHOKU JIKI SHIKI SHI"}
+堳,{"kMandarin": "m\u00e9i", "kCantonese": "mei4 mui4", "kJapaneseOn": "BI MI"}
+堰,{"kHangul": "\uc5b8", "kMandarin": "y\u00e0n", "kKorean": "EN", "kCantonese": "jin2", "kJapaneseOn": "EN", "kHanyuPinlu": "yan4(12)"}
+報,{"kHangul": "\ubcf4", "kMandarin": "b\u00e0o", "kKorean": "PO PWU", "kVietnamese": "b\u00e1o", "kCantonese": "bou3", "kJapaneseOn": "HOU", "kHanyuPinlu": "bao4(1019)", "kTang": "*b\u0251\u0300u"}
+䬣,{"kCantonese": "hei3", "kMandarin": "x\u00ec"}
+䬥,{"kCantonese": "zi3 zik1", "kMandarin": "y\u00ec"}
+䬤,{"kCantonese": "zan3 zin1", "kMandarin": "z\u00e0n"}
+堞,{"kHangul": "\ucca9", "kMandarin": "di\u00e9", "kKorean": "CHEP", "kCantonese": "dip6", "kJapaneseOn": "TEU DEU", "kTang": "dhep"}
+堟,{"kMandarin": "zhu\u00e0n", "kJapaneseOn": "TEN DEN"}
+堜,{"kMandarin": "li\u00e0n", "kJapaneseOn": "REN"}
+堝,{"kKorean": "KWA", "kHangul": "\uacfc", "kMandarin": "gu\u014d", "kCantonese": "wo1", "kJapaneseOn": "KA"}
+堚,{"kMandarin": "h\u00fan"}
+堛,{"kMandarin": "b\u00ec", "kCantonese": "pik1", "kJapaneseOn": "HIYOKU HIKI"}
+堘,{"kMandarin": "ch\u00e9ng", "kCantonese": "sing4", "kJapaneseOn": "SHOU"}
+堙,{"kKorean": "IN", "kHangul": "\uc778", "kMandarin": "y\u012bn", "kCantonese": "jan1", "kJapaneseOn": "IN"}
+堖,{"kMandarin": "n\u01ceo"}
+堗,{"kKorean": "TOL", "kHangul": "\ub3cc", "kMandarin": "t\u016b"}
+蛐,{"kCantonese": "kuk1", "kMandarin": "q\u016b"}
+蛑,{"kMandarin": "m\u00f3u", "kCantonese": "mai4 mau4", "kJapaneseOn": "BOU MU MOU"}
+蛗,{"kMandarin": "f\u00f9", "kCantonese": "fau6", "kJapaneseOn": "HUU BU"}
+蛔,{"kKorean": "HOY", "kHangul": "\ud68c", "kMandarin": "hu\u00ed", "kCantonese": "wui4", "kJapaneseOn": "KAI"}
+蛕,{"kMandarin": "hu\u00ed", "kCantonese": "wui5", "kJapaneseOn": "KAI GAI"}
+衈,{"kMandarin": "\u00e8r", "kCantonese": "ji6 nei6", "kJapaneseOn": "JI NI"}
+衉,{"kMandarin": "k\u0101", "kJapaneseOn": "KAKU KYAKU"}
+铹,{"kCantonese": "lou4", "kMandarin": "l\u00e1o"}
+铸,{"kHanyuPinlu": "zhu4(36)", "kCantonese": "zyu3", "kMandarin": "zh\u00f9"}
+铿,{"kCantonese": "hang1", "kMandarin": "k\u0113ng"}
+链,{"kHanyuPinlu": "lian4(9)", "kCantonese": "lin6", "kMandarin": "li\u00e0n"}
+铽,{"kCantonese": "tik1", "kMandarin": "t\u00e8"}
+铼,{"kCantonese": "loi4", "kMandarin": "l\u00e1i"}
+锆,{"kCantonese": "gou3", "kMandarin": "g\u00e0o"}
+锄,{"kHanyuPinlu": "chu2(22)", "kCantonese": "co4", "kMandarin": "ch\u00fa"}
+䣮,{"kMandarin": "p\u00f2"}
+䣯,{"kCantonese": "tin2", "kMandarin": "c\u00fa"}
+锅,{"kHanyuPinlu": "guo1(115)", "kCantonese": "wo1", "kMandarin": "gu\u014d"}
+锃,{"kMandarin": "z\u00e8ng"}
+衆,{"kHangul": "\uc911", "kMandarin": "zh\u00f2ng", "kKorean": "CWUNG", "kCantonese": "zung3", "kJapaneseOn": "SHUU SHU", "kTang": "*ji\u00f9ng"}
+衇,{"kCantonese": "mak6", "kMandarin": "m\u00e0i"}
+䣲,{"kMandarin": "f\u00e0n"}
+䣳,{}
+䣰,{"kCantonese": "geoi6 hai4", "kMandarin": "j\u00f9"}
+衘,{"kMandarin": "xi\u00e1n", "kJapaneseOn": "KAN GAN"}
+䣒,{}
+䣐,{"kCantonese": "zing1", "kMandarin": "y\u012bng"}
+䣑,{"kCantonese": "cin4", "kMandarin": "ch\u00e1n"}
+㖾,{"kCantonese": "ngok6", "kMandarin": "\u00e8"}
+㖿,{"kCantonese": "ce4 ze4", "kMandarin": "xi\u00e9"}
+㖼,{"kVietnamese": "m\u1ecf", "kCantonese": "mau4", "kMandarin": "du\u01d2"}
+㖽,{"kVietnamese": "h\u1ee3t", "kCantonese": "zaak3", "kMandarin": "z\u00e9"}
+㖺,{"kCantonese": "ceon2", "kMandarin": "ch\u01d4n"}
+㖻,{"kCantonese": "zaau4", "kMandarin": "ni\u00fa"}
+㖸,{"kCantonese": "koek6", "kMandarin": "xu\u00e9"}
+㖹,{"kVietnamese": "v\u1ed3n", "kCantonese": "fu2 paan3 pun4", "kMandarin": "p\u0113n"}
+㖶,{"kCantonese": "zin1 zin3 zit3", "kMandarin": "y\u0101n"}
+㖷,{"kCantonese": "taai4", "kMandarin": "sh\u00ed"}
+锔,{"kCantonese": "guk1", "kMandarin": "j\u016b"}
+锕,{"kCantonese": "aa1", "kMandarin": "\u0101"}
+锒,{"kCantonese": "long4", "kMandarin": "l\u00e1ng"}
+衕,{"kMandarin": "t\u00f2ng", "kCantonese": "dung6 tung4", "kJapaneseOn": "TOU ZU"}
+衖,{"kMandarin": "xi\u00e0ng", "kCantonese": "hong6 lung6", "kJapaneseOn": "KOU"}
+街,{"kHangul": "\uac00", "kMandarin": "ji\u0113", "kKorean": "KA", "kCantonese": "gaai1", "kJapaneseOn": "GAI KAI", "kHanyuPinlu": "jie1(335)", "kTang": "g\u00e6i g\u025bi"}
+攲,{"kKorean": "KI", "kHangul": "\uae30", "kCantonese": "kei1", "kMandarin": "q\u012b"}
+啫,{"kVietnamese": "gia", "kCantonese": "ze1 ze2 ze3 zek1 zoe1", "kMandarin": "zh\u011b"}
+䇌,{"kCantonese": "ciu3", "kMandarin": "qi\u00e0o"}
+䇍,{"kCantonese": "cuk1", "kMandarin": "ch\u00f9"}
+啽,{"kKorean": "AM", "kHangul": "\uc554", "kMandarin": "\u00e1n", "kCantonese": "am1 ngam4 ngap1", "kJapaneseOn": "GAN GON"}
+啼,{"kHangul": "\uc81c", "kMandarin": "t\u00ed", "kKorean": "CEY", "kCantonese": "tai4", "kJapaneseOn": "TEI", "kHanyuPinlu": "ti2(12)", "kTang": "*dhei"}
+啿,{"kKorean": "TAM CAM", "kVietnamese": "th\u1ea7m", "kMandarin": "d\u00e0n", "kJapaneseOn": "TAN DON"}
+啾,{"kHangul": "\ucd94", "kMandarin": "ji\u016b", "kKorean": "CHWU", "kCantonese": "zau1", "kJapaneseOn": "SHUU", "kHanyuPinlu": "jiu1(32)", "kTang": "*tziou"}
+啻,{"kKorean": "SI", "kHangul": "\uc2dc", "kMandarin": "ch\u00ec", "kCantonese": "ci3", "kJapaneseOn": "SHI"}
+啺,{"kVietnamese": "d\u1ec3", "kMandarin": "t\u00e1ng"}
+䇧,{"kCantonese": "zaai3 zaai6", "kMandarin": "zh\u00ec"}
+䇪,{"kCantonese": "ci1", "kMandarin": "ch\u012b"}
+䇫,{"kCantonese": "gei1", "kMandarin": "j\u012b"}
+䇨,{"kCantonese": "gung3", "kMandarin": "g\u00f2ng"}
+䇩,{"kCantonese": "zaai6", "kMandarin": "y\u00ec"}
+䇮,{"kVietnamese": "s\u1eady", "kCantonese": "zaam6", "kMandarin": "r\u00e8n"}
+䇯,{"kCantonese": "zung2 zung4", "kMandarin": "r\u00f3ng"}
+䇬,{"kCantonese": "zi1", "kMandarin": "zh\u016b"}
+䇭,{"kCantonese": "liu4 lou5", "kMandarin": "l\u01ceo"}
+䇲,{"kCantonese": "gap3 gok3", "kMandarin": "c\u00e8"}
+䇳,{"kCantonese": "zin1"}
+䇰,{"kCantonese": "zing1", "kMandarin": "zh\u0113ng"}
+䇱,{"kCantonese": "nap6", "kMandarin": "n\u00e0"}
+啙,{"kKorean": "CA", "kMandarin": "z\u01d0", "kJapaneseOn": "SHI SEI ZAI JI SEKI KYOU"}
+䇴,{}
+鳦,{"kKorean": "UL", "kHangul": "\uc744", "kMandarin": "y\u01d0", "kCantonese": "jyut3 jyut6", "kJapaneseOn": "ITSU ICHI ATSU ECHI"}
+鈚,{"kCantonese": "pei4", "kMandarin": "p\u012b"}
+鈛,{"kMandarin": "gu\u014d"}
+鈘,{"kMandarin": "j\u01d0", "kJapaneseOn": "GI KI"}
+鈙,{"kVietnamese": "nh\u1eb7t ch\u00eca", "kMandarin": "q\u00edn"}
+鈞,{"kHangul": "\uade0", "kMandarin": "j\u016bn", "kKorean": "KYUN", "kCantonese": "gwan1 kwan1", "kJapaneseOn": "KIN", "kTang": "guin"}
+鈟,{"kKorean": "CO", "kHangul": "\uc870", "kMandarin": "sh\u012b"}
+鈜,{"kKorean": "HOYNG", "kHangul": "\ud6a1", "kMandarin": "h\u00f3ng", "kCantonese": "wang4", "kJapaneseOn": "KOU OU"}
+鈝,{"kMandarin": "y\u00edn", "kJapaneseOn": "IN"}
+鈒,{"kKorean": "SAP", "kHangul": "\uc0bd", "kMandarin": "s\u00e0", "kCantonese": "kap1 zaap6", "kJapaneseOn": "SOU SHUU KYUU KOU"}
+鈓,{"kMandarin": "r\u00e9n", "kJapaneseOn": "JIN"}
+鈐,{"kHangul": "\uac80", "kMandarin": "qi\u00e1n", "kKorean": "KEM", "kVietnamese": "ki\u1ec1m", "kCantonese": "kim4", "kJapaneseOn": "KEN GEN KAN GON SHIN"}
+鈑,{"kKorean": "PHAN", "kHangul": "\ud310", "kMandarin": "b\u01cen", "kCantonese": "baan2", "kJapaneseOn": "HAN"}
+鈖,{"kMandarin": "f\u0113n", "kJapaneseOn": "HUN"}
+鈗,{"kKorean": "YUN", "kHangul": "\uc724", "kMandarin": "y\u01d4n"}
+鈔,{"kHangul": "\ucd08", "kMandarin": "ch\u0101o", "kKorean": "CHO", "kCantonese": "caau1", "kJapaneseOn": "SHOU BYOU", "kHanyuPinlu": "chao1(25)"}
+鈕,{"kVietnamese": "n\u1ea1o", "kTang": "ni\u01d2u", "kMandarin": "ni\u01d4", "kCantonese": "nau2", "kJapaneseOn": "CHUU JUU"}
+㮆,{"kCantonese": "zit6", "kMandarin": "ni\u00e8"}
+㮇,{"kCantonese": "tim3", "kMandarin": "ti\u00e0n"}
+㮄,{"kCantonese": "bong2", "kMandarin": "b\u01ceng"}
+㮅,{"kCantonese": "zeoi1", "kMandarin": "zhu\u012b"}
+㮂,{"kCantonese": "guk1", "kMandarin": "j\u00fa"}
+㮃,{"kCantonese": "wai1", "kMandarin": "w\u0113i"}
+㮀,{"kCantonese": "haam4", "kMandarin": "h\u00e1n"}
+㮁,{"kCantonese": "ngau4", "kMandarin": "xi\u00e1o"}
+鈂,{"kVietnamese": "\u0111\u00e2m", "kMandarin": "ch\u00e9n"}
+鈃,{"kCantonese": "gin1", "kMandarin": "x\u00edng"}
+鈀,{"kMandarin": "b\u01ce", "kCantonese": "baa1 baa2 paa4", "kJapaneseOn": "HA HE"}
+鈁,{"kMandarin": "f\u0101ng", "kCantonese": "fong1", "kJapaneseOn": "HOU BOU"}
+㮊,{}
+鈇,{"kKorean": "PWU", "kHangul": "\ubd80", "kMandarin": "f\u016b", "kCantonese": "fu1", "kJapaneseOn": "HU"}
+㮈,{"kVietnamese": "n\u1eady", "kCantonese": "noi6 zeoi6", "kMandarin": "n\u00e0i"}
+㮉,{}
+矟,{"kMandarin": "shu\u00f2", "kJapaneseOn": "SAKU"}
+矞,{"kKorean": "YUL", "kHangul": "\uc728", "kMandarin": "y\u00f9", "kCantonese": "wat6", "kJapaneseOn": "ITSU ICHI SHUTSU JUCHI"}
+鈪,{"kCantonese": "ngaak3", "kMandarin": "\u00e8"}
+鈫,{"kMandarin": "wen"}
+鈨,{"kMandarin": "yuan", "kJapaneseOn": "HABAKI"}
+鈩,{"kMandarin": "lu", "kJapaneseOn": "RO"}
+鈬,{"kMandarin": "du\u00f3", "kJapaneseOn": "TAKU"}
+鈢,{"kMandarin": "x\u01d0"}
+鈣,{"kHanyuPinlu": "gai4(11)", "kMandarin": "g\u00e0i", "kCantonese": "koi3", "kJapaneseOn": "KAI"}
+鈠,{"kMandarin": "y\u00ec"}
+鈡,{"kMandarin": "zh\u014dng"}
+鈦,{"kMandarin": "t\u00e0i", "kCantonese": "taai3", "kJapaneseOn": "TA"}
+鈧,{"kCantonese": "kong3", "kMandarin": "k\u00e0ng"}
+鈤,{"kMandarin": "r\u00ec", "kCantonese": "jat6", "kJapaneseOn": "JITSU"}
+鈥,{"kMandarin": "hu\u01d2", "kCantonese": "fo2", "kJapaneseOn": "KA"}
+裃,{"kMandarin": "ka"}
+孱,{"kHangul": "\uc794", "kMandarin": "c\u00e0n", "kKorean": "CAN", "kCantonese": "caan3 saan4", "kJapaneseOn": "SEN SAN", "kTang": "jrhi\u025bn"}
+渝,{"kHangul": "\ud22c", "kMandarin": "y\u00fa", "kKorean": "THWU", "kCantonese": "jyu4", "kJapaneseOn": "YU", "kTang": "io"}
+渜,{"kCantonese": "nyun5", "kMandarin": "nu\u01cen"}
+渟,{"kKorean": "CENG", "kHangul": "\uc815", "kMandarin": "t\u00edng", "kCantonese": "ting4", "kJapaneseOn": "TEI"}
+渞,{"kMandarin": "qi\u00fa", "kJapaneseOn": "SHUU JU"}
+渙,{"kKorean": "HWAN", "kHangul": "\ud658", "kMandarin": "hu\u00e0n", "kCantonese": "wun6", "kJapaneseOn": "KAN"}
+渘,{"kMandarin": "r\u00f3u"}
+屟,{"kMandarin": "xi\u00e8", "kJapaneseOn": "TEI TAI SEHU"}
+属,{"kKorean": "CHOK SOK", "kHanyuPinlu": "shu3(369)", "kMandarin": "sh\u01d4", "kCantonese": "suk6 zuk1", "kJapaneseOn": "ZOKU SHOKU SHU"}
+装,{"kHangul": "\uc7a5", "kMandarin": "zhu\u0101ng", "kKorean": "CANG", "kCantonese": "zong1", "kJapaneseOn": "SOU SHOU", "kHanyuPinlu": "zhuang1(732)"}
+㼨,{"kCantonese": "haam6 ham4", "kMandarin": "h\u00e1n"}
+㼩,{"kCantonese": "sing4", "kMandarin": "ch\u00e9ng"}
+㼪,{"kCantonese": "gap3 tiu5 zaau1 zip3", "kMandarin": "ji\u00e9"}
+㼧,{"kCantonese": "tung4", "kMandarin": "t\u00f3ng"}
+裈,{"kMandarin": "k\u016bn", "kCantonese": "gwan1", "kJapaneseOn": "KON"}
+渃,{"kVietnamese": "n\u01b0\u1edbc", "kCantonese": "je6 joek6", "kMandarin": "ru\u00f2"}
+渽,{"kKorean": "CAY", "kHangul": "\uc7ac", "kCantonese": "zoi1", "kMandarin": "z\u0101i"}
+渼,{"kHangul": "\ubbf8", "kMandarin": "m\u011bi", "kKorean": "MI", "kVietnamese": "m\u1ebb", "kCantonese": "mei5", "kJapaneseOn": "BI MI", "kTang": "my\u01d0"}
+渿,{"kMandarin": "n\u00e0i"}
+渾,{"kHangul": "\ud63c", "kMandarin": "h\u00fan", "kKorean": "HON", "kCantonese": "wan4 wan6", "kJapaneseOn": "KON", "kHanyuPinlu": "hun2(99)", "kTang": "hu\u0259n hu\u0259\u030cn"}
+渹,{"kMandarin": "h\u014dng", "kCantonese": "gwang1", "kJapaneseOn": "KOU SEI SHOU"}
+游,{"kHangul": "\uc720", "kMandarin": "y\u00f3u", "kKorean": "YU", "kCantonese": "jau4", "kJapaneseOn": "YUU RYUU", "kHanyuPinlu": "you2(364)", "kTang": "*iou"}
+渻,{"kMandarin": "sh\u011bng", "kCantonese": "saang2 sing2", "kJapaneseOn": "SEI SHOU"}
+渺,{"kHangul": "\ubb18", "kMandarin": "mi\u01ceo", "kKorean": "MYO", "kCantonese": "miu5", "kJapaneseOn": "BYOU", "kHanyuPinlu": "miao3(16)", "kTang": "*mi\u025b\u030cu"}
+渵,{"kMandarin": "m\u00e1o"}
+渴,{"kHangul": "\uac08", "kMandarin": "k\u011b", "kKorean": "KAL KEL", "kVietnamese": "kh\u00e1t", "kCantonese": "hot3", "kJapaneseOn": "KATSU", "kHanyuPinlu": "ke3(48)", "kTang": "k\u0251t"}
+渷,{"kKorean": "YEN", "kHangul": "\uc5f0", "kMandarin": "y\u01cen"}
+渶,{"kKorean": "YENG", "kHangul": "\uc601", "kMandarin": "y\u012bng", "kJapaneseOn": "EI YOU"}
+渱,{"kMandarin": "h\u00f3ng"}
+渰,{"kCantonese": "jim1 jim2", "kMandarin": "y\u01cen"}
+渳,{"kCantonese": "mai5", "kMandarin": "m\u01d0"}
+渲,{"kKorean": "SEN", "kHangul": "\uc120", "kMandarin": "xu\u00e0n", "kCantonese": "hyun1 syun3", "kJapaneseOn": "SEN"}
+渭,{"kHangul": "\uc704", "kMandarin": "w\u00e8i", "kKorean": "WI", "kVietnamese": "ngan v\u00e2y", "kCantonese": "wai6", "kJapaneseOn": "I", "kTang": "*hiu\u0259\u0300i"}
+測,{"kHangul": "\uce21", "kMandarin": "c\u00e8", "kKorean": "CHUK", "kVietnamese": "tr\u1eafc", "kCantonese": "caak1 cak1", "kJapaneseOn": "SOKU", "kHanyuPinlu": "ce4(227)", "kTang": "chri\u0259k"}
+港,{"kHangul": "\ud56d", "kMandarin": "g\u01ceng", "kKorean": "HANG", "kVietnamese": "c\u1ea3ng", "kCantonese": "gong2", "kJapaneseOn": "KOU", "kHanyuPinlu": "gang3(51)"}
+㼏,{"kCantonese": "nei6 neoi5", "kMandarin": "n\u011bi"}
+温,{"kMandarin": "w\u0113n", "kKorean": "ON", "kVietnamese": "\u1ed3n", "kCantonese": "wan1", "kJapaneseOn": "ON UN", "kHanyuPinlu": "wen1(493)"}
+渨,{"kKorean": "OY", "kVietnamese": "ho\u00e1y", "kHangul": "\uc678", "kCantonese": "wui1", "kMandarin": "w\u0113i"}
+渫,{"kKorean": "SEL CEP", "kHangul": "\uc124", "kMandarin": "xi\u00e8", "kCantonese": "sit3", "kJapaneseOn": "SETSU CHOU"}
+渪,{"kMandarin": "r\u00fa"}
+屡,{"kMandarin": "l\u01da", "kCantonese": "leoi5", "kJapaneseOn": "RU"}
+屠,{"kHangul": "\ub3c4", "kMandarin": "t\u00fa", "kKorean": "TO CE", "kVietnamese": "\u0111\u1ed3", "kCantonese": "tou4", "kJapaneseOn": "TO CHO", "kHanyuPinlu": "tu2(15)", "kTang": "*dho"}
+渧,{"kMandarin": "d\u00ec", "kCantonese": "dai3", "kJapaneseOn": "TEI DAI TEKI CHAKU"}
+渦,{"kHangul": "\uc640", "kMandarin": "w\u014d", "kKorean": "WA", "kCantonese": "gwo1 wo1", "kJapaneseOn": "KA", "kHanyuPinlu": "wo1(43)", "kTang": "gu\u0251"}
+渡,{"kHangul": "\ub3c4", "kMandarin": "d\u00f9", "kKorean": "TO", "kVietnamese": "\u0111\u00f2", "kCantonese": "dou6", "kJapaneseOn": "TO", "kHanyuPinlu": "du4(176)", "kTang": "*dh\u00f2"}
+渠,{"kHangul": "\uac70", "kMandarin": "q\u00fa", "kKorean": "KE", "kVietnamese": "c\u1eeb", "kCantonese": "keoi4", "kJapaneseOn": "KYO", "kHanyuPinlu": "qu2(91)", "kTang": "ghio"}
+渣,{"kHangul": "\uc0ac", "kMandarin": "zh\u0101", "kKorean": "SA", "kCantonese": "zaa1", "kJapaneseOn": "SA SHA", "kHanyuPinlu": "zha1(33)"}
+渢,{"kMandarin": "f\u00e1n", "kCantonese": "fung1", "kJapaneseOn": "HUU BU HAN BAN"}
+閎,{"kKorean": "KOYNG", "kHangul": "\uad49", "kMandarin": "h\u00f3ng", "kCantonese": "wang4", "kJapaneseOn": "KOU OU"}
+獁,{"kMandarin": "m\u00e0"}
+飦,{"kKorean": "CEN", "kHangul": "\uc804", "kMandarin": "zh\u0101n", "kJapaneseOn": "KEN KON SEN KAN"}
+䭴,{"kCantonese": "man5 wan4", "kMandarin": "hu\u00e1n"}
+獓,{"kVietnamese": "ngao ng\u00e1o", "kMandarin": "\u00e1o"}
+䀃,{"kCantonese": "deoi1 seoi1 teoi4", "kMandarin": "tu\u00ed"}
+敦,{"kHangul": "\ub3c8", "kMandarin": "d\u016bn", "kKorean": "TON THOY", "kVietnamese": "\u0111\u00f4n", "kCantonese": "deoi1 deoi6 deon1", "kJapaneseOn": "TON DAN CHOU", "kTang": "du\u0259i"}
+敧,{"kTang": "gy\u025b ky\u025b", "kMandarin": "j\u012b", "kCantonese": "gei1", "kJapaneseOn": "KI"}
+敤,{"kMandarin": "k\u011b"}
+敥,{"kMandarin": "y\u00e0n"}
+敢,{"kHangul": "\uac10", "kMandarin": "g\u01cen", "kKorean": "KAM", "kVietnamese": "c\u00e1m", "kCantonese": "gam2", "kJapaneseOn": "KAN", "kHanyuPinlu": "gan3(483)", "kTang": "*g\u0251\u030cm"}
+散,{"kHangul": "\uc0b0", "kMandarin": "s\u00e0n", "kKorean": "SAN", "kVietnamese": "t\u1ea3n", "kCantonese": "saan2 saan3", "kJapaneseOn": "SAN", "kHanyuPinlu": "san4(159) san3(90)", "kTang": "*s\u0251\u0300n"}
+敠,{"kMandarin": "du\u014d", "kJapaneseOn": "TATSU TACHI SETSU SECHI"}
+敡,{"kKorean": "I", "kMandarin": "y\u00ec", "kJapaneseOn": "I"}
+鲀,{"kCantonese": "tyun4", "kMandarin": "t\u00fan"}
+鲁,{"kCantonese": "lou5", "kMandarin": "l\u01d4"}
+鲂,{"kCantonese": "fong4", "kMandarin": "f\u00e1ng"}
+敭,{"kKorean": "YANG", "kHangul": "\uc591", "kMandarin": "y\u00e1ng", "kJapaneseOn": "YOU"}
+敪,{"kMandarin": "du\u00f3", "kCantonese": "zyut3", "kJapaneseOn": "TATSU TACHI SETSU SECHI"}
+敨,{"kCantonese": "tau2", "kMandarin": "t\u01d2u"}
+敩,{"kKorean": "HYO", "kMandarin": "xi\u00e0o", "kJapaneseOn": "KOU GYOU KAKU GAKU"}
+䀯,{"kCantonese": "bok6 bou6 pui4", "kMandarin": "b\u01d4"}
+敟,{"kMandarin": "di\u01cen", "kJapaneseOn": "TEN"}
+敜,{"kCantonese": "nip6", "kMandarin": "ni\u00e8"}
+敝,{"kHangul": "\ud3d0", "kMandarin": "b\u00ec", "kKorean": "PHYEY", "kVietnamese": "t\u1ec7", "kCantonese": "bai6", "kJapaneseOn": "HEI", "kTang": "bhi\u025b\u0300i"}
+䀷,{"kCantonese": "gip3", "kMandarin": "ji\u00e9"}
+䀶,{"kCantonese": "loeng6 long4 long5", "kMandarin": "li\u00e0ng"}
+䀵,{"kCantonese": "seon3 si1", "kMandarin": "sh\u00f9n"}
+䀴,{"kCantonese": "zing2", "kMandarin": "y\u01d0ng"}
+䀳,{"kCantonese": "lat3", "kMandarin": "\u00e0i"}
+䀲,{"kCantonese": "muk6", "kMandarin": "m\u00f9"}
+䀱,{"kCantonese": "fung1", "kMandarin": "f\u0113ng"}
+䀰,{"kCantonese": "guk1", "kMandarin": "g\u01d4"}
+䀿,{"kCantonese": "daai6", "kMandarin": "d\u00ec"}
+䀾,{"kCantonese": "dou2", "kMandarin": "d\u01d4"}
+䀽,{"kCantonese": "zin2 zin4", "kMandarin": "y\u00e1n"}
+䀼,{"kCantonese": "caan1 zing6", "kMandarin": "ch\u0113n"}
+䀻,{"kCantonese": "bing2 ping3", "kMandarin": "p\u00ecng"}
+䀺,{"kCantonese": "cau1", "kMandarin": "ch\u014du"}
+䀹,{"kCantonese": "gap6 zip3", "kMandarin": "ji\u00e9"}
+䀸,{"kCantonese": "daai6 zaai3", "kMandarin": "ch\u00ec"}
+隁,{"kMandarin": "y\u00e0n", "kJapaneseOn": "EN"}
+絏,{"kVietnamese": "d\u00e2y", "kMandarin": "xi\u00e8", "kCantonese": "sit3", "kJapaneseOn": "SETSU SECHI EI"}
+琔,{"kMandarin": "di\u00e0n"}
+絍,{"kKorean": "IM", "kHangul": "\uc784", "kMandarin": "r\u00e8n", "kJapaneseOn": "JIN NIN"}
+絓,{"kMandarin": "gu\u00e0", "kCantonese": "gwaa3", "kJapaneseOn": "KAI GE KA WA"}
+絒,{"kMandarin": "ch\u00f3u"}
+絑,{"kMandarin": "zh\u016b", "kJapaneseOn": "SHU CHU"}
+結,{"kHangul": "\uacb0", "kMandarin": "ji\u00e9", "kKorean": "KYEL", "kVietnamese": "k\u1ebft", "kCantonese": "git3 lit3", "kJapaneseOn": "KETSU KEI", "kHanyuPinlu": "jie2(1419) jie1(91)", "kTang": "*get"}
+絗,{"kMandarin": "h\u00fa", "kJapaneseOn": "KOTSU GOCHI"}
+絖,{"kHangul": "\uad11", "kMandarin": "ku\u00e0ng", "kKorean": "KWANG", "kVietnamese": "quang", "kCantonese": "fong3 kong3 kwong3", "kJapaneseOn": "KOU"}
+絕,{"kMandarin": "ju\u00e9", "kKorean": "CEL", "kCantonese": "zyut3 zyut6", "kJapaneseOn": "ZETSU", "kHanyuPinlu": "jue2(294)", "kTang": "*dzhiu\u025bt"}
+絔,{"kMandarin": "b\u01cei"}
+絚,{"kMandarin": "g\u0113ng", "kJapaneseOn": "KOU"}
+絙,{"kKorean": "HWAN", "kHangul": "\ud658", "kMandarin": "hu\u00e1n", "kJapaneseOn": "KAN GAN KOU"}
+絘,{"kCantonese": "ci3", "kMandarin": "c\u00ec"}
+絟,{"kMandarin": "qu\u00e1n"}
+絞,{"kHangul": "\uad50", "kMandarin": "ji\u01ceo", "kKorean": "KYO", "kVietnamese": "gi\u1ea3o", "kCantonese": "gaau2", "kJapaneseOn": "KOU KYOU"}
+絝,{"kMandarin": "k\u00f9", "kCantonese": "fu3", "kJapaneseOn": "KU KO"}
+絜,{"kKorean": "HYEL", "kHangul": "\ud608", "kMandarin": "ji\u00e9", "kCantonese": "git3", "kJapaneseOn": "KETSU KECHI KEI KATSU"}
+㛵,{"kCantonese": "cing1", "kMandarin": "ch\u0113ng"}
+㛴,{"kCantonese": "nou5 zyun5", "kMandarin": "n\u01ceo"}
+㛷,{"kCantonese": "gai1", "kMandarin": "j\u012b"}
+㛶,{"kCantonese": "taan3", "kMandarin": "t\u00e0n"}
+㛱,{"kCantonese": "wui2", "kMandarin": "w\u011bi"}
+㛰,{"kCantonese": "fan1"}
+㛳,{"kCantonese": "zaai6 zaam3", "kMandarin": "y\u00ec"}
+㛲,{"kCantonese": "faat3", "kMandarin": "f\u00e0"}
+㛽,{"kCantonese": "saan1"}
+㛼,{"kCantonese": "cap3 coi3", "kMandarin": "ch\u0101"}
+㛿,{"kCantonese": "zaai6 zat3", "kMandarin": "zh\u00ec"}
+㛾,{"kCantonese": "haam4", "kMandarin": "xi\u00e1n"}
+㛹,{"kCantonese": "pin4", "kMandarin": "pi\u00e1n"}
+㛸,{"kCantonese": "syu6", "kMandarin": "sh\u00f9"}
+㛻,{"kCantonese": "kwaai2", "kMandarin": "ku\u0101"}
+㛺,{"kCantonese": "aam1", "kMandarin": "\u0101n"}
+絳,{"kHangul": "\uac15", "kMandarin": "ji\u00e0ng", "kKorean": "KANG", "kCantonese": "gong3", "kJapaneseOn": "KOU", "kTang": "g\u00e0ng"}
+絲,{"kHangul": "\uc0ac", "kMandarin": "s\u012b", "kKorean": "SA", "kVietnamese": "t\u01a1", "kCantonese": "si1", "kJapaneseOn": "SHI BEKI", "kHanyuPinlu": "si1(186)", "kTang": "*si\u0259"}
+統,{"kHangul": "\ud1b5", "kMandarin": "t\u01d2ng", "kKorean": "THONG", "kVietnamese": "th\u1ed1ng", "kCantonese": "tung2", "kJapaneseOn": "TOU", "kHanyuPinlu": "tong3(959)", "kTang": "t\u00f2ng"}
+絰,{"kKorean": "CIL", "kHangul": "\uc9c8", "kMandarin": "di\u00e9", "kCantonese": "dit6", "kJapaneseOn": "TETSU DECHI"}
+絷,{"kCantonese": "zap1", "kMandarin": "zh\u00ed"}
+絶,{"kKorean": "CEL", "kVietnamese": "tuy\u1ec7t", "kHangul": "\uc808", "kMandarin": "ju\u00e9", "kJapaneseOn": "ZETSU"}
+絵,{"kMandarin": "hu\u00ec", "kJapaneseOn": "KAI E"}
+絴,{"kMandarin": "xi\u00e1ng"}
+㛯,{"kCantonese": "min5", "kMandarin": "f\u00e0n"}
+㛮,{"kCantonese": "sou2", "kMandarin": "s\u01ceo"}
+䖭,{"kCantonese": "gyun2", "kMandarin": "ju\u00e0n"}
+䖯,{"kCantonese": "fui1 kwaai1", "kMandarin": "ku\u00ed"}
+䖮,{"kMandarin": "xi\u01ceng"}
+谟,{"kCantonese": "mou4", "kMandarin": "m\u00f3"}
+猰,{"kTang": "qat", "kCantonese": "jaak3 jat3", "kMandarin": "y\u00e0"}
+猱,{"kHangul": "\ub178", "kMandarin": "n\u00e1o", "kKorean": "NO", "kCantonese": "naau4", "kJapaneseOn": "DOU NOU JUU NYUU", "kTang": "n\u0251u"}
+䖵,{"kCantonese": "kwan1", "kMandarin": "k\u016bn"}
+䖴,{"kVietnamese": "ri\u00eau", "kCantonese": "ziu4", "kMandarin": "y\u00e1o"}
+䖱,{"kCantonese": "hong4", "kMandarin": "ku\u0101ng"}
+䖰,{"kCantonese": "bei1 pai3", "kMandarin": "p\u00e0i"}
+䖳,{"kCantonese": "caa3", "kMandarin": "zh\u00e0"}
+䖲,{"kCantonese": "ceon4 zung1", "kMandarin": "x\u00fan"}
+猳,{"kMandarin": "ji\u0101"}
+谣,{"kHanyuPinlu": "yao2(19)", "kCantonese": "jiu4", "kMandarin": "y\u00e1o"}
+谢,{"kHanyuPinlu": "xie4(192) xie5(97)", "kCantonese": "ze6", "kMandarin": "xi\u00e8"}
+谡,{"kCantonese": "suk1", "kMandarin": "s\u00f9"}
+谠,{"kCantonese": "dong2", "kMandarin": "d\u01ceng"}
+谧,{"kCantonese": "mat6", "kMandarin": "m\u00ec"}
+谦,{"kHanyuPinlu": "qian1(26)", "kCantonese": "him1", "kMandarin": "qi\u0101n"}
+谥,{"kCantonese": "si3", "kMandarin": "sh\u00ec"}
+谤,{"kCantonese": "pong3", "kMandarin": "b\u00e0ng"}
+猨,{"kHangul": "\uc6d0", "kMandarin": "yu\u00e1n", "kKorean": "WEN", "kCantonese": "jyun4", "kJapaneseOn": "EN", "kTang": "*hiu\u00e6n"}
+猩,{"kHangul": "\uc131", "kMandarin": "x\u012bng", "kKorean": "SENG", "kCantonese": "sing1", "kJapaneseOn": "SEI SHOU", "kHanyuPinlu": "xing1(13) xing5(13)", "kTang": "*shr\u00e6ng"}
+猫,{"kHangul": "\ubb18", "kMandarin": "m\u0101o", "kKorean": "MYO", "kCantonese": "maau1", "kJapaneseOn": "BYOU BOU MYOU", "kHanyuPinlu": "mao1(62)"}
+猬,{"kHanyuPinlu": "wei5(14)", "kMandarin": "wei", "kCantonese": "wai6", "kJapaneseOn": "I"}
+猭,{"kMandarin": "chu\u0101n"}
+献,{"kMandarin": "xi\u00e0n", "kKorean": "HEN SA", "kVietnamese": "hi\u1ebfn", "kCantonese": "hin3", "kJapaneseOn": "KEN KON", "kHanyuPinlu": "xian4(179)"}
+猯,{"kMandarin": "tu\u0101n", "kJapaneseOn": "TAN"}
+猢,{"kHangul": "\ud638", "kMandarin": "h\u00fa", "kKorean": "HO", "kVietnamese": "h\u1ed3", "kCantonese": "wu4", "kJapaneseOn": "KO GO"}
+猣,{"kMandarin": "z\u014dng"}
+猤,{"kMandarin": "gu\u00ec", "kJapaneseOn": "KI GI"}
+猥,{"kHangul": "\uc678", "kMandarin": "w\u011bi", "kKorean": "OY", "kCantonese": "wai2 wui1", "kJapaneseOn": "WAI", "kTang": "qu\u0259\u030ci"}
+猦,{"kMandarin": "f\u0113ng"}
+猧,{"kKorean": "WA", "kHangul": "\uc640", "kMandarin": "w\u014d", "kCantonese": "wo1", "kJapaneseOn": "KA WA"}
+猸,{"kMandarin": "m\u00e9i"}
+猹,{"kMandarin": "ch\u00e1"}
+徥,{"kMandarin": "sh\u00ec"}
+徦,{"kMandarin": "ji\u01ce"}
+徧,{"kHangul": "\ud3b8", "kMandarin": "bi\u00e0n", "kKorean": "PHYEN", "kCantonese": "pin3", "kJapaneseOn": "HEN BEN", "kTang": "*bi\u025b\u0300n"}
+徨,{"kKorean": "HWANG", "kHangul": "\ud669", "kMandarin": "hu\u00e1ng", "kCantonese": "wong4", "kJapaneseOn": "KOU"}
+復,{"kHangul": "\ubcf5 \ubd80", "kMandarin": "f\u00f9", "kKorean": "POK PWU", "kCantonese": "fau6 fuk6", "kJapaneseOn": "FUKU", "kTang": "*bhiuk bhi\u00f2u"}
+循,{"kHangul": "\uc21c", "kMandarin": "x\u00fan", "kKorean": "SWUN", "kCantonese": "ceon4", "kJapaneseOn": "JUN", "kHanyuPinlu": "xun2(32)", "kTang": "zuin"}
+徫,{"kMandarin": "w\u011bi", "kJapaneseOn": "I"}
+猴,{"kHangul": "\ud6c4", "kMandarin": "h\u00f3u", "kKorean": "HWU", "kVietnamese": "h\u1ea7u", "kCantonese": "hau4", "kJapaneseOn": "KOU GO", "kHanyuPinlu": "hou2(86)", "kTang": "hou"}
+猵,{"kMandarin": "bi\u0101n", "kCantonese": "bin1", "kJapaneseOn": "HEN HIN BIN"}
+猶,{"kHangul": "\uc720", "kMandarin": "y\u00f3u", "kKorean": "YU", "kCantonese": "jau4", "kJapaneseOn": "YUU", "kHanyuPinlu": "you2(57)", "kTang": "*iou"}
+猷,{"kHangul": "\uc720", "kMandarin": "y\u00f3u", "kKorean": "YU", "kCantonese": "jau4", "kJapaneseOn": "YUU", "kTang": "iou"}
+猋,{"kMandarin": "bi\u0101o", "kCantonese": "biu1", "kJapaneseOn": "HYOU"}
+猌,{"kCantonese": "jan6", "kMandarin": "y\u00ecn"}
+徚,{"kMandarin": "d\u014dng"}
+㿱,{"kCantonese": "hok6 hon3", "kMandarin": "xu\u00e9"}
+猒,{"kMandarin": "y\u0101n", "kCantonese": "aat3 jim3 ngaat3", "kJapaneseOn": "EN OU YOU"}
+㡓,{"kCantonese": "kwaan1", "kMandarin": "k\u016bn"}
+㡒,{"kCantonese": "zeon1", "kMandarin": "zh\u016bn"}
+㡑,{"kCantonese": "hau1 ziu2", "kMandarin": "qi\u0101o"}
+㡐,{"kCantonese": "zin1"}
+㡖,{"kCantonese": "cong4", "kMandarin": "chu\u00e1ng"}
+㡕,{"kCantonese": "zing1", "kMandarin": "y\u012bng"}
+㡔,{"kCantonese": "mou6", "kMandarin": "w\u00f9"}
+㡏,{"kCantonese": "so1", "kMandarin": "sh\u00f9"}
+㡫,{"kCantonese": "zi3", "kMandarin": "y\u00ec"}
+㡬,{}
+傄,{"kMandarin": "xi\u0101", "kJapaneseOn": "KATSU KECHI"}
+傅,{"kHangul": "\ubd80", "kMandarin": "fu", "kKorean": "PWU", "kVietnamese": "ph\u00f3", "kCantonese": "fu6", "kJapaneseOn": "FU", "kHanyuPinlu": "fu5(201)", "kTang": "bi\u00f2"}
+傆,{"kMandarin": "yu\u00e0n", "kJapaneseOn": "GEN GAN KAN"}
+傇,{"kMandarin": "r\u01d2ng", "kJapaneseOn": "JOU NYU"}
+傀,{"kKorean": "KOY", "kHangul": "\uad34", "kMandarin": "gu\u012b", "kCantonese": "faai3 gwai1", "kJapaneseOn": "KAI"}
+傁,{"kMandarin": "s\u01d2u", "kCantonese": "sau2", "kJapaneseOn": "SOU SU"}
+傂,{"kMandarin": "zh\u00ec", "kCantonese": "zi6", "kJapaneseOn": "CHI JI SHI"}
+傃,{"kKorean": "SO", "kMandarin": "s\u00f9", "kCantonese": "sou3", "kJapaneseOn": "SO"}
+傌,{"kKorean": "MA", "kVietnamese": "m\u00e1", "kMandarin": "m\u00e0", "kCantonese": "maa6", "kJapaneseOn": "BA ME"}
+傍,{"kHangul": "\ubc29", "kMandarin": "b\u00e0ng", "kKorean": "PANG PHAYNG", "kVietnamese": "b\u00e0ng", "kCantonese": "bong6 pong4 pong6", "kJapaneseOn": "BOU HOU", "kHanyuPinlu": "bang4(47)", "kTang": "*bh\u0251n bh\u0251n"}
+傎,{"kKorean": "CEN", "kMandarin": "di\u0101n", "kCantonese": "din1", "kJapaneseOn": "TEN"}
+傏,{"kMandarin": "t\u00e1ng", "kJapaneseOn": "TOU DOU"}
+傈,{"kMandarin": "l\u00ec", "kJapaneseOn": "RITSU RICHI"}
+傉,{"kMandarin": "n\u00f9"}
+傊,{"kMandarin": "y\u00f9n", "kJapaneseOn": "IN"}
+傋,{"kKorean": "KANG", "kHangul": "\uac15", "kMandarin": "ji\u01ceng", "kCantonese": "gau3", "kJapaneseOn": "KAU KOU KU"}
+傔,{"kKorean": "KYEM", "kHangul": "\uacb8", "kMandarin": "qi\u00e0n", "kCantonese": "him3", "kJapaneseOn": "KEN"}
+傕,{"kKorean": "KAK", "kMandarin": "ju\u00e9", "kCantonese": "gok3", "kJapaneseOn": "KAKU"}
+傖,{"kKorean": "CHANG", "kHangul": "\ucc3d", "kMandarin": "c\u0101ng", "kCantonese": "caang4 cong1", "kJapaneseOn": "SAU SHAU"}
+傗,{"kMandarin": "ch\u00f9"}
+傐,{"kMandarin": "h\u00e0o", "kJapaneseOn": "KOU GOU"}
+傑,{"kHangul": "\uac78", "kMandarin": "ji\u00e9", "kKorean": "KEL", "kVietnamese": "ki\u1ec7t", "kCantonese": "git6", "kJapaneseOn": "KETSU", "kTang": "ghy\u025bt"}
+傒,{"kKorean": "HYEY", "kHangul": "\ud61c", "kMandarin": "x\u012b", "kCantonese": "hai4 hoi4", "kJapaneseOn": "KEI GEI"}
+傓,{"kKorean": "SEN", "kMandarin": "sh\u00e0n", "kJapaneseOn": "SEN"}
+傜,{"kKorean": "YO", "kMandarin": "y\u00e1o", "kCantonese": "jiu4", "kJapaneseOn": "EU"}
+傝,{"kKorean": "THAP", "kHangul": "\ud0d1", "kMandarin": "t\u00e0n", "kCantonese": "daap3", "kJapaneseOn": "TAN TON TAHU"}
+傞,{"kKorean": "SA", "kHangul": "\uc0ac", "kMandarin": "su\u014d", "kCantonese": "co1", "kJapaneseOn": "SA"}
+傟,{"kMandarin": "y\u01ceng", "kJapaneseOn": "AU"}
+傘,{"kHangul": "\uc0b0", "kMandarin": "s\u01cen", "kKorean": "SAN", "kVietnamese": "t\u00e0n", "kCantonese": "saan3", "kJapaneseOn": "SAN", "kHanyuPinlu": "san3(57)"}
+備,{"kHangul": "\ube44", "kMandarin": "b\u00e8i", "kKorean": "PI", "kVietnamese": "b\u1ecb", "kCantonese": "bei6", "kJapaneseOn": "BI", "kHanyuPinlu": "bei4(784)", "kTang": "*bhy\u00ec"}
+傚,{"kKorean": "HYO", "kHangul": "\ud6a8", "kMandarin": "xi\u00e0o", "kCantonese": "haau6", "kJapaneseOn": "KOU"}
+傛,{"kKorean": "YONG", "kHangul": "\uc6a9", "kMandarin": "y\u01d2ng", "kCantonese": "jung4 jung6", "kJapaneseOn": "YOU YU"}
+傤,{"kMandarin": "z\u00e0i", "kJapaneseOn": "SAI"}
+傥,{"kCantonese": "tong2", "kMandarin": "t\u01ceng"}
+傦,{"kVietnamese": "c\u1ed1t", "kMandarin": "gu"}
+傧,{"kCantonese": "ban3", "kMandarin": "b\u012bn"}
+傠,{"kMandarin": "f\u0101", "kJapaneseOn": "HATSU BOCHI"}
+傡,{"kMandarin": "b\u00ecng", "kJapaneseOn": "HEI"}
+傢,{"kKorean": "KA", "kHangul": "\uac00", "kMandarin": "ji\u0101", "kCantonese": "gaa1", "kJapaneseOn": "KA"}
+傣,{"kCantonese": "daai2 taai3", "kMandarin": "d\u01cei"}
+储,{"kHanyuPinlu": "chu3(25)", "kCantonese": "cyu5", "kMandarin": "ch\u01d4"}
+傩,{"kCantonese": "no4", "kMandarin": "nu\u00f3"}
+尞,{"kMandarin": "li\u00e0o", "kJapaneseOn": "RYOU"}
+湣,{"kKorean": "MIN", "kHangul": "\ubbfc", "kMandarin": "m\u01d0n", "kCantonese": "man5", "kJapaneseOn": "BIN MIN BEN MEN"}
+湠,{"kMandarin": "t\u00e0n"}
+湡,{"kCantonese": "jyu4", "kMandarin": "y\u00fa"}
+湦,{"kMandarin": "sh\u0113ng"}
+湧,{"kHangul": "\uc6a9", "kMandarin": "y\u01d2ng", "kKorean": "YONG", "kVietnamese": "r\u1ee5ng", "kCantonese": "jung2", "kJapaneseOn": "YUU YOU", "kTang": "*i\u01d2ng"}
+湤,{"kMandarin": "sh\u012b"}
+湥,{"kVietnamese": "d\u1ed9t", "kMandarin": "t\u016b"}
+湪,{"kMandarin": "tu\u00e0n"}
+湫,{"kHangul": "\ucd94", "kMandarin": "ji\u01ceo", "kKorean": "CHWU", "kCantonese": "zau1 ziu2", "kJapaneseOn": "SHOU SHUU", "kTang": "tsiou"}
+湨,{"kVietnamese": "x\u1ed1", "kMandarin": "j\u00fa", "kCantonese": "gwik1 gwik6", "kJapaneseOn": "KEKI KYAKU"}
+湩,{"kCantonese": "dung3 dung6", "kMandarin": "d\u00f2ng"}
+湮,{"kKorean": "IN", "kHangul": "\uc778", "kMandarin": "y\u0101n", "kCantonese": "jan1 jin1", "kJapaneseOn": "IN EN"}
+湯,{"kHangul": "\ud0d5", "kMandarin": "t\u0101ng", "kKorean": "THANG SANG", "kVietnamese": "thang", "kCantonese": "soeng1 tong1", "kJapaneseOn": "TOU SHOU", "kHanyuPinlu": "tang1(40) tang5(15)", "kTang": "t\u0251ng"}
+湭,{"kMandarin": "qi\u00fa"}
+湲,{"kHangul": "\uc6d0", "kMandarin": "yu\u00e1n", "kKorean": "WEN HWAN", "kVietnamese": "b\u1ee3n", "kCantonese": "jyun4 wun4", "kJapaneseOn": "KAN EN", "kTang": "hy\u025bn"}
+湳,{"kKorean": "NAM", "kVietnamese": "n\u01b0\u01a1m", "kHangul": "\ub0a8", "kMandarin": "n\u01cen", "kJapaneseOn": "DAN NAN"}
+尌,{"kKorean": "CWU", "kHangul": "\uc8fc", "kMandarin": "sh\u00f9", "kCantonese": "syu6", "kJapaneseOn": "SHU JU CHU JIU"}
+湱,{"kCantonese": "waak6", "kMandarin": "hu\u00f2"}
+尊,{"kHangul": "\uc874", "kMandarin": "z\u016bn", "kKorean": "CON CWUN", "kVietnamese": "t\u00f4n", "kCantonese": "zeon1 zyun1", "kJapaneseOn": "SON", "kHanyuPinlu": "zun1(122)", "kTang": "*tzu\u0259n"}
+尋,{"kHangul": "\uc2ec", "kMandarin": "x\u00fan", "kKorean": "SIM", "kVietnamese": "t\u1ea7m", "kCantonese": "cam4", "kJapaneseOn": "JIN", "kHanyuPinlu": "xun2(127) xin2(14)", "kTang": "*zim"}
+湵,{"kMandarin": "y\u01d2u"}
+湺,{"kKorean": "PO", "kHangul": "\ubcf4", "kMandarin": "y\u00e1n"}
+湻,{"kMandarin": "ch\u00fan", "kCantonese": "seon4", "kJapaneseOn": "JUN SHUN"}
+湸,{"kMandarin": "li\u00e0ng"}
+湹,{"kMandarin": "ch\u00e1n"}
+湾,{"kHanyuPinlu": "wan1(17)", "kMandarin": "w\u0101n", "kCantonese": "waan1", "kJapaneseOn": "WAN"}
+湿,{"kKorean": "SUP", "kHanyuPinlu": "shi1(170)", "kMandarin": "sh\u012b", "kCantonese": "sap1", "kJapaneseOn": "SHITSU"}
+湼,{"kCantonese": "nip6", "kMandarin": "ni\u00e8"}
+湽,{"kMandarin": "z\u012b", "kJapaneseOn": "SHI"}
+湂,{"kMandarin": "\u00e8"}
+湃,{"kHangul": "\ubc30", "kMandarin": "p\u00e0i", "kKorean": "PAY", "kCantonese": "baai3 paai3", "kJapaneseOn": "HAI HE", "kHanyuPinlu": "pai4(11)"}
+湀,{"kMandarin": "gu\u01d0"}
+湁,{"kMandarin": "ch\u00ec"}
+湆,{"kVietnamese": "\u00f9m", "kCantonese": "jap1 nap6", "kMandarin": "q\u00ec"}
+湇,{"kCantonese": "jap1", "kMandarin": "q\u00ec"}
+湄,{"kHangul": "\ubbf8", "kMandarin": "m\u00e9i", "kKorean": "MI", "kVietnamese": "m\u01b0a", "kCantonese": "mei4", "kJapaneseOn": "BI MI DAN NAN"}
+湅,{"kHangul": "\ub828", "kMandarin": "li\u00e0n", "kKorean": "LYEN", "kVietnamese": "r\u1ecbn", "kCantonese": "lin6", "kJapaneseOn": "REN RAN"}
+湊,{"kHangul": "\uc8fc", "kMandarin": "c\u00f2u", "kKorean": "CWU", "kCantonese": "cau3", "kJapaneseOn": "SOU", "kHanyuPinlu": "cou4(69)", "kTang": "ts\u00f2u"}
+湋,{"kMandarin": "w\u00e9i", "kCantonese": "wai4 wai5", "kJapaneseOn": "I"}
+湈,{"kVietnamese": "s\u00f3i m\u1ee7", "kMandarin": "m\u00e9i", "kJapaneseOn": "BAI ME"}
+湉,{"kMandarin": "ti\u00e1n", "kCantonese": "tim4", "kJapaneseOn": "TEN DEN"}
+湎,{"kHangul": "\uba74", "kMandarin": "mi\u01cen", "kKorean": "MYEN", "kVietnamese": "gi\u1eddn", "kCantonese": "min5", "kJapaneseOn": "BEN MEN"}
+湏,{"kMandarin": "hu\u00ec", "kJapaneseOn": "KAI KE"}
+尰,{"kMandarin": "zh\u01d2ng", "kCantonese": "zung1 zung2", "kJapaneseOn": "SHOU JU"}
+就,{"kHangul": "\ucde8", "kMandarin": "ji\u00f9", "kKorean": "CHWI", "kCantonese": "zau6", "kJapaneseOn": "SHUU JU", "kHanyuPinlu": "jiu4(11223)", "kTang": "*dzhi\u00f2u"}
+湒,{"kMandarin": "j\u00ed", "kJapaneseOn": "SHUU"}
+湓,{"kHangul": "\ubd84", "kMandarin": "p\u00e9n", "kKorean": "PWUN", "kVietnamese": "b\u00f9n", "kCantonese": "pun4", "kJapaneseOn": "HON HUN BON", "kTang": "bh\u0259n"}
+湐,{"kMandarin": "m\u00f2"}
+湑,{"kKorean": "SE", "kHangul": "\uc11c", "kMandarin": "x\u016b", "kCantonese": "seoi1 seoi2", "kJapaneseOn": "SHO"}
+湖,{"kHangul": "\ud638", "kMandarin": "h\u00fa", "kKorean": "HO", "kVietnamese": "h\u1ed3", "kCantonese": "wu4", "kJapaneseOn": "KO", "kHanyuPinlu": "hu2(248)", "kTang": "*ho"}
+湗,{"kMandarin": "f\u00e8ng", "kJapaneseOn": "HOU FU"}
+湔,{"kKorean": "CEN", "kHangul": "\uc804", "kMandarin": "ji\u0101n", "kCantonese": "zin1", "kJapaneseOn": "SEN SAN"}
+湕,{"kMandarin": "ji\u01cen"}
+湚,{"kMandarin": "y\u00ecn"}
+湛,{"kHangul": "\ub2f4", "kMandarin": "zh\u00e0n", "kKorean": "TAM CHIM", "kVietnamese": "\u0111\u1eadm", "kCantonese": "daam1 zaam3", "kJapaneseOn": "TAN CHIN", "kTang": "djh\u00e6\u030cm"}
+湘,{"kHangul": "\uc0c1", "kMandarin": "xi\u0101ng", "kKorean": "SANG", "kVietnamese": "t\u01b0\u01a1ng", "kCantonese": "soeng1", "kJapaneseOn": "SHOU SOU", "kTang": "*si\u0251ng"}
+湙,{"kMandarin": "y\u00ec"}
+湞,{"kKorean": "CENG", "kHangul": "\uc815", "kMandarin": "ch\u0113ng", "kCantonese": "zing1", "kJapaneseOn": "TOU JOU TEI CHOU"}
+湟,{"kHangul": "\ud669", "kMandarin": "hu\u00e1ng", "kKorean": "HWANG", "kCantonese": "wong4", "kJapaneseOn": "KOU KYOU", "kTang": "hu\u0251ng"}
+湜,{"kKorean": "SIK", "kHangul": "\uc2dd", "kMandarin": "sh\u00ed", "kCantonese": "sat6 zik6", "kJapaneseOn": "SHOKU JIKI"}
+湝,{"kMandarin": "ji\u0113", "kCantonese": "gaai1", "kJapaneseOn": "KAI"}
+愠,{"kKorean": "ON", "kMandarin": "y\u00f9n", "kCantonese": "wan3", "kJapaneseOn": "UN ON"}
+愣,{"kHanyuPinlu": "leng4(58)", "kCantonese": "ling6", "kMandarin": "l\u00e8ng"}
+愢,{"kMandarin": "s\u0101i", "kCantonese": "soi1", "kJapaneseOn": "SAI SHI"}
+愥,{"kMandarin": "ying"}
+愤,{"kHanyuPinlu": "fen4(159)", "kCantonese": "fan5", "kMandarin": "f\u00e8n"}
+愦,{"kCantonese": "kui2", "kMandarin": "ku\u00ec"}
+飓,{"kCantonese": "geoi6", "kMandarin": "j\u00f9"}
+愀,{"kHangul": "\ucd08", "kMandarin": "qi\u01ceo", "kKorean": "CHO", "kVietnamese": "x\u1ec9u", "kCantonese": "ciu2", "kJapaneseOn": "SHOU SHUU", "kTang": "tsi\u025b\u030cu"}
+愃,{"kKorean": "SEN", "kHangul": "\uc120", "kMandarin": "xu\u0101n", "kCantonese": "syun1", "kJapaneseOn": "KEN SEN KAN"}
+飨,{"kCantonese": "hoeng2", "kMandarin": "xi\u01ceng"}
+愅,{"kCantonese": "gaak3", "kMandarin": "g\u00e9"}
+愄,{"kMandarin": "w\u0113i"}
+愇,{"kMandarin": "w\u011bi", "kJapaneseOn": "I"}
+愉,{"kHangul": "\uc720", "kMandarin": "y\u00fa", "kKorean": "YU", "kCantonese": "jyu4 jyu6", "kJapaneseOn": "YU TOU", "kHanyuPinlu": "yu2(74)"}
+愋,{"kMandarin": "xu\u0101n"}
+愊,{"kVietnamese": "b\u1ef1c", "kMandarin": "b\u00ec", "kCantonese": "bik1", "kJapaneseOn": "HYOKU HIKI HUKU"}
+飧,{"kKorean": "SON", "kHangul": "\uc190", "kMandarin": "s\u016bn", "kCantonese": "syun1", "kJapaneseOn": "SON"}
+愌,{"kMandarin": "hu\u00e0n", "kJapaneseOn": "KAN GAN"}
+飥,{"kMandarin": "tu\u014d", "kCantonese": "tok3", "kJapaneseOn": "TAKU"}
+愎,{"kKorean": "PHYAK", "kHangul": "\ud345", "kMandarin": "b\u00ec", "kCantonese": "bik1", "kJapaneseOn": "HYOKU HIKI FUKU"}
+愑,{"kMandarin": "y\u01d2ng", "kJapaneseOn": "YOU YU"}
+愐,{"kVietnamese": "gi\u1ee3n", "kMandarin": "mi\u01cen", "kCantonese": "min5", "kJapaneseOn": "BEN MEN"}
+愓,{"kMandarin": "d\u00e0ng", "kCantonese": "dong6 soeng1", "kJapaneseOn": "TOU DOU SHOU YOU"}
+愒,{"kMandarin": "k\u00e0i", "kCantonese": "kai3 koi3", "kJapaneseOn": "KEI KETSU KECHI KAI"}
+愕,{"kHangul": "\uc545", "kMandarin": "\u00e8", "kKorean": "AK", "kVietnamese": "ng\u1ea1c", "kCantonese": "ngok6", "kJapaneseOn": "GAKU", "kHanyuPinlu": "e4(14)"}
+愔,{"kKorean": "UM", "kHangul": "\uc74c", "kMandarin": "y\u012bn", "kCantonese": "jam1 jam4", "kJapaneseOn": "IN AN ON"}
+愖,{"kMandarin": "ch\u00e9n", "kCantonese": "sam4", "kJapaneseOn": "SHIN JIN TAN TON"}
+愙,{"kMandarin": "k\u00e8", "kJapaneseOn": "KAKU"}
+愘,{"kCantonese": "kok3", "kMandarin": "qi\u00e0"}
+愝,{"kMandarin": "y\u01cen"}
+愜,{"kHangul": "\ud611", "kMandarin": "qi\u00e8", "kKorean": "HYEP", "kCantonese": "hip3 hip6", "kJapaneseOn": "KYOU", "kTang": "kep"}
+愞,{"kMandarin": "nu\u00f2", "kCantonese": "no6", "kJapaneseOn": "ZEN NEN TA NA"}
+䁀,{}
+鱿,{"kCantonese": "jau4", "kMandarin": "y\u00f3u"}
+暑,{"kHangul": "\uc11c", "kMandarin": "sh\u01d4", "kKorean": "SE", "kCantonese": "syu2", "kJapaneseOn": "SHO", "kHanyuPinlu": "shu3(13)", "kTang": "shi\u01d4"}
+鈊,{"kMandarin": "x\u012bn", "kJapaneseOn": "SHIN"}
+暃,{"kMandarin": "fei", "kJapaneseOn": "HI"}
+暂,{"kHanyuPinlu": "zan4(96)", "kCantonese": "zaam6", "kMandarin": "z\u00e0n"}
+暁,{"kKorean": "HYO", "kMandarin": "xi\u01ceo", "kJapaneseOn": "GYOU KYOU"}
+暀,{"kMandarin": "w\u01ceng", "kJapaneseOn": "OU KYOU GOU"}
+靱,{"kMandarin": "r\u00e8n", "kJapaneseOn": "JIN"}
+靰,{"kCantonese": "wu1", "kMandarin": "w\u00f9"}
+鈋,{"kMandarin": "\u00e9"}
+靫,{"kMandarin": "ch\u00e1", "kJapaneseOn": "SAI SA"}
+靭,{"kKorean": "IN", "kHangul": "\uc778", "kMandarin": "r\u00e8n", "kJapaneseOn": "JIN"}
+靬,{"kCantonese": "gin1", "kMandarin": "qi\u00e1n"}
+靯,{"kMandarin": "d\u00f9"}
+靮,{"kMandarin": "d\u00ed", "kCantonese": "dik1", "kJapaneseOn": "TEKI CHAKU"}
+靓,{"kCantonese": "leng3 zing6", "kMandarin": "j\u00ecng"}
+靔,{"kMandarin": "ti\u0101n"}
+鈈,{"kMandarin": "p\u012b"}
+靟,{"kMandarin": "f\u0113i"}
+豞,{"kMandarin": "h\u00f2u"}
+豟,{"kMandarin": "\u00e8"}
+鈉,{"kMandarin": "n\u00e0", "kCantonese": "naap6", "kJapaneseOn": "DOU NOU"}
+閏,{"kHangul": "\uc724", "kMandarin": "r\u00f9n", "kKorean": "LYUN", "kVietnamese": "nhu\u1eadn", "kCantonese": "jeon6", "kJapaneseOn": "JUN", "kTang": "nju\u00ecn"}
+稄,{"kMandarin": "x\u00f9n"}
+稅,{"kHangul": "\uc138", "kMandarin": "shu\u00ec", "kKorean": "SEY THAL", "kCantonese": "seoi3", "kJapaneseOn": "ZEI DATSU ETSU", "kHanyuPinlu": "shui4(23)"}
+稇,{"kMandarin": "k\u01d4n", "kCantonese": "kwan2", "kJapaneseOn": "KON"}
+稀,{"kHangul": "\ud76c", "kMandarin": "x\u012b", "kKorean": "HUY", "kVietnamese": "hi", "kCantonese": "hei1", "kJapaneseOn": "KI KE", "kHanyuPinlu": "xi1(56)", "kTang": "*xi\u0259i"}
+稁,{"kKorean": "KO", "kHangul": "\uace0", "kMandarin": "k\u01ceo"}
+稂,{"kKorean": "LANG", "kHangul": "\ub791", "kMandarin": "l\u00e1ng", "kCantonese": "long4", "kJapaneseOn": "ROU RYOU"}
+稃,{"kMandarin": "f\u016b", "kCantonese": "fau4 fu1", "kJapaneseOn": "HU HUU BU"}
+稌,{"kKorean": "TO", "kHangul": "\ub3c4", "kMandarin": "t\u00fa", "kCantonese": "dou6 tou4", "kJapaneseOn": "TO ZU SHO JO"}
+稍,{"kHangul": "\ucd08", "kMandarin": "sh\u0101o", "kKorean": "CHO", "kCantonese": "saau2", "kJapaneseOn": "SOU SHOU", "kHanyuPinlu": "shao1(118)", "kTang": "*shr\u00e0u"}
+税,{"kMandarin": "shu\u00ec", "kKorean": "SEY THAL", "kVietnamese": "thu\u1ebf", "kCantonese": "seoi3", "kJapaneseOn": "ZEI DATSU ETSU", "kHanyuPinlu": "shui4(23)", "kTang": "shiu\u025b\u0300i"}
+稈,{"kHangul": "\uac04", "kMandarin": "g\u01cen", "kKorean": "KAN", "kCantonese": "gon2", "kJapaneseOn": "KAN", "kHanyuPinlu": "gan3(12)"}
+稉,{"kTang": "g\u00e6ng", "kMandarin": "j\u012bng", "kCantonese": "gang1", "kJapaneseOn": "KOU"}
+稊,{"kHangul": "\uc81c", "kMandarin": "t\u00ed", "kKorean": "CEY", "kVietnamese": "th\u00ea \u0111\u1ec1", "kCantonese": "tai4", "kJapaneseOn": "TEI DAI"}
+程,{"kHangul": "\uc815", "kMandarin": "ch\u00e9ng", "kKorean": "CENG", "kVietnamese": "tr\u00ecnh", "kCantonese": "cing4", "kJapaneseOn": "TEI", "kHanyuPinlu": "cheng2(830)", "kTang": "djhi\u025bng"}
+豾,{"kMandarin": "p\u012b", "kJapaneseOn": "HI"}
+豿,{"kMandarin": "g\u01d2u"}
+豠,{"kMandarin": "ch\u00fa"}
+象,{"kHangul": "\uc0c1", "kMandarin": "xi\u00e0ng", "kKorean": "SANG", "kVietnamese": "t\u01b0\u1ee3ng", "kCantonese": "zoeng6", "kJapaneseOn": "SHOU ZOU", "kHanyuPinlu": "xiang4(3043)", "kTang": "*zi\u0251\u030cng"}
+茟,{"kMandarin": "y\u00f9", "kJapaneseOn": "ITSU ICHI WAI E HITSU"}
+茞,{"kMandarin": "ch\u00e9n", "kCantonese": "coi2 zi2", "kJapaneseOn": "SHIN"}
+茜,{"kKorean": "CHEN", "kHangul": "\ucc9c", "kMandarin": "qi\u00e0n", "kCantonese": "sai1 sin3 sin6", "kJapaneseOn": "SEN"}
+茛,{"kKorean": "KAN", "kHangul": "\uac04", "kMandarin": "g\u00e8n", "kCantonese": "gan3", "kJapaneseOn": "KON KEN"}
+茚,{"kMandarin": "y\u00ecn"}
+茙,{"kVietnamese": "ng\u1ed3ng", "kCantonese": "jung4", "kMandarin": "r\u00f3ng"}
+茘,{"kMandarin": "l\u00ec", "kJapaneseOn": "RI REI REN"}
+茗,{"kKorean": "MYENG", "kHangul": "\uba85", "kMandarin": "m\u00edng", "kCantonese": "ming4 ming5", "kJapaneseOn": "MEI BEI MYOU"}
+茖,{"kMandarin": "g\u00e9", "kCantonese": "gaak3 gok3", "kJapaneseOn": "KAKU"}
+茒,{"kMandarin": "yu\u00e1n"}
+茿,{"kMandarin": "zh\u00fa"}
+茽,{"kMandarin": "zh\u00f2ng", "kJapaneseOn": "CHUU JIYU"}
+茼,{"kHangul": "\ub3d9", "kMandarin": "t\u00f3ng", "kKorean": "TONG", "kVietnamese": "\u0111\u00f2ng", "kCantonese": "tung4", "kJapaneseOn": "TOU ZU"}
+茻,{"kCantonese": "mong5", "kMandarin": "m\u01ceng"}
+茺,{"kVietnamese": "s\u00fang", "kMandarin": "ch\u014dng", "kCantonese": "cung1", "kJapaneseOn": "SHUU SHU"}
+叅,{"kKorean": "CHAM", "kHangul": "\ucc38", "kMandarin": "c\u0101n", "kJapaneseOn": "SAN"}
+茸,{"kHangul": "\uc6a9", "kMandarin": "r\u014dng", "kKorean": "YONG", "kCantonese": "jung4 jung5", "kJapaneseOn": "JOU", "kHanyuPinlu": "rong1(20)", "kTang": "njiong"}
+茷,{"kMandarin": "f\u00e1", "kCantonese": "fat6 pui3", "kJapaneseOn": "HAI BAI HITSU HOCHI"}
+茶,{"kHangul": "\ub2e4 \ucc28", "kMandarin": "ch\u00e1", "kKorean": "TA CHA", "kVietnamese": "tr\u00e0", "kCantonese": "caa4", "kJapaneseOn": "CHA SA TA", "kHanyuPinlu": "cha2(194)", "kTang": "djha"}
+茵,{"kHangul": "\uc778", "kMandarin": "y\u012bn", "kKorean": "IN", "kCantonese": "jan1", "kJapaneseOn": "IN", "kTang": "qin"}
+茴,{"kKorean": "HOY", "kHangul": "\ud68c", "kMandarin": "hu\u00ed", "kCantonese": "wui4", "kJapaneseOn": "KAI UI"}
+茳,{"kKorean": "KANG", "kHangul": "\uac15", "kMandarin": "ji\u0101ng", "kCantonese": "gong1", "kJapaneseOn": "KOU"}
+茲,{"kHangul": "\uc790", "kMandarin": "z\u012b", "kKorean": "CA", "kCantonese": "ci4 zi1", "kJapaneseOn": "JI SHI", "kTang": "*tzi\u0259 dzhi\u0259"}
+茱,{"kHangul": "\uc218", "kMandarin": "zh\u016b", "kKorean": "SWU", "kCantonese": "zyu1", "kJapaneseOn": "SHU", "kTang": "zhio"}
+茰,{"kMandarin": "y\u00fa", "kJapaneseOn": "YU"}
+茯,{"kKorean": "POK", "kHangul": "\ubcf5", "kMandarin": "f\u00fa", "kCantonese": "fuk6", "kJapaneseOn": "FUKU BUKU"}
+茮,{"kMandarin": "ji\u0101o", "kJapaneseOn": "SHOU JOU NOU"}
+茭,{"kMandarin": "ji\u0101o", "kCantonese": "gaau1", "kJapaneseOn": "KEKI KYAKU KOU KYOU GOU"}
+茬,{"kKorean": "SI", "kMandarin": "ch\u00e1", "kCantonese": "ci4", "kJapaneseOn": "SHI JI"}
+茫,{"kHangul": "\ub9dd", "kMandarin": "m\u00e1ng", "kKorean": "MANG", "kVietnamese": "m\u01b0\u01a1ng", "kCantonese": "mong4", "kJapaneseOn": "BOU", "kHanyuPinlu": "mang2(76) mang1(36)", "kTang": "*m\u0251ng"}
+茪,{"kKorean": "KWANG", "kHangul": "\uad11", "kMandarin": "gu\u0101ng"}
+茩,{"kCantonese": "hau6", "kMandarin": "g\u00f2u"}
+茨,{"kHangul": "\uc790", "kMandarin": "c\u00ed", "kKorean": "CA", "kCantonese": "ci4", "kJapaneseOn": "SHI JI", "kTang": "dzhi"}
+茧,{"kHanyuPinlu": "jian3(14)", "kCantonese": "gaan2", "kMandarin": "ji\u01cen"}
+茦,{"kVietnamese": "thu\u1ed1c", "kCantonese": "caak3 zaak3", "kMandarin": "c\u00ec"}
+茥,{"kMandarin": "gu\u012b"}
+茤,{"kMandarin": "j\u00ec"}
+茢,{"kMandarin": "li\u00e8", "kCantonese": "lit6", "kJapaneseOn": "RETSU RECHI REI"}
+茡,{"kMandarin": "z\u00ec", "kJapaneseOn": "U"}
+茠,{"kCantonese": "hou1 jau1", "kMandarin": "h\u0101o"}
+䯇,{"kCantonese": "gwaat6 kyut3", "kMandarin": "k\u016b"}
+㾖,{"kCantonese": "lei5", "kMandarin": "l\u01d0"}
+㾗,{"kCantonese": "gak3 loeng6 long5", "kMandarin": "li\u00e0ng"}
+㾔,{"kCantonese": "leoi5", "kMandarin": "l\u01da"}
+㾕,{"kCantonese": "saan1 syun2", "kMandarin": "sh\u011bn"}
+㾓,{"kCantonese": "zyun1", "kMandarin": "yu\u0101n"}
+彭,{"kHangul": "\ud33d", "kMandarin": "p\u00e9ng", "kKorean": "PHAYNG PANG", "kVietnamese": "b\u00e0nh", "kCantonese": "paang4 pang4", "kJapaneseOn": "HOU"}
+㾟,{"kCantonese": "bou6", "kMandarin": "b\u00f9"}
+㾜,{"kCantonese": "fan2 hip3 keoi1 koek3", "kMandarin": "qi\u00e8"}
+㾝,{"kCantonese": "ce3 zi1", "kMandarin": "ch\u00e8"}
+㾚,{"kCantonese": "se1", "kMandarin": "xi\u0113"}
+㾛,{"kCantonese": "cam2", "kMandarin": "q\u01d0n"}
+㾘,{"kCantonese": "ang2 gang2 ngang2", "kMandarin": "g\u011bng"}
+㾙,{"kCantonese": "zaan1", "kMandarin": "x\u00ecn"}
+䯮,{"kCantonese": "naang4 nai1", "kMandarin": "n\u00e1i"}
+㾠,{"kCantonese": "kwong4", "kMandarin": "ku\u00e1ng"}
+䯭,{"kCantonese": "cim1", "kMandarin": "xi\u0101n"}
+彘,{"kKorean": "CHEY", "kHangul": "\uccb4", "kMandarin": "zh\u00ec", "kCantonese": "zi6", "kJapaneseOn": "TEI DEI EI E"}
+㚟,{"kMandarin": "chu\u00f2"}
+㚊,{"kCantonese": "hoi1", "kMandarin": "k\u0101i"}
+㚃,{"kCantonese": "wan1", "kMandarin": "y\u016bn"}
+鈏,{"kMandarin": "y\u01d0n"}
+貁,{"kMandarin": "y\u00f2u"}
+貀,{"kMandarin": "n\u00e0"}
+貃,{"kKorean": "MAYK", "kHangul": "\ub9e5", "kMandarin": "m\u00f2"}
+貂,{"kHangul": "\ucd08", "kMandarin": "di\u0101o", "kKorean": "CHO", "kCantonese": "diu1", "kJapaneseOn": "CHOU", "kTang": "*deu"}
+貽,{"kHangul": "\uc774", "kMandarin": "y\u00ed", "kKorean": "I", "kCantonese": "ji4", "kJapaneseOn": "I", "kTang": "i\u0259"}
+琕,{"kMandarin": "p\u00edn"}
+貿,{"kHangul": "\ubb34", "kMandarin": "m\u00e0o", "kKorean": "MWU", "kCantonese": "mau6", "kJapaneseOn": "BOU MO", "kHanyuPinlu": "mao4(36)"}
+貾,{"kMandarin": "ch\u00ed"}
+貹,{"kMandarin": "sh\u00e8ng", "kJapaneseOn": "SEI SHOU"}
+貸,{"kKorean": "TAY THUK", "kHangul": "\ub300", "kMandarin": "d\u00e0i", "kCantonese": "taai3 tik1", "kJapaneseOn": "TAI TOKU"}
+費,{"kHangul": "\ube44", "kMandarin": "f\u00e8i", "kKorean": "PI", "kVietnamese": "ph\u00ed", "kCantonese": "bei3 fai3", "kJapaneseOn": "HI FUTSU", "kHanyuPinlu": "fei4(305)", "kTang": "pi\u0259\u0300i"}
+貺,{"kKorean": "HWANG", "kHangul": "\ud669", "kMandarin": "ku\u00e0ng", "kCantonese": "fong3", "kJapaneseOn": "KYOU KOU"}
+貵,{"kMandarin": "pi\u01cen"}
+貴,{"kHangul": "\uadc0", "kMandarin": "gu\u00ec", "kKorean": "KWI", "kVietnamese": "qu\u00fd", "kCantonese": "gwai3", "kJapaneseOn": "KI", "kHanyuPinlu": "gui4(180)", "kTang": "*giu\u0259\u0300i"}
+買,{"kHangul": "\ub9e4", "kMandarin": "m\u01cei", "kKorean": "MAY", "kVietnamese": "m\u00e3i", "kCantonese": "maai5", "kJapaneseOn": "BAI", "kHanyuPinlu": "mai3(774)", "kTang": "*m\u025b\u030ci"}
+貶,{"kHangul": "\ud3c4", "kMandarin": "bi\u01cen", "kKorean": "PHYEM", "kVietnamese": "bi\u1ebfm", "kCantonese": "bin2", "kJapaneseOn": "HEN", "kTang": "by\u025b\u030cm"}
+貱,{"kMandarin": "b\u00ec"}
+貰,{"kHangul": "\uc138", "kMandarin": "sh\u00ec", "kKorean": "SEY", "kVietnamese": "th\u1edfi", "kCantonese": "sai3", "kJapaneseOn": "SEI SHA"}
+貳,{"kHangul": "\uc774", "kMandarin": "\u00e8r", "kKorean": "I", "kVietnamese": "nh\u1ecb", "kCantonese": "ji6", "kJapaneseOn": "NI JI"}
+貲,{"kHangul": "\uc790", "kMandarin": "z\u012b", "kKorean": "CA", "kCantonese": "zi1", "kJapaneseOn": "SHI", "kTang": "tzi\u025b"}
+䐇,{"kCantonese": "seon4", "kMandarin": "w\u011bn"}
+䐆,{"kCantonese": "co1", "kMandarin": "c\u01cei"}
+䐅,{"kCantonese": "zi4", "kMandarin": "x\u012b"}
+䐄,{"kCantonese": "haam6", "kMandarin": "xi\u00e0n"}
+䐃,{"kCantonese": "kwaan3", "kMandarin": "j\u00f9n"}
+䐂,{"kCantonese": "luk6 lyun4", "kMandarin": "l\u00f9"}
+䐁,{"kCantonese": "doek3 duk1 zaa1", "kMandarin": "zhu\u00f3"}
+䐀,{"kCantonese": "gei3", "kMandarin": "j\u00ec"}
+竣,{"kKorean": "CWUN CEN", "kHangul": "\uc900", "kMandarin": "j\u00f9n", "kCantonese": "zeon3", "kJapaneseOn": "SHUN"}
+䐌,{"kCantonese": "tin2", "kMandarin": "ti\u01cen"}
+䐋,{"kCantonese": "cung1", "kMandarin": "c\u014dng"}
+䐊,{"kCantonese": "kwaan1", "kMandarin": "k\u016bn"}
+䐉,{"kCantonese": "zi3", "kMandarin": "z\u00ec"}
+䐈,{"kCantonese": "piu1 zik1", "kMandarin": "zh\u00ed"}
+祳,{"kCantonese": "san4", "kMandarin": "sh\u00e8n"}
+祲,{"kTang": "tz\u00ecm", "kMandarin": "j\u00ecn", "kCantonese": "zam1", "kJapaneseOn": "SHIN"}
+祱,{"kMandarin": "shu\u00ec"}
+祰,{"kMandarin": "g\u00e0o"}
+祷,{"kKorean": "TO", "kMandarin": "d\u01ceo", "kCantonese": "tou2", "kJapaneseOn": "TOU"}
+祶,{"kMandarin": "d\u00ec"}
+祵,{"kMandarin": "k\u01d4n"}
+祴,{"kCantonese": "goi1", "kMandarin": "g\u0101i"}
+祸,{"kHanyuPinlu": "huo4(16)", "kCantonese": "wo6", "kMandarin": "hu\u00f2"}
+慨,{"kHangul": "\uac1c", "kMandarin": "k\u01cei", "kKorean": "KAY", "kVietnamese": "kh\u00e1i", "kCantonese": "koi2 koi3", "kJapaneseOn": "GAI KAI", "kHanyuPinlu": "kai3(33)", "kTang": "k\u0259\u0300i"}
+鈌,{"kVietnamese": "kho\u00e9t", "kMandarin": "ju\u00e9", "kCantonese": "kyut3", "kJapaneseOn": "ETSU ECHI KEI KE KETSU KECHI"}
+祦,{"kMandarin": "w\u00fa"}
+颩,{"kCantonese": "biu1", "kMandarin": "bi\u0101o"}
+颪,{"kMandarin": "gua"}
+湢,{"kMandarin": "b\u00ec", "kCantonese": "bik1", "kJapaneseOn": "HYOKU HYKI"}
+㠭,{"kCantonese": "zin2", "kMandarin": "zh\u01cen"}
+嫏,{"kMandarin": "l\u00e1ng", "kJapaneseOn": "ROU"}
+湰,{"kMandarin": "l\u00f3ng"}
+湶,{"kMandarin": "qu\u00e1n", "kJapaneseOn": "SEN"}
+發,{"kHangul": "\ubc1c", "kMandarin": "f\u0101", "kKorean": "PAL", "kVietnamese": "ph\u00e1t", "kCantonese": "faat3", "kJapaneseOn": "HOTSU HATSU", "kHanyuPinlu": "fa1(4834) fa5(174) fa4(80)", "kTang": "*bi\u00e6t"}
+登,{"kHangul": "\ub4f1", "kMandarin": "d\u0113ng", "kKorean": "TUNG", "kVietnamese": "\u0111\u0103ng", "kCantonese": "dang1", "kJapaneseOn": "TOU TO", "kHanyuPinlu": "deng1(150)", "kTang": "*d\u0259ng"}
+湷,{"kMandarin": "zhu\u0101ng"}
+荜,{"kCantonese": "bat1", "kMandarin": "b\u00ec"}
+荝,{"kMandarin": "z\u00e9"}
+荞,{"kCantonese": "kiu4", "kMandarin": "qi\u00e1o"}
+荟,{"kCantonese": "kui2 wai3 wui3", "kMandarin": "hu\u00ec"}
+厤,{"kKorean": "LYEK", "kMandarin": "l\u00ec", "kCantonese": "lik6", "kJapaneseOn": "REKI RYAKU"}
+厥,{"kHangul": "\uad90", "kMandarin": "ju\u00e9", "kKorean": "KWEL KWUL", "kCantonese": "kyut3", "kJapaneseOn": "KETSU KUTSU", "kTang": "giu\u00e6t"}
+厦,{"kHangul": "\ud558", "kMandarin": "sh\u00e0", "kKorean": "HA", "kCantonese": "haa6", "kJapaneseOn": "KA", "kHanyuPinlu": "sha4(17)"}
+厧,{"kMandarin": "di\u0101n", "kJapaneseOn": "TEN"}
+厨,{"kKorean": "CWU", "kHanyuPinlu": "chu2(48)", "kMandarin": "ch\u00fa", "kCantonese": "ceoi4 cyu4", "kJapaneseOn": "ZU CHUU"}
+荕,{"kMandarin": "j\u012bn", "kJapaneseOn": "KIN"}
+荖,{"kMandarin": "l\u01ceo", "kCantonese": "lau1 lou5", "kJapaneseOn": "HOU ROU"}
+荗,{"kMandarin": "sh\u00f9", "kJapaneseOn": "SHOKU JIKI"}
+荐,{"kHangul": "\ucc9c", "kMandarin": "ji\u00e0n", "kKorean": "CHEN KEN", "kCantonese": "zin3", "kJapaneseOn": "SEN ZEN", "kHanyuPinlu": "jian4(19)"}
+荑,{"kHangul": "\uc774", "kMandarin": "t\u00ed", "kKorean": "CEY I", "kVietnamese": "s\u00fan r\u00ec", "kCantonese": "ji4 tai4", "kJapaneseOn": "TEI DAI I", "kTang": "dhei"}
+荒,{"kHangul": "\ud669", "kMandarin": "hu\u0101ng", "kKorean": "HWANG", "kVietnamese": "hoang", "kCantonese": "fong1", "kJapaneseOn": "KOU", "kHanyuPinlu": "huang1(54)", "kTang": "*xu\u0251ng"}
+荌,{"kMandarin": "\u00e0n"}
+荍,{"kVietnamese": "th\u1ea9u", "kMandarin": "qi\u00e1o", "kCantonese": "kiu4", "kJapaneseOn": "KYOU GYOU SHUU SHU"}
+荎,{"kVietnamese": "chu\u1ed1i", "kMandarin": "ch\u00ed", "kCantonese": "ci4", "kJapaneseOn": "CHI JI CHITSU JICHI TETSU DECHI"}
+荏,{"kHangul": "\uc784", "kMandarin": "r\u011bn", "kKorean": "IM", "kCantonese": "jam5", "kJapaneseOn": "JIN NIN", "kTang": "nj\u01d0m"}
+荈,{"kCantonese": "cyun2", "kMandarin": "chu\u01cen"}
+草,{"kHangul": "\ucd08", "kMandarin": "c\u01ceo", "kKorean": "CHO", "kVietnamese": "th\u1ea3o", "kCantonese": "cou2", "kJapaneseOn": "SOU", "kHanyuPinlu": "cao3(613)", "kTang": "*ts\u0251\u030cu"}
+荊,{"kHangul": "\ud615", "kMandarin": "j\u012bng", "kKorean": "HYENG", "kCantonese": "ging1", "kJapaneseOn": "KEI KYOU", "kTang": "*gi\u00e6ng"}
+荋,{"kMandarin": "\u00e9r"}
+荄,{"kVietnamese": "gai", "kMandarin": "g\u0101i", "kCantonese": "goi1", "kJapaneseOn": "KAI"}
+荅,{"kMandarin": "d\u0101", "kCantonese": "daap3", "kJapaneseOn": "TOU"}
+荆,{"kKorean": "HYENG", "kMandarin": "j\u012bng", "kCantonese": "ging1", "kJapaneseOn": "KEI KYOU"}
+荇,{"kHangul": "\ud589", "kMandarin": "x\u00ecng", "kKorean": "HAYNG", "kVietnamese": "h\u00e0nh", "kCantonese": "hang6", "kJapaneseOn": "KOU GYOU", "kTang": "h\u00e6\u030cng"}
+荀,{"kKorean": "SWUN", "kHangul": "\uc21c", "kMandarin": "x\u00fan", "kCantonese": "seon1", "kJapaneseOn": "JUN SHUN"}
+荁,{"kCantonese": "wun4", "kMandarin": "hu\u00e1n"}
+荂,{"kMandarin": "f\u016b", "kCantonese": "kwaa1", "kJapaneseOn": "KA KE HU KU"}
+荃,{"kKorean": "CEN", "kHangul": "\uc804", "kMandarin": "qu\u00e1n", "kCantonese": "cyun4", "kJapaneseOn": "SEN SON SETSU SECHI SATSU"}
+荬,{"kMandarin": "m\u01cei"}
+荭,{"kCantonese": "hung4", "kMandarin": "h\u00f3ng"}
+荮,{"kMandarin": "zh\u00f2u"}
+药,{"kHanyuPinlu": "yao4(407)", "kCantonese": "joek1 joek6", "kMandarin": "y\u00e0o"}
+荨,{"kCantonese": "cam4", "kMandarin": "x\u00fan"}
+荩,{"kCantonese": "zeon2", "kMandarin": "j\u00ecn"}
+荪,{"kCantonese": "syun1", "kMandarin": "s\u016bn"}
+荫,{"kCantonese": "jam3", "kMandarin": "y\u012bn"}
+荤,{"kCantonese": "fan1", "kMandarin": "h\u016bn"}
+荥,{"kCantonese": "jing4", "kMandarin": "x\u00edng"}
+荦,{"kCantonese": "lok3", "kMandarin": "lu\u00f2"}
+荧,{"kCantonese": "jing4", "kMandarin": "y\u00edng"}
+荠,{"kCantonese": "cai5", "kMandarin": "j\u00ec"}
+荡,{"kHanyuPinlu": "dang4(67)", "kCantonese": "dong6", "kMandarin": "d\u00e0ng"}
+荢,{"kMandarin": "yu"}
+荣,{"kHanyuPinlu": "rong2(147)", "kCantonese": "wing4", "kMandarin": "r\u00f3ng"}
+曾,{"kHangul": "\uc99d", "kMandarin": "c\u00e9ng", "kKorean": "CUNG", "kVietnamese": "t\u1eb1ng", "kCantonese": "cang4 zang1", "kJapaneseOn": "SO SOU ZOU", "kHanyuPinlu": "ceng2(387)", "kTang": "*dzh\u0259ng *tz\u0259ng"}
+替,{"kHangul": "\uccb4", "kMandarin": "t\u00ec", "kKorean": "CHEY", "kVietnamese": "th\u1ebf", "kCantonese": "tai3", "kJapaneseOn": "TAI TEI", "kHanyuPinlu": "ti4(352)", "kTang": "t\u00e8i"}
+蛰,{"kCantonese": "zat6", "kMandarin": "zh\u00e9"}
+湌,{"kMandarin": "c\u0101n"}
+䂓,{"kCantonese": "kwai1"}
+湍,{"kHangul": "\ub2e8", "kMandarin": "tu\u0101n", "kKorean": "TAN", "kCantonese": "teon1", "kJapaneseOn": "TAN", "kTang": "tu\u0251n"}
+鼋,{"kCantonese": "jyun4", "kMandarin": "yu\u00e1n"}
+䂱,{"kCantonese": "zeoi6", "kMandarin": "ru\u00ec"}
+䂰,{"kCantonese": "laap6", "kMandarin": "l\u00e0"}
+䂳,{"kCantonese": "co2", "kMandarin": "cu\u01d2"}
+䂲,{"kCantonese": "faat3", "kMandarin": "f\u01ce"}
+䂵,{"kCantonese": "gung1", "kMandarin": "g\u014dng"}
+䂴,{"kCantonese": "dan6 zin4", "kMandarin": "y\u00e1n"}
+䂶,{"kCantonese": "gip3", "kMandarin": "ji\u00e9"}
+䌻,{"kCantonese": "zik6", "kMandarin": "y\u00ec"}
+䌺,{"kCantonese": "zi5", "kMandarin": "\u011br"}
+㝄,{"kCantonese": "seon4 zeot1", "kMandarin": "ch\u00fan"}
+㝹,{"kMandarin": "n\u00f3u"}
+㝷,{}
+詈,{"kMandarin": "l\u00ec", "kCantonese": "lei6", "kJapaneseOn": "RI"}
+㝣,{"kMandarin": "y\u00ec"}
+㝢,{"kCantonese": "zyu5", "kMandarin": "y\u01d4"}
+媌,{"kMandarin": "mi\u00e1o", "kCantonese": "maau4", "kJapaneseOn": "BOU MYOU BOKU MOKU"}
+媍,{"kKorean": "PWU", "kHangul": "\ubd80", "kMandarin": "f\u00f9"}
+媎,{"kVietnamese": "ch\u1eeda", "kMandarin": "ji\u011b", "kJapaneseOn": "SO"}
+媏,{"kMandarin": "du\u0101n", "kJapaneseOn": "TAN"}
+媈,{"kMandarin": "hu\u012b"}
+媉,{"kMandarin": "w\u00f2"}
+媊,{"kMandarin": "qi\u00e1n", "kCantonese": "cin4", "kJapaneseOn": "SEN ZEN SHI"}
+媋,{"kMandarin": "ch\u016bn", "kJapaneseOn": "SHUN"}
+媄,{"kKorean": "MI", "kVietnamese": "m\u1eb9", "kHangul": "\ubbf8", "kMandarin": "m\u011bi", "kJapaneseOn": "BI MI"}
+媅,{"kMandarin": "d\u0101n"}
+媆,{"kCantonese": "nyun6", "kMandarin": "ru\u01cen"}
+媇,{"kMandarin": "q\u012bn"}
+媀,{"kMandarin": "y\u00f9"}
+媁,{"kMandarin": "w\u00e9i"}
+媂,{"kMandarin": "d\u00ec"}
+媃,{"kMandarin": "r\u00f3u", "kJapaneseOn": "JUU NYU"}
+媜,{"kMandarin": "zh\u0113ng", "kJapaneseOn": "TEI CHOU"}
+媝,{"kMandarin": "qi\u016b", "kJapaneseOn": "SHUU SHU"}
+媞,{"kMandarin": "sh\u00ec", "kCantonese": "tai4", "kJapaneseOn": "SHI JI TEI DAI TAI TA"}
+媟,{"kKorean": "SEL", "kHangul": "\uc124", "kMandarin": "xi\u00e8", "kCantonese": "sit3", "kJapaneseOn": "SETSU SECHI"}
+媘,{"kMandarin": "ji\u0113"}
+媙,{"kMandarin": "w\u0113i", "kJapaneseOn": "I"}
+媚,{"kHangul": "\ubbf8", "kMandarin": "m\u00e8i", "kKorean": "MI", "kCantonese": "mei4 mei6", "kJapaneseOn": "BI", "kTang": "my\u00ec"}
+媛,{"kKorean": "WEN", "kHangul": "\uc6d0", "kMandarin": "yu\u00e0n", "kCantonese": "jyun4 jyun6 wun4", "kJapaneseOn": "EN"}
+媔,{"kMandarin": "mi\u00e1n", "kCantonese": "min4", "kJapaneseOn": "BEN MEN"}
+媕,{"kHangul": "\uc554", "kMandarin": "\u0101n", "kKorean": "AM", "kCantonese": "am1 om1", "kJapaneseOn": "EN AN ON AU OU", "kTang": "qom"}
+媖,{"kMandarin": "y\u012bng", "kJapaneseOn": "EI YUU"}
+媗,{"kMandarin": "xu\u0101n", "kJapaneseOn": "KEN KAN SEN"}
+媑,{"kMandarin": "zh\u00f2ng"}
+媒,{"kHangul": "\ub9e4", "kMandarin": "m\u00e9i", "kKorean": "MAY", "kVietnamese": "m\u1ed1i", "kCantonese": "mui4", "kJapaneseOn": "BAI MAI BOU", "kTang": "m\u0259i"}
+媓,{"kKorean": "HWANG", "kHangul": "\ud669", "kMandarin": "hu\u00e1ng", "kJapaneseOn": "KOU OU"}
+媬,{"kMandarin": "b\u01ceo", "kCantonese": "bou2", "kJapaneseOn": "HO"}
+媭,{"kMandarin": "x\u016b", "kJapaneseOn": "SHU"}
+媮,{"kMandarin": "t\u014du", "kCantonese": "tau1", "kJapaneseOn": "TOU TSU YU"}
+媯,{"kCantonese": "gwai1", "kMandarin": "gu\u012b"}
+媨,{"kMandarin": "ji\u00f9"}
+媩,{"kMandarin": "h\u00fa", "kJapaneseOn": "KO GO"}
+媪,{"kKorean": "O", "kHangul": "\uc624", "kMandarin": "\u01ceo", "kCantonese": "ou2", "kJapaneseOn": "OU"}
+媫,{"kMandarin": "qie"}
+媤,{"kKorean": "SI", "kHangul": "\uc2dc", "kMandarin": "s\u012b", "kJapaneseOn": "SHI"}
+媥,{"kMandarin": "pi\u0101n", "kCantonese": "pin1", "kJapaneseOn": "HEN"}
+媦,{"kMandarin": "w\u00e8i", "kCantonese": "wai6", "kJapaneseOn": "I"}
+媧,{"kHangul": "\uc65c", "kMandarin": "w\u0101", "kKorean": "WAY KWA", "kVietnamese": "oa", "kCantonese": "wo1", "kJapaneseOn": "KAI KE KA", "kTang": "gua"}
+媠,{"kMandarin": "tu\u01d2", "kJapaneseOn": "TA DA NA RA"}
+媡,{"kMandarin": "li\u00e0n"}
+媢,{"kKorean": "MO", "kHangul": "\ubaa8", "kMandarin": "m\u00e0o", "kCantonese": "mou6", "kJapaneseOn": "BOU MOU BOKU MOKU BAI ME"}
+媣,{"kMandarin": "r\u01cen"}
+窜,{"kHanyuPinlu": "cuan4(51)", "kCantonese": "cyun3", "kMandarin": "cu\u00e0n"}
+窝,{"kHanyuPinlu": "wo1(153)", "kCantonese": "wo1", "kMandarin": "w\u014d"}
+窚,{"kMandarin": "ch\u00e9ng"}
+窛,{"kKorean": "KWU", "kHangul": "\uad6c", "kMandarin": "k\u00f2u"}
+窘,{"kHangul": "\uad70", "kMandarin": "ji\u01d2ng", "kKorean": "KWUN", "kVietnamese": "qu\u1eabn", "kCantonese": "kwan3", "kJapaneseOn": "KIN"}
+窙,{"kMandarin": "xi\u0101o"}
+窖,{"kHangul": "\uad50", "kMandarin": "ji\u00e0o", "kKorean": "KYO", "kCantonese": "gaau3", "kJapaneseOn": "KOU", "kHanyuPinlu": "jiao4(12)"}
+窗,{"kHangul": "\ucc3d", "kMandarin": "chu\u0101ng", "kKorean": "CHANG", "kVietnamese": "song", "kCantonese": "coeng1", "kJapaneseOn": "SOU", "kHanyuPinlu": "chuang1(372)", "kTang": "*chrang"}
+䑬,{"kCantonese": "tiu1", "kMandarin": "t\u0101o"}
+䑭,{"kMandarin": "d\u00ec"}
+䑮,{}
+䑪,{"kMandarin": "\u00e8"}
+䑫,{"kMandarin": "b\u0113ng"}
+賀,{"kHangul": "\ud558", "kMandarin": "h\u00e8", "kKorean": "HA", "kVietnamese": "h\u1ea1", "kCantonese": "ho6", "kJapaneseOn": "GA KA", "kHanyuPinlu": "he4(15)", "kTang": "h\u0251\u0300"}
+賁,{"kKorean": "PWUN", "kHangul": "\ubd84", "kMandarin": "b\u00ec", "kCantonese": "ban1 bei3 fan4 fan5", "kJapaneseOn": "HI FUN HON"}
+旐,{"kMandarin": "zh\u00e0o", "kCantonese": "siu6 ziu6", "kJapaneseOn": "CHOU JOU"}
+旑,{"kMandarin": "y\u01d0"}
+强,{"kHangul": "\uac15", "kMandarin": "qi\u00e1ng", "kKorean": "KANG", "kCantonese": "koeng4 koeng5", "kJapaneseOn": "KYOU GOU", "kHanyuPinlu": "qiang2(975) qiang3(88)"}
+弻,{"kMandarin": "b\u00ec", "kJapaneseOn": "HITSU"}
+䨍,{"kCantonese": "zing4", "kMandarin": "y\u01d0ng"}
+䨌,{"kCantonese": "bok6 fu6", "kMandarin": "b\u00e1o"}
+弾,{"kKorean": "THAN", "kMandarin": "d\u00e0n", "kJapaneseOn": "DAN TAN"}
+弼,{"kHangul": "\ud544", "kMandarin": "b\u00ec", "kKorean": "PHIL", "kVietnamese": "b\u1eb7t", "kCantonese": "bat6", "kJapaneseOn": "HITSU"}
+弽,{"kMandarin": "sh\u00e8", "kJapaneseOn": "YOU KYOU"}
+㱖,{"kCantonese": "seoi6", "kMandarin": "cu\u00ec"}
+㱕,{"kCantonese": "gwai1"}
+㱩,{"kCantonese": "caan4 duk6", "kMandarin": "d\u00fa"}
+㱨,{"kCantonese": "lim5", "kMandarin": "li\u00e0n"}
+臸,{"kMandarin": "zh\u012b", "kJapaneseOn": "JITSU NICHI CHOKU CHIKI SHIN SHI"}
+弑,{"kHangul": "\uc2dc", "kMandarin": "sh\u00ec", "kKorean": "SI", "kVietnamese": "th\u00ed", "kCantonese": "si3", "kJapaneseOn": "SHI SHII"}
+㱧,{"kCantonese": "waat3 zyun2", "kMandarin": "w\u00f2"}
+㱦,{"kCantonese": "gei1 kei1", "kMandarin": "q\u012b"}
+㱥,{"kCantonese": "ling4", "kMandarin": "l\u00edng"}
+㱤,{"kCantonese": "sek6 ze3", "kMandarin": "x\u012b"}
+䨿,{"kMandarin": "z\u00e1"}
+臵,{"kMandarin": "g\u00e9", "kJapaneseOn": "KAKU"}
+㣐,{"kTang": "bh\u00e6ng", "kCantonese": "bin3", "kMandarin": "bi\u00e0n"}
+㣏,{"kCantonese": "zing6", "kMandarin": "j\u00ecng"}
+㣭,{"kCantonese": "zung1", "kMandarin": "z\u014dng"}
+㣬,{"kCantonese": "cap1", "kMandarin": "q\u00ec"}
+㣮,{}
+㣫,{"kCantonese": "dung2", "kMandarin": "zh\u01d2ng"}
+㣪,{"kCantonese": "wun6", "kMandarin": "hu\u01cen"}
+䍮,{"kCantonese": "siu6", "kMandarin": "zh\u00e0o"}
+䍯,{"kCantonese": "gwai2", "kMandarin": "gu\u01d0"}
+䍰,{"kCantonese": "zaan1"}
+㜄,{"kCantonese": "caam4 caan2 saan6 zaan2", "kMandarin": "x\u00fan"}
+㜀,{}
+㜁,{}
+㜂,{"kCantonese": "fung1", "kMandarin": "f\u0113ng"}
+㜃,{"kCantonese": "lyun2 lyut6", "kMandarin": "li\u00e0n"}
+茹,{"kHangul": "\uc5ec", "kMandarin": "r\u00fa", "kKorean": "YE", "kVietnamese": "nh\u00e0", "kCantonese": "jyu4", "kJapaneseOn": "JO NYO"}
+䍊,{"kCantonese": "gaau1", "kMandarin": "ji\u0101o"}
+䍙,{"kCantonese": "mui4", "kMandarin": "m\u00e9i"}
+䍚,{"kCantonese": "long6", "kMandarin": "l\u00e0ng"}
+躰,{"kMandarin": "t\u01d0", "kJapaneseOn": "TEI TAI"}
+殗,{"kMandarin": "y\u00e8", "kCantonese": "jip3", "kJapaneseOn": "YOU OU EN"}
+殖,{"kHangul": "\uc2dd", "kMandarin": "zh\u00ed", "kKorean": "SIK", "kCantonese": "zik6", "kJapaneseOn": "SHOKU", "kHanyuPinlu": "zhi2(151)"}
+殕,{"kMandarin": "f\u01d2u", "kJapaneseOn": "FUU FU HOKU"}
+殔,{"kCantonese": "sei3", "kMandarin": "y\u00ec"}
+䎞,{}
+殚,{"kCantonese": "daan1", "kMandarin": "d\u0101n"}
+殙,{"kCantonese": "fan1", "kMandarin": "h\u016bn"}
+殘,{"kHangul": "\uc794", "kMandarin": "c\u00e1n", "kKorean": "CAN", "kVietnamese": "\u0111\u00eam t\u00e0n", "kCantonese": "caan1 caan4", "kJapaneseOn": "ZAN SAN", "kHanyuPinlu": "can2(108)", "kTang": "*dzh\u0251n"}
+殽,{"kKorean": "HYO", "kHangul": "\ud6a8", "kMandarin": "xi\u00e1o", "kCantonese": "ngaau4", "kJapaneseOn": "KOU GYOU"}
+殼,{"kHangul": "\uac01", "kMandarin": "k\u00e9", "kKorean": "KAK", "kVietnamese": "n\u00f4i x\u00e1c", "kCantonese": "hok3", "kJapaneseOn": "KAKU KOKU", "kHanyuPinlu": "ke2(67) qiao4(30)", "kTang": "kak"}
+埪,{"kMandarin": "k\u014dng"}
+㢾,{"kCantonese": "gyun3", "kMandarin": "ju\u00e0n"}
+㢿,{}
+㢽,{"kCantonese": "nei6", "kMandarin": "\u011br"}
+蛚,{"kMandarin": "li\u00e8", "kCantonese": "lit6", "kJapaneseOn": "RETSU RECHI"}
+㢎,{"kCantonese": "cap3 zaap1 ziu3", "kMandarin": "zh\u00e9"}
+㢏,{"kCantonese": "tau4", "kMandarin": "t\u00f3u"}
+㢍,{"kCantonese": "zing2 zoeng3 zung2", "kMandarin": "y\u01d0ng"}
+㢐,{}
+盙,{"kKorean": "PO", "kHangul": "\ubcf4", "kMandarin": "f\u01d4", "kCantonese": "fu2", "kJapaneseOn": "FU HU"}
+酟,{"kCantonese": "tim1", "kMandarin": "ti\u0101n"}
+盛,{"kHangul": "\uc131", "kMandarin": "sh\u00e8ng", "kKorean": "SENG", "kVietnamese": "th\u1ecbnh", "kCantonese": "sing4 sing6", "kJapaneseOn": "SEI JOU", "kHanyuPinlu": "sheng4(54) cheng2(43)", "kTang": "*zhi\u025b\u0300ng"}
+盚,{"kMandarin": "qi\u00fa"}
+盜,{"kHangul": "\ub3c4", "kMandarin": "d\u00e0o", "kKorean": "TO", "kVietnamese": "d\u1eeba", "kCantonese": "dou6", "kJapaneseOn": "TOU", "kHanyuPinlu": "dao4(52)", "kTang": "*dh\u0251\u0300u"}
+袯,{"kCantonese": "but6", "kMandarin": "b\u00f3"}
+婷,{"kKorean": "CENG", "kHangul": "\uc815", "kMandarin": "t\u00edng", "kCantonese": "ting4", "kJapaneseOn": "TEI CHOU"}
+婹,{"kMandarin": "y\u01ceo"}
+婸,{"kMandarin": "d\u00e0ng", "kCantonese": "dong6", "kJapaneseOn": "TOU DOU YOU"}
+婻,{"kMandarin": "n\u00e0n", "kJapaneseOn": "DAN NAN"}
+婺,{"kMandarin": "w\u00f9", "kCantonese": "mou6", "kJapaneseOn": "BU MU BOU BOKU MOKU"}
+婽,{"kMandarin": "ji\u01ce", "kJapaneseOn": "KA KE"}
+婼,{"kMandarin": "chu\u00f2", "kCantonese": "coek3", "kJapaneseOn": "SHAKU JI NI JA NYUU"}
+婿,{"kKorean": "SE", "kHangul": "\uc11c", "kMandarin": "x\u00f9", "kCantonese": "sai3", "kJapaneseOn": "SEI"}
+婾,{"kMandarin": "t\u014du", "kJapaneseOn": "TOU TSU YU"}
+袽,{"kMandarin": "r\u00fa", "kCantonese": "jyu4", "kJapaneseOn": "JO NYO"}
+袼,{"kCantonese": "gok3", "kMandarin": "g\u0113"}
+袿,{"kMandarin": "gu\u012b", "kJapaneseOn": "KEI"}
+袾,{"kMandarin": "zh\u016b", "kCantonese": "zyu1", "kJapaneseOn": "CHU SHU"}
+袹,{"kCantonese": "mak6", "kMandarin": "b\u00f3"}
+袸,{"kMandarin": "ji\u00e0n"}
+袻,{"kMandarin": "\u00e9r"}
+袺,{"kMandarin": "ji\u00e9", "kCantonese": "git3", "kJapaneseOn": "KETSU KECHI KATSU"}
+袵,{"kMandarin": "r\u00e8n", "kCantonese": "jam4", "kJapaneseOn": "JIN NIN"}
+袴,{"kHangul": "\uace0", "kMandarin": "k\u00f9", "kKorean": "KO", "kVietnamese": "kh\u1ed1", "kCantonese": "fu3", "kJapaneseOn": "KO", "kTang": "k\u00f2"}
+袷,{"kTang": "g\u00e6p", "kMandarin": "ji\u00e1", "kCantonese": "gaap3", "kJapaneseOn": "KOU KYOU"}
+袶,{"kMandarin": "ji\u00e0ng"}
+袱,{"kKorean": "POK", "kHanyuPinlu": "fu5(42)", "kMandarin": "fu", "kCantonese": "fuk6", "kJapaneseOn": "FUKU"}
+蛙,{"kHangul": "\uc640", "kMandarin": "w\u0101", "kKorean": "WA WAY", "kCantonese": "waa1", "kJapaneseOn": "A WA", "kHanyuPinlu": "wa1(57)", "kTang": "qua"}
+袳,{"kKorean": "CHI", "kMandarin": "ch\u01d0", "kJapaneseOn": "SHI"}
+袲,{"kCantonese": "ji4", "kMandarin": "ch\u01d0"}
+莽,{"kHangul": "\ub9dd", "kMandarin": "m\u01ceng", "kKorean": "MANG", "kCantonese": "mong5", "kJapaneseOn": "BOU MOU", "kTang": "*m\u0251\u030cng"}
+博,{"kHangul": "\ubc15", "kMandarin": "b\u00f3", "kKorean": "PAK", "kVietnamese": "b\u00e1c", "kCantonese": "bok3", "kJapaneseOn": "HAKU BAKU", "kHanyuPinlu": "bo2(121)", "kTang": "*b\u0251k b\u0251k"}
+䩐,{"kCantonese": "faat1 gaap1", "kMandarin": "h\u016b"}
+䩑,{"kCantonese": "wang4", "kMandarin": "h\u00f3ng"}
+䩒,{"kCantonese": "zyu1", "kMandarin": "y\u00fa"}
+牚,{"kKorean": "THAYNG", "kHangul": "\ud0f1", "kMandarin": "ch\u0113ng", "kJapaneseOn": "TOU CHOU"}
+㰸,{"kCantonese": "him3 leng5 lim5", "kMandarin": "li\u01cen"}
+廊,{"kHangul": "\ub0ad \ub791", "kMandarin": "l\u00e1ng", "kKorean": "LANG", "kVietnamese": "lang", "kCantonese": "long4", "kJapaneseOn": "ROU"}
+㰲,{"kCantonese": "zuk1", "kMandarin": "y\u016b"}
+㰳,{"kCantonese": "aa1 aa3", "kMandarin": "y\u00e0"}
+㰴,{"kCantonese": "faau2", "kMandarin": "p\u01d2u"}
+㰵,{"kCantonese": "zeot1", "kMandarin": "z\u00fa"}
+廁,{"kHangul": "\uce21", "kMandarin": "c\u00e8", "kKorean": "CHI", "kVietnamese": "x\u00ed", "kCantonese": "cak1 ci3", "kJapaneseOn": "SHI SHOKU", "kHanyuPinlu": "ce4(10)", "kTang": "chri\u0259\u0300"}
+廀,{"kMandarin": "s\u014du", "kJapaneseOn": "SOU SHU"}
+蛒,{"kVietnamese": "c\u1eafc", "kMandarin": "g\u00e9", "kJapaneseOn": "KAKU KYAKU RAKU"}
+趆,{"kMandarin": "d\u012b"}
+䜵,{"kCantonese": "cek3 si6 zik6", "kMandarin": "ch\u01d0"}
+訴,{"kHangul": "\uc18c", "kMandarin": "su", "kKorean": "SO", "kVietnamese": "t\u1ed1", "kCantonese": "sou3", "kJapaneseOn": "SO", "kHanyuPinlu": "su5(552) su4(43)", "kTang": "s\u00f2"}
+閌,{"kMandarin": "k\u00e0ng", "kCantonese": "kong3", "kJapaneseOn": "KOU"}
+診,{"kHangul": "\uc9c4", "kMandarin": "zh\u011bn", "kKorean": "CIN", "kVietnamese": "ch\u1ea9n", "kCantonese": "can2 zan2", "kJapaneseOn": "SHIN", "kHanyuPinlu": "zhen3(32)"}
+訹,{"kCantonese": "seot6", "kMandarin": "x\u00f9"}
+䜭,{"kCantonese": "zeon3", "kMandarin": "j\u00f9n"}
+䜬,{"kCantonese": "caai4 zaau6", "kMandarin": "s\u01d2ng"}
+訸,{"kMandarin": "h\u00e9"}
+㟧,{"kCantonese": "hon6 ngok6 zim4", "kMandarin": "\u00e8"}
+㟦,{"kCantonese": "wan6", "kMandarin": "y\u00f9n"}
+㟩,{"kCantonese": "man4", "kMandarin": "m\u00edn"}
+㟨,{"kCantonese": "cyun4", "kMandarin": "du\u0101n"}
+㟫,{"kCantonese": "cyun4", "kMandarin": "qu\u00e1n"}
+㟪,{"kCantonese": "waai1", "kMandarin": "w\u0113i"}
+㟭,{"kCantonese": "man4", "kMandarin": "m\u00edn"}
+㟬,{"kCantonese": "saau2 sou2", "kMandarin": "s\u01d2u"}
+㟯,{}
+㟮,{"kCantonese": "daat6 daau6", "kMandarin": "t\u016b"}
+䎷,{"kCantonese": "zyu3", "kMandarin": "zh\u00f9"}
+訽,{"kMandarin": "g\u00f2u", "kJapaneseOn": "KOU KU"}
+証,{"kHangul": "\uc815", "kMandarin": "zh\u00e8ng", "kKorean": "CENG", "kVietnamese": "ch\u1ee9ng", "kCantonese": "zing3", "kJapaneseOn": "SHOU SEI", "kHanyuPinlu": "zheng4(518)"}
+閔,{"kKorean": "MIN", "kHangul": "\ubbfc", "kMandarin": "m\u01d0n", "kCantonese": "man5", "kJapaneseOn": "BIN MIN"}
+䎇,{"kCantonese": "zaau1 zau2", "kMandarin": "zh\u014du"}
+閕,{"kMandarin": "xi\u0101"}
+晪,{"kMandarin": "ti\u01cen", "kJapaneseOn": "TEN"}
+晫,{"kKorean": "THAK", "kHangul": "\ud0c1", "kMandarin": "zhu\u00f3", "kCantonese": "zoek3", "kJapaneseOn": "TAKU"}
+晩,{"kKorean": "MAN", "kHangul": "\ub9cc", "kMandarin": "w\u01cen", "kJapaneseOn": "BAN"}
+䎉,{"kCantonese": "waat6", "kMandarin": "x\u00f9"}
+䎈,{"kCantonese": "zaai6", "kMandarin": "y\u00ec"}
+晬,{"kKorean": "SWI SWU", "kHangul": "\uc218", "kMandarin": "zu\u00ec", "kCantonese": "zeoi3", "kJapaneseOn": "SAI SUI"}
+䎊,{"kCantonese": "pak3 pok3", "kMandarin": "lu\u00f2"}
+晲,{"kMandarin": "n\u01d0"}
+晳,{"kKorean": "SEK", "kHangul": "\uc11d", "kMandarin": "x\u012b", "kJapaneseOn": "SEKI SHAKU"}
+晰,{"kHangul": "\uc11d", "kMandarin": "x\u012b", "kKorean": "SEK", "kCantonese": "sik1", "kJapaneseOn": "SEKI SHAKU", "kHanyuPinlu": "xi1(37)"}
+晱,{"kCantonese": "sim2", "kMandarin": "sh\u01cen"}
+晶,{"kHangul": "\uc815", "kMandarin": "j\u012bng", "kKorean": "CENG", "kVietnamese": "tinh", "kCantonese": "zing1", "kJapaneseOn": "SHOU", "kHanyuPinlu": "jing1(57)", "kTang": "tzi\u025bng"}
+晷,{"kKorean": "KWI", "kHangul": "\uadc0", "kMandarin": "gu\u01d0", "kCantonese": "gwai2", "kJapaneseOn": "KI"}
+晴,{"kHangul": "\uccad", "kMandarin": "q\u00edng", "kKorean": "CHENG", "kVietnamese": "t\u1ea1nh", "kCantonese": "ceng4 cing4", "kJapaneseOn": "SEI", "kHanyuPinlu": "qing2(61)", "kTang": "*dzhi\u025bng"}
+晵,{"kMandarin": "q\u01d0", "kJapaneseOn": "KEI KEN"}
+䎝,{"kCantonese": "zyu3 zyu3", "kMandarin": "ch\u00fa"}
+晻,{"kKorean": "AM", "kHangul": "\uc554", "kMandarin": "\u00e0n", "kCantonese": "am2", "kJapaneseOn": "AN ON EN"}
+晸,{"kKorean": "CENG", "kHangul": "\uc815", "kMandarin": "zh\u011bng", "kCantonese": "zing2", "kJapaneseOn": "TEI CHOU"}
+晹,{"kMandarin": "y\u00ec", "kCantonese": "sik1", "kJapaneseOn": "EKI SEKU SEKI SHAKU"}
+晾,{"kHanyuPinlu": "liang4(12)", "kMandarin": "li\u00e0ng", "kCantonese": "long3 long6", "kJapaneseOn": "RYOU"}
+晿,{"kMandarin": "ch\u0101ng", "kJapaneseOn": "SHOU"}
+晼,{"kTang": "*qiu\u00e6\u030cn", "kMandarin": "w\u01cen", "kCantonese": "jyun2", "kJapaneseOn": "EN ON"}
+晽,{"kMandarin": "l\u00edn"}
+䒹,{"kMandarin": "l\u00e8i"}
+䒸,{"kCantonese": "hyut3", "kMandarin": "xu\u00e8"}
+䒻,{"kMandarin": "q\u01d0"}
+䒺,{"kCantonese": "gan2", "kMandarin": "j\u01d0n"}
+䒽,{"kCantonese": "mong5", "kMandarin": "w\u01ceng"}
+䒼,{"kMandarin": "q\u016b"}
+䒿,{"kMandarin": "li\u00e1o"}
+䒾,{"kCantonese": "zi1 zi2", "kMandarin": "y\u012b"}
+䒱,{"kCantonese": "zing1"}
+䒰,{"kCantonese": "hong4", "kMandarin": "ku\u0101ng"}
+䒳,{"kCantonese": "deoi2", "kMandarin": "du\u01d2"}
+䒲,{"kMandarin": "ch\u00e0"}
+䒵,{"kCantonese": "hou3", "kMandarin": "h\u00e0o"}
+䒴,{"kCantonese": "zaau5", "kMandarin": "y\u01d2u"}
+䒷,{"kCantonese": "kut3", "kMandarin": "gu\u0101"}
+䒶,{"kCantonese": "tin1"}
+畳,{"kMandarin": "di\u00e9", "kJapaneseOn": "JOU CHOU"}
+畲,{"kMandarin": "sh\u0113", "kJapaneseOn": "YO SHA"}
+異,{"kHangul": "\ub9ac \uc774", "kMandarin": "y\u00ec", "kKorean": "I", "kCantonese": "ji6", "kJapaneseOn": "I", "kHanyuPinlu": "yi4(146)", "kTang": "*i\u0259\u0300"}
+畴,{"kMandarin": "ch\u00f3u", "kCantonese": "cau4", "kJapaneseOn": "CHUU"}
+䄊,{}
+惢,{"kKorean": "SWA", "kHangul": "\uc1c4", "kMandarin": "su\u01d2", "kCantonese": "so2", "kJapaneseOn": "SA SUI ZUI NI"}
+惣,{"kKorean": "CHONG", "kMandarin": "z\u01d2ng", "kJapaneseOn": "SOU"}
+秿,{"kMandarin": "f\u00f9"}
+順,{"kHangul": "\uc21c", "kMandarin": "sh\u00f9n", "kKorean": "SWUN", "kVietnamese": "thu\u1eadn", "kCantonese": "seon6", "kJapaneseOn": "JUN SHUN", "kHanyuPinlu": "shun4(266)", "kTang": "*jhu\u00ecn"}
+頇,{"kMandarin": "h\u0101n", "kCantonese": "hon1", "kJapaneseOn": "KAN GAN GATSU GACHI"}
+㕎,{"kMandarin": "k\u00e8"}
+須,{"kHangul": "\uc218", "kMandarin": "x\u016b", "kKorean": "SWU", "kVietnamese": "tua", "kCantonese": "seoi1", "kJapaneseOn": "SHU SU", "kHanyuPinlu": "xu1(734)", "kTang": "*sio sio"}
+頉,{"kKorean": "I", "kMandarin": "y\u00ed", "kJapaneseOn": "I"}
+馇,{"kMandarin": "ch\u0101"}
+庽,{"kKorean": "YU", "kHangul": "\uc6b0", "kMandarin": "y\u00f9", "kJapaneseOn": "DOU"}
+庾,{"kHangul": "\uc720", "kMandarin": "y\u01d4", "kKorean": "YU", "kCantonese": "jyu5", "kJapaneseOn": "YU", "kTang": "i\u01d2"}
+庿,{"kMandarin": "mi\u00e0o", "kJapaneseOn": "BYOU MYOU"}
+爲,{"kHangul": "\uc704", "kMandarin": "w\u00e8i", "kKorean": "WI", "kVietnamese": "vay", "kCantonese": "wai4 wai6", "kJapaneseOn": "I", "kTang": "*hyu\u025b *hyu\u025b\u0300"}
+䪱,{"kCantonese": "goi2", "kMandarin": "g\u01cei"}
+䪲,{"kCantonese": "kwaan1 waan4 waan6", "kMandarin": "k\u016bn"}
+馈,{"kCantonese": "gwai6", "kMandarin": "ku\u00ec"}
+㳼,{"kCantonese": "bat1", "kMandarin": "b\u00ec"}
+馊,{"kCantonese": "sau1", "kMandarin": "s\u014du"}
+䪧,{"kCantonese": "ci4", "kMandarin": "ch\u00ed"}
+䪦,{"kCantonese": "hung4", "kMandarin": "h\u00f3ng"}
+䪨,{"kCantonese": "bok6", "kMandarin": "b\u00e1o"}
+馋,{"kHanyuPinlu": "chan2(11)", "kCantonese": "caam4", "kMandarin": "ch\u00e1n"}
+㥧,{"kCantonese": "seon6", "kMandarin": "sh\u00f9n"}
+郪,{"kKorean": "CHE", "kHangul": "\ucc98", "kCantonese": "cai1", "kMandarin": "q\u012b"}
+㥥,{"kVietnamese": "ng\u00f9ng", "kCantonese": "zyu4", "kMandarin": "y\u00fa"}
+㥢,{"kCantonese": "zaau1 zaau4", "kMandarin": "qi\u00fa"}
+㥡,{"kCantonese": "hei3", "kMandarin": "ch\u00ec"}
+㥠,{"kCantonese": "seoi1", "kMandarin": "x\u016b"}
+㥫,{"kCantonese": "deon1 seoi3"}
+㥪,{"kCantonese": "lau4", "kMandarin": "l\u00f3u"}
+㥩,{"kCantonese": "do2 seoi6", "kMandarin": "du\u01d2"}
+郻,{"kMandarin": "qi\u0101o"}
+郺,{"kMandarin": "y\u014dng"}
+郹,{"kCantonese": "gwik1", "kMandarin": "j\u00fa"}
+郿,{"kMandarin": "m\u00e9i", "kCantonese": "mei4", "kJapaneseOn": "BI MI"}
+郾,{"kMandarin": "y\u01cen", "kCantonese": "jin2", "kJapaneseOn": "EN ON"}
+都,{"kHangul": "\ub3c4", "kMandarin": "d\u014du", "kKorean": "TO", "kVietnamese": "\u0111\u00f4", "kCantonese": "dou1", "kJapaneseOn": "TO TSU CHO", "kHanyuPinlu": "dou1(5680) du1(93)", "kTang": "*do"}
+郼,{"kCantonese": "ji1", "kMandarin": "y\u012b"}
+锏,{"kMandarin": "ji\u01cen"}
+㥁,{"kCantonese": "dak1", "kMandarin": "d\u00e9"}
+㥎,{"kCantonese": "laai4", "kMandarin": "l\u00e1i"}
+㥋,{"kCantonese": "zi1", "kMandarin": "y\u012b"}
+㥈,{"kCantonese": "dip6", "kMandarin": "di\u00e9"}
+㥖,{"kCantonese": "cung1", "kMandarin": "c\u014dng"}
+㥕,{"kCantonese": "lin4", "kMandarin": "li\u00e1n"}
+㥑,{"kCantonese": "zaau1"}
+㥐,{"kCantonese": "zyun3", "kMandarin": "yu\u00e0n"}
+㥟,{"kCantonese": "kwaai4", "kMandarin": "xi\u00e9"}
+㥞,{"kCantonese": "seoi6", "kMandarin": "su\u00ec"}
+㥝,{"kCantonese": "maai5", "kMandarin": "m\u01d0"}
+㥜,{"kCantonese": "syut3 waai6", "kMandarin": "w\u00e8i"}
+㥛,{"kCantonese": "gik6", "kMandarin": "j\u00ed"}
+㥚,{"kCantonese": "zyu4 zyu5", "kMandarin": "y\u00fa"}
+訿,{"kCantonese": "zi2", "kMandarin": "z\u01d0"}
+毴,{"kMandarin": "b\u012b"}
+毵,{"kCantonese": "saam1", "kMandarin": "s\u0101n"}
+毶,{"kMandarin": "san"}
+毰,{"kCantonese": "pui4", "kMandarin": "p\u00e9i"}
+毱,{"kMandarin": "j\u00fa", "kJapaneseOn": "KIKU GOKU"}
+毲,{"kMandarin": "du\u014d"}
+毳,{"kKorean": "CHWI", "kHangul": "\ucde8", "kMandarin": "cu\u00ec", "kCantonese": "ceoi3", "kJapaneseOn": "ZEI SEI SETSU"}
+鄀,{"kMandarin": "ru\u00f2", "kCantonese": "joek6", "kJapaneseOn": "JAKU NYAKU CHAKU"}
+閗,{"kMandarin": "d\u00f2u"}
+毯,{"kHangul": "\ub2f4", "kMandarin": "t\u01cen", "kKorean": "TAM", "kVietnamese": "x\u1ed3m", "kCantonese": "taam2 taan2", "kJapaneseOn": "TAN DAN", "kHanyuPinlu": "tan3(29)"}
+﨑,{}
+鄁,{"kMandarin": "b\u00e8i"}
+锋,{"kHanyuPinlu": "feng1(71)", "kCantonese": "fung1", "kMandarin": "f\u0113ng"}
+匒,{"kKorean": "TAP", "kMandarin": "d\u00e1", "kCantonese": "daap3", "kJapaneseOn": "TOU"}
+匑,{"kKorean": "KWUNG", "kMandarin": "g\u014dng", "kCantonese": "kung4", "kJapaneseOn": "KYUU KU KIKU KOKU"}
+蛪,{"kMandarin": "qi\u00e8"}
+禼,{"kMandarin": "xi\u00e8"}
+蛫,{"kMandarin": "gu\u01d0"}
+戦,{"kKorean": "CEN", "kMandarin": "zh\u00e0n", "kJapaneseOn": "SEN"}
+蛨,{"kMandarin": "m\u00f2"}
+蛩,{"kHangul": "\uacf5", "kMandarin": "qi\u00f3ng", "kKorean": "KONG", "kCantonese": "kung4", "kJapaneseOn": "KYOU", "kTang": "ghiong"}
+蛮,{"kKorean": "MAN", "kVietnamese": "man", "kMandarin": "m\u00e1n", "kCantonese": "maan4", "kJapaneseOn": "BAN"}
+蛯,{"kMandarin": "lao"}
+蛬,{"kKorean": "KONG", "kHangul": "\uacf5", "kMandarin": "qi\u00f3ng", "kCantonese": "gung2", "kJapaneseOn": "KYOU"}
+蛭,{"kHangul": "\uc9c8", "kMandarin": "zh\u00ec", "kKorean": "CIL", "kVietnamese": "ch\u1ea5y", "kCantonese": "zat6", "kJapaneseOn": "SHITSU CHITSU"}
+蛢,{"kMandarin": "p\u00edng"}
+戟,{"kHangul": "\uadf9", "kMandarin": "j\u01d0", "kKorean": "KUK", "kVietnamese": "k\u00edch", "kCantonese": "gik1", "kJapaneseOn": "GEKI", "kTang": "gi\u00e6k"}
+戞,{"kKorean": "AL", "kHangul": "\uc54c", "kMandarin": "ji\u00e1", "kCantonese": "aat1", "kJapaneseOn": "KATSU"}
+蛣,{"kKorean": "KIL", "kHangul": "\uae38", "kMandarin": "q\u012b", "kCantonese": "gat1 kit3", "kJapaneseOn": "KITSU KICHI KETSU KECHI KEI"}
+蛠,{"kMandarin": "l\u00ec", "kJapaneseOn": "REI RAI"}
+禄,{"kMandarin": "l\u00f9", "kCantonese": "luk6", "kJapaneseOn": "ROKU"}
+蛡,{"kMandarin": "y\u00ec"}
+蛦,{"kVietnamese": "nh\u0103n d\u01a1i", "kMandarin": "y\u00ed"}
+䝚,{"kCantonese": "nei4", "kMandarin": "n\u00ed"}
+䝛,{"kCantonese": "bo1 fu6", "kMandarin": "b\u014d"}
+蛧,{"kMandarin": "w\u01ceng", "kJapaneseOn": "BOU MOU"}
+蛤,{"kHangul": "\ud569", "kMandarin": "h\u00e1", "kKorean": "HAP", "kCantonese": "gaap3 gap3 haa4", "kJapaneseOn": "KOU", "kHanyuPinlu": "ha2(12)"}
+䝈,{"kCantonese": "aak1 ak1", "kMandarin": "\u00e8"}
+蛥,{"kMandarin": "sh\u00e9", "kJapaneseOn": "SETSU ZECHI"}
+智,{"kHangul": "\uc9c0", "kMandarin": "zh\u00ec", "kKorean": "CI", "kVietnamese": "tr\u00ed", "kCantonese": "zi3", "kJapaneseOn": "CHI", "kHanyuPinlu": "zhi4(71)", "kTang": "dji\u025b\u0300"}
+䝩,{"kCantonese": "zan3", "kMandarin": "zh\u00e8n"}
+䝪,{"kMandarin": "sh\u01d4"}
+䝫,{"kCantonese": "zok3 zok6", "kMandarin": "zu\u00f3"}
+䝬,{"kMandarin": "zh\u00f9"}
+䝭,{"kCantonese": "gau3", "kMandarin": "g\u00f2u"}
+䝮,{"kCantonese": "seon3 zyun6", "kMandarin": "xu\u00e0n"}
+䝯,{"kCantonese": "zi6", "kMandarin": "y\u00ec"}
+裂,{"kHangul": "\ub82c \uc5f4", "kMandarin": "li\u00e8", "kKorean": "LYEL", "kCantonese": "lit6", "kJapaneseOn": "RETSU", "kHanyuPinlu": "lie4(67)", "kTang": "*li\u025bt"}
+蛲,{"kCantonese": "jiu4", "kMandarin": "n\u00e1o"}
+裀,{"kKorean": "IN", "kHangul": "\uc778", "kMandarin": "y\u012bn", "kCantonese": "jan1", "kJapaneseOn": "IN"}
+裁,{"kHangul": "\uc7ac", "kMandarin": "c\u00e1i", "kKorean": "CAY", "kVietnamese": "tr\u00e0i", "kCantonese": "coi4", "kJapaneseOn": "SAI", "kHanyuPinlu": "cai2(42)", "kTang": "*dzh\u0259i"}
+裆,{"kCantonese": "dong1", "kMandarin": "d\u0101ng"}
+裇,{"kCantonese": "seot1", "kMandarin": "x\u016b"}
+裄,{"kMandarin": "xing"}
+蛳,{"kCantonese": "si1", "kMandarin": "s\u012b"}
+皖,{"kKorean": "HWAN", "kHangul": "\ud658", "kMandarin": "w\u01cen", "kCantonese": "wun5", "kJapaneseOn": "KAN"}
+皔,{"kMandarin": "h\u00e0n"}
+皕,{"kMandarin": "b\u00ec", "kCantonese": "bik1", "kJapaneseOn": "HYOKU HIKI HI"}
+皒,{"kMandarin": "\u00e9"}
+皓,{"kHangul": "\ud638", "kMandarin": "h\u00e0o", "kKorean": "HO", "kCantonese": "gou2 hou6", "kJapaneseOn": "KOU", "kTang": "h\u0251\u030cu"}
+蛱,{"kCantonese": "gaap3", "kMandarin": "ji\u00e1"}
+蛴,{"kCantonese": "cai4", "kMandarin": "q\u00ed"}
+皴,{"kHangul": "\uc900", "kMandarin": "c\u016bn", "kKorean": "CWUN", "kCantonese": "seon1", "kJapaneseOn": "SHUN", "kTang": "tsuin"}
+皳,{"kMandarin": "qi\u00fa"}
+赧,{"kHangul": "\ub09c", "kMandarin": "n\u01cen", "kKorean": "NAN", "kVietnamese": "n\u1ea5n", "kCantonese": "naan5", "kJapaneseOn": "TAN DAN", "kTang": "n\u01cen"}
+甤,{"kMandarin": "ru\u00ed", "kJapaneseOn": "ZUI NI"}
+甥,{"kKorean": "SAYNG", "kHangul": "\uc0dd", "kMandarin": "sh\u0113ng", "kCantonese": "saang1 sang1", "kJapaneseOn": "SEI SHOU"}
+甦,{"kKorean": "SO", "kHangul": "\uc18c", "kMandarin": "s\u016b", "kCantonese": "sou1", "kJapaneseOn": "SO"}
+甯,{"kKorean": "NYENG", "kMandarin": "n\u00edng", "kCantonese": "ning4 ning6", "kJapaneseOn": "NEI NYOU"}
+赌,{"kHanyuPinlu": "du3(10)", "kCantonese": "dou2", "kMandarin": "d\u01d4"}
+赍,{"kCantonese": "zai1", "kMandarin": "j\u012b"}
+赎,{"kCantonese": "suk6", "kMandarin": "sh\u00fa"}
+赏,{"kHanyuPinlu": "shang3(58)", "kCantonese": "soeng2", "kMandarin": "sh\u01ceng"}
+赋,{"kCantonese": "fu3", "kMandarin": "f\u00f9"}
+赔,{"kHanyuPinlu": "pei2(24)", "kCantonese": "pui4", "kMandarin": "p\u00e9i"}
+赕,{"kCantonese": "zin6", "kMandarin": "d\u01cen"}
+赐,{"kCantonese": "ci3", "kMandarin": "c\u00ec"}
+赑,{"kMandarin": "b\u00ec", "kCantonese": "bai3", "kJapaneseOn": "HI"}
+赒,{"kKorean": "CWU", "kCantonese": "zau1", "kMandarin": "zh\u014du"}
+赓,{"kCantonese": "gang1", "kMandarin": "g\u0113ng"}
+䓀,{}
+䓁,{}
+耠,{"kMandarin": "hu\u014d", "kJapaneseOn": "KOU GOU"}
+耋,{"kTang": "dhet", "kMandarin": "di\u00e9", "kCantonese": "dit6", "kJapaneseOn": "TETSU"}
+耊,{"kMandarin": "di\u00e8", "kJapaneseOn": "TETSU"}
+蛛,{"kHangul": "\uc8fc", "kMandarin": "zh\u016b", "kKorean": "CWU", "kVietnamese": "ch\u00e2u", "kCantonese": "zyu1", "kJapaneseOn": "SHU CHU", "kHanyuPinlu": "zhu1(34)"}
+蛘,{"kCantonese": "joeng4 joeng5", "kMandarin": "y\u00e1ng"}
+勞,{"kHangul": "\ub178 \ub85c", "kMandarin": "l\u00e1o", "kKorean": "LO", "kVietnamese": "lao", "kCantonese": "lou4 lou6", "kJapaneseOn": "ROU", "kHanyuPinlu": "lao2(856)", "kTang": "*l\u0251u l\u0251\u0300u"}
+勝,{"kHangul": "\uc2b9", "kMandarin": "sh\u00e8ng", "kKorean": "SUNG", "kVietnamese": "th\u1eafng", "kCantonese": "sing1 sing3", "kJapaneseOn": "SHOU", "kHanyuPinlu": "sheng4(745)", "kTang": "*shi\u0259\u0300ng"}
+勜,{"kMandarin": "w\u011bng", "kJapaneseOn": "OU O AU"}
+勛,{"kHangul": "\ud6c8", "kMandarin": "x\u016bn", "kKorean": "HWUN", "kVietnamese": "hu\u00e2n", "kCantonese": "fan1", "kJapaneseOn": "KUN"}
+蛞,{"kKorean": "HWAL", "kHangul": "\ud65c", "kMandarin": "ku\u00f2", "kCantonese": "fut3 kut3", "kJapaneseOn": "KATSU"}
+蛟,{"kHangul": "\uad50", "kMandarin": "ji\u0101o", "kKorean": "KYO", "kVietnamese": "giao", "kCantonese": "gaau1", "kJapaneseOn": "KOU KYOU", "kTang": "*gau"}
+蛜,{"kMandarin": "y\u012b", "kCantonese": "ji1", "kJapaneseOn": "I"}
+㲛,{"kCantonese": "zi2", "kMandarin": "zh\u01d0"}
+蛝,{"kMandarin": "xi\u00e1n"}
+㲞,{"kCantonese": "seot1", "kMandarin": "s\u016b"}
+㲜,{"kCantonese": "dam1 tam2", "kMandarin": "t\u00e1n"}
+㲝,{"kCantonese": "zung2", "kMandarin": "r\u01d2ng"}
+㲂,{"kCantonese": "cang2 cang4", "kMandarin": "ch\u00e9ng"}
+㲃,{"kCantonese": "gaau3 kaau3", "kMandarin": "ji\u00f9"}
+㲁,{"kCantonese": "hung1", "kMandarin": "k\u014dng"}
+蛓,{"kCantonese": "ci3 zi1", "kMandarin": "c\u00ec"}
+詀,{"kMandarin": "zh\u0101n", "kCantonese": "cip3 zaam1 zip3", "kJapaneseOn": "TAN TEN SEN DEN"}
+䦏,{"kMandarin": "xi\u00e8"}
+䫹,{"kCantonese": "hung4 kyun4", "kMandarin": "h\u00f3ng"}
+䦎,{"kCantonese": "gun2", "kMandarin": "gu\u01cen"}
+閒,{"kKorean": "HAN KAN", "kHangul": "\ud55c", "kTang": "*g\u025bn *h\u025bn", "kCantonese": "gaan1 gaan3 haan4", "kMandarin": "xi\u00e1n"}
+䏾,{"kVietnamese": "b\u1ecdng", "kCantonese": "pong4"}
+䏿,{"kCantonese": "kai2", "kMandarin": "q\u01d0"}
+䏼,{"kCantonese": "caan4", "kMandarin": "c\u00e1n"}
+䏽,{"kCantonese": "bou6", "kMandarin": "b\u00f9"}
+㞇,{"kCantonese": "waai2", "kMandarin": "w\u011bi"}
+㞈,{"kCantonese": "bui6 but6", "kMandarin": "b\u014d"}
+詃,{"kMandarin": "ji\u01cen", "kJapaneseOn": "KEN"}
+㞚,{"kCantonese": "kaai3", "kMandarin": "q\u00ec"}
+㞛,{"kCantonese": "gei2", "kMandarin": "j\u01d0"}
+黃,{"kHangul": "\ud669", "kMandarin": "hu\u00e1ng", "kKorean": "HWANG", "kCantonese": "wong4", "kJapaneseOn": "KOU OU", "kHanyuPinlu": "huang2(347)"}
+黄,{"kMandarin": "hu\u00e1ng", "kKorean": "HWANG", "kVietnamese": "ho\u00e0ng", "kCantonese": "wong4", "kJapaneseOn": "KOU OU", "kHanyuPinlu": "huang2(347)", "kTang": "*hu\u0251ng"}
+黍,{"kHangul": "\uc11c", "kMandarin": "sh\u01d4", "kKorean": "SE", "kCantonese": "syu2", "kJapaneseOn": "SHO", "kTang": "shi\u01d4"}
+黒,{"kKorean": "HUK", "kMandarin": "h\u0113i", "kJapaneseOn": "KOKU"}
+黑,{"kHangul": "\ud751", "kMandarin": "h\u0113i", "kKorean": "HUK", "kVietnamese": "h\u1eafc", "kCantonese": "haak1 hak1", "kJapaneseOn": "KOKU", "kHanyuPinlu": "hei1(690)", "kTang": "*x\u0259k"}
+欹,{"kHangul": "\uc758", "kMandarin": "y\u012b", "kKorean": "UY", "kCantonese": "ji1 kei1", "kJapaneseOn": "I KI", "kTang": "gy\u025b"}
+欻,{"kHangul": "\ud6cc", "kMandarin": "chu\u0101", "kKorean": "HWUL", "kCantonese": "caa1 fat1", "kJapaneseOn": "KUTSU KUCHI", "kTang": "xiu\u0259t"}
+欺,{"kHangul": "\uae30", "kMandarin": "q\u012b", "kKorean": "KI", "kVietnamese": "khi", "kCantonese": "hei1", "kJapaneseOn": "GI KI", "kHanyuPinlu": "qi1(59)", "kTang": "ki\u0259"}
+欽,{"kHangul": "\ud760", "kMandarin": "q\u012bn", "kKorean": "HUM", "kVietnamese": "kh\u00e2m", "kCantonese": "jam1", "kJapaneseOn": "KIN KON", "kHanyuPinlu": "qin1(10)", "kTang": "kim"}
+欼,{"kCantonese": "ci2 syut3", "kMandarin": "ch\u01d0"}
+欿,{"kKorean": "KAM", "kHangul": "\uac10", "kMandarin": "k\u01cen", "kCantonese": "ham2", "kJapaneseOn": "TAN TON KAN KON"}
+款,{"kHangul": "\uad00", "kMandarin": "ku\u01cen", "kKorean": "KWAN", "kVietnamese": "kho\u1ea3n", "kCantonese": "fun2", "kJapaneseOn": "KAN", "kHanyuPinlu": "kuan3(65)", "kTang": "ku\u0251n"}
+黹,{"kMandarin": "zh\u01d0", "kCantonese": "zi2", "kJapaneseOn": "CHI"}
+痥,{"kMandarin": "du\u00f3"}
+痤,{"kKorean": "CWA", "kHangul": "\uc88c", "kMandarin": "cu\u00f3", "kCantonese": "co4", "kJapaneseOn": "SA ZA"}
+痧,{"kKorean": "SA", "kHangul": "\uc0ac", "kMandarin": "sh\u0101", "kCantonese": "saa1", "kJapaneseOn": "SA"}
+痦,{"kCantonese": "ng4 ng6", "kMandarin": "w\u00f9"}
+痡,{"kMandarin": "f\u016b", "kCantonese": "fu1 pou1", "kJapaneseOn": "HO HU BU"}
+痠,{"kMandarin": "su\u0101n", "kCantonese": "syun1", "kJapaneseOn": "SAN"}
+痣,{"kKorean": "CI", "kHangul": "\uc9c0", "kMandarin": "zh\u00ec", "kCantonese": "zi3", "kJapaneseOn": "SHI"}
+痢,{"kHangul": "\ub9ac \uc774", "kMandarin": "l\u00ec", "kKorean": "LI", "kVietnamese": "l\u1ecb", "kCantonese": "lei6", "kJapaneseOn": "RI"}
+痩,{"kKorean": "SWU", "kMandarin": "sh\u00f2u", "kJapaneseOn": "SOU SHUU"}
+痨,{"kCantonese": "lou4", "kMandarin": "l\u00e1o"}
+痫,{"kCantonese": "haan4", "kMandarin": "xi\u00e1n"}
+痪,{"kCantonese": "wun6", "kMandarin": "hu\u00e0n"}
+詆,{"kKorean": "CE", "kHangul": "\uc800", "kMandarin": "d\u01d0", "kCantonese": "dai2", "kJapaneseOn": "TEI"}
+趉,{"kMandarin": "ju\u00e9"}
+趈,{"kMandarin": "zh\u0101n", "kJapaneseOn": "TAN KEN"}
+趋,{"kHanyuPinlu": "qu1(21)", "kCantonese": "ceoi1", "kMandarin": "q\u016b"}
+越,{"kHangul": "\uc6d4", "kMandarin": "yu\u00e8", "kKorean": "WEL HWAL", "kVietnamese": "vi\u1ec7t", "kCantonese": "jyut6", "kJapaneseOn": "ETSU OCHI KATSU", "kHanyuPinlu": "yue4(958)", "kTang": "*hiu\u00e6t"}
+趁,{"kHangul": "\uc9c4", "kMandarin": "ch\u00e8n", "kKorean": "CIN CEN", "kVietnamese": "s\u1ea5n", "kCantonese": "can3", "kJapaneseOn": "CHIN", "kHanyuPinlu": "chen4(84)", "kTang": "tj\u00ecn"}
+趀,{"kMandarin": "c\u012b"}
+趃,{"kMandarin": "di\u00e9"}
+趂,{"kMandarin": "ch\u00e8n", "kJapaneseOn": "CHIN"}
+超,{"kHangul": "\ucd08", "kMandarin": "ch\u0101o", "kKorean": "CHO", "kVietnamese": "si\u00eau", "kCantonese": "ciu1", "kJapaneseOn": "CHOU", "kHanyuPinlu": "chao1(256)", "kTang": "tji\u025bu"}
+趄,{"kMandarin": "j\u016b", "kCantonese": "zeoi1", "kJapaneseOn": "SHO"}
+趇,{"kMandarin": "x\u00ec"}
+詇,{"kMandarin": "y\u00e0ng", "kJapaneseOn": "YOU OUU EI"}
+痗,{"kMandarin": "m\u00e8i", "kCantonese": "fui3 mui6", "kJapaneseOn": "BAI MAI KAI"}
+痝,{"kMandarin": "m\u00e1ng"}
+痜,{"kMandarin": "t\u016b", "kJapaneseOn": "TOKU"}
+痟,{"kMandarin": "xi\u0101o", "kCantonese": "siu1", "kJapaneseOn": "SHOU"}
+痞,{"kKorean": "PI", "kHangul": "\ube44", "kMandarin": "p\u01d0", "kCantonese": "pei2", "kJapaneseOn": "HI"}
+痙,{"kKorean": "KYENG", "kHangul": "\uacbd", "kMandarin": "j\u00ecng", "kCantonese": "ging6", "kJapaneseOn": "KEI"}
+痘,{"kHangul": "\ub450", "kMandarin": "d\u00f2u", "kKorean": "TWU", "kVietnamese": "\u0111\u1eadu", "kCantonese": "dau6", "kJapaneseOn": "TOU"}
+痛,{"kHangul": "\ud1b5", "kMandarin": "t\u00f2ng", "kKorean": "THONG", "kVietnamese": "th\u1ed1ng", "kCantonese": "tung3", "kJapaneseOn": "TSUU TOU", "kHanyuPinlu": "tong4(356)", "kTang": "*t\u00f9ng"}
+痚,{"kCantonese": "haau1", "kMandarin": "xi\u0101o"}
+硷,{"kCantonese": "gaan2", "kMandarin": "ji\u01cen"}
+硶,{"kMandarin": "ch\u011bn"}
+硵,{"kMandarin": "l\u01d4"}
+硴,{"kMandarin": "hua"}
+硳,{"kMandarin": "ch\u00ec"}
+硲,{"kMandarin": "y\u00f9"}
+硱,{"kMandarin": "k\u01d4n"}
+硰,{"kMandarin": "sh\u0101"}
+硯,{"kHangul": "\uc5f0", "kMandarin": "y\u00e0n", "kKorean": "YEN", "kVietnamese": "kh\u1ed1 nghi\u1ec1n", "kCantonese": "jin6", "kJapaneseOn": "KEN GEN", "kTang": "ng\u00e8n"}
+确,{"kHangul": "\ud559", "kMandarin": "qu\u00e8", "kKorean": "HAK", "kCantonese": "kok3", "kJapaneseOn": "KAKU GAKU", "kHanyuPinlu": "que4(927)", "kTang": "hak"}
+硭,{"kCantonese": "mong4", "kMandarin": "m\u00e1ng"}
+硬,{"kHangul": "\uacbd", "kMandarin": "y\u00ecng", "kKorean": "KYENG", "kVietnamese": "kh\u01b0 ng\u1ea1nh", "kCantonese": "ngaang6", "kJapaneseOn": "KOU GOU", "kHanyuPinlu": "ying4(221)", "kTang": "ng\u025b\u0300ng"}
+硫,{"kHangul": "\ub958 \uc720", "kMandarin": "li\u00fa", "kKorean": "LYU", "kVietnamese": "l\u01b0u", "kCantonese": "lau4", "kJapaneseOn": "RYUU", "kHanyuPinlu": "liu2(35)"}
+硪,{"kMandarin": "w\u00f2", "kCantonese": "ngo4 ngo6", "kJapaneseOn": "GI"}
+硩,{"kCantonese": "cit3 zit3", "kMandarin": "ch\u00e8"}
+硨,{"kKorean": "CHA", "kHangul": "\ucc28", "kMandarin": "ch\u0113", "kCantonese": "ce1", "kJapaneseOn": "SHA"}
+硧,{"kKorean": "YONG", "kHangul": "\uc6a9", "kMandarin": "y\u01d2ng"}
+硦,{"kMandarin": "lu\u00f2"}
+硥,{"kMandarin": "m\u01ceng"}
+硤,{"kTang": "*h\u00e6p", "kMandarin": "xi\u00e1", "kCantonese": "gip3 haap6", "kJapaneseOn": "KOU GYOU"}
+硣,{"kMandarin": "xi\u0101o", "kJapaneseOn": "KOU KYOU"}
+硢,{"kMandarin": "y\u00fa"}
+硡,{"kMandarin": "h\u014dng", "kJapaneseOn": "KOU GOU"}
+硠,{"kHangul": "\ub791", "kMandarin": "l\u00e1ng", "kKorean": "LANG", "kCantonese": "long4", "kJapaneseOn": "ROU", "kTang": "l\u0251ng"}
+硟,{"kCantonese": "sin3", "kMandarin": "ch\u00e0n"}
+硞,{"kMandarin": "qu\u00e8", "kJapaneseOn": "KAKU KYAKU KOKU"}
+硝,{"kHangul": "\ucd08", "kMandarin": "xi\u0101o", "kKorean": "CHO", "kCantonese": "siu1", "kJapaneseOn": "SHOU", "kHanyuPinlu": "xiao1(16)"}
+硜,{"kKorean": "KAYNG", "kHangul": "\uac31", "kMandarin": "k\u0113ng", "kCantonese": "hang1", "kJapaneseOn": "KOU KYOU KEI"}
+馱,{"kHangul": "\ud0c0", "kMandarin": "tu\u00f3", "kKorean": "THA", "kCantonese": "to4", "kJapaneseOn": "TA DA TAI DAI", "kHanyuPinlu": "tuo2(27)"}
+詉,{"kMandarin": "n\u00e1o", "kCantonese": "naa4", "kJapaneseOn": "DOU HYOU DA NA DO NU"}
+扊,{"kKorean": "YEM", "kHangul": "\uc5fc", "kCantonese": "jim5", "kMandarin": "y\u01cen"}
+馭,{"kHangul": "\uc5b4", "kMandarin": "y\u00f9", "kKorean": "E", "kVietnamese": "ng\u1ef1a", "kCantonese": "jyu6", "kJapaneseOn": "GYO GO", "kTang": "*ngi\u00f9"}
+馮,{"kHangul": "\ud48d", "kMandarin": "f\u00e9ng", "kKorean": "PHWUNG", "kCantonese": "fung4 pang4", "kJapaneseOn": "HYOU FUU", "kTang": "bhiung"}
+扉,{"kHangul": "\ube44", "kMandarin": "f\u0113i", "kKorean": "PI", "kCantonese": "fei1", "kJapaneseOn": "HI", "kTang": "*bi\u0259i"}
+幁,{"kMandarin": "x\u016b", "kJapaneseOn": "SU SHU"}
+幀,{"kHangul": "\uc815", "kMandarin": "zh\u00e8ng", "kKorean": "CENG THAYNG", "kVietnamese": "tranh", "kCantonese": "zing3", "kJapaneseOn": "TEI TOU CHOU"}
+幃,{"kHangul": "\uc704", "kMandarin": "w\u00e9i", "kKorean": "WI", "kCantonese": "wai4", "kJapaneseOn": "I KI", "kTang": "*hiu\u0259i"}
+幂,{"kMandarin": "m\u00ec", "kCantonese": "mik6", "kJapaneseOn": "BEKI MYAKU"}
+幅,{"kHangul": "\ud3ed", "kMandarin": "f\u00fa", "kKorean": "PHOK", "kVietnamese": "b\u1ee9c", "kCantonese": "fuk1", "kJapaneseOn": "FUKU HYOKU", "kHanyuPinlu": "fu2(122)", "kTang": "biuk"}
+幄,{"kHangul": "\uc545", "kMandarin": "w\u00f2", "kKorean": "AK", "kCantonese": "ak1", "kJapaneseOn": "AKU", "kTang": "qak"}
+幇,{"kKorean": "PANG", "kHangul": "\ubc29", "kMandarin": "b\u0101ng", "kCantonese": "bong1", "kJapaneseOn": "HOU"}
+幆,{"kMandarin": "y\u00ec"}
+幉,{"kMandarin": "die"}
+詊,{"kMandarin": "p\u00e0n"}
+詋,{"kKorean": "CWU", "kHangul": "\uc8fc", "kMandarin": "zh\u00f2u"}
+氭,{"kMandarin": "d\u014dng"}
+氬,{"kMandarin": "y\u00e0", "kCantonese": "aa3", "kJapaneseOn": "A"}
+氯,{"kCantonese": "luk6", "kMandarin": "l\u01dc"}
+氮,{"kHanyuPinlu": "dan4(13)", "kMandarin": "d\u00e0n", "kCantonese": "daam6", "kJapaneseOn": "TAN"}
+锓,{"kCantonese": "cim1", "kMandarin": "q\u01d0n"}
+氰,{"kCantonese": "cing1", "kMandarin": "q\u00edng"}
+釾,{"kMandarin": "y\u00e9"}
+幾,{"kHangul": "\uae30", "kMandarin": "j\u01d0", "kKorean": "KI", "kCantonese": "gei1 gei2", "kJapaneseOn": "KI", "kHanyuPinlu": "ji3(2512)", "kTang": "*gi\u0259\u030ci gi\u0259i"}
+锐,{"kHanyuPinlu": "rui4(66)", "kCantonese": "jeoi6", "kMandarin": "ru\u00ec"}
+煀,{"kCantonese": "wat1", "kMandarin": "wei"}
+詍,{"kMandarin": "y\u00ec", "kCantonese": "jai6", "kJapaneseOn": "EI SETSU SECHI"}
+锑,{"kCantonese": "tai1", "kMandarin": "t\u012b"}
+煮,{"kHangul": "\uc790", "kMandarin": "zh\u01d4", "kKorean": "CA", "kCantonese": "zyu2", "kJapaneseOn": "SHA SHO", "kHanyuPinlu": "zhu3(52)", "kTang": "ji\u01d4"}
