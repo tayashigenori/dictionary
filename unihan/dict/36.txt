@@ -1,0 +1,4 @@
+齉,{"kCantonese": "nong6 nung6", "kMandarin": "n\u00e0ng"}
+[,{}
+],{}
+䨺,{"kMandarin": "du\u00ec"}

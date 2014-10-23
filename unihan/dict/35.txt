@@ -1,0 +1,6 @@
+䶫,{"kCantonese": "zim6", "kMandarin": "y\u00e0n"}
+䖇,{"kCantonese": "wat1", "kMandarin": "y\u00f9"}
+齾,{"kCantonese": "ngaa3", "kMandarin": "y\u00e0"}
+䴒,{"kCantonese": "ling4", "kMandarin": "l\u00edng"}
+[,{}
+],{}

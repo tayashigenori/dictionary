@@ -1,0 +1,10 @@
+䴐,{"kCantonese": "bou2", "kMandarin": "b\u01ceo"}
+饢,{"kMandarin": "n\u00e1ng"}
+虋,{"kCantonese": "mun4", "kMandarin": "m\u00e9n"}
+虌,{"kCantonese": "bit3", "kMandarin": "bi\u0113"}
+麣,{"kMandarin": "y\u00e1n"}
+灩,{"kHangul": "\uc5fc", "kMandarin": "y\u00e0n", "kKorean": "YEM", "kCantonese": "jim6", "kJapaneseOn": "EN", "kTang": "i\u025b\u0300m"}
+䚖,{"kCantonese": "ling4", "kMandarin": "l\u00edng"}
+[,{}
+䡿,{"kCantonese": "ling4", "kMandarin": "l\u00edng"}
+],{}

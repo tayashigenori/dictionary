@@ -1,0 +1,6 @@
+麤,{"kHangul": "\ucd94", "kMandarin": "c\u016b", "kKorean": "CHWU", "kCantonese": "cou1", "kJapaneseOn": "SO ZO", "kTang": "tso"}
+鱻,{"kKorean": "SEN", "kHangul": "\uc120", "kMandarin": "xi\u0101n", "kJapaneseOn": "SEN"}
+[,{}
+龗,{"kMandarin": "l\u00edng", "kJapaneseOn": "REI RYOU"}
+],{}
+爩,{"kCantonese": "wat1", "kMandarin": "y\u00f9"}
