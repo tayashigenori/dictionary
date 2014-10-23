@@ -1,0 +1,12 @@
+丿,{}
+亅,{}
+乀,{}
+乚,{"kSemanticVariant": "U+96B1 &#x96B1;"}
+乛,{}
+丶,{}
+乙,{}
+丨,{}
+[,{}
+],{}
+乁,{}
+一,{"kSemanticVariant": "U+5F0C &#x5F0C;U+58F9 &#x58F9;", "kSpecializedSemanticVariant": "U+58F9 &#x58F9;"}
