@@ -1,0 +1,24 @@
+䀍,{}
+鸛,{"kSimplifiedVariant": "U+9E73 &#x9E73;"}
+鸜,{"kSemanticVariant": "U+6710 &#x6710;U+9D1D &#x9D1D;"}
+爨,{}
+䖄,{}
+虊,{}
+䖃,{}
+䖂,{}
+纞,{}
+䄥,{}
+麷,{}
+靏,{}
+䰖,{}
+䯁,{}
+鱹,{}
+[,{}
+],{}
+讟,{}
+驪,{"kSimplifiedVariant": "U+9A8A &#x9A8A;"}
+䥹,{}
+䶩,{}
+䶪,{}
+鬱,{"kSemanticVariant": "U+6B1D &#x6B1D;", "kSimplifiedVariant": "U+90C1 &#x90C1;", "kZVariant": "U+9B30 &#x9B30;"}
+钃,{}

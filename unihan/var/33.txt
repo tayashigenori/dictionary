@@ -1,0 +1,6 @@
+麤,{"kSemanticVariant": "U+7C97 &#x7C97;U+89D5 &#x89D5;U+9E84 &#x9E84;"}
+鱻,{"kSemanticVariant": "U+9BAE &#x9BAE;"}
+[,{}
+龗,{}
+],{}
+爩,{}

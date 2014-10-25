@@ -1,0 +1,81 @@
+㔶,{}
+鱶,{}
+圞,{"kSemanticVariant": "U+571D &#x571D;", "kSimplifiedVariant": "U+2A8AE &#x2A8AE;"}
+鑸,{}
+饟,{"kSemanticVariant": "U+9909 &#x9909;"}
+鑺,{}
+鑵,{"kZVariant": "U+7F50 &#x7F50;"}
+鑴,{"kSemanticVariant": "U+92D1 &#x92D1;U+942B &#x942B;"}
+鑷,{"kSimplifiedVariant": "U+954A &#x954A;"}
+氎,{}
+㘜,{}
+讛,{}
+鸓,{}
+㒪,{}
+鑹,{"kSimplifiedVariant": "U+9569 &#x9569;"}
+䉷,{}
+䪍,{}
+䪌,{}
+鸔,{}
+欜,{}
+㜼,{}
+㸑,{}
+虂,{}
+虃,{}
+虄,{}
+虅,{}
+韉,{"kSimplifiedVariant": "U+97AF &#x97AF;"}
+㜻,{}
+趲,{"kSimplifiedVariant": "U+8DB1 &#x8DB1;"}
+鼊,{}
+㼖,{}
+矖,{"kSemanticVariant": "U+77CB &#x77CB;"}
+驠,{}
+矚,{"kSimplifiedVariant": "U+77A9 &#x77A9;"}
+䚕,{}
+釃,{"kSimplifiedVariant": "U+917E &#x917E;"}
+䮾,{"kSimplifiedVariant": "U+299EA &#x299EA;"}
+龥,{"kSemanticVariant": "U+7C72 &#x7C72;"}
+䵵,{}
+黶,{"kSimplifiedVariant": "U+9EE1 &#x9EE1;"}
+䲙,{}
+籯,{}
+䰕,{}
+鑶,{}
+欝,{"kSemanticVariant": "U+9B31 &#x9B31;", "kZVariant": "U+9B31 &#x9B31;"}
+䴎,{}
+驣,{}
+躧,{"kSemanticVariant": "U+5C63 &#x5C63;U+8E5D &#x8E5D;"}
+灎,{"kZVariant": "U+7054 &#x7054;"}
+躦,{"kSimplifiedVariant": "U+8E9C &#x8E9C;"}
+驡,{}
+彠,{"kSimplifiedVariant": "U+5F5F &#x5F5F;"}
+䕾,{}
+驢,{"kSemanticVariant": "U+99BF &#x99BF;", "kSimplifiedVariant": "U+9A74 &#x9A74;"}
+䡽,{}
+[,{}
+讚,{"kZVariant": "U+8B83 &#x8B83;"}
+],{}
+龤,{"kSemanticVariant": "U+8AE7 &#x8AE7;"}
+㲲,{}
+靊,{}
+髗,{"kSemanticVariant": "U+9871 &#x9871;", "kZVariant": "U+81DA &#x81DA;"}
+䭦,{}
+䭧,{}
+䶥,{}
+鱴,{}
+鱱,{}
+䶦,{}
+饞,{"kSemanticVariant": "U+56B5 &#x56B5;", "kSimplifiedVariant": "U+998B &#x998B;"}
+㝲,{}
+鱳,{}
+鱲,{}
+鱵,{}
+釄,{}
+癳,{}
+䃻,{}
+蠼,{}
+灦,{}
+灤,{"kSimplifiedVariant": "U+6EE6 &#x6EE6;"}
+㶠,{}
+籰,{}

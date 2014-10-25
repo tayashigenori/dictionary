@@ -1,0 +1,73 @@
+鑽,{"kSemanticVariant": "U+9246 &#x9246;U+945A &#x945A;", "kSimplifiedVariant": "U+94BB &#x94BB;"}
+貜,{}
+鑿,{"kSimplifiedVariant": "U+51FF &#x51FF;"}
+㦭,{}
+鑻,{}
+鑼,{"kSimplifiedVariant": "U+9523 &#x9523;"}
+蘒,{}
+軉,{"kSimplifiedVariant": "U+28257 &#x28257;"}
+䉸,{}
+犫,{}
+飝,{}
+鸗,{}
+躪,{"kSimplifiedVariant": "U+8E8F &#x8E8F;"}
+鸖,{}
+䡾,{}
+䪎,{}
+飍,{}
+虆,{"kSimplifiedVariant": "U+8502 &#x8502;"}
+虇,{}
+虈,{}
+虉,{}
+飌,{}
+躩,{}
+䖀,{}
+讜,{"kSimplifiedVariant": "U+8C20 &#x8C20;"}
+纜,{"kSemanticVariant": "U+432B &#x432B;", "kSimplifiedVariant": "U+7F06 &#x7F06;"}
+纝,{}
+䨹,{}
+顴,{"kSimplifiedVariant": "U+98A7 &#x98A7;"}
+䮿,{}
+鸕,{"kSimplifiedVariant": "U+9E2C &#x9E2C;"}
+靍,{}
+靌,{}
+顳,{"kSimplifiedVariant": "U+989E &#x989E;"}
+靎,{}
+䲛,{}
+䲚,{}
+䴏,{}
+鬰,{"kZVariant": "U+9B31 &#x9B31;"}
+豓,{"kSemanticVariant": "U+8276 &#x8276;U+8C54 &#x8C54;"}
+鑾,{"kSimplifiedVariant": "U+92AE &#x92AE;"}
+驥,{"kSimplifiedVariant": "U+9AA5 &#x9AA5;"}
+䶵,{}
+驧,{}
+驦,{"kSimplifiedVariant": "U+9AA6 &#x9AA6;"}
+䌵,{}
+䕿,{}
+讝,{}
+齈,{}
+[,{}
+],{}
+䶐,{}
+讞,{"kSimplifiedVariant": "U+8C33 &#x8C33;"}
+靋,{}
+鬤,{}
+鱸,{"kSimplifiedVariant": "U+9C88 &#x9C88;"}
+糷,{}
+驤,{"kSimplifiedVariant": "U+9AA7 &#x9AA7;"}
+䭨,{}
+轥,{}
+䶧,{}
+䙱,{}
+鬮,{"kSemanticVariant": "U+4C17 &#x4C17;", "kSimplifiedVariant": "U+9604 &#x9604;"}
+釅,{"kSimplifiedVariant": "U+917D &#x917D;"}
+䭳,{}
+黷,{"kSimplifiedVariant": "U+9EE9 &#x9EE9;"}
+蠾,{}
+蠽,{}
+灨,{}
+灧,{"kSimplifiedVariant": "U+6EDF &#x6EDF;", "kZVariant": "U+7054 &#x7054;"}
+灥,{}
+鱷,{"kSemanticVariant": "U+9C10 &#x9C10;", "kSimplifiedVariant": "U+9CC4 &#x9CC4;"}
+馫,{}

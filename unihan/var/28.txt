@@ -1,0 +1,40 @@
+䤙,{}
+雧,{}
+鼺,{}
+,,{}
+鸚,{"kSimplifiedVariant": "U+9E66 &#x9E66;"}
+䘎,{}
+鸘,{"kSimplifiedVariant": "U+9E74 &#x9E74;"}
+爧,{}
+䠱,{"kSemanticVariant": "U+8E85 &#x8E85;"}
+䦆,{}
+㿜,{}
+麢,{}
+䖅,{}
+驩,{"kZVariant": "U+6B61 &#x6B61;"}
+戇,{"kSimplifiedVariant": "U+6206 &#x6206;"}
+䖁,{}
+躨,{}
+㠨,{}
+饡,{}
+饠,{}
+欟,{}
+欞,{"kSemanticVariant": "U+6AFA &#x6AFA;", "kSimplifiedVariant": "U+68C2 &#x68C2;"}
+囖,{}
+䯀,{"kSimplifiedVariant": "U+4BC5 &#x4BC5;"}
+豔,{"kSemanticVariant": "U+8276 &#x8276;U+8C53 &#x8C53;", "kZVariant": "U+8276 &#x8276;"}
+齽,{}
+[,{}
+],{}
+驨,{}
+䶨,{}
+䭩,{}
+龞,{}
+鸙,{}
+齼,{}
+癴,{}
+蠿,{}
+钀,{}
+钁,{"kSimplifiedVariant": "U+9562 &#x9562;"}
+钂,{"kZVariant": "U+954B &#x954B;"}
+黸,{}

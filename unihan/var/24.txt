@@ -1,0 +1,222 @@
+衋,{}
+雦,{}
+雥,{}
+虪,{}
+讖,{"kSimplifiedVariant": "U+8C36 &#x8C36;"}
+瓥,{}
+蠶,{"kSemanticVariant": "U+8695 &#x8695;", "kSimplifiedVariant": "U+8695 &#x8695;"}
+爣,{}
+䪉,{}
+䉶,{}
+䢲,{}
+㺧,{}
+麠,{}
+躠,{}
+瓛,{}
+讓,{"kSimplifiedVariant": "U+8BA9 &#x8BA9;"}
+韇,{}
+纗,{}
+儾,{}
+鱝,{"kSimplifiedVariant": "U+9CBC &#x9CBC;"}
+鱜,{}
+軈,{}
+鱞,{}
+䲑,{}
+䲐,{}
+䲓,{}
+䲒,{}
+䲕,{}
+囒,{}
+囑,{"kSemanticVariant": "U+5631 &#x5631;", "kSimplifiedVariant": "U+5631 &#x5631;"}
+齴,{}
+䫶,{}
+䫵,{}
+艷,{"kSimplifiedVariant": "U+8273 &#x8273;", "kZVariant": "U+8C54 &#x8C54;"}
+驝,{}
+驟,{"kSimplifiedVariant": "U+9AA4 &#x9AA4;"}
+驞,{}
+䙮,{}
+䙯,{}
+㽋,{}
+鱫,{}
+鱪,{}
+鱥,{}
+鱤,{"kSimplifiedVariant": "U+9CE1 &#x9CE1;"}
+鱧,{"kSimplifiedVariant": "U+9CE2 &#x9CE2;"}
+鱦,{}
+鱡,{}
+艭,{}
+鱣,{"kSimplifiedVariant": "U+9CE3 &#x9CE3;"}
+鱢,{}
+鱩,{}
+黂,{}
+䠯,{}
+醽,{}
+醾,{}
+醿,{}
+躝,{"kSimplifiedVariant": "U+2816C &#x2816C;"}
+魗,{}
+魙,{"kSemanticVariant": "U+807B &#x807B;"}
+魘,{"kSimplifiedVariant": "U+9B47 &#x9B47;"}
+䯥,{}
+躟,{}
+躞,{}
+穲,{}
+靃,{}
+靂,{"kSimplifiedVariant": "U+96F3 &#x96F3;"}
+靅,{}
+靄,{"kSimplifiedVariant": "U+972D &#x972D;"}
+靇,{}
+靆,{"kZVariant": "U+53C7 &#x53C7;"}
+䨷,{}
+靈,{"kSemanticVariant": "U+7075 &#x7075;", "kSimplifiedVariant": "U+7075 &#x7075;", "kZVariant": "U+F9B3 &#xF9B3;"}
+灟,{}
+灞,{}
+灝,{"kSimplifiedVariant": "U+704F &#x704F;"}
+䩏,{}
+䰒,{}
+䰑,{}
+䰐,{}
+䌯,{}
+欓,{"kSemanticVariant": "U+6A94 &#x6A94;", "kSimplifiedVariant": "U+235CB &#x235CB;"}
+䟑,{}
+欕,{}
+欔,{}
+壩,{"kSemanticVariant": "U+57BB &#x57BB;", "kSimplifiedVariant": "U+575D &#x575D;"}
+蘳,{}
+蘲,{}
+蘷,{}
+蘶,{}
+蘵,{}
+蘴,{}
+䰏,{}
+[,{}
+攭,{}
+攬,{"kSemanticVariant": "U+3A5C &#x3A5C;U+64E5 &#x64E5;", "kSimplifiedVariant": "U+63FD &#x63FD;"}
+鬢,{"kSemanticVariant": "U+9B02 &#x9B02;", "kSimplifiedVariant": "U+9B13 &#x9B13;"}
+髕,{"kSemanticVariant": "U+81CF &#x81CF;", "kSimplifiedVariant": "U+9ACC &#x9ACC;", "kZVariant": "U+81CF &#x81CF;"}
+䰰,{}
+鬬,{"kSemanticVariant": "U+9B25 &#x9B25;U+9B2A &#x9B2A;", "kZVariant": "U+9B25 &#x9B25;"}
+鬭,{"kSemanticVariant": "U+9B25 &#x9B25;", "kZVariant": "U+9B25 &#x9B25;"}
+䌱,{}
+鱠,{"kSemanticVariant": "U+81BE &#x81BE;", "kSimplifiedVariant": "U+9C99 &#x9C99;", "kSpecializedSemanticVariant": "U+81BE &#x81BE;"}
+蠺,{}
+蠹,{"kZVariant": "U+8827 &#x8827;"}
+蠸,{}
+癲,{"kSemanticVariant": "U+7628 &#x7628;", "kSimplifiedVariant": "U+766B &#x766B;"}
+癱,{"kSimplifiedVariant": "U+762B &#x762B;"}
+䰯,{}
+蠷,{}
+羈,{"kSemanticVariant": "U+898A &#x898A;", "kSimplifiedVariant": "U+7F81 &#x7F81;", "kZVariant": "U+898A &#x898A;"}
+灡,{"kSimplifiedVariant": "U+3CD5 &#x3CD5;"}
+灠,{"kSimplifiedVariant": "U+6F24 &#x6F24;"}
+䍦,{}
+韥,{}
+韤,{"kSemanticVariant": "U+896A &#x896A;U+97C8 &#x97C8;", "kZVariant": "U+896A &#x896A;"}
+䵄,{}
+禷,{}
+䡼,{}
+鸉,{}
+䵐,{}
+㿛,{}
+㿚,{}
+襵,{}
+襶,{}
+襷,{}
+韈,{"kSemanticVariant": "U+896A &#x896A;U+97E4 &#x97E4;", "kZVariant": "U+896A &#x896A;"}
+矕,{}
+韆,{}
+矗,{}
+羉,{}
+䵹,{}
+䵻,{}
+䵼,{}
+䵱,{}
+䮻,{}
+䮺,{}
+㶞,{}
+㶟,{}
+鼝,{}
+鹼,{"kSemanticVariant": "U+583F &#x583F;U+78B1 &#x78B1;U+9E7B &#x9E7B;", "kSimplifiedVariant": "U+7877 &#x7877;", "kZVariant": "U+7877 &#x7877;"}
+睷,{}
+孏,{}
+孎,{}
+鸇,{"kSimplifiedVariant": "U+9E6F &#x9E6F;"}
+䕸,{}
+䕹,{}
+䕺,{}
+䶢,{}
+讕,{"kSimplifiedVariant": "U+8C30 &#x8C30;"}
+讔,{}
+禶,{}
+䮼,{}
+齳,{}
+齲,{"kSimplifiedVariant": "U+9F8B &#x9F8B;"}
+齵,{}
+籪,{"kSimplifiedVariant": "U+7C16 &#x7C16;"}
+齷,{"kSimplifiedVariant": "U+9F8C &#x9F8C;"}
+齶,{"kSemanticVariant": "U+816D &#x816D;", "kSimplifiedVariant": "U+816D &#x816D;"}
+鼞,{}
+鬡,{}
+䶡,{}
+䶠,{}
+奲,{}
+釀,{"kSimplifiedVariant": "U+917F &#x917F;", "kZVariant": "U+91B8 &#x91B8;"}
+鑩,{}
+鑨,{}
+鸊,{}
+鸈,{}
+䤘,{}
+鑫,{}
+鹽,{"kSemanticVariant": "U+400B &#x400B;U+5869 &#x5869;U+25081 &#x25081;", "kSimplifiedVariant": "U+76D0 &#x76D0;"}
+䂎,{}
+礸,{}
+鸃,{}
+鸀,{}
+鸁,{}
+䤗,{}
+鱟,{"kSimplifiedVariant": "U+9C8E &#x9C8E;"}
+鸄,{}
+鸅,{}
+鑬,{}
+齆,{}
+犪,{}
+曭,{}
+曮,{}
+鑪,{}
+鸆,{}
+㚁,{}
+䬟,{}
+鸂,{"kSimplifiedVariant": "U+3D89 &#x3D89;"}
+衢,{}
+屭,{"kZVariant": "U+5C53 &#x5C53;"}
+贛,{"kSimplifiedVariant": "U+8D63 &#x8D63;"}
+顰,{"kSemanticVariant": "U+56AC &#x56AC;", "kSimplifiedVariant": "U+98A6 &#x98A6;"}
+䴋,{}
+䴊,{}
+䴉,{"kSimplifiedVariant": "U+9E6E &#x9E6E;"}
+䴈,{}
+囓,{"kSemanticVariant": "U+9F67 &#x9F67;", "kSpecializedSemanticVariant": "U+9F67 &#x9F67;", "kZVariant": "U+5699 &#x5699;"}
+䴇,{}
+䲔,{}
+䌲,{}
+䴙,{"kTraditionalVariant": "U+9DFF &#x9DFF;"}
+䌰,{"kSimplifiedVariant": "U+26219 &#x26219;"}
+鷿,{"kSimplifiedVariant": "U+4D19 &#x4D19;"}
+鷾,{}
+鷽,{"kSimplifiedVariant": "U+9E34 &#x9E34;"}
+],{}
+鷹,{"kSimplifiedVariant": "U+9E70 &#x9E70;"}
+䴫,{}
+䴪,{}
+㕔,{}
+䭥,{}
+䥵,{}
+䥶,{}
+䥷,{"kSemanticVariant": "U+350D &#x350D;"}
+讑,{}
+罐,{"kSemanticVariant": "U+7936 &#x7936;", "kZVariant": "U+7F36 &#x7F36;"}
+讒,{"kSimplifiedVariant": "U+8C17 &#x8C17;"}
+䃺,{}
+蠵,{}
+齅,{"kSemanticVariant": "U+55C5 &#x55C5;"}
