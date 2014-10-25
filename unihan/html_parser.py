@@ -10,6 +10,9 @@ VAR_SEPARATOR = ","
 
 STROKES_UPPER = 21
 
+TARGET_READINGS = 1
+TARGET_VARIANTS = 2
+
 import re, json
 import sys,os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
@@ -54,29 +57,22 @@ class UnihanPage(Page):
                     pass
         return res
 
-def store_dictionary(dictname, readings):
-    f_d = open(dictname, 'w+')
+def store_dictionary(dictname, values, target):
+    if target == TARGET_READINGS:
+        sep = DICT_SEPARATOR
+    else:
+        sep = VAR_SEPARATOR
+    f = open(dictname, 'w+')
     try:
-        for codepoint,v in readings.items():
+        for codepoint,v in values.items():
             d  = [codepoint]
             d += [json.dumps(v)]
-            f_d.write(DICT_SEPARATOR.join(d))
-            f_d.write("\n")
+            f.write(sep.join(d))
+            f.write("\n")
     finally:
-        f_d.close()
+        f.close()
 
-def store_variants(varname, variants):
-    f_v = open(varname, 'w+')
-    try:
-        for codepoint,v in variants.items():
-            d  = [codepoint]
-            d += [json.dumps(v)]
-            f_v.write(VAR_SEPARATOR.join(d))
-            f_v.write("\n")
-    finally:
-        f_v.close()
-
-def get_readings_from_source_url(source_url_name):
+def get_from_source_url(source_url_name, target):
     res = {}
     f_s = open(source_url_name,)
     try:
@@ -84,30 +80,16 @@ def get_readings_from_source_url(source_url_name):
             sys.stderr.write("getting resource: %s\n" %url)
             codepoint = url.split("codepoint=")[1].strip()
             page = UnihanPage(url)
-            res[codepoint] = page.get_readings()
+            if target == TARGET_READINGS:
+                res[codepoint] = page.get_readings()
+            else:
+                res[codepoint] = page.get_variants()
     except:
         sys.stderr.write("could not get resource: %s\n" %url)
         pass
     finally:
         f_s.close()
     return res
-
-def get_variants_from_source_url(source_url_name):
-    res = {}
-    f_s = open(source_url_name,)
-    try:
-        for url in f_s.readlines():
-            sys.stderr.write("getting resource: %s\n" %url)
-            codepoint = url.split("codepoint=")[1].strip()
-            page = UnihanPage(url)
-            res[codepoint] = page.get_variants()
-    except:
-        sys.stderr.write("could not get resource: %s\n" %url)
-        pass
-    finally:
-        f_s.close()
-    return res
-
 
 def main():
     # urls are supposed to be stored in file
@@ -115,17 +97,18 @@ def main():
     #codepoint = "4E00"
     #target_url = UNIHAN_URL_BASE %(codepoint)
     #pages = [target_url]
+    target = TARGET_READINGS
     STROKES_UPPER = 65
-    for stroke in range(5, STROKES_UPPER):
+    for stroke in range(15, 16):
         # get url and parse
         source_url_name = SOURCE_URL_PATH_BASE %(stroke)
-        #readings = get_readings_from_source_url(source_url_name)
-        variants = get_variants_from_source_url(source_url_name)
+        values = get_from_source_url(source_url_name, target)
         # store
-        #dictname = DICT_PATH_BASE %(stroke)
-        #store_dictionary(dictname, readings)
-        varname = VAR_PATH_BASE %(stroke)
-        store_variants(varname, variants)
+        if target == TARGET_READINGS:
+            dictname = DICT_PATH_BASE %(stroke)
+        else:
+            dictname = VAR_PATH_BASE %(stroke)
+        store_dictionary(dictname, values, target)
 
 if __name__ == '__main__':
     main()
