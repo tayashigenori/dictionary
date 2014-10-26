@@ -57,36 +57,35 @@ class UnihanPage(Page):
                     pass
         return res
 
-def store_dictionary(dictname, values, target):
-    if target == TARGET_READINGS:
-        sep = DICT_SEPARATOR
-    else:
-        sep = VAR_SEPARATOR
+def store_dictionary(dictname, values):
     f = open(dictname, 'w+')
     try:
-        for codepoint,v in values.items():
-            d  = [codepoint]
-            d += [json.dumps(v)]
-            f.write(sep.join(d))
+        for v in values:
+            f.write(v)
             f.write("\n")
     finally:
         f.close()
 
 def get_from_source_url(source_url_name, target):
-    res = {}
+    res = []
     f_s = open(source_url_name,)
     try:
         for url in f_s.readlines():
             sys.stderr.write("getting resource: %s\n" %url)
             codepoint = url.split("codepoint=")[1].strip()
-            page = UnihanPage(url)
+            try:
+                page = UnihanPage(url)
+            except:
+                sys.stderr.write("could not get resource: %s\n" %url)
+                continue
+
             if target == TARGET_READINGS:
-                res[codepoint] = page.get_readings()
+                readings = json.dumps(page.get_readings())
+                l = DICT_SEPARATOR.join([codepoint, readings])
             else:
-                res[codepoint] = page.get_variants()
-    except:
-        sys.stderr.write("could not get resource: %s\n" %url)
-        pass
+                variants = json.dumps(page.get_variants())
+                l = VAR_SEPARATOR.join([codepoint, variants])
+            res.append(l)
     finally:
         f_s.close()
     return res
@@ -99,7 +98,7 @@ def main():
     #pages = [target_url]
     target = TARGET_READINGS
     STROKES_UPPER = 65
-    for stroke in range(15, 16):
+    for stroke in range(1, 16):
         # get url and parse
         source_url_name = SOURCE_URL_PATH_BASE %(stroke)
         values = get_from_source_url(source_url_name, target)
@@ -108,7 +107,7 @@ def main():
             dictname = DICT_PATH_BASE %(stroke)
         else:
             dictname = VAR_PATH_BASE %(stroke)
-        store_dictionary(dictname, values, target)
+        store_dictionary(dictname, values)
 
 if __name__ == '__main__':
     main()
