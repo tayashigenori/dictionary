@@ -1,6 +1,6 @@
-䨊,{"kMandarin": "yu\u0101n"}
-籲,{"kKorean": "YU", "kHangul": "\uc720", "kMandarin": "y\u00f9", "kCantonese": "joek6 jyu6", "kJapaneseOn": "YU YAKU"}
-灪,{"kMandarin": "y\u00f9"}
-龖,{"kMandarin": "d\u00e1", "kJapaneseOn": "TOU DOU SOU"}
-],{}
 [,{}
+],{}
+䨊,{"kMandarin": "yu\u0101n"}
+灪,{"kMandarin": "y\u00f9"}
+籲,{"kKorean": "YU", "kHangul": "\uc720", "kMandarin": "y\u00f9", "kCantonese": "joek6 jyu6", "kJapaneseOn": "YU YAKU"}
+龖,{"kMandarin": "d\u00e1", "kJapaneseOn": "TOU DOU SOU"}

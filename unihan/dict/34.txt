@@ -1,5 +1,5 @@
-䯂,{"kCantonese": "san1", "kMandarin": "sh\u0113n"}
 [,{}
 ],{}
-䴑,{"kCantonese": "dip6", "kMandarin": "di\u00e9"}
+䯂,{"kCantonese": "san1", "kMandarin": "sh\u0113n"}
 䰱,{"kCantonese": "ling4", "kMandarin": "l\u00edng"}
+䴑,{"kCantonese": "dip6", "kMandarin": "di\u00e9"}
