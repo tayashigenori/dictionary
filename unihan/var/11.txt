@@ -1,59 +1,1442 @@
-珻,{}
-珺,{}
-圊,{}
-國,{"kSemanticVariant": "U+56EF &#x56EF;", "kSimplifiedVariant": "U+56FD &#x56FD;", "kZVariant": "U+5700 &#x5700;"}
+1,{}
+[,{}
+],{}
+㐡,{}
+㐢,{}
+㐣,{}
+㑤,{}
+㑮,{}
+㑯,{"kSimplifiedVariant": "U+3454 &#x3454;"}
+㑰,{}
+㑱,{}
+㑲,{}
+㒮,{}
+㒻,{}
+㒼,{}
+㓓,{}
+㓘,{}
+㓱,{}
+㓲,{}
+㓳,{}
+㓴,{}
+㓵,{}
+㓶,{}
+㔠,{}
+㔨,{}
+㔭,{}
+㔱,{"kSemanticVariant": "U+659E &#x659E;"}
+㕗,{}
+㕘,{}
+㖟,{}
+㖠,{}
+㖡,{}
+㖢,{}
+㖣,{}
+㖤,{}
+㖥,{}
+㖦,{}
+㖧,{}
+㖨,{}
+㖩,{}
+㖪,{}
+㖫,{}
+㖬,{}
+㖭,{}
+㖮,{}
+㖯,{}
+㖰,{}
+㖱,{}
+㖲,{}
+㖳,{}
+㖴,{}
+㖵,{}
+㙇,{}
+㙈,{}
+㙉,{}
+㙊,{}
+㙋,{}
+㙌,{}
+㙍,{}
+㚜,{}
+㚝,{"kSemanticVariant": "U+595E &#x595E;U+594E &#x594E;"}
+㚞,{}
+㛥,{}
+㛦,{}
+㛧,{}
+㛨,{}
+㛩,{}
+㛪,{}
+㛫,{}
+㛬,{}
+㛭,{}
+㝛,{"kSemanticVariant": "U+5BBF &#x5BBF;"}
+㝜,{}
+㝝,{}
+㝞,{}
+㝟,{}
+㝠,{}
+㝡,{}
+㞃,{}
+㞄,{}
+㞅,{}
+㞆,{}
+㞘,{}
+㞙,{}
+㟗,{"kSemanticVariant": "U+90A0 &#x90A0;U+8C73 &#x8C73;"}
+㟘,{}
+㟙,{}
+㟚,{}
+㟛,{}
+㟜,{"kTraditionalVariant": "U+21FB1 &#x21FB1;"}
+㟝,{}
+㟞,{}
+㟟,{}
+㟠,{}
+㟡,{}
+㟢,{}
+㟣,{}
+㟤,{}
+㟥,{}
+㠱,{}
+㡉,{}
+㡊,{}
+㡋,{}
+㡌,{}
+㡍,{}
+㡎,{}
+㢈,{}
+㢉,{}
+㢊,{}
+㢋,{}
+㢌,{}
+㢺,{}
+㢻,{}
+㢼,{}
+㣎,{}
+㣤,{}
+㣥,{}
+㣦,{}
+㣧,{}
+㣨,{}
+㣩,{}
+㤮,{}
+㤰,{}
+㤲,{}
+㤵,{"kSemanticVariant": "U+6148 &#x6148;"}
+㤻,{}
+㤾,{}
+㤿,{}
+㥀,{}
+㥂,{}
+㥃,{"kSemanticVariant": "U+60B6 &#x60B6;U+61E3 &#x61E3;"}
+㥄,{}
+㥅,{}
+㥆,{}
+㥇,{}
+㥉,{}
+㥊,{}
+㥌,{}
+㥍,{}
+㥏,{}
+㥒,{}
+㥓,{}
+㥔,{}
+㥗,{}
+㥘,{}
+㥙,{}
+㦷,{}
+㧳,{}
+㧹,{}
+㧺,{}
+㧻,{}
+㧼,{}
+㧽,{}
+㧾,{}
+㧿,{}
+㨀,{}
+㨁,{}
+㨂,{}
+㨃,{}
+㨄,{}
+㨅,{}
+㨆,{}
+㨈,{}
+㩽,{}
+㪊,{}
+㪋,{}
+㪌,{}
+㪍,{}
+㪎,{}
+㪷,{}
+㫊,{}
+㫋,{}
+㫌,{}
+㫯,{}
+㫰,{}
+㫱,{}
+㫲,{}
+㫳,{}
+㫴,{}
+㬶,{}
+㬷,{}
+㭨,{"kSemanticVariant": "U+6930 &#x6930;"}
+㭩,{}
+㭪,{}
+㭫,{}
+㭬,{}
+㭭,{}
+㭮,{}
+㭯,{}
+㭰,{}
+㭱,{}
+㭲,{}
+㭳,{}
+㭴,{"kTraditionalVariant": "U+6A2B &#x6A2B;"}
+㭵,{}
+㭷,{}
+㰮,{}
+㰯,{}
+㰰,{}
+㰱,{}
+㱢,{}
+㱣,{}
+㲀,{}
+㲔,{}
+㲕,{}
+㲖,{}
+㲗,{}
+㲘,{}
+㲙,{}
+㲚,{}
+㲵,{}
+㳫,{}
+㳴,{}
+㳵,{}
+㳶,{}
+㳷,{}
+㳸,{}
+㳹,{}
+㳺,{}
+㳻,{}
+㳽,{"kTraditionalVariant": "U+7030 &#x7030;"}
+㳾,{}
+㳿,{}
+㴀,{}
+㴁,{}
+㴂,{}
+㴃,{}
+㴄,{}
+㴆,{}
+㴇,{}
+㴈,{}
+㴉,{}
+㴊,{}
+㴋,{}
+㴌,{}
+㴍,{}
+㴎,{}
+㶹,{}
+㶺,{}
+㶻,{}
+㶼,{}
+㶽,{"kTraditionalVariant": "U+7171 &#x7171;"}
+㶾,{}
+㶿,{}
+㷀,{}
+㷁,{}
+㸔,{}
+㸘,{}
+㸹,{}
+㸺,{}
+㸻,{}
+㸼,{}
+㸽,{}
+㸾,{}
+㸿,{}
+㹀,{}
+㹹,{}
+㹺,{}
+㹻,{}
+㹼,{}
+㹽,{}
+㹾,{}
+㹿,{}
+㺀,{}
+㻉,{}
+㻊,{}
+㻋,{}
+㻌,{}
+㻍,{}
+㻎,{}
+㻏,{"kTraditionalVariant": "U+24AE9 &#x24AE9;"}
+㻐,{}
+㼍,{}
+㼎,{}
+㼡,{}
+㼢,{}
+㼣,{}
+㼤,{}
+㼥,{}
+㼦,{}
+㽝,{}
+㽞,{}
+㾊,{}
+㾋,{}
+㾌,{}
+㾍,{}
+㾎,{}
+㾏,{}
+㾐,{}
+㾑,{}
+㾒,{}
+㿠,{}
+㿡,{}
+㿯,{}
+㿰,{}
+䀁,{}
+䀂,{}
+䀧,{}
+䀨,{}
+䀩,{}
+䀪,{}
+䀫,{}
+䀬,{}
+䀭,{}
+䀮,{}
+䂈,{}
+䂒,{}
+䂩,{}
+䂪,{}
+䂫,{"kSemanticVariant": "U+592F &#x592F;"}
+䂬,{}
+䂭,{}
+䂮,{}
+䂯,{}
+䄄,{}
+䄅,{}
+䄆,{}
+䄺,{"kSemanticVariant": "U+7A0A &#x7A0A;"}
+䄻,{}
+䄼,{}
+䄽,{}
+䄾,{}
+䄿,{}
+䅀,{}
+䅁,{}
+䅂,{}
+䅃,{}
+䅄,{}
+䅅,{}
+䅆,{}
+䅇,{}
+䅈,{}
+䅉,{"kTraditionalVariant": "U+7A0F &#x7A0F;"}
+䅊,{}
+䆚,{}
+䆛,{}
+䆜,{}
+䆝,{}
+䆞,{}
+䆟,{}
+䆠,{}
+䇋,{}
+䇞,{}
+䇟,{}
+䇠,{}
+䇡,{}
+䇢,{}
+䇣,{}
+䇤,{}
+䇥,{}
+䇦,{}
+䉽,{}
+䉾,{}
+䉿,{}
+䊀,{}
+䋈,{}
+䋉,{}
+䋊,{}
+䋋,{}
+䋌,{}
+䋍,{}
+䋎,{}
+䋏,{}
+䋐,{}
+䋑,{}
+䋒,{}
+䋓,{}
+䋔,{}
+䌷,{"kTraditionalVariant": "U+7D2C &#x7D2C;"}
+䌹,{"kTraditionalVariant": "U+7D45 &#x7D45;"}
+䍄,{}
+䍅,{}
+䍆,{}
+䍇,{}
+䍈,{}
+䍉,{}
+䍘,{}
+䍪,{}
+䍫,{}
+䍬,{}
+䍭,{}
+䎀,{}
+䎁,{}
+䎂,{}
+䎃,{}
+䎄,{}
+䎅,{}
+䎆,{}
+䎣,{}
+䎵,{}
+䎶,{}
+䏯,{}
+䏰,{}
+䏱,{}
+䏲,{}
+䏳,{}
+䏴,{}
+䏵,{}
+䏶,{}
+䏷,{}
+䏸,{}
+䏹,{}
+䏺,{}
+䏻,{}
+䑐,{}
+䑕,{}
+䑛,{}
+䑦,{}
+䑧,{}
+䑨,{}
+䑩,{}
+䒋,{}
+䒦,{}
+䒧,{}
+䒨,{}
+䒩,{}
+䒪,{}
+䒫,{}
+䒬,{}
+䒭,{}
+䒮,{}
+䒯,{}
+䖒,{}
+䖓,{}
+䖔,{}
+䖕,{}
+䖖,{}
+䖤,{}
+䖥,{}
+䖦,{}
+䖧,{}
+䖨,{}
+䖩,{}
+䖪,{}
+䖫,{}
+䖬,{}
+䘑,{"kSemanticVariant": "U+8109 &#x8109;"}
+䘢,{}
+䘣,{}
+䘤,{}
+䘥,{}
+䘦,{}
+䘧,{}
+䙴,{}
+䙹,{}
+䙺,{}
+䙻,{}
+䚗,{}
+䚳,{}
+䚴,{}
+䚵,{}
+䚶,{}
+䚷,{}
+䚸,{}
+䚹,{}
+䚺,{}
+䚻,{}
+䚼,{}
+䚽,{}
+䚾,{}
+䚿,{}
+䛀,{}
+䛁,{}
+䛂,{}
+䛃,{}
+䜣,{"kTraditionalVariant": "U+8A22 &#x8A22;"}
+䜴,{}
+䝆,{}
+䝇,{}
+䝖,{}
+䝗,{}
+䝘,{}
+䝙,{"kTraditionalVariant": "U+8C99 &#x8C99;"}
+䝧,{}
+䝨,{}
+䞙,{}
+䞚,{}
+䞛,{}
+䞜,{}
+䟗,{}
+䟘,{}
+䟙,{}
+䟚,{}
+䟛,{}
+䟜,{}
+䟝,{}
+䟞,{}
+䡆,{}
+䡇,{}
+䡈,{}
+䡉,{}
+䡊,{}
+䡋,{}
+䡌,{}
+䡍,{}
+䡎,{}
+䢁,{"kTraditionalVariant": "U+282B8 &#x282B8;"}
+䢙,{"kSemanticVariant": "U+6557 &#x6557;"}
+䢚,{}
+䢛,{}
+䣊,{}
+䣋,{}
+䣌,{}
+䣍,{}
+䣎,{}
+䣏,{}
+䣩,{"kSemanticVariant": "U+9187 &#x9187;"}
+䣪,{}
+䣫,{}
+䣬,{}
+䣭,{}
+䤚,{}
+䤜,{}
+䦇,{}
+䦌,{}
+䦍,{}
+䧐,{}
+䧑,{}
+䧒,{}
+䧓,{}
+䧔,{}
+䧕,{}
+䧖,{}
+䧲,{}
+䧳,{}
+䨋,{}
+䨽,{}
+䨾,{}
+䫸,{}
+䬢,{}
+䯆,{}
+,,{}
+[,{}
+],{}
+乾,{"kSimplifiedVariant": "U+5E72 &#x5E72;", "kSpecializedSemanticVariant": "U+4E81 &#x4E81;"}
+乿,{}
+,,{}
+[,{}
+],{}
+偀,{}
+偁,{"kSemanticVariant": "U+7A6A &#x7A6A;U+7A31 &#x7A31;"}
+偂,{}
+偃,{"kSemanticVariant": "U+3AC3 &#x3AC3;"}
+偄,{}
+偅,{}
+偆,{}
+假,{"kZVariant": "U+4EEE &#x4EEE;"}
+偈,{}
+偉,{"kSimplifiedVariant": "U+4F1F &#x4F1F;"}
+偊,{"kSemanticVariant": "U+8E3D &#x8E3D;"}
+偋,{}
+偌,{}
+偍,{}
+偎,{"kSpecializedSemanticVariant": "U+6E28 &#x6E28;"}
+偏,{}
+偐,{"kSemanticVariant": "U+8D0B &#x8D0B;U+8D17 &#x8D17;"}
+偑,{"kSimplifiedVariant": "U+343D &#x343D;"}
+偒,{"kSemanticVariant": "U+8569 &#x8569;"}
+偓,{}
+偔,{}
+偕,{}
+偖,{}
+偗,{}
+偘,{}
+偙,{}
+做,{}
+偛,{}
+停,{"kZVariant": "U+4EC3 &#x4EC3;"}
+偝,{}
+偞,{}
+偟,{}
+偠,{}
+偡,{}
+偢,{}
+偣,{}
+偤,{}
+健,{"kSemanticVariant": "U+5FA4 &#x5FA4;"}
+偦,{}
+偧,{}
+偨,{}
+偩,{}
+偪,{"kSemanticVariant": "U+903C &#x903C;"}
+偫,{}
+偬,{"kTraditionalVariant": "U+50AF &#x50AF;"}
+偭,{}
+偮,{}
+偯,{}
+偰,{}
+偱,{}
+偲,{}
+偳,{}
+側,{"kSimplifiedVariant": "U+4FA7 &#x4FA7;"}
+偵,{"kSimplifiedVariant": "U+4FA6 &#x4FA6;"}
+偶,{}
+偷,{"kSemanticVariant": "U+5078 &#x5078;", "kZVariant": "U+5078 &#x5078;"}
+偸,{"kSemanticVariant": "U+5077 &#x5077;", "kZVariant": "U+5077 &#x5077;"}
+偹,{"kZVariant": "U+5099 &#x5099;"}
+偺,{"kSemanticVariant": "U+661D &#x661D;U+54B1 &#x54B1;", "kSpecializedSemanticVariant": "U+5592 &#x5592;"}
+偻,{"kTraditionalVariant": "U+50C2 &#x50C2;"}
+偼,{}
+偽,{"kSimplifiedVariant": "U+4F2A &#x4F2A;", "kZVariant": "U+50DE &#x50DE;"}
+偾,{"kTraditionalVariant": "U+50E8 &#x50E8;"}
+偿,{"kTraditionalVariant": "U+511F &#x511F;"}
+兜,{}
+兝,{}
+兞,{}
+兽,{"kTraditionalVariant": "U+7378 &#x7378;"}
+冕,{}
+冨,{"kZVariant": "U+5BCC &#x5BCC;"}
+减,{"kSemanticVariant": "U+6E1B &#x6E1B;", "kTraditionalVariant": "U+6E1B &#x6E1B;"}
+凐,{}
+凑,{"kSemanticVariant": "U+6E4A &#x6E4A;", "kTraditionalVariant": "U+6E4A &#x6E4A;"}
+凰,{}
+剨,{}
+剪,{"kSemanticVariant": "U+7FE6 &#x7FE6;"}
+剫,{}
+剬,{}
+剭,{}
+剮,{"kSimplifiedVariant": "U+5250 &#x5250;"}
+副,{}
+剰,{"kZVariant": "U+5269 &#x5269;"}
+剱,{"kZVariant": "U+528D &#x528D;"}
+剶,{}
+勒,{"kZVariant": "U+F952 &#xF952;"}
+勓,{}
+勔,{}
+動,{"kSimplifiedVariant": "U+52A8 &#x52A8;"}
+勖,{"kSemanticVariant": "U+52D7 &#x52D7;"}
+勗,{"kSemanticVariant": "U+52D6 &#x52D6;"}
+勘,{}
+務,{"kSimplifiedVariant": "U+52A1 &#x52A1;"}
+勚,{"kTraditionalVariant": "U+52E9 &#x52E9;"}
+匏,{"kSemanticVariant": "U+74DF &#x74DF;"}
+匐,{}
+匘,{"kSemanticVariant": "U+8166 &#x8166;"}
+匙,{"kSemanticVariant": "U+9349 &#x9349;"}
+匬,{}
+匭,{"kSimplifiedVariant": "U+5326 &#x5326;"}
+匮,{"kTraditionalVariant": "U+5331 &#x5331;"}
+匾,{}
+匿,{"kZVariant": "U+F9EB &#xF9EB;"}
+區,{"kSimplifiedVariant": "U+533A &#x533A;"}
+卙,{}
+卨,{}
+卾,{}
+卿,{}
+厠,{"kSemanticVariant": "U+5EC1 &#x5EC1;", "kZVariant": "U+5EC1 &#x5EC1;"}
+厡,{}
+厢,{"kTraditionalVariant": "U+5EC2 &#x5EC2;"}
+厣,{"kTraditionalVariant": "U+53B4 &#x53B4;"}
+厩,{"kSemanticVariant": "U+5ED0 &#x5ED0;", "kTraditionalVariant": "U+5EC4 &#x5EC4;"}
+參,{"kSemanticVariant": "U+53C5 &#x53C5;", "kSimplifiedVariant": "U+53C2 &#x53C2;", "kSpecializedSemanticVariant": "U+53C5 &#x53C5;U+8593 &#x8593;", "kZVariant": "U+F96B &#xF96B;"}
+叄,{"kSimplifiedVariant": "U+53C1 &#x53C1;", "kZVariant": "U+53C3 &#x53C3;"}
+唨,{}
+唩,{}
+唪,{}
+唫,{"kSemanticVariant": "U+541F &#x541F;"}
+唬,{"kSemanticVariant": "U+8AD5 &#x8AD5;U+7307 &#x7307;U+8653 &#x8653;"}
+唭,{}
+售,{}
+唯,{}
+唰,{}
+唱,{}
+唲,{}
+唳,{}
+唴,{}
+唵,{}
+唶,{}
+唷,{"kZVariant": "U+5539 &#x5539;"}
+唸,{}
+唹,{}
+唺,{}
+唻,{}
+唼,{}
+唽,{}
+唾,{"kSemanticVariant": "U+6DB6 &#x6DB6;", "kSpecializedSemanticVariant": "U+6DB6 &#x6DB6;"}
+唿,{}
+啀,{}
+啁,{}
+啂,{}
+啃,{"kSemanticVariant": "U+9F66 &#x9F66;"}
+啄,{}
+啅,{}
+商,{}
+啇,{}
+啈,{}
+啉,{}
+啊,{"kSpecializedSemanticVariant": "U+963F &#x963F;"}
+啋,{}
+啌,{}
+啍,{"kSemanticVariant": "U+5428 &#x5428;"}
+啎,{"kSemanticVariant": "U+5FE4 &#x5FE4;"}
+問,{"kSimplifiedVariant": "U+95EE &#x95EE;"}
+啐,{}
+啑,{}
+啒,{}
+啓,{"kSemanticVariant": "U+555F &#x555F;", "kZVariant": "U+555F &#x555F;"}
+啔,{"kZVariant": "U+5553 &#x5553;"}
+啕,{"kSemanticVariant": "U+54B7 &#x54B7;"}
+啖,{"kSemanticVariant": "U+35D6 &#x35D6;U+5649 &#x5649;U+5557 &#x5557;", "kZVariant": "U+5557 &#x5557;"}
+啗,{"kSemanticVariant": "U+35D6 &#x35D6;U+5556 &#x5556;U+5649 &#x5649;", "kZVariant": "U+5556 &#x5556;"}
+啘,{}
+啚,{}
+啛,{}
+啜,{"kSemanticVariant": "U+6B3C &#x6B3C;U+8AC1 &#x8AC1;U+6B60 &#x6B60;"}
+啝,{}
+啞,{"kSemanticVariant": "U+7602 &#x7602;", "kSimplifiedVariant": "U+54D1 &#x54D1;", "kZVariant": "U+5516 &#x5516;"}
+啟,{"kSemanticVariant": "U+5553 &#x5553;", "kSimplifiedVariant": "U+542F &#x542F;"}
+啠,{}
+啡,{}
+啢,{"kSimplifiedVariant": "U+5521 &#x5521;"}
+啣,{"kSemanticVariant": "U+3605 &#x3605;"}
+啤,{}
+啥,{}
+啦,{}
+啧,{"kTraditionalVariant": "U+5616 &#x5616;"}
+啨,{}
+啩,{}
+啪,{}
+啬,{"kTraditionalVariant": "U+55C7 &#x55C7;"}
+啭,{"kTraditionalVariant": "U+56C0 &#x56C0;"}
+啮,{"kTraditionalVariant": "U+5699 &#x5699;"}
+啯,{"kTraditionalVariant": "U+5613 &#x5613;", "kZVariant": "U+5613 &#x5613;"}
+啰,{"kTraditionalVariant": "U+56C9 &#x56C9;", "kZVariant": "U+56C9 &#x56C9;"}
+啱,{}
+啲,{}
+啳,{}
+啴,{"kTraditionalVariant": "U+563D &#x563D;"}
+啵,{}
+啶,{}
+啷,{}
+啸,{"kTraditionalVariant": "U+562F &#x562F;"}
+啹,{}
+圇,{"kSimplifiedVariant": "U+56F5 &#x56F5;"}
 圈,{"kZVariant": "U+570F &#x570F;"}
 圉,{}
+圊,{}
+國,{"kSemanticVariant": "U+56EF &#x56EF;", "kSimplifiedVariant": "U+56FD &#x56FD;", "kZVariant": "U+5700 &#x5700;"}
 圏,{"kZVariant": "U+5708 &#x5708;"}
-珴,{}
-圇,{"kSimplifiedVariant": "U+56F5 &#x56F5;"}
-釬,{"kSemanticVariant": "U+92B2 &#x92B2;"}
-麥,{"kSimplifiedVariant": "U+9EA6 &#x9EA6;"}
-麦,{"kTraditionalVariant": "U+9EA5 &#x9EA5;"}
-釫,{}
-釪,{}
-釩,{"kSimplifiedVariant": "U+9492 &#x9492;"}
-珳,{}
-麸,{"kTraditionalVariant": "U+9EA9 &#x9EA9;"}
-釨,{}
-亀,{"kZVariant": "U+9F9C &#x9F9C;"}
-淩,{}
-聈,{}
-聉,{}
-聊,{}
-聋,{"kTraditionalVariant": "U+807E &#x807E;"}
-职,{"kTraditionalVariant": "U+8077 &#x8077;"}
-聍,{"kTraditionalVariant": "U+8079 &#x8079;"}
-聃,{"kSemanticVariant": "U+803C &#x803C;"}
-聄,{}
-聅,{}
-聆,{"kZVariant": "U+F9B0 &#xF9B0;"}
-聇,{}
+埜,{"kSemanticVariant": "U+91CE &#x91CE;", "kZVariant": "U+91CE &#x91CE;"}
+埝,{}
+埞,{}
+域,{"kSemanticVariant": "U+3F63 &#x3F63;", "kSpecializedSemanticVariant": "U+8B7D &#x8B7D;"}
+埠,{}
+埡,{"kSimplifiedVariant": "U+57AD &#x57AD;"}
+埢,{}
+埣,{}
+埤,{}
+埥,{}
+埦,{}
+埧,{}
+埨,{}
+埩,{}
+埫,{}
+埬,{}
+埭,{}
+埮,{}
+埯,{"kTraditionalVariant": "U+57B5 &#x57B5;"}
+埰,{"kSimplifiedVariant": "U+91C7 &#x91C7;"}
+埱,{}
+埲,{}
+埳,{"kSemanticVariant": "U+574E &#x574E;"}
+埴,{}
+埵,{}
+埶,{"kSemanticVariant": "U+84FA &#x84FA;U+79C7 &#x79C7;U+85DD &#x85DD;"}
+執,{"kSemanticVariant": "U+6267 &#x6267;", "kSimplifiedVariant": "U+6267 &#x6267;"}
+埸,{}
+培,{}
+基,{"kSpecializedSemanticVariant": "U+628D &#x628D;U+62EF &#x62EF;"}
+埻,{}
+埼,{"kZVariant": "U+5D0E &#x5D0E;"}
+埽,{"kSemanticVariant": "U+6383 &#x6383;"}
+埾,{}
+埿,{}
+堀,{}
+堁,{}
+堂,{}
+堃,{"kSemanticVariant": "U+5764 &#x5764;"}
+堄,{}
+堅,{"kSimplifiedVariant": "U+575A &#x575A;"}
+堆,{"kSpecializedSemanticVariant": "U+200A4 &#x200A4;"}
+堇,{"kSemanticVariant": "U+83EB &#x83EB;", "kZVariant": "U+83EB &#x83EB;"}
+堈,{"kSemanticVariant": "U+7F38 &#x7F38;U+7F41 &#x7F41;"}
+堉,{}
+堊,{"kSimplifiedVariant": "U+57A9 &#x57A9;", "kZVariant": "U+8056 &#x8056;"}
+堋,{}
+堌,{}
+堍,{}
+堎,{}
+堏,{}
+堐,{}
+堑,{"kTraditionalVariant": "U+5879 &#x5879;"}
+堒,{}
+堓,{}
+堔,{}
+堕,{"kTraditionalVariant": "U+58AE &#x58AE;"}
+壷,{"kZVariant": "U+58FA &#x58FA;"}
+壸,{"kTraditionalVariant": "U+58FC &#x58FC;"}
+够,{"kSemanticVariant": "U+5F40 &#x5F40;U+5920 &#x5920;", "kTraditionalVariant": "U+5920 &#x5920;"}
+夠,{"kSemanticVariant": "U+591F &#x591F;U+5F40 &#x5F40;", "kSimplifiedVariant": "U+591F &#x591F;"}
+奛,{}
+奜,{}
+奝,{}
+奞,{"kSemanticVariant": "U+369D &#x369D;U+594E &#x594E;"}
+娬,{"kSemanticVariant": "U+5AF5 &#x5AF5;"}
+娵,{}
+娶,{}
+娷,{}
+娸,{}
+娹,{}
+娺,{}
+娻,{}
+娼,{}
+娾,{}
+娿,{"kZVariant": "U+5A40 &#x5A40;"}
+婀,{"kZVariant": "U+5A3F &#x5A3F;"}
+婁,{"kSimplifiedVariant": "U+5A04 &#x5A04;"}
+婂,{}
+婃,{}
+婄,{}
+婅,{}
+婆,{}
+婇,{}
+婈,{}
+婉,{}
+婊,{}
+婋,{}
+婌,{}
+婍,{}
+婎,{}
+婏,{}
+婐,{}
+婑,{}
+婒,{}
+婓,{}
+婔,{}
+婕,{}
+婖,{}
+婗,{}
+婘,{}
+婙,{}
+婚,{}
+婛,{}
+婜,{}
+婝,{}
+婞,{}
+婟,{}
+婠,{}
+婡,{}
+婢,{}
+婣,{"kSemanticVariant": "U+59FB &#x59FB;", "kZVariant": "U+59FB &#x59FB;"}
+婤,{}
+婥,{}
+婦,{"kSemanticVariant": "U+5A8D &#x5A8D;", "kSimplifiedVariant": "U+5987 &#x5987;"}
+婧,{}
+婨,{}
+婩,{}
+婪,{}
+婫,{}
+婬,{"kSemanticVariant": "U+6DEB &#x6DEB;", "kZVariant": "U+6DEB &#x6DEB;"}
+婭,{"kSimplifiedVariant": "U+5A05 &#x5A05;"}
+婮,{}
+婯,{}
+婰,{}
+婱,{}
+婲,{}
+婳,{"kTraditionalVariant": "U+5AFF &#x5AFF;"}
+婴,{"kTraditionalVariant": "U+5B30 &#x5B30;"}
+婵,{"kTraditionalVariant": "U+5B0B &#x5B0B;"}
+婶,{"kTraditionalVariant": "U+5B38 &#x5B38;"}
+孮,{}
+孯,{}
+孰,{"kSpecializedSemanticVariant": "U+587E &#x587E;"}
+孲,{}
+宿,{"kSemanticVariant": "U+375B &#x375B;"}
+寀,{}
+寁,{}
+寂,{}
+寃,{"kSemanticVariant": "U+51A4 &#x51A4;", "kZVariant": "U+51A4 &#x51A4;"}
+寄,{}
+寅,{}
+密,{"kSemanticVariant": "U+5BBB &#x5BBB;", "kZVariant": "U+5BBB &#x5BBB;"}
+寇,{"kSemanticVariant": "U+5BBC &#x5BBC;"}
+寈,{}
+寉,{}
+將,{"kSemanticVariant": "U+2456D &#x2456D;", "kSimplifiedVariant": "U+5C06 &#x5C06;", "kSpecializedSemanticVariant": "U+5C06 &#x5C06;U+757A &#x757A;"}
+專,{"kSemanticVariant": "U+8011 &#x8011;", "kSimplifiedVariant": "U+4E13 &#x4E13;"}
+尉,{"kSpecializedSemanticVariant": "U+71A8 &#x71A8;"}
+屙,{}
+屚,{}
+屛,{"kZVariant": "U+6452 &#x6452;"}
+屜,{"kSemanticVariant": "U+21C95 &#x21C95;", "kSimplifiedVariant": "U+5C49 &#x5C49;"}
+屝,{}
+崆,{}
+崇,{}
+崈,{"kZVariant": "U+5D07 &#x5D07;"}
+崉,{}
+崊,{}
+崋,{"kZVariant": "U+83EF &#x83EF;"}
+崌,{}
+崍,{"kSimplifiedVariant": "U+5D03 &#x5D03;"}
+崎,{"kZVariant": "U+57FC &#x57FC;"}
+崏,{}
+崐,{"kZVariant": "U+5D11 &#x5D11;"}
+崑,{"kZVariant": "U+5D10 &#x5D10;"}
+崒,{"kSemanticVariant": "U+5D2A &#x5D2A;"}
+崓,{}
+崔,{"kSemanticVariant": "U+78EA &#x78EA;"}
+崕,{"kZVariant": "U+5D16 &#x5D16;"}
+崖,{"kSemanticVariant": "U+5393 &#x5393;"}
+崗,{"kSemanticVariant": "U+5CA1 &#x5CA1;", "kSimplifiedVariant": "U+5C97 &#x5C97;", "kZVariant": "U+5CA1 &#x5CA1;"}
+崘,{"kSemanticVariant": "U+5D19 &#x5D19;", "kZVariant": "U+5D19 &#x5D19;"}
+崙,{"kSemanticVariant": "U+4F96 &#x4F96;U+5D18 &#x5D18;", "kZVariant": "U+F9D5 &#xF9D5;"}
+崚,{}
+崛,{}
+崜,{}
+崝,{}
+崞,{}
+崟,{"kZVariant": "U+5D94 &#x5D94;"}
+崠,{"kZVariant": "U+5CBD &#x5CBD;"}
+崡,{}
+崢,{"kSimplifiedVariant": "U+5CE5 &#x5CE5;"}
+崣,{}
+崤,{}
+崥,{}
+崦,{}
+崧,{"kSemanticVariant": "U+5D69 &#x5D69;"}
+崨,{}
+崩,{}
+崪,{"kSemanticVariant": "U+5D12 &#x5D12;"}
+崫,{}
+崬,{"kSimplifiedVariant": "U+5CBD &#x5CBD;"}
+崭,{"kTraditionalVariant": "U+5D84 &#x5D84;"}
+崮,{}
+崯,{}
+崰,{}
+巢,{"kZVariant": "U+5DE3 &#x5DE3;"}
+巣,{"kZVariant": "U+5DE2 &#x5DE2;"}
+帲,{"kZVariant": "U+5E21 &#x5E21;"}
+帳,{"kSemanticVariant": "U+8CEC &#x8CEC;", "kSimplifiedVariant": "U+5E10 &#x5E10;", "kZVariant": "U+8CEC &#x8CEC;"}
+帴,{}
+帵,{}
+帶,{"kSimplifiedVariant": "U+5E26 &#x5E26;", "kZVariant": "U+5E2F &#x5E2F;"}
+帷,{}
+常,{}
+帹,{}
+帺,{}
+帻,{"kTraditionalVariant": "U+5E58 &#x5E58;"}
+帼,{"kTraditionalVariant": "U+5E57 &#x5E57;"}
+庰,{}
+庱,{}
+庲,{}
+庳,{}
+庴,{}
+庵,{"kSemanticVariant": "U+83F4 &#x83F4;", "kZVariant": "U+83F4 &#x83F4;"}
+庶,{"kZVariant": "U+5EBB &#x5EBB;"}
+康,{}
+庸,{"kSemanticVariant": "U+342F &#x342F;U+2018C &#x2018C;"}
+庹,{}
+庺,{}
+庻,{"kZVariant": "U+5EB6 &#x5EB6;"}
+庼,{"kZVariant": "U+5ECE &#x5ECE;"}
+弴,{}
+張,{"kSimplifiedVariant": "U+5F20 &#x5F20;"}
+弶,{}
+強,{"kSemanticVariant": "U+5F3A &#x5F3A;U+5F4A &#x5F4A;", "kSimplifiedVariant": "U+5F3A &#x5F3A;", "kSpecializedSemanticVariant": "U+5F4A &#x5F4A;"}
+弸,{}
+弹,{"kTraditionalVariant": "U+5F48 &#x5F48;"}
+彗,{"kZVariant": "U+7BF2 &#x7BF2;"}
+彩,{}
+彪,{}
+彫,{"kSemanticVariant": "U+34EE &#x34EE;U+96D5 &#x96D5;", "kSpecializedSemanticVariant": "U+9D70 &#x9D70;"}
+彬,{"kSemanticVariant": "U+658C &#x658C;", "kZVariant": "U+4EFD &#x4EFD;"}
+徖,{}
+得,{}
+徘,{}
+徙,{}
+徛,{}
+徜,{}
+徝,{}
+從,{"kSemanticVariant": "U+4ECE &#x4ECE;", "kSimplifiedVariant": "U+4ECE &#x4ECE;", "kSpecializedSemanticVariant": "U+4ECE &#x4ECE;", "kZVariant": "U+5F93 &#x5F93;"}
+徟,{}
+徠,{"kSemanticVariant": "U+5008 &#x5008;U+52D1 &#x52D1;", "kSimplifiedVariant": "U+5F95 &#x5F95;", "kZVariant": "U+4F86 &#x4F86;"}
+御,{"kSemanticVariant": "U+99AD &#x99AD;", "kTraditionalVariant": "U+79A6 &#x79A6;", "kSpecializedSemanticVariant": "U+99AD &#x99AD;"}
+徢,{}
+徣,{}
+徤,{"kSemanticVariant": "U+5065 &#x5065;"}
+[,{}
+],{}
+恿,{"kSemanticVariant": "U+6142 &#x6142;", "kZVariant": "U+6142 &#x6142;"}
+悆,{}
+悉,{}
+悊,{"kSemanticVariant": "U+54F2 &#x54F2;"}
+悐,{"kSemanticVariant": "U+60D5 &#x60D5;"}
+悘,{}
+悠,{"kSemanticVariant": "U+6EFA &#x6EFA;"}
+悡,{}
+患,{}
+悤,{"kSemanticVariant": "U+5306 &#x5306;U+6031 &#x6031;", "kZVariant": "U+5306 &#x5306;"}
+悥,{}
+您,{}
+悪,{"kZVariant": "U+60E1 &#x60E1;"}
+悬,{"kTraditionalVariant": "U+61F8 &#x61F8;"}
+悰,{}
+悱,{}
+悴,{"kZVariant": "U+5FF0 &#x5FF0;"}
+悵,{"kSimplifiedVariant": "U+6005 &#x6005;"}
+悷,{}
+悸,{}
+悺,{}
+悻,{}
+悼,{}
+悽,{"kZVariant": "U+6DD2 &#x6DD2;"}
+悾,{}
+悿,{}
+惀,{}
+惂,{}
+惃,{}
+情,{}
+惆,{}
+惇,{"kSemanticVariant": "U+6566 &#x6566;"}
+惈,{}
+惊,{"kTraditionalVariant": "U+9A5A &#x9A5A;"}
+惋,{}
+惍,{}
+惏,{}
+惐,{}
+惓,{}
+惔,{}
+惕,{"kSemanticVariant": "U+6090 &#x6090;"}
+惗,{}
+惘,{}
+惙,{}
+惚,{}
+惛,{"kSemanticVariant": "U+60FD &#x60FD;"}
+惜,{}
+惝,{"kSemanticVariant": "U+22835 &#x22835;"}
+惞,{}
+惟,{}
+惤,{}
+惦,{}
+惧,{"kSemanticVariant": "U+61FC &#x61FC;", "kTraditionalVariant": "U+61FC &#x61FC;"}
+惨,{"kTraditionalVariant": "U+6158 &#x6158;"}
+惪,{"kSemanticVariant": "U+5FB7 &#x5FB7;", "kZVariant": "U+5FB7 &#x5FB7;"}
+惬,{"kTraditionalVariant": "U+611C &#x611C;"}
+惭,{"kTraditionalVariant": "U+615A &#x615A;"}
+惮,{"kTraditionalVariant": "U+619A &#x619A;"}
+惯,{"kTraditionalVariant": "U+6163 &#x6163;"}
+戚,{}
+戛,{"kZVariant": "U+621E &#x621E;"}
+戜,{}
+戝,{"kZVariant": "U+8CCA &#x8CCA;"}
+扈,{}
+挲,{"kSemanticVariant": "U+6331 &#x6331;"}
+捥,{}
+捦,{"kSemanticVariant": "U+64D2 &#x64D2;"}
+捧,{}
+捨,{"kSimplifiedVariant": "U+820D &#x820D;", "kSpecializedSemanticVariant": "U+820D &#x820D;"}
+捩,{}
+捪,{}
+捫,{"kSimplifiedVariant": "U+626A &#x626A;"}
+捬,{"kSemanticVariant": "U+64AB &#x64AB;"}
+捭,{}
+据,{"kTraditionalVariant": "U+64DA &#x64DA;"}
+捯,{}
+捰,{}
+捱,{}
+捲,{"kZVariant": "U+5377 &#x5377;"}
+捳,{}
+捴,{"kZVariant": "U+7E3D &#x7E3D;"}
+捵,{"kSemanticVariant": "U+4940 &#x4940;"}
+捶,{"kSemanticVariant": "U+7BA0 &#x7BA0;", "kZVariant": "U+6425 &#x6425;"}
+捷,{}
+捸,{}
+捹,{}
+捺,{}
+捻,{"kZVariant": "U+F9A4 &#xF9A4;"}
+捼,{"kSemanticVariant": "U+633C &#x633C;"}
+捽,{}
+捾,{}
+捿,{}
+掀,{}
+掁,{}
+掂,{"kSemanticVariant": "U+6541 &#x6541;"}
+掃,{"kSemanticVariant": "U+57FD &#x57FD;", "kSimplifiedVariant": "U+626B &#x626B;"}
+掄,{"kSimplifiedVariant": "U+62A1 &#x62A1;"}
+掅,{}
+掆,{"kSimplifiedVariant": "U+39CF &#x39CF;"}
+掇,{"kSpecializedSemanticVariant": "U+633D &#x633D;"}
+授,{}
+掉,{"kSpecializedSemanticVariant": "U+68F9 &#x68F9;"}
+掊,{}
+掋,{}
+掍,{}
+掎,{}
+掏,{"kSemanticVariant": "U+642F &#x642F;", "kZVariant": "U+642F &#x642F;"}
+掐,{"kSemanticVariant": "U+2073C &#x2073C;"}
+掑,{}
+排,{}
+掓,{}
+掕,{}
+掖,{}
+掗,{"kSimplifiedVariant": "U+631C &#x631C;"}
+掘,{"kZVariant": "U+6485 &#x6485;"}
+掙,{"kSimplifiedVariant": "U+6323 &#x6323;"}
+掚,{}
+掛,{"kSemanticVariant": "U+6302 &#x6302;", "kSimplifiedVariant": "U+6302 &#x6302;"}
+掜,{}
+掝,{}
+掞,{}
+掟,{}
+掠,{"kZVariant": "U+F975 &#xF975;"}
+採,{"kSimplifiedVariant": "U+91C7 &#x91C7;"}
+探,{}
+掤,{}
+接,{}
+掦,{}
+控,{}
+推,{}
+掩,{"kSemanticVariant": "U+63DC &#x63DC;", "kSpecializedSemanticVariant": "U+63DE &#x63DE;"}
+措,{}
+掫,{}
+掬,{"kSemanticVariant": "U+530A &#x530A;"}
+掭,{}
+掮,{}
+掯,{}
+掰,{}
+掳,{"kTraditionalVariant": "U+64C4 &#x64C4;"}
+掴,{"kTraditionalVariant": "U+6451 &#x6451;"}
+掵,{}
+掶,{}
+掷,{"kTraditionalVariant": "U+64F2 &#x64F2;"}
+掸,{"kTraditionalVariant": "U+64A3 &#x64A3;"}
+掹,{}
+掺,{"kTraditionalVariant": "U+647B &#x647B;"}
+掻,{"kZVariant": "U+6414 &#x6414;"}
+掼,{"kTraditionalVariant": "U+645C &#x645C;"}
+掽,{"kSemanticVariant": "U+78B0 &#x78B0;"}
+敍,{"kSemanticVariant": "U+53D9 &#x53D9;U+6558 &#x6558;", "kZVariant": "U+53D9 &#x53D9;"}
+敎,{"kSemanticVariant": "U+6559 &#x6559;", "kZVariant": "U+6559 &#x6559;"}
+敏,{"kSemanticVariant": "U+52C4 &#x52C4;"}
+敐,{}
+救,{}
+敒,{}
+敓,{"kZVariant": "U+655A &#x655A;"}
+敔,{}
+敕,{"kSemanticVariant": "U+52C5 &#x52C5;U+52D1 &#x52D1;", "kSpecializedSemanticVariant": "U+52C5 &#x52C5;"}
+敖,{}
+敗,{"kSemanticVariant": "U+4899 &#x4899;", "kSimplifiedVariant": "U+8D25 &#x8D25;"}
+敢,{}
+敘,{"kSemanticVariant": "U+53D9 &#x53D9;U+654D &#x654D;", "kSimplifiedVariant": "U+53D9 &#x53D9;", "kZVariant": "U+654D &#x654D;"}
+教,{"kSemanticVariant": "U+654E &#x654E;", "kZVariant": "U+654E &#x654E;"}
+敚,{"kZVariant": "U+6553 &#x6553;"}
+敛,{"kTraditionalVariant": "U+6582 &#x6582;"}
+斌,{"kSemanticVariant": "U+5F6C &#x5F6C;"}
+斍,{"kSpecializedSemanticVariant": "U+89BA &#x89BA;", "kZVariant": "U+89BA &#x89BA;"}
+斎,{"kZVariant": "U+9F4B &#x9F4B;"}
+斏,{}
+斛,{}
+斜,{}
+斬,{"kSimplifiedVariant": "U+65A9 &#x65A9;"}
+断,{"kSemanticVariant": "U+65B7 &#x65B7;", "kTraditionalVariant": "U+65B7 &#x65B7;"}
+旇,{}
+旈,{"kSemanticVariant": "U+65D2 &#x65D2;"}
+旉,{"kSemanticVariant": "U+5C03 &#x5C03;U+6577 &#x6577;"}
+旋,{}
+旌,{}
+旍,{}
+旎,{}
+族,{}
+旣,{}
+晗,{}
+晘,{}
+晙,{}
+晚,{"kZVariant": "U+6669 &#x6669;"}
+晛,{}
+晜,{}
+晝,{"kSimplifiedVariant": "U+663C &#x663C;"}
+晞,{}
+晟,{}
+晠,{}
+晡,{}
+晢,{"kZVariant": "U+6670 &#x6670;"}
+晣,{}
+晤,{}
+晥,{}
+晦,{}
+晧,{}
+晨,{}
+曹,{"kZVariant": "U+66FA &#x66FA;"}
+曻,{}
+曼,{"kSemanticVariant": "U+3B05 &#x3B05;"}
+曽,{"kZVariant": "U+66FE &#x66FE;"}
+朖,{"kZVariant": "U+6717 &#x6717;"}
+朗,{"kZVariant": "U+F929 &#xF929;"}
+朘,{}
+朙,{"kSemanticVariant": "U+660E &#x660E;"}
+朚,{}
+望,{"kSemanticVariant": "U+6722 &#x6722;", "kZVariant": "U+6722 &#x6722;"}
+桫,{}
+桬,{}
+桭,{}
+桮,{"kZVariant": "U+676F &#x676F;"}
+桯,{}
+桰,{}
+桱,{}
+桲,{}
+桳,{}
+桴,{}
+桵,{}
+桶,{}
+桷,{}
+桸,{}
+桹,{}
+桺,{}
+桻,{}
+桼,{"kSemanticVariant": "U+3BC3 &#x3BC3;U+6F06 &#x6F06;"}
+桽,{}
+桾,{}
+桿,{"kSimplifiedVariant": "U+6746 &#x6746;"}
+梀,{}
+梁,{"kSemanticVariant": "U+6A11 &#x6A11;", "kZVariant": "U+F97A &#xF97A;"}
+梂,{}
+梃,{}
+梄,{}
+梅,{"kZVariant": "U+6973 &#x6973;"}
+梆,{}
+梇,{}
+梈,{}
+梉,{}
+梊,{}
+梋,{}
+梌,{}
+梍,{}
+梎,{}
+梏,{}
+梐,{}
+梑,{}
+梒,{}
+梓,{}
+梔,{"kSimplifiedVariant": "U+6800 &#x6800;"}
+梕,{}
+梖,{}
+梗,{}
+梘,{"kSimplifiedVariant": "U+67A7 &#x67A7;"}
+梙,{}
+梚,{}
+梛,{}
+梜,{}
+條,{"kSemanticVariant": "U+6761 &#x6761;U+7CF6 &#x7CF6;", "kSimplifiedVariant": "U+6761 &#x6761;"}
+梞,{}
+梟,{"kSemanticVariant": "U+9D1E &#x9D1E;", "kSimplifiedVariant": "U+67AD &#x67AD;"}
+梠,{}
+梡,{}
+梢,{}
+梣,{}
+梤,{}
+梥,{}
+梦,{"kSemanticVariant": "U+5922 &#x5922;", "kTraditionalVariant": "U+5922 &#x5922;"}
+梧,{}
+梨,{"kSemanticVariant": "U+68C3 &#x68C3;", "kZVariant": "U+F9E2 &#xF9E2;"}
+梩,{}
+梪,{}
+梫,{}
+梬,{}
+梭,{}
+梮,{}
+梯,{}
+械,{}
+梱,{}
+梲,{"kSemanticVariant": "U+68F3 &#x68F3;", "kSimplifiedVariant": "U+68C1 &#x68C1;"}
+梳,{}
+梴,{}
+梵,{}
+梶,{}
+梷,{}
+梸,{}
+梹,{"kSemanticVariant": "U+6AB3 &#x6AB3;", "kZVariant": "U+6AB3 &#x6AB3;"}
+梺,{}
+梻,{}
+梼,{"kTraditionalVariant": "U+6AAE &#x6AAE;"}
+梽,{}
+梾,{"kTraditionalVariant": "U+68F6 &#x68F6;"}
+梿,{"kTraditionalVariant": "U+69E4 &#x69E4;"}
 检,{"kTraditionalVariant": "U+6AA2 &#x6AA2;"}
 棁,{"kTraditionalVariant": "U+68B2 &#x68B2;"}
 棂,{"kTraditionalVariant": "U+6B1E &#x6B1E;"}
+欲,{"kSemanticVariant": "U+617E &#x617E;", "kZVariant": "U+617E &#x617E;"}
+欳,{}
+欴,{}
+欵,{"kSemanticVariant": "U+6B3E &#x6B3E;"}
+欶,{"kSemanticVariant": "U+20CBF &#x20CBF;"}
+欷,{}
+欸,{"kSemanticVariant": "U+5509 &#x5509;", "kSpecializedSemanticVariant": "U+5509 &#x5509;", "kZVariant": "U+5509 &#x5509;"}
+殌,{}
+殍,{"kSpecializedSemanticVariant": "U+83A9 &#x83A9;"}
+殎,{}
+殏,{}
+殐,{}
+殑,{}
+殒,{"kTraditionalVariant": "U+6B9E &#x6B9E;", "kZVariant": "U+9695 &#x9695;"}
+殓,{"kTraditionalVariant": "U+6BAE &#x6BAE;"}
+殸,{}
+殹,{}
+殺,{"kSimplifiedVariant": "U+6740 &#x6740;", "kZVariant": "U+F970 &#xF970;"}
+殻,{"kSemanticVariant": "U+58F3 &#x58F3;", "kSpecializedSemanticVariant": "U+6BBC &#x6BBC;", "kZVariant": "U+6BBC &#x6BBC;"}
+毫,{}
+毬,{"kZVariant": "U+7403 &#x7403;"}
+毭,{}
+毮,{}
+氪,{}
+氫,{"kSimplifiedVariant": "U+6C22 &#x6C22;"}
+涙,{"kZVariant": "U+6DDA &#x6DDA;"}
+涪,{}
+涫,{}
+涬,{}
+涭,{}
+涮,{}
+涯,{}
+涰,{}
+涱,{}
+液,{}
+涳,{}
+涴,{}
+涵,{}
+涶,{"kSemanticVariant": "U+553E &#x553E;", "kSpecializedSemanticVariant": "U+553E &#x553E;"}
+涷,{}
+涸,{"kZVariant": "U+51C5 &#x51C5;"}
+涹,{}
+涺,{}
+涻,{}
+涼,{"kSemanticVariant": "U+51C9 &#x51C9;", "kSimplifiedVariant": "U+51C9 &#x51C9;", "kZVariant": "U+F979 &#xF979;"}
+涽,{}
+涾,{}
+涿,{}
+淀,{"kTraditionalVariant": "U+6FB1 &#x6FB1;"}
+淁,{}
+淂,{}
+淃,{}
+淄,{}
+淅,{}
+淆,{"kSemanticVariant": "U+6BBD &#x6BBD;"}
+淇,{}
+淈,{}
+淉,{}
+淊,{}
+淋,{"kZVariant": "U+F9F5 &#xF9F5;"}
+淌,{}
+淍,{}
+淎,{}
+淏,{}
+淐,{}
+淑,{}
+淒,{"kSemanticVariant": "U+51C4 &#x51C4;", "kZVariant": "U+51C4 &#x51C4;"}
+淓,{}
+淔,{}
+淕,{}
+淖,{}
+淗,{}
+淘,{}
+淙,{}
+淚,{"kSemanticVariant": "U+6CEA &#x6CEA;", "kSimplifiedVariant": "U+6CEA &#x6CEA;", "kZVariant": "U+F94D &#xF94D;"}
+淛,{}
+淜,{"kSemanticVariant": "U+6F30 &#x6F30;"}
+淝,{}
+淞,{}
+淟,{}
+淠,{}
+淡,{"kSemanticVariant": "U+6FB9 &#x6FB9;", "kSpecializedSemanticVariant": "U+6FB9 &#x6FB9;", "kZVariant": "U+6FB9 &#x6FB9;"}
+淢,{}
+淣,{}
+淤,{}
+淥,{"kSimplifiedVariant": "U+6E0C &#x6E0C;"}
+淦,{}
 淧,{}
-䞜,{}
-䞙,{}
-䞛,{}
-䞚,{}
+淨,{"kSemanticVariant": "U+51C8 &#x51C8;", "kSpecializedSemanticVariant": "U+51C8 &#x51C8;", "kZVariant": "U+51C8 &#x51C8;"}
+淩,{}
+淪,{"kSimplifiedVariant": "U+6CA6 &#x6CA6;"}
+淫,{"kSemanticVariant": "U+5A6C &#x5A6C;", "kZVariant": "U+5A6C &#x5A6C;"}
+淬,{}
+淭,{}
+淮,{}
+淯,{}
+淰,{}
+深,{}
+淲,{}
+淳,{"kSemanticVariant": "U+6E7B &#x6E7B;"}
+淴,{}
+淵,{"kSimplifiedVariant": "U+6E0A &#x6E0A;"}
+淶,{"kSimplifiedVariant": "U+6D9E &#x6D9E;"}
+混,{}
+淸,{"kZVariant": "U+6E05 &#x6E05;"}
+淹,{"kSemanticVariant": "U+6E30 &#x6E30;"}
+淺,{"kSimplifiedVariant": "U+6D45 &#x6D45;"}
+添,{}
+淽,{}
 淿,{}
-㑯,{"kSimplifiedVariant": "U+3454 &#x3454;"}
-㑮,{}
-㑤,{}
-野,{"kSemanticVariant": "U+57DC &#x57DC;", "kZVariant": "U+57DC &#x57DC;"}
-㑲,{}
-㑱,{}
-㑰,{}
-釈,{"kZVariant": "U+91CB &#x91CB;"}
-焐,{}
-焑,{}
-焒,{}
-焓,{}
-焕,{"kTraditionalVariant": "U+7165 &#x7165;"}
-焖,{"kTraditionalVariant": "U+71DC &#x71DC;"}
-焗,{}
-焘,{"kTraditionalVariant": "U+71FE &#x71FE;"}
+渀,{}
+渁,{}
+渂,{}
+渄,{}
+清,{"kZVariant": "U+6DF8 &#x6DF8;"}
+渆,{}
+渇,{"kZVariant": "U+6E34 &#x6E34;"}
+済,{"kZVariant": "U+6FDF &#x6FDF;"}
+渉,{"kZVariant": "U+6D89 &#x6D89;"}
+渊,{"kTraditionalVariant": "U+6DF5 &#x6DF5;"}
+渋,{"kZVariant": "U+6F80 &#x6F80;"}
+渌,{"kTraditionalVariant": "U+6DE5 &#x6DE5;"}
+渍,{"kTraditionalVariant": "U+6F2C &#x6F2C;"}
+渎,{"kTraditionalVariant": "U+7006 &#x7006;"}
+渏,{}
+渐,{"kTraditionalVariant": "U+6F38 &#x6F38;"}
+渑,{"kTraditionalVariant": "U+6FA0 &#x6FA0;"}
+渒,{}
+渓,{"kZVariant": "U+6EAA &#x6EAA;"}
+渔,{"kTraditionalVariant": "U+6F01 &#x6F01;"}
+渕,{"kZVariant": "U+6DF5 &#x6DF5;"}
+渖,{}
+渗,{"kTraditionalVariant": "U+6EF2 &#x6EF2;"}
+渚,{"kSemanticVariant": "U+967C &#x967C;"}
+湴,{}
+烯,{}
+烰,{}
+烱,{"kSemanticVariant": "U+70AF &#x70AF;", "kZVariant": "U+70AF &#x70AF;"}
+烲,{}
+烳,{}
+烴,{"kSimplifiedVariant": "U+70C3 &#x70C3;"}
+烵,{}
+烶,{}
+烷,{}
+烸,{}
+烹,{}
+烺,{}
+烻,{}
+烼,{}
+烽,{}
+烾,{}
+烿,{}
 焀,{}
 焁,{}
 焂,{}
@@ -70,1022 +1453,130 @@
 焍,{}
 焎,{}
 焏,{}
-酛,{}
-釲,{}
-酜,{}
-麻,{"kSemanticVariant": "U+8534 &#x8534;", "kSpecializedSemanticVariant": "U+8534 &#x8534;", "kZVariant": "U+83FB &#x83FB;"}
-跄,{"kTraditionalVariant": "U+8E4C &#x8E4C;"}
-跂,{}
-跃,{"kTraditionalVariant": "U+8E8D &#x8E8D;"}
-跀,{}
-跁,{}
-袑,{}
-㩽,{}
-䤚,{}
-䤜,{}
-赥,{}
-逤,{}
+焐,{}
+焑,{}
+焒,{}
+焓,{}
+焕,{"kTraditionalVariant": "U+7165 &#x7165;"}
+焖,{"kTraditionalVariant": "U+71DC &#x71DC;"}
+焗,{}
+焘,{"kTraditionalVariant": "U+71FE &#x71FE;"}
+爽,{}
+牻,{}
+牼,{}
+牽,{"kSimplifiedVariant": "U+7275 &#x7275;"}
+牾,{}
+牿,{}
 犁,{"kSemanticVariant": "U+7282 &#x7282;", "kZVariant": "U+7282 &#x7282;"}
-㧹,{}
-崪,{"kSemanticVariant": "U+5D12 &#x5D12;"}
-㧻,{}
-㧺,{}
-㧽,{}
-㧼,{}
-㧿,{}
-㧾,{}
-㧳,{}
-㻏,{"kTraditionalVariant": "U+24AE9 &#x24AE9;"}
-㻎,{}
-㻉,{}
-帶,{"kSimplifiedVariant": "U+5E26 &#x5E26;", "kZVariant": "U+5E2F &#x5E2F;"}
-帷,{}
-帴,{}
-帵,{}
-帲,{"kZVariant": "U+5E21 &#x5E21;"}
-㻋,{}
-帼,{"kTraditionalVariant": "U+5E57 &#x5E57;"}
-㻊,{}
-帺,{}
-帻,{"kTraditionalVariant": "U+5E58 &#x5E58;"}
-常,{}
-帹,{}
-粖,{}
-粗,{"kSemanticVariant": "U+9EA4 &#x9EA4;U+9E84 &#x9E84;U+89D5 &#x89D5;", "kZVariant": "U+9E84 &#x9E84;"}
-粔,{}
-粕,{}
-粒,{"kZVariant": "U+F9F9 &#xF9F9;"}
-粓,{}
-㐡,{}
-㐢,{}
-㐣,{}
-粚,{}
-粛,{"kZVariant": "U+8085 &#x8085;"}
-粘,{"kSemanticVariant": "U+9ECF &#x9ECF;", "kSpecializedSemanticVariant": "U+9ECF &#x9ECF;"}
-粙,{}
-朙,{"kSemanticVariant": "U+660E &#x660E;"}
-䉽,{}
-䉾,{}
-䉿,{}
-朗,{"kZVariant": "U+F929 &#xF929;"}
-朖,{"kZVariant": "U+6717 &#x6717;"}
+猄,{}
+猅,{}
+猆,{}
+猇,{"kSemanticVariant": "U+552C &#x552C;U+8653 &#x8653;"}
+猈,{}
+猉,{}
+猊,{}
+猍,{}
+猎,{"kTraditionalVariant": "U+7375 &#x7375;"}
+猏,{}
+猐,{}
+猑,{}
+猓,{}
+猔,{}
+猕,{"kTraditionalVariant": "U+737C &#x737C;"}
+猖,{}
+猗,{"kSemanticVariant": "U+6B39 &#x6B39;"}
+猘,{}
+猙,{"kSimplifiedVariant": "U+72F0 &#x72F0;"}
+猚,{}
+猛,{}
+猜,{}
+猝,{}
+猞,{}
+猟,{"kZVariant": "U+7375 &#x7375;"}
+猠,{}
+猡,{"kTraditionalVariant": "U+7380 &#x7380;"}
+猪,{"kSemanticVariant": "U+8C6C &#x8C6C;", "kTraditionalVariant": "U+8C6C &#x8C6C;", "kZVariant": "U+FA16 &#xFA16;"}
+率,{"kZVariant": "U+F961 &#xF961;"}
 ,,{}
-粣,{}
-盓,{}
-鹵,{"kSimplifiedVariant": "U+5364 &#x5364;"}
-鹿,{"kZVariant": "U+F940 &#xF940;"}
-掷,{"kTraditionalVariant": "U+64F2 &#x64F2;"}
-掶,{}
-掵,{}
-掴,{"kTraditionalVariant": "U+6451 &#x6451;"}
-掳,{"kTraditionalVariant": "U+64C4 &#x64C4;"}
-掰,{}
-掽,{"kSemanticVariant": "U+78B0 &#x78B0;"}
-掼,{"kTraditionalVariant": "U+645C &#x645C;"}
-掻,{"kZVariant": "U+6414 &#x6414;"}
-掺,{"kTraditionalVariant": "U+647B &#x647B;"}
-掹,{}
-掸,{"kTraditionalVariant": "U+64A3 &#x64A3;"}
-控,{}
-掦,{}
-接,{}
-掤,{}
-探,{}
-採,{"kSimplifiedVariant": "U+91C7 &#x91C7;"}
-掠,{"kZVariant": "U+F975 &#xF975;"}
-掯,{}
-掮,{}
-掭,{}
-掬,{"kSemanticVariant": "U+530A &#x530A;"}
-掫,{}
-措,{}
-掩,{"kSemanticVariant": "U+63DC &#x63DC;", "kSpecializedSemanticVariant": "U+63DE &#x63DE;"}
-推,{}
-掗,{"kSimplifiedVariant": "U+631C &#x631C;"}
-掖,{}
-掕,{}
-掓,{}
-排,{}
-掑,{}
-掐,{"kSemanticVariant": "U+2073C &#x2073C;"}
-掟,{}
-掞,{}
-掝,{}
-掜,{}
-掛,{"kSemanticVariant": "U+6302 &#x6302;", "kSimplifiedVariant": "U+6302 &#x6302;"}
-掚,{}
-掙,{"kSimplifiedVariant": "U+6323 &#x6323;"}
-掘,{"kZVariant": "U+6485 &#x6485;"}
-掇,{"kSpecializedSemanticVariant": "U+633D &#x633D;"}
-掆,{"kSimplifiedVariant": "U+39CF &#x39CF;"}
-掅,{}
-掄,{"kSimplifiedVariant": "U+62A1 &#x62A1;"}
-掃,{"kSemanticVariant": "U+57FD &#x57FD;", "kSimplifiedVariant": "U+626B &#x626B;"}
-掂,{"kSemanticVariant": "U+6541 &#x6541;"}
-掁,{}
-掀,{}
-掏,{"kSemanticVariant": "U+642F &#x642F;", "kZVariant": "U+642F &#x642F;"}
-掎,{}
-掍,{}
-掋,{}
-掊,{}
-掉,{"kSpecializedSemanticVariant": "U+68F9 &#x68F9;"}
-授,{}
-䟚,{}
-䟛,{}
-䟘,{}
-䟙,{}
-䟞,{}
-䟜,{}
-䟝,{}
-䟗,{}
-盗,{"kSemanticVariant": "U+76DC &#x76DC;", "kTraditionalVariant": "U+76DC &#x76DC;"}
-递,{"kTraditionalVariant": "U+905E &#x905E;"}
-盖,{"kSemanticVariant": "U+84CB &#x84CB;U+8462 &#x8462;", "kTraditionalVariant": "U+84CB &#x84CB;"}
-逓,{"kSemanticVariant": "U+905E &#x905E;", "kZVariant": "U+905E &#x905E;"}
-逢,{}
-連,{"kSimplifiedVariant": "U+8FDE &#x8FDE;", "kZVariant": "U+F99A &#xF99A;"}
-造,{}
-逡,{}
-逦,{"kTraditionalVariant": "U+9090 &#x9090;"}
-逧,{}
-涙,{"kZVariant": "U+6DDA &#x6DDA;"}
-逥,{"kZVariant": "U+56DE &#x56DE;"}
-㦷,{}
-涯,{}
-涮,{}
-涭,{}
-涬,{}
-涫,{}
-涪,{}
-途,{}
-逕,{"kSimplifiedVariant": "U+8FF3 &#x8FF3;", "kZVariant": "U+5F91 &#x5F91;"}
-巣,{"kZVariant": "U+5DE2 &#x5DE2;"}
-巢,{"kZVariant": "U+5DE3 &#x5DE3;"}
-逘,{}
-這,{"kSemanticVariant": "U+8FD9 &#x8FD9;", "kSimplifiedVariant": "U+8FD9 &#x8FD9;", "kSpecializedSemanticVariant": "U+8FD9 &#x8FD9;"}
-逞,{"kSpecializedSemanticVariant": "U+671F &#x671F;"}
-速,{"kSpecializedSemanticVariant": "U+8DE1 &#x8DE1;"}
-逜,{}
-逝,{}
-涿,{}
-涾,{}
-涽,{}
-涼,{"kSemanticVariant": "U+51C9 &#x51C9;", "kSimplifiedVariant": "U+51C9 &#x51C9;", "kZVariant": "U+F979 &#xF979;"}
-涻,{}
-涺,{}
-涹,{}
-涸,{"kZVariant": "U+51C5 &#x51C5;"}
-涷,{}
-涶,{"kSemanticVariant": "U+553E &#x553E;", "kSpecializedSemanticVariant": "U+553E &#x553E;"}
-涵,{}
-涴,{}
-涳,{}
-液,{}
-涱,{}
-涰,{}
-奝,{}
-奜,{}
-奞,{"kSemanticVariant": "U+369D &#x369D;U+594E &#x594E;"}
-奛,{}
-覑,{}
-覐,{"kSemanticVariant": "U+89BA &#x89BA;"}
-覓,{"kSemanticVariant": "U+8994 &#x8994;", "kSimplifiedVariant": "U+89C5 &#x89C5;"}
-覒,{}
-覔,{"kSemanticVariant": "U+8993 &#x8993;"}
-視,{"kSemanticVariant": "U+770E &#x770E;", "kSimplifiedVariant": "U+89C6 &#x89C6;"}
-羚,{"kZVariant": "U+F9AF &#xF9AF;"}
-規,{"kSimplifiedVariant": "U+89C4 &#x89C4;", "kZVariant": "U+69FB &#x69FB;"}
-羛,{}
-覂,{}
-羞,{}
-羟,{"kTraditionalVariant": "U+7FA5 &#x7FA5;"}
-羜,{}
-羝,{"kZVariant": "U+7274 &#x7274;"}
-剱,{"kZVariant": "U+528D &#x528D;"}
-剰,{"kZVariant": "U+5269 &#x5269;"}
-剶,{}
-崫,{}
-剨,{}
-剫,{}
-剪,{"kSemanticVariant": "U+7FE6 &#x7FE6;"}
-剭,{}
-剬,{}
-副,{}
-剮,{"kSimplifiedVariant": "U+5250 &#x5250;"}
-魚,{"kSimplifiedVariant": "U+9C7C &#x9C7C;"}
-㴄,{}
-㴆,{}
-㴇,{}
-㴀,{}
-㴁,{}
-㴂,{}
-㴃,{}
-㴌,{}
-㴍,{}
-㴎,{}
-㴈,{}
-㴉,{}
-㴊,{}
-㴋,{}
-䘑,{"kSemanticVariant": "U+8109 &#x8109;"}
-骐,{"kTraditionalVariant": "U+9A0F &#x9A0F;"}
-骑,{"kTraditionalVariant": "U+9A0E &#x9A0E;"}
-骒,{"kTraditionalVariant": "U+9A0D &#x9A0D;"}
-骓,{"kTraditionalVariant": "U+9A05 &#x9A05;"}
-骔,{"kTraditionalVariant": "U+9A0C &#x9A0C;", "kZVariant": "U+9B03 &#x9B03;"}
-骕,{"kTraditionalVariant": "U+9A4C &#x9A4C;"}
-骖,{"kTraditionalVariant": "U+9A42 &#x9A42;"}
-躭,{"kSemanticVariant": "U+7708 &#x7708;", "kZVariant": "U+803D &#x803D;"}
-躯,{"kTraditionalVariant": "U+8EC0 &#x8EC0;"}
-躮,{}
-雫,{}
-䘧,{}
-䘦,{}
-䘥,{}
-䘤,{}
-䘣,{}
-䘢,{}
-晢,{"kZVariant": "U+6670 &#x6670;"}
-晣,{}
-晡,{}
-㓵,{}
-䎁,{}
-㓶,{}
-㓱,{}
-㓳,{}
-䎀,{}
-晤,{}
-晥,{}
-䊀,{}
-㓘,{}
-罣,{}
-㓓,{}
-㨀,{}
-㨁,{}
-㨂,{}
-㨃,{}
-㨄,{}
-㨅,{}
-㨆,{}
-㨈,{}
-閈,{"kSimplifiedVariant": "U+95EC &#x95EC;"}
-閉,{"kSimplifiedVariant": "U+95ED &#x95ED;", "kZVariant": "U+9587 &#x9587;"}
-閊,{}
-訣,{"kSimplifiedVariant": "U+8BC0 &#x8BC0;"}
-訢,{"kSimplifiedVariant": "U+4723 &#x4723;"}
-訡,{}
-訠,{"kSemanticVariant": "U+77E7 &#x77E7;"}
-訧,{}
-訦,{"kSemanticVariant": "U+8AF6 &#x8AF6;"}
-訥,{"kSemanticVariant": "U+5436 &#x5436;", "kSimplifiedVariant": "U+8BB7 &#x8BB7;"}
-訤,{}
-訫,{}
-訪,{"kSimplifiedVariant": "U+8BBF &#x8BBF;"}
-訩,{"kSemanticVariant": "U+8A7E &#x8A7E;", "kSimplifiedVariant": "U+8BBB &#x8BBB;"}
-訨,{}
-訯,{}
-訮,{}
-設,{"kSimplifiedVariant": "U+8BBE &#x8BBE;"}
-訬,{}
-訛,{"kSemanticVariant": "U+8B4C &#x8B4C;", "kSimplifiedVariant": "U+8BB9 &#x8BB9;", "kZVariant": "U+8B4C &#x8B4C;"}
-訟,{"kSimplifiedVariant": "U+8BBC &#x8BBC;"}
-訞,{}
-訝,{"kSimplifiedVariant": "U+8BB6 &#x8BB6;"}
-訜,{}
-啤,{}
-䦍,{}
-䦌,{}
-㷁,{}
-㷀,{}
-䦇,{}
-蚰,{}
-啱,{}
-啰,{"kTraditionalVariant": "U+56C9 &#x56C9;", "kZVariant": "U+56C9 &#x56C9;"}
-淌,{}
-啍,{"kSemanticVariant": "U+5428 &#x5428;"}
-淎,{}
-淏,{}
-淈,{}
-淉,{}
-淊,{}
-淋,{"kZVariant": "U+F9F5 &#xF9F5;"}
-淄,{}
-淅,{}
-淆,{"kSemanticVariant": "U+6BBD &#x6BBD;"}
-淇,{}
-淀,{"kTraditionalVariant": "U+6FB1 &#x6FB1;"}
-淁,{}
-㹽,{}
-淃,{}
-淜,{"kSemanticVariant": "U+6F30 &#x6F30;"}
-淝,{}
-淞,{}
-淟,{}
-淘,{}
-淙,{}
-淚,{"kSemanticVariant": "U+6CEA &#x6CEA;", "kSimplifiedVariant": "U+6CEA &#x6CEA;", "kZVariant": "U+F94D &#xF94D;"}
-淛,{}
-淔,{}
-淕,{}
-淖,{}
-淗,{}
-淐,{}
-淑,{}
-淒,{"kSemanticVariant": "U+51C4 &#x51C4;", "kZVariant": "U+51C4 &#x51C4;"}
-淓,{}
-淬,{}
-淭,{}
-淮,{}
-淯,{}
-淨,{"kSemanticVariant": "U+51C8 &#x51C8;", "kSpecializedSemanticVariant": "U+51C8 &#x51C8;", "kZVariant": "U+51C8 &#x51C8;"}
-啋,{}
-淪,{"kSimplifiedVariant": "U+6CA6 &#x6CA6;"}
-淫,{"kSemanticVariant": "U+5A6C &#x5A6C;", "kZVariant": "U+5A6C &#x5A6C;"}
-淤,{}
-淥,{"kSimplifiedVariant": "U+6E0C &#x6E0C;"}
-淦,{}
-啊,{"kSpecializedSemanticVariant": "U+963F &#x963F;"}
-淠,{}
-淡,{"kSemanticVariant": "U+6FB9 &#x6FB9;", "kSpecializedSemanticVariant": "U+6FB9 &#x6FB9;", "kZVariant": "U+6FB9 &#x6FB9;"}
-淢,{}
-淣,{}
-淽,{}
-釻,{}
-㹀,{}
-淸,{"kZVariant": "U+6E05 &#x6E05;"}
-淹,{"kSemanticVariant": "U+6E30 &#x6E30;"}
-淺,{"kSimplifiedVariant": "U+6D45 &#x6D45;"}
-添,{}
-淴,{}
-淵,{"kSimplifiedVariant": "U+6E0A &#x6E0A;"}
-淶,{"kSimplifiedVariant": "U+6D9E &#x6D9E;"}
-混,{}
-淰,{}
-深,{}
-淲,{}
-淳,{"kSemanticVariant": "U+6E7B &#x6E7B;"}
-渄,{}
-舶,{"kZVariant": "U+824A &#x824A;"}
-殺,{"kSimplifiedVariant": "U+6740 &#x6740;", "kZVariant": "U+F970 &#xF970;"}
-渇,{"kZVariant": "U+6E34 &#x6E34;"}
-鸺,{"kTraditionalVariant": "U+9D42 &#x9D42;"}
-鸻,{"kTraditionalVariant": "U+9D34 &#x9D34;"}
-鸸,{"kTraditionalVariant": "U+9D2F &#x9D2F;"}
-鸹,{"kTraditionalVariant": "U+9D30 &#x9D30;"}
-鸾,{"kTraditionalVariant": "U+9E1E &#x9E1E;"}
-鸿,{"kTraditionalVariant": "U+9D3B &#x9D3B;"}
-鸼,{"kTraditionalVariant": "U+9D43 &#x9D43;"}
-鸽,{"kTraditionalVariant": "U+9D3F &#x9D3F;"}
-鸷,{"kTraditionalVariant": "U+9DD9 &#x9DD9;"}
-桺,{}
-桻,{}
-桸,{}
-桹,{}
-桾,{}
-桿,{"kSimplifiedVariant": "U+6746 &#x6746;"}
-桼,{"kSemanticVariant": "U+3BC3 &#x3BC3;U+6F06 &#x6F06;"}
-桽,{}
-桲,{}
-桳,{}
-桰,{}
-桱,{}
-桶,{}
-桷,{}
-桴,{}
-桵,{}
-桫,{}
-桮,{"kZVariant": "U+676F &#x676F;"}
-桯,{}
-桬,{}
-桭,{}
-胬,{}
-胔,{"kSemanticVariant": "U+9AB4 &#x9AB4;"}
-鳥,{"kSimplifiedVariant": "U+9E1F &#x9E1F;"}
-釺,{"kSimplifiedVariant": "U+948E &#x948E;"}
-雪,{}
-雩,{}
-挲,{"kSemanticVariant": "U+6331 &#x6331;"}
-赻,{}
-雀,{}
-脝,{}
-軚,{}
-軛,{"kSimplifiedVariant": "U+8F6D &#x8F6D;"}
-軘,{}
-軙,{}
-軞,{}
-軟,{"kSemanticVariant": "U+8F2D &#x8F2D;", "kSimplifiedVariant": "U+8F6F &#x8F6F;"}
-軜,{}
-軝,{}
-軖,{}
-軗,{"kSimplifiedVariant": "U+28405 &#x28405;"}
-䙹,{}
-䙺,{}
-䙻,{}
-䙴,{}
-軣,{"kZVariant": "U+8F5F &#x8F5F;"}
-軠,{}
-軡,{}
-転,{"kZVariant": "U+8F49 &#x8F49;"}
-陚,{}
-夠,{"kSemanticVariant": "U+591F &#x591F;U+5F40 &#x5F40;", "kSimplifiedVariant": "U+591F &#x591F;"}
-觘,{}
-觙,{}
-觖,{}
-觗,{}
-觕,{"kSemanticVariant": "U+7C97 &#x7C97;U+9E84 &#x9E84;U+9EA4 &#x9EA4;"}
-觋,{"kTraditionalVariant": "U+89A1 &#x89A1;"}
-逑,{}
-够,{"kSemanticVariant": "U+5F40 &#x5F40;U+5920 &#x5920;", "kTraditionalVariant": "U+5920 &#x5920;"}
-㫌,{}
-㫋,{}
-㫊,{}
-琌,{}
-琍,{}
-琎,{"kZVariant": "U+74A1 &#x74A1;"}
-琏,{"kTraditionalVariant": "U+7489 &#x7489;"}
-琈,{}
-琉,{"kSemanticVariant": "U+7460 &#x7460;", "kZVariant": "U+F9CC &#xF9CC;"}
-琊,{}
-琋,{}
-琄,{"kSemanticVariant": "U+9799 &#x9799;"}
-琅,{"kSemanticVariant": "U+746F &#x746F;", "kZVariant": "U+746F &#x746F;"}
-㫯,{}
-琇,{}
+[,{}
+],{}
+玈,{}
+珳,{}
+珴,{}
+珵,{}
+珶,{"kZVariant": "U+7445 &#x7445;"}
+珸,{}
+珹,{}
+珺,{}
+珻,{}
+珼,{}
+珽,{}
+現,{"kSimplifiedVariant": "U+73B0 &#x73B0;"}
+珿,{}
 琀,{}
 琁,{}
 琂,{}
 球,{}
-镹,{}
-㫴,{}
-㫱,{}
-㫰,{}
-㫳,{}
-㫲,{}
+琄,{"kSemanticVariant": "U+9799 &#x9799;"}
+琅,{"kSemanticVariant": "U+746F &#x746F;", "kZVariant": "U+746F &#x746F;"}
+理,{"kZVariant": "U+F9E4 &#xF9E4;"}
+琇,{}
+琈,{}
+琊,{}
+琋,{}
+琌,{}
+琍,{}
+琎,{"kZVariant": "U+74A1 &#x74A1;"}
+琏,{"kTraditionalVariant": "U+7489 &#x7489;"}
 琐,{"kTraditionalVariant": "U+7463 &#x7463;"}
 琑,{}
 琒,{}
 琓,{}
-脷,{}
-脶,{"kTraditionalVariant": "U+8161 &#x8161;"}
-脵,{"kZVariant": "U+80A1 &#x80A1;"}
-脴,{}
-脳,{"kZVariant": "U+8166 &#x8166;"}
-脲,{"kZVariant": "U+5C3F &#x5C3F;"}
-脱,{"kTraditionalVariant": "U+812B &#x812B;"}
-脰,{}
-凰,{}
-脸,{"kTraditionalVariant": "U+81C9 &#x81C9;"}
-脧,{"kZVariant": "U+6718 &#x6718;"}
-脦,{}
-脥,{"kSimplifiedVariant": "U+23370 &#x23370;"}
-脤,{}
-脣,{"kSemanticVariant": "U+5507 &#x5507;", "kZVariant": "U+5507 &#x5507;"}
-脢,{}
-脡,{}
-脠,{}
-脯,{}
-脮,{}
-脭,{}
-脬,{"kZVariant": "U+80DE &#x80DE;"}
-脫,{"kSimplifiedVariant": "U+8131 &#x8131;"}
-脪,{"kSemanticVariant": "U+3F99 &#x3F99;"}
-脩,{}
-脨,{}
-脗,{}
-脖,{}
-脕,{}
-脟,{}
-脞,{}
-凑,{"kSemanticVariant": "U+6E4A &#x6E4A;", "kTraditionalVariant": "U+6E4A &#x6E4A;"}
-凐,{}
-脛,{"kSimplifiedVariant": "U+80EB &#x80EB;"}
-脚,{"kSemanticVariant": "U+8173 &#x8173;", "kTraditionalVariant": "U+8173 &#x8173;"}
-脙,{}
-脘,{}
-减,{"kSemanticVariant": "U+6E1B &#x6E1B;", "kTraditionalVariant": "U+6E1B &#x6E1B;"}
-翑,{}
-䧲,{}
-䧳,{}
-第,{}
-笭,{}
-㶾,{}
-㶿,{}
-㶼,{}
-㶽,{"kTraditionalVariant": "U+7171 &#x7171;"}
-㶺,{}
-㶻,{}
-㶹,{}
-笯,{}
-䧒,{}
-䧓,{}
-䧐,{}
-䧑,{}
-䧖,{}
-䧔,{}
-䧕,{}
-悐,{"kSemanticVariant": "U+60D5 &#x60D5;"}
-㒻,{}
-悘,{}
-㒼,{}
-悆,{}
-缀,{"kTraditionalVariant": "U+7DB4 &#x7DB4;"}
-悊,{"kSemanticVariant": "U+54F2 &#x54F2;"}
-悉,{}
-㒮,{}
-悱,{}
-悰,{}
-悷,{}
-䋓,{}
-悵,{"kSimplifiedVariant": "U+6005 &#x6005;"}
-䋑,{}
-悻,{}
-悺,{}
-悸,{}
-悿,{}
-悾,{}
-悽,{"kZVariant": "U+6DD2 &#x6DD2;"}
-悼,{}
-患,{}
-悡,{}
-悠,{"kSemanticVariant": "U+6EFA &#x6EFA;"}
-悥,{}
-悤,{"kSemanticVariant": "U+5306 &#x5306;U+6031 &#x6031;", "kZVariant": "U+5306 &#x5306;"}
-䋎,{}
-悪,{"kZVariant": "U+60E1 &#x60E1;"}
-䋌,{}
-您,{}
-䋊,{}
-䋋,{}
-䋈,{}
-悬,{"kTraditionalVariant": "U+61F8 &#x61F8;"}
-㪊,{}
-㪋,{}
-㪎,{}
-㪌,{}
-㪍,{}
-瓸,{}
 瓠,{}
-逋,{}
-爽,{}
-㪷,{}
-捾,{}
-捿,{}
-捼,{"kSemanticVariant": "U+633C &#x633C;"}
-捽,{}
-捺,{}
-捻,{"kZVariant": "U+F9A4 &#xF9A4;"}
-捸,{}
-捹,{}
-捶,{"kSemanticVariant": "U+7BA0 &#x7BA0;", "kZVariant": "U+6425 &#x6425;"}
-捷,{}
-捴,{"kZVariant": "U+7E3D &#x7E3D;"}
-捵,{"kSemanticVariant": "U+4940 &#x4940;"}
-捲,{"kZVariant": "U+5377 &#x5377;"}
-捳,{}
-捰,{}
-捱,{}
-据,{"kTraditionalVariant": "U+64DA &#x64DA;"}
-捯,{}
-捬,{"kSemanticVariant": "U+64AB &#x64AB;"}
-捭,{}
-捪,{}
-捫,{"kSimplifiedVariant": "U+626A &#x626A;"}
-捨,{"kSimplifiedVariant": "U+820D &#x820D;", "kSpecializedSemanticVariant": "U+820D &#x820D;"}
-捩,{}
-捦,{"kSemanticVariant": "U+64D2 &#x64D2;"}
-捧,{}
-捥,{}
-隿,{}
-勖,{"kSemanticVariant": "U+52D7 &#x52D7;"}
-㸹,{}
-㸺,{}
-㸻,{}
-㸼,{}
-㸽,{}
-㸾,{}
-㸿,{}
-铣,{"kTraditionalVariant": "U+9291 &#x9291;"}
-㸔,{}
-㸘,{}
-铢,{"kTraditionalVariant": "U+9296 &#x9296;"}
-壷,{"kZVariant": "U+58FA &#x58FA;"}
-铡,{"kTraditionalVariant": "U+9358 &#x9358;"}
-[,{}
-壸,{"kTraditionalVariant": "U+58FC &#x58FC;"}
+瓶,{"kSemanticVariant": "U+7F3E &#x7F3E;", "kZVariant": "U+7F3E &#x7F3E;"}
+瓷,{"kSemanticVariant": "U+78C1 &#x78C1;", "kZVariant": "U+7506 &#x7506;"}
+瓸,{}
+甛,{}
+甜,{"kZVariant": "U+751B &#x751B;"}
+產,{"kSimplifiedVariant": "U+4EA7 &#x4EA7;"}
+産,{"kZVariant": "U+7522 &#x7522;"}
+畡,{}
+畢,{"kSimplifiedVariant": "U+6BD5 &#x6BD5;"}
+畣,{}
+畤,{}
+略,{"kSemanticVariant": "U+7567 &#x7567;", "kZVariant": "U+7567 &#x7567;"}
+畦,{}
+畧,{"kSemanticVariant": "U+7565 &#x7565;", "kZVariant": "U+7565 &#x7565;"}
+畨,{}
+畩,{}
+痊,{}
+痋,{}
+痌,{}
+痍,{}
+痎,{}
+痏,{}
+痐,{"kSemanticVariant": "U+8698 &#x8698;"}
+痑,{}
+痒,{"kSemanticVariant": "U+7662 &#x7662;", "kTraditionalVariant": "U+7662 &#x7662;"}
+痓,{}
+痔,{}
+痕,{}
+痖,{"kTraditionalVariant": "U+7602 &#x7602;"}
+皎,{"kSemanticVariant": "U+3FDF &#x3FDF;U+76A6 &#x76A6;"}
+皏,{}
+皐,{"kZVariant": "U+768B &#x768B;"}
+皑,{"kTraditionalVariant": "U+769A &#x769A;"}
+皲,{"kTraditionalVariant": "U+76B8 &#x76B8;"}
 盒,{}
-龁,{"kTraditionalVariant": "U+9F55 &#x9F55;"}
-龚,{"kTraditionalVariant": "U+9F94 &#x9F94;"}
-龛,{"kTraditionalVariant": "U+9F95 &#x9F95;"}
-冨,{"kZVariant": "U+5BCC &#x5BCC;"}
-冕,{}
-理,{"kZVariant": "U+F9E4 &#xF9E4;"}
-盕,{}
-清,{"kZVariant": "U+6DF8 &#x6DF8;"}
-䚳,{}
-䚵,{}
-䚴,{}
-䚷,{}
-䚶,{}
-䚹,{}
-䚸,{}
-䚻,{}
-䚺,{}
-䚽,{}
-䚼,{}
-䚿,{}
-䚾,{}
-渀,{}
-1,{}
-䚗,{}
-渂,{}
-䄻,{}
-䄺,{"kSemanticVariant": "U+7A0A &#x7A0A;"}
-惓,{}
-䄿,{}
-䄾,{}
-䄽,{}
-䄼,{}
-惘,{}
-惙,{}
-惚,{}
-惛,{"kSemanticVariant": "U+60FD &#x60FD;"}
-惜,{}
-惝,{"kSemanticVariant": "U+22835 &#x22835;"}
-惞,{}
-惟,{}
-惀,{}
-翌,{}
-惂,{}
-惃,{}
-翉,{}
-情,{}
-惆,{}
-惇,{"kSemanticVariant": "U+6566 &#x6566;"}
-惈,{}
-惊,{"kTraditionalVariant": "U+9A5A &#x9A5A;"}
-惋,{}
-惍,{}
-惏,{}
-㕗,{}
-蚵,{}
-蚴,{}
-蚷,{}
-㕘,{}
-惡,{"kSimplifiedVariant": "U+6076 &#x6076;", "kZVariant": "U+F9B9 &#xF9B9;"}
-蚶,{}
-惤,{}
-惦,{}
-惧,{"kSemanticVariant": "U+61FC &#x61FC;", "kTraditionalVariant": "U+61FC &#x61FC;"}
-惨,{"kTraditionalVariant": "U+6158 &#x6158;"}
-蚱,{}
-惪,{"kSemanticVariant": "U+5FB7 &#x5FB7;", "kZVariant": "U+5FB7 &#x5FB7;"}
-惬,{"kTraditionalVariant": "U+611C &#x611C;"}
-䄆,{}
-䄅,{}
-䄄,{}
-猆,{}
-蚳,{}
-蚲,{}
-蚽,{}
+盓,{}
 盔,{}
-蚼,{}
-蚿,{}
-蚾,{}
-蚹,{}
-蚸,{}
-蚻,{}
-蚺,{"kSemanticVariant": "U+86A6 &#x86A6;"}
-虞,{"kSemanticVariant": "U+299A2 &#x299A2;"}
-號,{"kSemanticVariant": "U+53F7 &#x53F7;", "kSimplifiedVariant": "U+53F7 &#x53F7;", "kSpecializedSemanticVariant": "U+53F7 &#x53F7;"}
-猙,{"kSimplifiedVariant": "U+72F0 &#x72F0;"}
-㭯,{}
-㭮,{}
-㭭,{}
-㭬,{}
-㭫,{}
-㭪,{}
-㭩,{}
-㭨,{"kSemanticVariant": "U+6930 &#x6930;"}
-㭷,{}
-㭵,{}
-㭴,{"kTraditionalVariant": "U+6A2B &#x6A2B;"}
-㭳,{}
-㭲,{}
-㭱,{}
-㭰,{}
-崒,{"kSemanticVariant": "U+5D2A &#x5D2A;"}
-崓,{}
-崐,{"kZVariant": "U+5D11 &#x5D11;"}
-崑,{"kZVariant": "U+5D10 &#x5D10;"}
-崖,{"kSemanticVariant": "U+5393 &#x5393;"}
-崗,{"kSemanticVariant": "U+5CA1 &#x5CA1;", "kSimplifiedVariant": "U+5C97 &#x5C97;", "kZVariant": "U+5CA1 &#x5CA1;"}
-崔,{"kSemanticVariant": "U+78EA &#x78EA;"}
-崕,{"kZVariant": "U+5D16 &#x5D16;"}
-崚,{}
-崛,{}
-崘,{"kSemanticVariant": "U+5D19 &#x5D19;", "kZVariant": "U+5D19 &#x5D19;"}
-崙,{"kSemanticVariant": "U+4F96 &#x4F96;U+5D18 &#x5D18;", "kZVariant": "U+F9D5 &#xF9D5;"}
-崞,{}
-崟,{"kZVariant": "U+5D94 &#x5D94;"}
-崜,{}
-崝,{}
-崆,{}
-崇,{}
-崊,{}
-崋,{"kZVariant": "U+83EF &#x83EF;"}
-崈,{"kZVariant": "U+5D07 &#x5D07;"}
-崉,{}
-崎,{"kZVariant": "U+57FC &#x57FC;"}
-崏,{}
-崌,{}
-崍,{"kSimplifiedVariant": "U+5D03 &#x5D03;"}
-酙,{}
-酘,{}
-崰,{}
-酚,{}
-酝,{"kTraditionalVariant": "U+919E &#x919E;", "kZVariant": "U+919E &#x919E;"}
-㻐,{}
-酞,{}
-酓,{}
-酕,{}
-酔,{"kZVariant": "U+9189 &#x9189;"}
-酗,{}
-酖,{"kSemanticVariant": "U+9D06 &#x9D06;"}
-崢,{"kSimplifiedVariant": "U+5CE5 &#x5CE5;"}
-崣,{}
-崠,{"kZVariant": "U+5CBD &#x5CBD;"}
-崡,{}
-崦,{}
-崧,{"kSemanticVariant": "U+5D69 &#x5D69;"}
-崤,{}
-崥,{}
-㻍,{}
-㻌,{}
-崨,{}
-崩,{}
-崮,{}
-崯,{}
-崬,{"kSimplifiedVariant": "U+5CBD &#x5CBD;"}
-崭,{"kTraditionalVariant": "U+5D84 &#x5D84;"}
-脜,{}
-㔱,{"kSemanticVariant": "U+659E &#x659E;"}
-閆,{"kSemanticVariant": "U+95BB &#x95BB;", "kSimplifiedVariant": "U+95EB &#x95EB;"}
-㔠,{}
-㔭,{}
-㔨,{}
-䅈,{}
-䅉,{"kTraditionalVariant": "U+7A0F &#x7A0F;"}
-䅊,{}
-羕,{}
-䅀,{}
-䅁,{}
-䅂,{}
-䅃,{}
-䅄,{}
-䅅,{}
-䅆,{}
-䅇,{}
-断,{"kSemanticVariant": "U+65B7 &#x65B7;", "kTraditionalVariant": "U+65B7 &#x65B7;"}
-斬,{"kSimplifiedVariant": "U+65A9 &#x65A9;"}
-斏,{}
-斎,{"kZVariant": "U+9F4B &#x9F4B;"}
-斍,{"kSpecializedSemanticVariant": "U+89BA &#x89BA;", "kZVariant": "U+89BA &#x89BA;"}
-斌,{"kSemanticVariant": "U+5F6C &#x5F6C;"}
-斜,{}
-斛,{}
-陭,{}
-陬,{}
-陯,{}
-陮,{}
-陫,{}
-陪,{}
-陵,{"kZVariant": "U+F959 &#xF959;"}
-陴,{}
-陷,{"kZVariant": "U+9665 &#x9665;"}
-陶,{"kSemanticVariant": "U+530B &#x530B;"}
-陱,{}
-陰,{"kSemanticVariant": "U+9634 &#x9634;U+9682 &#x9682;", "kSimplifiedVariant": "U+9634 &#x9634;"}
-陳,{"kSimplifiedVariant": "U+9648 &#x9648;", "kSpecializedSemanticVariant": "U+9663 &#x9663;"}
-陲,{}
-陹,{}
-陸,{"kSimplifiedVariant": "U+9646 &#x9646;", "kSpecializedSemanticVariant": "U+516D &#x516D;"}
-険,{"kZVariant": "U+96AA &#x96AA;"}
-帳,{"kSemanticVariant": "U+8CEC &#x8CEC;", "kSimplifiedVariant": "U+5E10 &#x5E10;", "kZVariant": "U+8CEC &#x8CEC;"}
-笘,{}
-笙,{}
-笚,{}
-笛,{"kSemanticVariant": "U+7BF4 &#x7BF4;"}
-笜,{}
-笝,{}
-笞,{}
-笟,{}
-],{}
-笖,{}
-笗,{}
-笨,{"kSemanticVariant": "U+3912 &#x3912;"}
-笩,{}
-笪,{}
-笫,{}
-䛂,{}
-䛃,{}
-䛀,{}
-䛁,{}
-笠,{"kZVariant": "U+F9F8 &#xF9F8;"}
-笡,{}
-笢,{}
-笣,{}
-笤,{}
-笥,{}
-符,{}
-笧,{}
-笸,{}
-笹,{}
-笺,{"kTraditionalVariant": "U+7B8B &#x7B8B;"}
-笻,{"kZVariant": "U+7B47 &#x7B47;"}
-笼,{"kTraditionalVariant": "U+7C60 &#x7C60;"}
-笽,{}
-笾,{"kTraditionalVariant": "U+7C69 &#x7C69;"}
-笰,{}
-笱,{}
-笲,{}
-笳,{}
-笴,{}
-笵,{}
-笶,{}
-笷,{}
-舑,{}
-舂,{}
-唷,{"kZVariant": "U+5539 &#x5539;"}
-舳,{}
-舲,{}
-舷,{}
-唴,{}
-舵,{"kSemanticVariant": "U+67C1 &#x67C1;", "kZVariant": "U+67C1 &#x67C1;"}
-舴,{}
-舻,{"kTraditionalVariant": "U+826B &#x826B;", "kZVariant": "U+6AD3 &#x6AD3;"}
-舺,{}
-船,{"kSemanticVariant": "U+8221 &#x8221;", "kZVariant": "U+8229 &#x8229;"}
-舸,{}
-㺀,{}
-粜,{"kTraditionalVariant": "U+7CF6 &#x7CF6;"}
-粝,{"kTraditionalVariant": "U+7CF2 &#x7CF2;"}
-蚭,{}
-蚯,{}
-蚮,{}
-烯,{}
-烱,{"kSemanticVariant": "U+70AF &#x70AF;", "kZVariant": "U+70AF &#x70AF;"}
-烰,{}
-烳,{}
-烲,{}
-烵,{}
-烴,{"kSimplifiedVariant": "U+70C3 &#x70C3;"}
-烷,{}
-烶,{}
-烹,{}
-烸,{}
-烻,{}
-烺,{}
-烽,{}
-烼,{}
-烿,{}
-烾,{}
-朘,{}
-望,{"kSemanticVariant": "U+6722 &#x6722;", "kZVariant": "U+6722 &#x6722;"}
-朚,{}
-袐,{}
-兽,{"kTraditionalVariant": "U+7378 &#x7378;"}
-兝,{}
-兜,{}
-兞,{}
-敖,{}
-䡆,{}
-䡇,{}
-䡌,{}
-䡍,{}
-䡎,{}
-䡈,{}
-䡉,{}
-䡊,{}
-䡋,{}
-䂈,{}
-䀫,{}
-敛,{"kTraditionalVariant": "U+6582 &#x6582;"}
-辅,{"kTraditionalVariant": "U+8F14 &#x8F14;"}
-䀩,{}
-辆,{"kTraditionalVariant": "U+8F1B &#x8F1B;"}
-教,{"kSemanticVariant": "U+654E &#x654E;", "kZVariant": "U+654E &#x654E;"}
-笮,{}
-䆠,{}
-䆝,{}
-䆜,{}
-䆟,{}
-䆞,{}
-恿,{"kSemanticVariant": "U+6142 &#x6142;", "kZVariant": "U+6142 &#x6142;"}
-䆛,{}
-䆚,{}
-缁,{"kTraditionalVariant": "U+7DC7 &#x7DC7;"}
-㬶,{}
-㬷,{}
-寃,{"kSemanticVariant": "U+51A4 &#x51A4;", "kZVariant": "U+51A4 &#x51A4;"}
-寂,{}
-寁,{}
-寀,{}
-寇,{"kSemanticVariant": "U+5BBC &#x5BBC;"}
-密,{"kSemanticVariant": "U+5BBB &#x5BBB;", "kZVariant": "U+5BBB &#x5BBB;"}
-寅,{}
-寄,{}
-寉,{}
-寈,{}
-䋔,{}
-缻,{"kSemanticVariant": "U+7F36 &#x7F36;"}
-䋒,{}
-缽,{"kSemanticVariant": "U+9262 &#x9262;", "kSimplifiedVariant": "U+94B5 &#x94B5;"}
-阊,{"kTraditionalVariant": "U+95B6 &#x95B6;"}
-阋,{"kTraditionalVariant": "U+9B29 &#x9B29;"}
-阈,{"kTraditionalVariant": "U+95BE &#x95BE;"}
-阉,{"kTraditionalVariant": "U+95B9 &#x95B9;"}
-阎,{"kTraditionalVariant": "U+95BB &#x95BB;"}
-䋐,{}
-阌,{"kTraditionalVariant": "U+95BF &#x95BF;"}
-阍,{"kTraditionalVariant": "U+95BD &#x95BD;"}
-悴,{"kZVariant": "U+5FF0 &#x5FF0;"}
-阇,{"kTraditionalVariant": "U+95CD &#x95CD;"}
-阐,{"kTraditionalVariant": "U+95E1 &#x95E1;"}
-䢁,{"kTraditionalVariant": "U+282B8 &#x282B8;"}
-䢙,{"kSemanticVariant": "U+6557 &#x6557;"}
-䢛,{}
-䢚,{}
-袜,{"kSemanticVariant": "U+896A &#x896A;", "kTraditionalVariant": "U+896A &#x896A;"}
-䋏,{}
-㽞,{}
-㽝,{}
-䋍,{}
-艴,{"kZVariant": "U+52C3 &#x52C3;"}
-䋉,{}
-辄,{"kTraditionalVariant": "U+8F12 &#x8F12;"}
-旣,{}
-旌,{}
-旍,{}
-旎,{}
-族,{}
-旈,{"kSemanticVariant": "U+65D2 &#x65D2;"}
-旉,{"kSemanticVariant": "U+5C03 &#x5C03;U+6577 &#x6577;"}
-旋,{}
-旇,{}
-㙇,{}
-㙋,{}
-㙊,{}
-㙉,{}
-㙈,{}
-㙍,{}
-㙌,{}
-袛,{}
-谚,{"kTraditionalVariant": "U+8AFA &#x8AFA;"}
-袚,{}
-谞,{"kTraditionalVariant": "U+8ADD &#x8ADD;"}
-谝,{"kTraditionalVariant": "U+8ADE &#x8ADE;"}
-袕,{}
-谜,{"kTraditionalVariant": "U+8B0E &#x8B0E;"}
-谓,{"kTraditionalVariant": "U+8B02 &#x8B02;"}
-谒,{"kTraditionalVariant": "U+8B01 &#x8B01;"}
-谑,{"kTraditionalVariant": "U+8B14 &#x8B14;"}
-宿,{"kSemanticVariant": "U+375B &#x375B;"}
-谐,{"kTraditionalVariant": "U+8AE7 &#x8AE7;"}
-袔,{}
-袗,{}
-勘,{}
-袍,{}
-袖,{"kZVariant": "U+890E &#x890E;"}
-堎,{}
-堏,{}
-堌,{}
-堍,{}
-堊,{"kSimplifiedVariant": "U+57A9 &#x57A9;", "kZVariant": "U+8056 &#x8056;"}
-堋,{}
-堈,{"kSemanticVariant": "U+7F38 &#x7F38;U+7F41 &#x7F41;"}
-堉,{}
-堆,{"kSpecializedSemanticVariant": "U+200A4 &#x200A4;"}
-堇,{"kSemanticVariant": "U+83EB &#x83EB;", "kZVariant": "U+83EB &#x83EB;"}
-堄,{}
-堅,{"kSimplifiedVariant": "U+575A &#x575A;"}
-堂,{}
-堃,{"kSemanticVariant": "U+5764 &#x5764;"}
-堀,{}
-堁,{}
-堔,{}
-堕,{"kTraditionalVariant": "U+58AE &#x58AE;"}
-堒,{}
-堓,{}
-堐,{}
-堑,{"kTraditionalVariant": "U+5879 &#x5879;"}
-眸,{}
-眹,{}
-眺,{}
-眻,{}
-眼,{}
-眽,{}
-眾,{"kSemanticVariant": "U+8846 &#x8846;U+2009D &#x2009D;", "kSimplifiedVariant": "U+4F17 &#x4F17;", "kZVariant": "U+8846 &#x8846;"}
+盕,{}
+盖,{"kSemanticVariant": "U+84CB &#x84CB;U+8462 &#x8462;", "kTraditionalVariant": "U+84CB &#x84CB;"}
+盗,{"kSemanticVariant": "U+76DC &#x76DC;", "kTraditionalVariant": "U+76DC &#x76DC;"}
+盘,{"kTraditionalVariant": "U+76E4 &#x76E4;"}
+眭,{}
+眮,{}
+眯,{}
 眰,{}
 眱,{}
 眲,{}
@@ -1094,457 +1585,211 @@
 眵,{}
 眶,{}
 眷,{}
-眭,{}
-眮,{}
-眯,{}
-袓,{}
-研,{"kSemanticVariant": "U+63C5 &#x63C5;", "kSpecializedSemanticVariant": "U+63C5 &#x63C5;", "kZVariant": "U+784E &#x784E;"}
-袒,{"kSemanticVariant": "U+8962 &#x8962;"}
-瓷,{"kSemanticVariant": "U+78C1 &#x78C1;", "kZVariant": "U+7506 &#x7506;"}
-瓶,{"kSemanticVariant": "U+7F3E &#x7F3E;", "kZVariant": "U+7F3E &#x7F3E;"}
-袬,{}
-䣬,{}
-䣭,{}
-䣪,{}
-䣫,{}
-䣩,{"kSemanticVariant": "U+9187 &#x9187;"}
-银,{"kTraditionalVariant": "U+9280 &#x9280;"}
-䣎,{}
-䣏,{}
-䣌,{}
-䣍,{}
-䣊,{}
-䣋,{}
-㖴,{}
-㖵,{}
-㖲,{}
-㖳,{}
-㖰,{}
-㖱,{}
-㖮,{}
-㖯,{}
-㖬,{}
-㖭,{}
-㖪,{}
-㖫,{}
-㖨,{}
-㖩,{}
-㖦,{}
-㖧,{}
-㖤,{}
-㖥,{}
-㖢,{}
-㖣,{}
-㖠,{}
-㖡,{}
-㖟,{}
-铠,{"kTraditionalVariant": "U+93A7 &#x93A7;"}
-铧,{"kTraditionalVariant": "U+93F5 &#x93F5;"}
-绮,{"kTraditionalVariant": "U+7DBA &#x7DBA;"}
-耚,{}
-啭,{"kTraditionalVariant": "U+56C0 &#x56C0;"}
-啬,{"kTraditionalVariant": "U+55C7 &#x55C7;"}
-啯,{"kTraditionalVariant": "U+5613 &#x5613;", "kZVariant": "U+5613 &#x5613;"}
-啮,{"kTraditionalVariant": "U+5699 &#x5699;"}
-啩,{}
-啨,{}
-啪,{}
-啥,{}
-䇋,{}
-啧,{"kTraditionalVariant": "U+5616 &#x5616;"}
-啦,{}
-啡,{}
-啠,{}
-啣,{"kSemanticVariant": "U+3605 &#x3605;"}
-啢,{"kSimplifiedVariant": "U+5521 &#x5521;"}
-啹,{}
-啸,{"kTraditionalVariant": "U+562F &#x562F;"}
-啵,{}
-啴,{"kTraditionalVariant": "U+563D &#x563D;"}
-啷,{}
-啶,{}
-䇞,{}
-䇟,{}
-啳,{}
-啲,{}
-䇢,{}
-䇣,{}
-䇠,{}
-䇡,{}
-䇦,{}
-啈,{}
-䇤,{}
-䇥,{}
-啅,{}
-啄,{}
-啇,{}
-商,{}
-啁,{}
-啀,{}
-啃,{"kSemanticVariant": "U+9F66 &#x9F66;"}
-啂,{}
-啝,{}
-啜,{"kSemanticVariant": "U+6B3C &#x6B3C;U+8AC1 &#x8AC1;U+6B60 &#x6B60;"}
-啟,{"kSemanticVariant": "U+5553 &#x5553;", "kSimplifiedVariant": "U+542F &#x542F;"}
-啞,{"kSemanticVariant": "U+7602 &#x7602;", "kSimplifiedVariant": "U+54D1 &#x54D1;", "kZVariant": "U+5516 &#x5516;"}
-啘,{}
-啛,{}
-啚,{}
-啕,{"kSemanticVariant": "U+54B7 &#x54B7;"}
-啔,{"kZVariant": "U+5553 &#x5553;"}
-啗,{"kSemanticVariant": "U+35D6 &#x35D6;U+5556 &#x5556;U+5649 &#x5649;", "kZVariant": "U+5556 &#x5556;"}
-啖,{"kSemanticVariant": "U+35D6 &#x35D6;U+5649 &#x5649;U+5557 &#x5557;", "kZVariant": "U+5557 &#x5557;"}
-啑,{}
-啐,{}
-啓,{"kSemanticVariant": "U+555F &#x555F;", "kZVariant": "U+555F &#x555F;"}
-啒,{}
-矫,{"kTraditionalVariant": "U+77EF &#x77EF;"}
-矪,{}
-耞,{}
-耝,{}
-耜,{}
-孯,{}
-孮,{}
-孰,{"kSpecializedSemanticVariant": "U+587E &#x587E;"}
-孲,{}
-屙,{}
-屛,{"kZVariant": "U+6452 &#x6452;"}
-屚,{}
-屝,{}
-屜,{"kSemanticVariant": "U+21C95 &#x21C95;", "kSimplifiedVariant": "U+5C49 &#x5C49;"}
-渚,{"kSemanticVariant": "U+967C &#x967C;"}
-渕,{"kZVariant": "U+6DF5 &#x6DF5;"}
-渔,{"kTraditionalVariant": "U+6F01 &#x6F01;"}
-渗,{"kTraditionalVariant": "U+6EF2 &#x6EF2;"}
-渖,{}
-渑,{"kTraditionalVariant": "U+6FA0 &#x6FA0;"}
-渐,{"kTraditionalVariant": "U+6F38 &#x6F38;"}
-渓,{"kZVariant": "U+6EAA &#x6EAA;"}
-渒,{}
-渍,{"kTraditionalVariant": "U+6F2C &#x6F2C;"}
-渌,{"kTraditionalVariant": "U+6DE5 &#x6DE5;"}
-渏,{}
-渎,{"kTraditionalVariant": "U+7006 &#x7006;"}
-渉,{"kZVariant": "U+6D89 &#x6D89;"}
-済,{"kZVariant": "U+6FDF &#x6FDF;"}
-渋,{"kZVariant": "U+6F80 &#x6F80;"}
-渊,{"kTraditionalVariant": "U+6DF5 &#x6DF5;"}
-㼤,{}
-㼥,{}
-㼦,{}
-渆,{}
-渁,{}
-㼡,{}
-㼢,{}
-㼣,{}
-芿,{}
-㼍,{}
-㼎,{}
-唲,{}
-唳,{}
-唰,{}
-唱,{}
-唶,{}
-䀂,{}
-䀁,{}
-唵,{}
-唺,{}
-唻,{}
-唸,{}
-唹,{}
-唾,{"kSemanticVariant": "U+6DB6 &#x6DB6;", "kSpecializedSemanticVariant": "U+6DB6 &#x6DB6;"}
-唿,{}
-唼,{}
-唽,{}
-敢,{}
-唪,{}
-唫,{"kSemanticVariant": "U+541F &#x541F;"}
-唨,{}
-唩,{}
-售,{}
-唯,{}
-唬,{"kSemanticVariant": "U+8AD5 &#x8AD5;U+7307 &#x7307;U+8653 &#x8653;"}
-唭,{}
-䀧,{}
-敗,{"kSemanticVariant": "U+4899 &#x4899;", "kSimplifiedVariant": "U+8D25 &#x8D25;"}
-敔,{}
-敕,{"kSemanticVariant": "U+52C5 &#x52C5;U+52D1 &#x52D1;", "kSpecializedSemanticVariant": "U+52C5 &#x52C5;"}
-敒,{}
-敓,{"kZVariant": "U+655A &#x655A;"}
-敐,{}
-救,{}
-䀮,{}
-䀭,{}
-䀬,{}
-敚,{"kZVariant": "U+6553 &#x6553;"}
-䀪,{}
-敘,{"kSemanticVariant": "U+53D9 &#x53D9;U+654D &#x654D;", "kSimplifiedVariant": "U+53D9 &#x53D9;", "kZVariant": "U+654D &#x654D;"}
-䀨,{}
-猡,{"kTraditionalVariant": "U+7380 &#x7380;"}
-敎,{"kSemanticVariant": "U+6559 &#x6559;", "kZVariant": "U+6559 &#x6559;"}
-敏,{"kSemanticVariant": "U+52C4 &#x52C4;"}
-敍,{"kSemanticVariant": "U+53D9 &#x53D9;U+6558 &#x6558;", "kZVariant": "U+53D9 &#x53D9;"}
-絃,{"kSemanticVariant": "U+5F26 &#x5F26;", "kZVariant": "U+5F26 &#x5F26;"}
-終,{"kSimplifiedVariant": "U+7EC8 &#x7EC8;"}
-絁,{}
-絀,{"kSimplifiedVariant": "U+7ECC &#x7ECC;"}
-絇,{}
-絆,{"kSimplifiedVariant": "U+7ECA &#x7ECA;"}
-絅,{"kSemanticVariant": "U+8927 &#x8927;", "kSimplifiedVariant": "U+4339 &#x4339;"}
-組,{"kSimplifiedVariant": "U+7EC4 &#x7EC4;"}
-絋,{"kZVariant": "U+7E8A &#x7E8A;"}
-絊,{}
-絉,{}
-絈,{}
-経,{"kZVariant": "U+7D93 &#x7D93;"}
-睁,{"kTraditionalVariant": "U+775C &#x775C;"}
+眸,{}
+眹,{}
+眺,{}
+眻,{}
+眼,{}
+眽,{}
+眾,{"kSemanticVariant": "U+8846 &#x8846;U+2009D &#x2009D;", "kSimplifiedVariant": "U+4F17 &#x4F17;", "kZVariant": "U+8846 &#x8846;"}
 着,{"kSemanticVariant": "U+8457 &#x8457;", "kTraditionalVariant": "U+8457 &#x8457;", "kSpecializedSemanticVariant": "U+8457 &#x8457;"}
-㛥,{}
-㛧,{}
-㛦,{}
-㛭,{}
-㛬,{}
-㛩,{}
-㛨,{}
-㛫,{}
-㛪,{}
-谛,{"kTraditionalVariant": "U+8AE6 &#x8AE6;"}
-䖬,{}
-谙,{"kTraditionalVariant": "U+8AF3 &#x8AF3;"}
-谘,{"kTraditionalVariant": "U+8AEE &#x8AEE;", "kZVariant": "U+54A8 &#x54A8;"}
-䖩,{}
-䖨,{}
-䖫,{}
-䖪,{}
-䖥,{}
-䖤,{}
-䖧,{}
-䖦,{}
-谗,{"kTraditionalVariant": "U+8B92 &#x8B92;"}
-谖,{"kTraditionalVariant": "U+8AFC &#x8AFC;"}
-谕,{"kTraditionalVariant": "U+8AED &#x8AED;"}
-谔,{"kTraditionalVariant": "U+8AE4 &#x8AE4;"}
-谋,{"kTraditionalVariant": "U+8B00 &#x8B00;"}
-谏,{"kTraditionalVariant": "U+8AEB &#x8AEB;"}
-谎,{"kTraditionalVariant": "U+8B0A &#x8B0A;"}
-谍,{"kTraditionalVariant": "U+8ADC &#x8ADC;"}
-谌,{"kTraditionalVariant": "U+8AF6 &#x8AF6;"}
-谻,{}
-谺,{}
-谹,{}
-䖕,{}
-䖔,{}
-䖖,{}
-䖓,{}
-䖒,{}
-绩,{"kTraditionalVariant": "U+7E3E &#x7E3E;"}
-猈,{}
-绫,{"kTraditionalVariant": "U+7DBE &#x7DBE;"}
-绪,{"kTraditionalVariant": "U+7DD2 &#x7DD2;"}
-续,{"kTraditionalVariant": "U+7E8C &#x7E8C;"}
-绬,{"kTraditionalVariant": "U+7DD3 &#x7DD3;"}
-绯,{"kTraditionalVariant": "U+7DCB &#x7DCB;"}
-猉,{}
-逐,{}
-绹,{"kTraditionalVariant": "U+7DAF &#x7DAF;"}
-绸,{"kTraditionalVariant": "U+7DA2 &#x7DA2;"}
-绻,{"kTraditionalVariant": "U+7DA3 &#x7DA3;"}
-绺,{"kTraditionalVariant": "U+7DB9 &#x7DB9;"}
-绽,{"kTraditionalVariant": "U+7DBB &#x7DBB;"}
-综,{"kTraditionalVariant": "U+7D9C &#x7D9C;"}
-绿,{"kTraditionalVariant": "U+7DA0 &#x7DA0;", "kZVariant": "U+7DA0 &#x7DA0;"}
-绾,{"kTraditionalVariant": "U+7DB0 &#x7DB0;"}
-绱,{"kTraditionalVariant": "U+979D &#x979D;", "kZVariant": "U+7DD4 &#x7DD4;"}
-绰,{"kTraditionalVariant": "U+7DBD &#x7DBD;"}
-绳,{"kTraditionalVariant": "U+7E69 &#x7E69;"}
-绲,{"kTraditionalVariant": "U+7DC4 &#x7DC4;"}
-绵,{"kTraditionalVariant": "U+7DBF &#x7DBF;"}
-维,{"kTraditionalVariant": "U+7DAD &#x7DAD;"}
-绷,{"kTraditionalVariant": "U+7E43 &#x7E43;", "kZVariant": "U+7E43 &#x7E43;"}
-绶,{"kTraditionalVariant": "U+7DAC &#x7DAC;"}
-猎,{"kTraditionalVariant": "U+7375 &#x7375;"}
-猏,{}
-通,{}
-逛,{}
-猪,{"kSemanticVariant": "U+8C6C &#x8C6C;", "kTraditionalVariant": "U+8C6C &#x8C6C;", "kZVariant": "U+FA16 &#xFA16;"}
-猠,{}
-猄,{}
-猅,{}
-徠,{"kSemanticVariant": "U+5008 &#x5008;U+52D1 &#x52D1;", "kSimplifiedVariant": "U+5F95 &#x5F95;", "kZVariant": "U+4F86 &#x4F86;"}
-御,{"kSemanticVariant": "U+99AD &#x99AD;", "kTraditionalVariant": "U+79A6 &#x79A6;", "kSpecializedSemanticVariant": "U+99AD &#x99AD;"}
-徢,{}
-徣,{}
-徤,{"kSemanticVariant": "U+5065 &#x5065;"}
-㿯,{}
-赽,{}
-猇,{"kSemanticVariant": "U+552C &#x552C;U+8653 &#x8653;"}
-㿡,{}
-㿠,{}
-猊,{}
-猍,{}
-徖,{}
-得,{}
-徘,{}
-徙,{}
-徛,{}
-徜,{}
-徝,{}
-從,{"kSemanticVariant": "U+4ECE &#x4ECE;", "kSimplifiedVariant": "U+4ECE &#x4ECE;", "kSpecializedSemanticVariant": "U+4ECE &#x4ECE;", "kZVariant": "U+5F93 &#x5F93;"}
-徟,{}
-猘,{}
-㿰,{}
-猚,{}
-猛,{}
-猜,{}
-猝,{}
-猞,{}
-猟,{"kZVariant": "U+7375 &#x7375;"}
-猐,{}
-猑,{}
-猓,{}
-猔,{}
-猕,{"kTraditionalVariant": "U+737C &#x737C;"}
-猖,{}
-猗,{"kSemanticVariant": "U+6B39 &#x6B39;"}
-㡋,{}
-㡊,{}
-㡉,{}
-㡎,{}
-㡍,{}
-㡌,{}
-阏,{"kTraditionalVariant": "U+95BC &#x95BC;"}
-逎,{}
-透,{}
-逌,{}
-逍,{}
-袰,{}
-赉,{"kTraditionalVariant": "U+8CDA &#x8CDA;"}
-苚,{}
-苛,{"kSpecializedSemanticVariant": "U+54FC &#x54FC;"}
-苘,{}
-苙,{}
-苞,{}
-苟,{"kSemanticVariant": "U+830D &#x830D;"}
-苜,{}
-苝,{}
-苒,{}
-苓,{}
-苐,{}
-苑,{"kZVariant": "U+83C0 &#x83C0;"}
-苖,{}
-苗,{}
-苔,{}
-苕,{"kSemanticVariant": "U+4492 &#x4492;"}
-專,{"kSemanticVariant": "U+8011 &#x8011;", "kSimplifiedVariant": "U+4E13 &#x4E13;"}
-尉,{"kSpecializedSemanticVariant": "U+71A8 &#x71A8;"}
-將,{"kSemanticVariant": "U+2456D &#x2456D;", "kSimplifiedVariant": "U+5C06 &#x5C06;", "kSpecializedSemanticVariant": "U+5C06 &#x5C06;U+757A &#x757A;"}
-苺,{"kSemanticVariant": "U+8393 &#x8393;", "kZVariant": "U+8393 &#x8393;"}
-苻,{}
-苸,{}
-苹,{"kTraditionalVariant": "U+860B &#x860B;"}
-苾,{}
-苿,{"kZVariant": "U+83CB &#x83CB;"}
-苼,{}
-苽,{"kZVariant": "U+83C7 &#x83C7;"}
-苲,{}
-苳,{}
-苰,{}
-英,{}
-苶,{}
-苷,{}
-苴,{}
-苵,{}
-苪,{}
-苫,{}
-苨,{}
-苩,{}
-苮,{}
-苯,{}
-苬,{}
-苭,{}
-苢,{"kSemanticVariant": "U+82E1 &#x82E1;"}
-苣,{}
-苠,{}
-苡,{"kSemanticVariant": "U+82E2 &#x82E2;"}
-苦,{}
-苧,{"kSimplifiedVariant": "U+82CE &#x82CE;", "kTraditionalVariant": "U+85B4 &#x85B4;"}
-苤,{"kSemanticVariant": "U+77A5 &#x77A5;"}
-若,{"kZVariant": "U+F974 &#xF974;"}
-㹿,{}
-飣,{"kSimplifiedVariant": "U+9964 &#x9964;"}
-飢,{"kSemanticVariant": "U+9951 &#x9951;", "kSimplifiedVariant": "U+9965 &#x9965;"}
-飡,{"kSemanticVariant": "U+9910 &#x9910;"}
-飤,{"kSemanticVariant": "U+98FC &#x98FC;"}
-鱾,{"kTraditionalVariant": "U+9B62 &#x9B62;"}
-靪,{}
-豘,{"kSemanticVariant": "U+8C5A &#x8C5A;"}
-豙,{}
-豚,{"kSemanticVariant": "U+8C58 &#x8C58;"}
-豛,{}
-豜,{"kSemanticVariant": "U+8C63 &#x8C63;", "kZVariant": "U+8C63 &#x8C63;"}
-豝,{"kSemanticVariant": "U+7F93 &#x7F93;"}
-耉,{"kZVariant": "U+8008 &#x8008;"}
-豉,{}
+睁,{"kTraditionalVariant": "U+775C &#x775C;"}
+矪,{}
+矫,{"kTraditionalVariant": "U+77EF &#x77EF;"}
+研,{"kSemanticVariant": "U+63C5 &#x63C5;", "kSpecializedSemanticVariant": "U+63C5 &#x63C5;", "kZVariant": "U+784E &#x784E;"}
+硂,{}
+硃,{}
+硄,{}
+硅,{}
+硆,{}
+硇,{}
+硈,{}
+硉,{}
+硊,{}
+硋,{}
+硌,{}
+硍,{}
+硎,{"kZVariant": "U+7814 &#x7814;"}
+硏,{}
+硐,{}
+硑,{}
+硒,{}
+硓,{}
+硔,{}
+硕,{"kTraditionalVariant": "U+78A9 &#x78A9;"}
+硖,{"kTraditionalVariant": "U+7864 &#x7864;"}
+硗,{"kTraditionalVariant": "U+78FD &#x78FD;"}
+硘,{}
+硙,{"kTraditionalVariant": "U+78D1 &#x78D1;"}
+硚,{"kTraditionalVariant": "U+7904 &#x7904;", "kZVariant": "U+7904 &#x7904;"}
+硛,{}
+祣,{}
+祤,{}
+祥,{"kZVariant": "U+FA1A &#xFA1A;"}
+祧,{}
+票,{}
+祩,{}
+祪,{}
+祫,{}
+祬,{}
+祭,{}
+祮,{}
+祯,{"kTraditionalVariant": "U+798E &#x798E;"}
+离,{"kTraditionalVariant": "U+96E2 &#x96E2;", "kSpecializedSemanticVariant": "U+96E2 &#x96E2;"}
+秱,{}
+秲,{}
+秳,{}
+秴,{}
+秵,{}
+秶,{}
+秷,{}
+秸,{"kSemanticVariant": "U+7A2D &#x7A2D;"}
+秹,{}
+秺,{}
+移,{"kSemanticVariant": "U+8FFB &#x8FFB;"}
+秼,{}
+秽,{"kTraditionalVariant": "U+7A62 &#x7A62;"}
+秾,{"kTraditionalVariant": "U+7A60 &#x7A60;"}
 稆,{"kTraditionalVariant": "U+7A6D &#x7A6D;"}
-耈,{"kZVariant": "U+8007 &#x8007;"}
-豼,{}
-豽,{}
+窏,{}
+窐,{}
+窑,{"kTraditionalVariant": "U+7AAF &#x7AAF;"}
+窒,{}
+窓,{"kSemanticVariant": "U+41AB &#x41AB;U+7255 &#x7255;U+7A97 &#x7A97;U+7ABB &#x7ABB;"}
+窔,{}
+窕,{"kSpecializedSemanticVariant": "U+963F &#x963F;"}
+竟,{}
+章,{}
+竡,{}
+缻,{"kSemanticVariant": "U+7F36 &#x7F36;"}
+缽,{"kSemanticVariant": "U+9262 &#x9262;", "kSimplifiedVariant": "U+94B5 &#x94B5;"}
+罣,{}
+羕,{}
+羚,{"kZVariant": "U+F9AF &#xF9AF;"}
+羛,{}
+羜,{}
+羝,{"kZVariant": "U+7274 &#x7274;"}
+羞,{}
+羟,{"kTraditionalVariant": "U+7FA5 &#x7FA5;"}
+翇,{}
+翈,{}
+翉,{}
+翊,{}
+翋,{}
+翌,{}
+翍,{}
+翎,{}
+翏,{}
+翐,{}
+翑,{}
+習,{"kSimplifiedVariant": "U+4E60 &#x4E60;"}
 耇,{"kZVariant": "U+8008 &#x8008;"}
-茕,{"kTraditionalVariant": "U+7162 &#x7162;"}
-茔,{"kTraditionalVariant": "U+584B &#x584B;"}
-茓,{}
-茑,{"kTraditionalVariant": "U+8526 &#x8526;"}
-茐,{}
-茏,{"kTraditionalVariant": "U+8622 &#x8622;"}
-茎,{"kTraditionalVariant": "U+8396 &#x8396;"}
-茍,{"kSemanticVariant": "U+82DF &#x82DF;"}
-茌,{}
-茋,{}
-茊,{}
-茉,{}
-茈,{"kZVariant": "U+67F4 &#x67F4;"}
-茇,{}
-茆,{"kZVariant": "U+8305 &#x8305;"}
-茅,{"kZVariant": "U+6CD6 &#x6CD6;"}
-茄,{}
-范,{"kTraditionalVariant": "U+7BC4 &#x7BC4;"}
-茂,{}
-茁,{}
-茀,{}
-參,{"kSemanticVariant": "U+53C5 &#x53C5;", "kSimplifiedVariant": "U+53C2 &#x53C2;", "kSpecializedSemanticVariant": "U+53C5 &#x53C5;U+8593 &#x8593;", "kZVariant": "U+F96B &#xF96B;"}
+耈,{"kZVariant": "U+8007 &#x8007;"}
+耉,{"kZVariant": "U+8008 &#x8008;"}
+耚,{}
 耛,{}
-叄,{"kSimplifiedVariant": "U+53C1 &#x53C1;", "kZVariant": "U+53C3 &#x53C3;"}
+耜,{}
+耝,{}
+耞,{}
 耟,{}
-勚,{"kTraditionalVariant": "U+52E9 &#x52E9;"}
-務,{"kSimplifiedVariant": "U+52A1 &#x52A1;"}
-㾎,{}
-㾏,{}
-㾌,{}
-㾍,{}
-㾊,{}
-㾋,{}
-珽,{}
-勗,{"kSemanticVariant": "U+52D6 &#x52D6;"}
-珿,{}
-現,{"kSimplifiedVariant": "U+73B0 &#x73B0;"}
-㾒,{}
-珸,{}
-㾐,{}
-㾑,{}
-珵,{}
-彬,{"kSemanticVariant": "U+658C &#x658C;", "kZVariant": "U+4EFD &#x4EFD;"}
-珶,{"kZVariant": "U+7445 &#x7445;"}
-彩,{}
-動,{"kSimplifiedVariant": "U+52A8 &#x52A8;"}
-彫,{"kSemanticVariant": "U+34EE &#x34EE;U+96D5 &#x96D5;", "kSpecializedSemanticVariant": "U+9D70 &#x9D70;"}
-彪,{}
-彗,{"kZVariant": "U+7BF2 &#x7BF2;"}
-勔,{}
-勓,{}
-勒,{"kZVariant": "U+F952 &#xF952;"}
-㚞,{}
-㚜,{}
-㚝,{"kSemanticVariant": "U+595E &#x595E;U+594E &#x594E;"}
+聃,{"kSemanticVariant": "U+803C &#x803C;"}
+聄,{}
+聅,{}
+聆,{"kZVariant": "U+F9B0 &#xF9B0;"}
+聇,{}
+聈,{}
+聉,{}
+聊,{}
+聋,{"kTraditionalVariant": "U+807E &#x807E;"}
+职,{"kTraditionalVariant": "U+8077 &#x8077;"}
+聍,{"kTraditionalVariant": "U+8079 &#x8079;"}
+胔,{"kSemanticVariant": "U+9AB4 &#x9AB4;"}
+胬,{}
+脕,{}
+脖,{}
+脗,{}
+脘,{}
+脙,{}
+脚,{"kSemanticVariant": "U+8173 &#x8173;", "kTraditionalVariant": "U+8173 &#x8173;"}
+脛,{"kSimplifiedVariant": "U+80EB &#x80EB;"}
+脜,{}
+脝,{}
+脞,{}
+脟,{}
+脠,{}
+脡,{}
+脢,{}
+脣,{"kSemanticVariant": "U+5507 &#x5507;", "kZVariant": "U+5507 &#x5507;"}
+脤,{}
+脥,{"kSimplifiedVariant": "U+23370 &#x23370;"}
+脦,{}
+脧,{"kZVariant": "U+6718 &#x6718;"}
+脨,{}
+脩,{}
+脪,{"kSemanticVariant": "U+3F99 &#x3F99;"}
+脫,{"kSimplifiedVariant": "U+8131 &#x8131;"}
+脬,{"kZVariant": "U+80DE &#x80DE;"}
+脭,{}
+脮,{}
+脯,{}
+脰,{}
+,,{}
+[,{}
+],{}
+笖,{}
+笗,{}
+笘,{}
+笙,{}
+笚,{}
+笛,{"kSemanticVariant": "U+7BF4 &#x7BF4;"}
+笜,{}
+笝,{}
+笞,{}
+笟,{}
+笠,{"kZVariant": "U+F9F8 &#xF9F8;"}
+笡,{}
+笢,{}
+笣,{}
+笤,{}
+笥,{}
+符,{}
+笧,{}
+笨,{"kSemanticVariant": "U+3912 &#x3912;"}
+笩,{}
+笪,{}
+笫,{}
+第,{}
+笭,{}
+笮,{}
+笯,{}
+笰,{}
+笱,{}
+笲,{}
+笳,{}
+笴,{}
+笵,{}
+笶,{}
+笷,{}
+笸,{}
+笹,{}
+笺,{"kTraditionalVariant": "U+7B8B &#x7B8B;"}
+笻,{"kZVariant": "U+7B47 &#x7B47;"}
+笼,{"kTraditionalVariant": "U+7C60 &#x7C60;"}
+笽,{}
+笾,{"kTraditionalVariant": "U+7C69 &#x7C69;"}
+粒,{"kZVariant": "U+F9F9 &#xF9F9;"}
+粓,{}
+粔,{}
+粕,{}
+粖,{}
+粗,{"kSemanticVariant": "U+9EA4 &#x9EA4;U+9E84 &#x9E84;U+89D5 &#x89D5;", "kZVariant": "U+9E84 &#x9E84;"}
+粘,{"kSemanticVariant": "U+9ECF &#x9ECF;", "kSpecializedSemanticVariant": "U+9ECF &#x9ECF;"}
+粙,{}
+粚,{}
+粛,{"kZVariant": "U+8085 &#x8085;"}
+粜,{"kTraditionalVariant": "U+7CF6 &#x7CF6;"}
+粝,{"kTraditionalVariant": "U+7CF2 &#x7CF2;"}
+粣,{}
 紨,{}
 紩,{}
 紪,{}
@@ -1569,787 +1814,585 @@
 紽,{}
 紾,{}
 紿,{"kSimplifiedVariant": "U+7ED0 &#x7ED0;"}
-偉,{"kSimplifiedVariant": "U+4F1F &#x4F1F;"}
-偈,{}
-偋,{}
-偊,{"kSemanticVariant": "U+8E3D &#x8E3D;"}
-偍,{}
-偌,{}
-偏,{}
-偎,{"kSpecializedSemanticVariant": "U+6E28 &#x6E28;"}
-偁,{"kSemanticVariant": "U+7A6A &#x7A6A;U+7A31 &#x7A31;"}
-偀,{}
-偃,{"kSemanticVariant": "U+3AC3 &#x3AC3;"}
-偂,{}
-偅,{}
-偄,{}
-假,{"kZVariant": "U+4EEE &#x4EEE;"}
-偆,{}
-偙,{}
-偘,{}
-偛,{}
-做,{}
-偝,{}
-停,{"kZVariant": "U+4EC3 &#x4EC3;"}
-偟,{}
-偞,{}
-偑,{"kSimplifiedVariant": "U+343D &#x343D;"}
-偐,{"kSemanticVariant": "U+8D0B &#x8D0B;U+8D17 &#x8D17;"}
-偓,{}
-偒,{"kSemanticVariant": "U+8569 &#x8569;"}
-偕,{}
-偔,{}
-偗,{}
-偖,{}
-偩,{}
-偨,{}
-偫,{}
-偪,{"kSemanticVariant": "U+903C &#x903C;"}
-偭,{}
-偬,{"kTraditionalVariant": "U+50AF &#x50AF;"}
-偯,{}
-偮,{}
-偡,{}
-偠,{}
-偣,{}
-偢,{}
-健,{"kSemanticVariant": "U+5FA4 &#x5FA4;"}
-偤,{}
-偧,{}
-偦,{}
-偹,{"kZVariant": "U+5099 &#x5099;"}
-偸,{"kSemanticVariant": "U+5077 &#x5077;", "kZVariant": "U+5077 &#x5077;"}
-偻,{"kTraditionalVariant": "U+50C2 &#x50C2;"}
-偺,{"kSemanticVariant": "U+661D &#x661D;U+54B1 &#x54B1;", "kSpecializedSemanticVariant": "U+5592 &#x5592;"}
-偽,{"kSimplifiedVariant": "U+4F2A &#x4F2A;", "kZVariant": "U+50DE &#x50DE;"}
-偼,{}
-偿,{"kTraditionalVariant": "U+511F &#x511F;"}
-偾,{"kTraditionalVariant": "U+50E8 &#x50E8;"}
-偱,{}
-偰,{}
-偳,{}
-偲,{}
-偵,{"kSimplifiedVariant": "U+4FA6 &#x4FA6;"}
-側,{"kSimplifiedVariant": "U+4FA7 &#x4FA7;"}
-偷,{"kSemanticVariant": "U+5078 &#x5078;", "kZVariant": "U+5078 &#x5078;"}
-偶,{}
-竟,{}
-貭,{"kSemanticVariant": "U+8CEA &#x8CEA;", "kZVariant": "U+8CEA &#x8CEA;"}
-責,{"kSimplifiedVariant": "U+8D23 &#x8D23;", "kSpecializedSemanticVariant": "U+62C6 &#x62C6;"}
-貮,{"kZVariant": "U+4E8C &#x4E8C;"}
-販,{"kSemanticVariant": "U+27DB6 &#x27DB6;", "kSimplifiedVariant": "U+8D29 &#x8D29;"}
-貨,{"kSimplifiedVariant": "U+8D27 &#x8D27;"}
-貫,{"kSimplifiedVariant": "U+8D2F &#x8D2F;"}
-貪,{"kSimplifiedVariant": "U+8D2A &#x8D2A;"}
-竡,{}
-章,{}
-貧,{"kSimplifiedVariant": "U+8D2B &#x8D2B;"}
-貦,{}
-颈,{"kTraditionalVariant": "U+9838 &#x9838;"}
-颅,{"kTraditionalVariant": "U+9871 &#x9871;"}
-领,{"kTraditionalVariant": "U+9818 &#x9818;"}
-颇,{"kTraditionalVariant": "U+9817 &#x9817;"}
-祣,{}
-祧,{}
-祥,{"kZVariant": "U+FA1A &#xFA1A;"}
-祤,{}
-祫,{}
-祪,{}
-祩,{}
-票,{}
-祯,{"kTraditionalVariant": "U+798E &#x798E;"}
-祮,{}
-祭,{}
-祬,{}
-㠱,{}
-湴,{}
-厠,{"kSemanticVariant": "U+5EC1 &#x5EC1;", "kZVariant": "U+5EC1 &#x5EC1;"}
-厡,{}
-厢,{"kTraditionalVariant": "U+5EC2 &#x5EC2;"}
-厣,{"kTraditionalVariant": "U+53B4 &#x53B4;"}
-厩,{"kSemanticVariant": "U+5ED0 &#x5ED0;", "kTraditionalVariant": "U+5EC4 &#x5EC4;"}
-曹,{"kZVariant": "U+66FA &#x66FA;"}
-曻,{}
-曼,{"kSemanticVariant": "U+3B05 &#x3B05;"}
-曽,{"kZVariant": "U+66FE &#x66FE;"}
-䂒,{}
-䂩,{}
-䂫,{"kSemanticVariant": "U+592F &#x592F;"}
-䂪,{}
-䂭,{}
-䂬,{}
-䂯,{}
-䂮,{}
-㝟,{}
-㝞,{}
-㝝,{}
-㝜,{}
-㝛,{"kSemanticVariant": "U+5BBF &#x5BBF;"}
-䌷,{"kTraditionalVariant": "U+7D2C &#x7D2C;"}
-䌹,{"kTraditionalVariant": "U+7D45 &#x7D45;"}
-㝡,{}
-㝠,{}
-铳,{"kTraditionalVariant": "U+9283 &#x9283;"}
-铲,{"kTraditionalVariant": "U+93DF &#x93DF;"}
-铱,{"kTraditionalVariant": "U+92A5 &#x92A5;"}
-铰,{"kTraditionalVariant": "U+9278 &#x9278;"}
-铷,{"kTraditionalVariant": "U+92A3 &#x92A3;"}
+絀,{"kSimplifiedVariant": "U+7ECC &#x7ECC;"}
+絁,{}
+終,{"kSimplifiedVariant": "U+7EC8 &#x7EC8;"}
+絃,{"kSemanticVariant": "U+5F26 &#x5F26;", "kZVariant": "U+5F26 &#x5F26;"}
+組,{"kSimplifiedVariant": "U+7EC4 &#x7EC4;"}
+絅,{"kSemanticVariant": "U+8927 &#x8927;", "kSimplifiedVariant": "U+4339 &#x4339;"}
+絆,{"kSimplifiedVariant": "U+7ECA &#x7ECA;"}
+絇,{}
+絈,{}
+絉,{}
+絊,{}
+絋,{"kZVariant": "U+7E8A &#x7E8A;"}
+経,{"kZVariant": "U+7D93 &#x7D93;"}
+绩,{"kTraditionalVariant": "U+7E3E &#x7E3E;"}
+绪,{"kTraditionalVariant": "U+7DD2 &#x7DD2;"}
+绫,{"kTraditionalVariant": "U+7DBE &#x7DBE;"}
+绬,{"kTraditionalVariant": "U+7DD3 &#x7DD3;"}
+续,{"kTraditionalVariant": "U+7E8C &#x7E8C;"}
+绮,{"kTraditionalVariant": "U+7DBA &#x7DBA;"}
+绯,{"kTraditionalVariant": "U+7DCB &#x7DCB;"}
+绰,{"kTraditionalVariant": "U+7DBD &#x7DBD;"}
+绱,{"kTraditionalVariant": "U+979D &#x979D;", "kZVariant": "U+7DD4 &#x7DD4;"}
+绲,{"kTraditionalVariant": "U+7DC4 &#x7DC4;"}
+绳,{"kTraditionalVariant": "U+7E69 &#x7E69;"}
+维,{"kTraditionalVariant": "U+7DAD &#x7DAD;"}
+绵,{"kTraditionalVariant": "U+7DBF &#x7DBF;"}
+绶,{"kTraditionalVariant": "U+7DAC &#x7DAC;"}
+绷,{"kTraditionalVariant": "U+7E43 &#x7E43;", "kZVariant": "U+7E43 &#x7E43;"}
+绸,{"kTraditionalVariant": "U+7DA2 &#x7DA2;"}
+绹,{"kTraditionalVariant": "U+7DAF &#x7DAF;"}
+绺,{"kTraditionalVariant": "U+7DB9 &#x7DB9;"}
+绻,{"kTraditionalVariant": "U+7DA3 &#x7DA3;"}
+综,{"kTraditionalVariant": "U+7D9C &#x7D9C;"}
+绽,{"kTraditionalVariant": "U+7DBB &#x7DBB;"}
+绾,{"kTraditionalVariant": "U+7DB0 &#x7DB0;"}
+绿,{"kTraditionalVariant": "U+7DA0 &#x7DA0;", "kZVariant": "U+7DA0 &#x7DA0;"}
+缀,{"kTraditionalVariant": "U+7DB4 &#x7DB4;"}
+缁,{"kTraditionalVariant": "U+7DC7 &#x7DC7;"}
+脱,{"kTraditionalVariant": "U+812B &#x812B;"}
+脲,{"kZVariant": "U+5C3F &#x5C3F;"}
+脳,{"kZVariant": "U+8166 &#x8166;"}
+脴,{}
+脵,{"kZVariant": "U+80A1 &#x80A1;"}
+脶,{"kTraditionalVariant": "U+8161 &#x8161;"}
+脷,{}
+脸,{"kTraditionalVariant": "U+81C9 &#x81C9;"}
+舂,{}
+舑,{}
+舲,{}
+舳,{}
+舴,{}
+舵,{"kSemanticVariant": "U+67C1 &#x67C1;", "kZVariant": "U+67C1 &#x67C1;"}
+舶,{"kZVariant": "U+824A &#x824A;"}
+舷,{}
+舸,{}
+船,{"kSemanticVariant": "U+8221 &#x8221;", "kZVariant": "U+8229 &#x8229;"}
+舺,{}
+舻,{"kTraditionalVariant": "U+826B &#x826B;", "kZVariant": "U+6AD3 &#x6AD3;"}
+艴,{"kZVariant": "U+52C3 &#x52C3;"}
+芿,{}
+苐,{}
+苑,{"kZVariant": "U+83C0 &#x83C0;"}
+苒,{}
+苓,{}
+苔,{}
+苕,{"kSemanticVariant": "U+4492 &#x4492;"}
+苖,{}
+苗,{}
+苘,{}
+苙,{}
+苚,{}
+苛,{"kSpecializedSemanticVariant": "U+54FC &#x54FC;"}
+苜,{}
+苝,{}
+苞,{}
+苟,{"kSemanticVariant": "U+830D &#x830D;"}
+苠,{}
+苡,{"kSemanticVariant": "U+82E2 &#x82E2;"}
+苢,{"kSemanticVariant": "U+82E1 &#x82E1;"}
+苣,{}
+苤,{"kSemanticVariant": "U+77A5 &#x77A5;"}
+若,{"kZVariant": "U+F974 &#xF974;"}
+苦,{}
+苧,{"kSimplifiedVariant": "U+82CE &#x82CE;", "kTraditionalVariant": "U+85B4 &#x85B4;"}
+苨,{}
+苩,{}
+苪,{}
+苫,{}
+苬,{}
+苭,{}
+苮,{}
+苯,{}
+苰,{}
+英,{}
+苲,{}
+苳,{}
+苴,{}
+苵,{}
+苶,{}
+苷,{}
+苸,{}
+苹,{"kTraditionalVariant": "U+860B &#x860B;"}
+苺,{"kSemanticVariant": "U+8393 &#x8393;", "kZVariant": "U+8393 &#x8393;"}
+苻,{}
+苼,{}
+苽,{"kZVariant": "U+83C7 &#x83C7;"}
+苾,{}
+苿,{"kZVariant": "U+83CB &#x83CB;"}
+茀,{}
+茁,{}
+茂,{}
+范,{"kTraditionalVariant": "U+7BC4 &#x7BC4;"}
+茄,{}
+茅,{"kZVariant": "U+6CD6 &#x6CD6;"}
+茆,{"kZVariant": "U+8305 &#x8305;"}
+茇,{}
+茈,{"kZVariant": "U+67F4 &#x67F4;"}
+茉,{}
+茊,{}
+茋,{}
+茌,{}
+茍,{"kSemanticVariant": "U+82DF &#x82DF;"}
+茎,{"kTraditionalVariant": "U+8396 &#x8396;"}
+茏,{"kTraditionalVariant": "U+8622 &#x8622;"}
+茐,{}
+茑,{"kTraditionalVariant": "U+8526 &#x8526;"}
+茓,{}
+茔,{"kTraditionalVariant": "U+584B &#x584B;"}
+茕,{"kTraditionalVariant": "U+7162 &#x7162;"}
+虞,{"kSemanticVariant": "U+299A2 &#x299A2;"}
+號,{"kSemanticVariant": "U+53F7 &#x53F7;", "kSimplifiedVariant": "U+53F7 &#x53F7;", "kSpecializedSemanticVariant": "U+53F7 &#x53F7;"}
+蚫,{}
+蚭,{}
+蚮,{}
+蚯,{}
+蚰,{}
+蚱,{}
+蚲,{}
+蚳,{}
+蚴,{}
+蚵,{}
+蚶,{}
+蚷,{}
+蚸,{}
+蚹,{}
+蚺,{"kSemanticVariant": "U+86A6 &#x86A6;"}
+蚻,{}
+蚼,{}
+蚽,{}
+蚾,{}
+蚿,{}
+蛀,{}
+蛁,{}
+蛂,{}
+蛃,{}
+蛄,{"kSemanticVariant": "U+86CC &#x86CC;"}
+蛅,{}
+蛆,{"kSemanticVariant": "U+27405 &#x27405;"}
+蛇,{}
+蛈,{}
+蛉,{}
+蛊,{"kTraditionalVariant": "U+8831 &#x8831;"}
+蛋,{"kSemanticVariant": "U+8711 &#x8711;", "kZVariant": "U+65E6 &#x65E6;"}
+蛌,{"kSemanticVariant": "U+86C4 &#x86C4;"}
+蛍,{"kZVariant": "U+87A2 &#x87A2;"}
+蛎,{"kTraditionalVariant": "U+8823 &#x8823;"}
+蛏,{"kTraditionalVariant": "U+87F6 &#x87F6;"}
 衅,{"kSemanticVariant": "U+91C1 &#x91C1;", "kTraditionalVariant": "U+91C1 &#x91C1;"}
-铵,{"kTraditionalVariant": "U+92A8 &#x92A8;"}
-铴,{"kTraditionalVariant": "U+940B &#x940B;"}
-铫,{"kTraditionalVariant": "U+929A &#x929A;"}
-铪,{"kTraditionalVariant": "U+927F &#x927F;"}
-铩,{"kTraditionalVariant": "U+93A9 &#x93A9;"}
-铨,{"kTraditionalVariant": "U+9293 &#x9293;"}
-铯,{"kTraditionalVariant": "U+92AB &#x92AB;"}
-铮,{"kTraditionalVariant": "U+931A &#x931A;"}
-铭,{"kTraditionalVariant": "U+9298 &#x9298;"}
-铬,{"kTraditionalVariant": "U+927B &#x927B;"}
 衐,{}
 衑,{}
 衒,{"kSpecializedSemanticVariant": "U+70AB &#x70AB;"}
 術,{"kSimplifiedVariant": "U+672F &#x672F;"}
 衔,{"kTraditionalVariant": "U+929C &#x929C;"}
-铦,{"kTraditionalVariant": "U+929B &#x929B;"}
-铥,{"kTraditionalVariant": "U+92A9 &#x92A9;"}
-铤,{"kTraditionalVariant": "U+92CC &#x92CC;"}
-铛,{"kTraditionalVariant": "U+943A &#x943A;"}
-铚,{"kTraditionalVariant": "U+928D &#x928D;"}
-铙,{"kTraditionalVariant": "U+9403 &#x9403;"}
-铘,{"kTraditionalVariant": "U+92E3 &#x92E3;"}
-铟,{"kTraditionalVariant": "U+92A6 &#x92A6;"}
-铞,{"kTraditionalVariant": "U+92B1 &#x92B1;"}
-铝,{"kTraditionalVariant": "U+92C1 &#x92C1;"}
-铜,{"kTraditionalVariant": "U+9285 &#x9285;"}
-铓,{"kTraditionalVariant": "U+92E9 &#x92E9;"}
-铒,{"kTraditionalVariant": "U+927A &#x927A;"}
-铑,{"kTraditionalVariant": "U+92A0 &#x92A0;"}
-铐,{"kTraditionalVariant": "U+92AC &#x92AC;"}
-铗,{"kTraditionalVariant": "U+92CF &#x92CF;"}
-铖,{"kTraditionalVariant": "U+92EE &#x92EE;"}
-铕,{"kTraditionalVariant": "U+92AA &#x92AA;"}
-铔,{"kTraditionalVariant": "U+930F &#x930F;"}
-铏,{"kTraditionalVariant": "U+9276 &#x9276;"}
-窔,{}
-窕,{"kSpecializedSemanticVariant": "U+963F &#x963F;"}
-窒,{}
-窓,{"kSemanticVariant": "U+41AB &#x41AB;U+7255 &#x7255;U+7A97 &#x7A97;U+7ABB &#x7ABB;"}
-窐,{}
-窑,{"kTraditionalVariant": "U+7AAF &#x7AAF;"}
-窏,{}
-䑦,{}
-䑧,{}
-䑨,{}
-䑩,{}
-䑕,{}
-䑐,{}
-䑛,{}
-弸,{}
-弹,{"kTraditionalVariant": "U+5F48 &#x5F48;"}
-䨋,{}
-殻,{"kSemanticVariant": "U+58F3 &#x58F3;", "kSpecializedSemanticVariant": "U+6BBC &#x6BBC;", "kZVariant": "U+6BBC &#x6BBC;"}
-弶,{}
-強,{"kSemanticVariant": "U+5F3A &#x5F3A;U+5F4A &#x5F4A;", "kSimplifiedVariant": "U+5F3A &#x5F3A;", "kSpecializedSemanticVariant": "U+5F4A &#x5F4A;"}
-弴,{}
-張,{"kSimplifiedVariant": "U+5F20 &#x5F20;"}
-殹,{}
-殸,{}
-㱣,{}
-㱢,{}
-䨾,{}
-䨽,{}
-率,{"kZVariant": "U+F961 &#xF961;"}
-玈,{}
-㣎,{}
-㣩,{}
-㣨,{}
-㣥,{}
-㣤,{}
-㣧,{}
-㣦,{}
-䍪,{}
-䍫,{}
-䍬,{}
-䍭,{}
-䍄,{}
-䍅,{}
-䍆,{}
-䍇,{}
-䍈,{}
-䍉,{}
-䍘,{}
-殓,{"kTraditionalVariant": "U+6BAE &#x6BAE;"}
-殒,{"kTraditionalVariant": "U+6B9E &#x6B9E;", "kZVariant": "U+9695 &#x9695;"}
-殑,{}
-殐,{}
-域,{"kSemanticVariant": "U+3F63 &#x3F63;", "kSpecializedSemanticVariant": "U+8B7D &#x8B7D;"}
-埞,{}
-埝,{}
-埜,{"kSemanticVariant": "U+91CE &#x91CE;", "kZVariant": "U+91CE &#x91CE;"}
-殏,{}
-殎,{}
-殍,{"kSpecializedSemanticVariant": "U+83A9 &#x83A9;"}
-殌,{}
-埳,{"kSemanticVariant": "U+574E &#x574E;"}
-埲,{}
-埱,{}
-埰,{"kSimplifiedVariant": "U+91C7 &#x91C7;"}
-執,{"kSemanticVariant": "U+6267 &#x6267;", "kSimplifiedVariant": "U+6267 &#x6267;"}
-埶,{"kSemanticVariant": "U+84FA &#x84FA;U+79C7 &#x79C7;U+85DD &#x85DD;"}
-埵,{}
-埴,{}
-埻,{}
-基,{"kSpecializedSemanticVariant": "U+628D &#x628D;U+62EF &#x62EF;"}
-培,{}
-埸,{}
-埿,{}
-埾,{}
-埽,{"kSemanticVariant": "U+6383 &#x6383;"}
-埼,{"kZVariant": "U+5D0E &#x5D0E;"}
-埣,{}
-埢,{}
-埡,{"kSimplifiedVariant": "U+57AD &#x57AD;"}
-埠,{}
-埧,{}
-埦,{}
-埥,{}
-埤,{}
-埫,{}
-埩,{}
-埨,{}
-埯,{"kTraditionalVariant": "U+57B5 &#x57B5;"}
-埮,{}
-埭,{}
-埬,{}
-蛁,{}
-赦,{}
-蛆,{"kSemanticVariant": "U+27405 &#x27405;"}
-蛇,{}
-蛄,{"kSemanticVariant": "U+86CC &#x86CC;"}
-蛋,{"kSemanticVariant": "U+8711 &#x8711;", "kZVariant": "U+65E6 &#x65E6;"}
-蛅,{}
-㓴,{}
-㢺,{}
-㢻,{}
-㢼,{}
-㢊,{}
-㢋,{}
-㢈,{}
-㢉,{}
-㢌,{}
-㓲,{}
-婑,{}
-婐,{}
-婓,{}
-婒,{}
-婕,{}
-婔,{}
-婗,{}
-婖,{}
-婙,{}
-婘,{}
-婛,{}
-婚,{}
-婝,{}
-婜,{}
-婟,{}
-婞,{}
-婁,{"kSimplifiedVariant": "U+5A04 &#x5A04;"}
-婀,{"kZVariant": "U+5A3F &#x5A3F;"}
-婃,{}
-婂,{}
-婅,{}
-婄,{}
-婇,{}
-婆,{}
-婉,{}
-婈,{}
-婋,{}
-婊,{}
-婍,{}
-婌,{}
-婏,{}
-婎,{}
-婱,{}
-婰,{}
-婳,{"kTraditionalVariant": "U+5AFF &#x5AFF;"}
-婲,{}
-婵,{"kTraditionalVariant": "U+5B0B &#x5B0B;"}
-婴,{"kTraditionalVariant": "U+5B30 &#x5B30;"}
-被,{}
-婶,{"kTraditionalVariant": "U+5B38 &#x5B38;"}
-袥,{}
-袤,{}
-袧,{}
-袦,{}
-袡,{}
+袈,{}
+袉,{}
+袊,{}
+袋,{"kSemanticVariant": "U+5E12 &#x5E12;"}
+袌,{}
+袍,{}
+袎,{}
+袏,{}
+袐,{}
+袑,{}
+袒,{"kSemanticVariant": "U+8962 &#x8962;"}
+袓,{}
+袔,{}
+袕,{}
+袖,{"kZVariant": "U+890E &#x890E;"}
+袗,{}
+袘,{}
+袙,{}
+袚,{}
+袛,{}
+袜,{"kSemanticVariant": "U+896A &#x896A;", "kTraditionalVariant": "U+896A &#x896A;"}
+袝,{}
+袞,{"kSemanticVariant": "U+886E &#x886E;", "kSimplifiedVariant": "U+886E &#x886E;"}
+袟,{}
 袠,{"kSemanticVariant": "U+5E19 &#x5E19;"}
-袣,{}
+袡,{}
 袢,{}
-婡,{}
-婠,{}
-婣,{"kSemanticVariant": "U+59FB &#x59FB;", "kZVariant": "U+59FB &#x59FB;"}
-婢,{}
-婥,{}
-婤,{}
-婧,{}
-婦,{"kSemanticVariant": "U+5A8D &#x5A8D;", "kSimplifiedVariant": "U+5987 &#x5987;"}
-婩,{}
-婨,{}
-婫,{}
-婪,{}
-婭,{"kSimplifiedVariant": "U+5A05 &#x5A05;"}
-婬,{"kSemanticVariant": "U+6DEB &#x6DEB;", "kZVariant": "U+6DEB &#x6DEB;"}
-婯,{}
-婮,{}
-惐,{}
-蚫,{}
-卨,{}
-惔,{}
-卿,{}
-卾,{}
-惕,{"kSemanticVariant": "U+6090 &#x6090;"}
-區,{"kSimplifiedVariant": "U+533A &#x533A;"}
-惗,{}
-卙,{}
-牿,{}
-牾,{}
-牽,{"kSimplifiedVariant": "U+7275 &#x7275;"}
-牼,{}
-牻,{}
-翐,{}
-習,{"kSimplifiedVariant": "U+4E60 &#x4E60;"}
-翍,{}
-㰮,{}
-㰯,{}
-翏,{}
-翎,{}
-㰰,{}
-㰱,{}
-翈,{}
-訳,{"kZVariant": "U+8B6F &#x8B6F;"}
-翋,{}
-訲,{}
-翊,{}
-許,{"kSimplifiedVariant": "U+8BB8 &#x8BB8;"}
+袣,{}
+袤,{}
+袥,{}
+袦,{}
+袧,{}
+袨,{}
+袩,{}
+袪,{}
+被,{}
+袬,{}
+袭,{"kTraditionalVariant": "U+8972 &#x8972;"}
+袮,{}
+袰,{}
+覂,{}
+規,{"kSimplifiedVariant": "U+89C4 &#x89C4;", "kZVariant": "U+69FB &#x69FB;"}
+覐,{"kSemanticVariant": "U+89BA &#x89BA;"}
+覑,{}
+覒,{}
+覓,{"kSemanticVariant": "U+8994 &#x8994;", "kSimplifiedVariant": "U+89C5 &#x89C5;"}
+覔,{"kSemanticVariant": "U+8993 &#x8993;"}
+視,{"kSemanticVariant": "U+770E &#x770E;", "kSimplifiedVariant": "U+89C6 &#x89C6;"}
+觋,{"kTraditionalVariant": "U+89A1 &#x89A1;"}
+觕,{"kSemanticVariant": "U+7C97 &#x7C97;U+9E84 &#x9E84;U+9EA4 &#x9EA4;"}
+觖,{}
+觗,{}
+觘,{}
+觙,{}
+訛,{"kSemanticVariant": "U+8B4C &#x8B4C;", "kSimplifiedVariant": "U+8BB9 &#x8BB9;", "kZVariant": "U+8B4C &#x8B4C;"}
+訜,{}
+訝,{"kSimplifiedVariant": "U+8BB6 &#x8BB6;"}
+訞,{}
+訟,{"kSimplifiedVariant": "U+8BBC &#x8BBC;"}
+訠,{"kSemanticVariant": "U+77E7 &#x77E7;"}
+訡,{}
+訢,{"kSimplifiedVariant": "U+4723 &#x4723;"}
+訣,{"kSimplifiedVariant": "U+8BC0 &#x8BC0;"}
+訤,{}
+訥,{"kSemanticVariant": "U+5436 &#x5436;", "kSimplifiedVariant": "U+8BB7 &#x8BB7;"}
+訦,{"kSemanticVariant": "U+8AF6 &#x8AF6;"}
+訧,{}
+訨,{}
+訩,{"kSemanticVariant": "U+8A7E &#x8A7E;", "kSimplifiedVariant": "U+8BBB &#x8BBB;"}
+訪,{"kSimplifiedVariant": "U+8BBF &#x8BBF;"}
+訫,{}
+訬,{}
+設,{"kSimplifiedVariant": "U+8BBE &#x8BBE;"}
+訮,{}
+訯,{}
 訰,{}
-翇,{}
-䜴,{}
-䜣,{"kTraditionalVariant": "U+8A22 &#x8A22;"}
-㟡,{}
-㟠,{}
-㟣,{}
-㟢,{}
-㟥,{}
-㟤,{}
-䎣,{}
-䎵,{}
-䎶,{}
-晗,{}
-晚,{"kZVariant": "U+6669 &#x6669;"}
-晛,{}
-晘,{}
-晙,{}
-晞,{}
-晟,{}
-晜,{}
-晝,{"kSimplifiedVariant": "U+663C &#x663C;"}
-䎅,{}
-䎄,{}
-晠,{}
-䎆,{}
-晦,{}
-晧,{}
-䎃,{}
-䎂,{}
-晨,{}
-㟗,{"kSemanticVariant": "U+90A0 &#x90A0;U+8C73 &#x8C73;"}
-㟙,{}
-㟘,{}
-㟛,{}
-㟚,{}
-㟝,{}
-㟜,{"kTraditionalVariant": "U+21FB1 &#x21FB1;"}
-㟟,{}
-㟞,{}
-畣,{}
-畢,{"kSimplifiedVariant": "U+6BD5 &#x6BD5;"}
-畡,{}
-畧,{"kSemanticVariant": "U+7565 &#x7565;", "kZVariant": "U+7565 &#x7565;"}
-畦,{}
-略,{"kSemanticVariant": "U+7567 &#x7567;", "kZVariant": "U+7567 &#x7567;"}
-畤,{}
-畩,{}
-畨,{}
-䒩,{}
-䒨,{}
-䒫,{}
-䒪,{}
-䒭,{}
-䒬,{}
-䒯,{}
-䒮,{}
-䒧,{}
-䒦,{}
-䒋,{}
-秵,{}
-秴,{}
-秷,{}
-秶,{}
-秱,{}
-秳,{}
-秲,{}
-秽,{"kTraditionalVariant": "U+7A62 &#x7A62;"}
-秼,{}
-秾,{"kTraditionalVariant": "U+7A60 &#x7A60;"}
-秹,{}
-秸,{"kSemanticVariant": "U+7A2D &#x7A2D;"}
-移,{"kSemanticVariant": "U+8FFB &#x8FFB;"}
-秺,{}
+許,{"kSimplifiedVariant": "U+8BB8 &#x8BB8;"}
+訲,{}
+訳,{"kZVariant": "U+8B6F &#x8B6F;"}
+谋,{"kTraditionalVariant": "U+8B00 &#x8B00;"}
+谌,{"kTraditionalVariant": "U+8AF6 &#x8AF6;"}
+谍,{"kTraditionalVariant": "U+8ADC &#x8ADC;"}
+谎,{"kTraditionalVariant": "U+8B0A &#x8B0A;"}
+谏,{"kTraditionalVariant": "U+8AEB &#x8AEB;"}
+谐,{"kTraditionalVariant": "U+8AE7 &#x8AE7;"}
+谑,{"kTraditionalVariant": "U+8B14 &#x8B14;"}
+谒,{"kTraditionalVariant": "U+8B01 &#x8B01;"}
+谓,{"kTraditionalVariant": "U+8B02 &#x8B02;"}
+谔,{"kTraditionalVariant": "U+8AE4 &#x8AE4;"}
+谕,{"kTraditionalVariant": "U+8AED &#x8AED;"}
+谖,{"kTraditionalVariant": "U+8AFC &#x8AFC;"}
+谗,{"kTraditionalVariant": "U+8B92 &#x8B92;"}
+谘,{"kTraditionalVariant": "U+8AEE &#x8AEE;", "kZVariant": "U+54A8 &#x54A8;"}
+谙,{"kTraditionalVariant": "U+8AF3 &#x8AF3;"}
+谚,{"kTraditionalVariant": "U+8AFA &#x8AFA;"}
+谛,{"kTraditionalVariant": "U+8AE6 &#x8AE6;"}
+谜,{"kTraditionalVariant": "U+8B0E &#x8B0E;"}
+谝,{"kTraditionalVariant": "U+8ADE &#x8ADE;"}
+谞,{"kTraditionalVariant": "U+8ADD &#x8ADD;"}
+谹,{}
+谺,{}
+谻,{}
+豉,{}
+豘,{"kSemanticVariant": "U+8C5A &#x8C5A;"}
+豙,{}
+豚,{"kSemanticVariant": "U+8C58 &#x8C58;"}
+豛,{}
+豜,{"kSemanticVariant": "U+8C63 &#x8C63;", "kZVariant": "U+8C63 &#x8C63;"}
+豝,{"kSemanticVariant": "U+7F93 &#x7F93;"}
+豼,{}
+豽,{}
+貥,{}
+貦,{}
+貧,{"kSimplifiedVariant": "U+8D2B &#x8D2B;"}
+貨,{"kSimplifiedVariant": "U+8D27 &#x8D27;"}
+販,{"kSemanticVariant": "U+27DB6 &#x27DB6;", "kSimplifiedVariant": "U+8D29 &#x8D29;"}
+貪,{"kSimplifiedVariant": "U+8D2A &#x8D2A;"}
+貫,{"kSimplifiedVariant": "U+8D2F &#x8D2F;"}
+責,{"kSimplifiedVariant": "U+8D23 &#x8D23;", "kSpecializedSemanticVariant": "U+62C6 &#x62C6;"}
+貭,{"kSemanticVariant": "U+8CEA &#x8CEA;", "kZVariant": "U+8CEA &#x8CEA;"}
+貮,{"kZVariant": "U+4E8C &#x4E8C;"}
+赇,{"kTraditionalVariant": "U+8CD5 &#x8CD5;"}
+赈,{"kTraditionalVariant": "U+8CD1 &#x8CD1;"}
+赉,{"kTraditionalVariant": "U+8CDA &#x8CDA;"}
+赊,{"kTraditionalVariant": "U+8CD2 &#x8CD2;"}
+赥,{}
+赦,{}
+赹,{}
+赺,{}
+赻,{}
+赼,{}
+赽,{}
+赾,{}
+赿,{}
+趹,{}
+趺,{}
+趻,{}
+趽,{}
+趾,{}
+趿,{}
+跀,{}
+跁,{}
+跂,{}
+跃,{"kTraditionalVariant": "U+8E8D &#x8E8D;"}
+跄,{"kTraditionalVariant": "U+8E4C &#x8E4C;"}
+躭,{"kSemanticVariant": "U+7708 &#x7708;", "kZVariant": "U+803D &#x803D;"}
+躮,{}
+躯,{"kTraditionalVariant": "U+8EC0 &#x8EC0;"}
+軖,{}
+軗,{"kSimplifiedVariant": "U+28405 &#x28405;"}
+軘,{}
+軙,{}
+軚,{}
+軛,{"kSimplifiedVariant": "U+8F6D &#x8F6D;"}
+軜,{}
+軝,{}
+軞,{}
+軟,{"kSemanticVariant": "U+8F2D &#x8F2D;", "kSimplifiedVariant": "U+8F6F &#x8F6F;"}
+軠,{}
+軡,{}
+転,{"kZVariant": "U+8F49 &#x8F49;"}
+軣,{"kZVariant": "U+8F5F &#x8F5F;"}
+辄,{"kTraditionalVariant": "U+8F12 &#x8F12;"}
+辅,{"kTraditionalVariant": "U+8F14 &#x8F14;"}
+辆,{"kTraditionalVariant": "U+8F1B &#x8F1B;"}
+逋,{}
+逌,{}
+逍,{}
+逎,{}
+透,{}
+逐,{}
+逑,{}
+递,{"kTraditionalVariant": "U+905E &#x905E;"}
+逓,{"kSemanticVariant": "U+905E &#x905E;", "kZVariant": "U+905E &#x905E;"}
+途,{}
+逕,{"kSimplifiedVariant": "U+8FF3 &#x8FF3;", "kZVariant": "U+5F91 &#x5F91;"}
+逖,{"kSemanticVariant": "U+9037 &#x9037;"}
+逗,{}
+逘,{}
+這,{"kSemanticVariant": "U+8FD9 &#x8FD9;", "kSimplifiedVariant": "U+8FD9 &#x8FD9;", "kSpecializedSemanticVariant": "U+8FD9 &#x8FD9;"}
+通,{}
+逛,{}
+逜,{}
+逝,{}
+逞,{"kSpecializedSemanticVariant": "U+671F &#x671F;"}
+速,{"kSpecializedSemanticVariant": "U+8DE1 &#x8DE1;"}
+造,{}
+逡,{}
+逢,{}
+連,{"kSimplifiedVariant": "U+8FDE &#x8FDE;", "kZVariant": "U+F99A &#xF99A;"}
+逤,{}
+逥,{"kZVariant": "U+56DE &#x56DE;"}
+逦,{"kTraditionalVariant": "U+9090 &#x9090;"}
+逧,{}
+部,{"kZVariant": "U+5369 &#x5369;"}
+郩,{}
+郫,{}
+郬,{}
+郭,{}
+郮,{}
+郯,{}
+郰,{"kSemanticVariant": "U+9139 &#x9139;"}
+郱,{}
+郲,{}
+郳,{}
+郴,{}
+郵,{"kSimplifiedVariant": "U+90AE &#x90AE;"}
+郷,{"kSemanticVariant": "U+9109 &#x9109;", "kZVariant": "U+9109 &#x9109;"}
+郸,{"kTraditionalVariant": "U+9132 &#x9132;"}
+酓,{}
+酔,{"kZVariant": "U+9189 &#x9189;"}
+酕,{}
+酖,{"kSemanticVariant": "U+9D06 &#x9D06;"}
+酗,{}
+酘,{}
+酙,{}
+酚,{}
+酛,{}
+酜,{}
+酝,{"kTraditionalVariant": "U+919E &#x919E;", "kZVariant": "U+919E &#x919E;"}
+酞,{}
+釈,{"kZVariant": "U+91CB &#x91CB;"}
+野,{"kSemanticVariant": "U+57DC &#x57DC;", "kZVariant": "U+57DC &#x57DC;"}
+釣,{"kSimplifiedVariant": "U+9493 &#x9493;"}
+釤,{"kSimplifiedVariant": "U+9490 &#x9490;"}
+釥,{}
+釦,{}
+釧,{"kSimplifiedVariant": "U+948F &#x948F;"}
+釨,{}
+釩,{"kSimplifiedVariant": "U+9492 &#x9492;"}
+釪,{}
+釫,{}
+釬,{"kSemanticVariant": "U+92B2 &#x92B2;"}
+釭,{}
+釮,{}
+釯,{}
+釰,{}
+釱,{}
+釲,{}
+釳,{"kSimplifiedVariant": "U+28C3F &#x28C3F;"}
+釴,{}
+釵,{"kSimplifiedVariant": "U+9497 &#x9497;", "kSpecializedSemanticVariant": "U+53C9 &#x53C9;"}
+釶,{}
+釷,{"kSimplifiedVariant": "U+948D &#x948D;"}
+釸,{}
+釹,{"kSimplifiedVariant": "U+9495 &#x9495;"}
+釺,{"kSimplifiedVariant": "U+948E &#x948E;"}
+釻,{}
+釼,{"kZVariant": "U+528D &#x528D;"}
+铏,{"kTraditionalVariant": "U+9276 &#x9276;"}
+铐,{"kTraditionalVariant": "U+92AC &#x92AC;"}
+铑,{"kTraditionalVariant": "U+92A0 &#x92A0;"}
+铒,{"kTraditionalVariant": "U+927A &#x927A;"}
+铓,{"kTraditionalVariant": "U+92E9 &#x92E9;"}
+铔,{"kTraditionalVariant": "U+930F &#x930F;"}
+铕,{"kTraditionalVariant": "U+92AA &#x92AA;"}
+铖,{"kTraditionalVariant": "U+92EE &#x92EE;"}
+铗,{"kTraditionalVariant": "U+92CF &#x92CF;"}
+铘,{"kTraditionalVariant": "U+92E3 &#x92E3;"}
+铙,{"kTraditionalVariant": "U+9403 &#x9403;"}
+铚,{"kTraditionalVariant": "U+928D &#x928D;"}
+铛,{"kTraditionalVariant": "U+943A &#x943A;"}
+铜,{"kTraditionalVariant": "U+9285 &#x9285;"}
+铝,{"kTraditionalVariant": "U+92C1 &#x92C1;"}
+铞,{"kTraditionalVariant": "U+92B1 &#x92B1;"}
+铟,{"kTraditionalVariant": "U+92A6 &#x92A6;"}
+铠,{"kTraditionalVariant": "U+93A7 &#x93A7;"}
+铡,{"kTraditionalVariant": "U+9358 &#x9358;"}
+铢,{"kTraditionalVariant": "U+9296 &#x9296;"}
+铣,{"kTraditionalVariant": "U+9291 &#x9291;"}
+铤,{"kTraditionalVariant": "U+92CC &#x92CC;"}
+铥,{"kTraditionalVariant": "U+92A9 &#x92A9;"}
+铦,{"kTraditionalVariant": "U+929B &#x929B;"}
+铧,{"kTraditionalVariant": "U+93F5 &#x93F5;"}
+铨,{"kTraditionalVariant": "U+9293 &#x9293;"}
+铩,{"kTraditionalVariant": "U+93A9 &#x93A9;"}
+铪,{"kTraditionalVariant": "U+927F &#x927F;"}
+铫,{"kTraditionalVariant": "U+929A &#x929A;"}
+铬,{"kTraditionalVariant": "U+927B &#x927B;"}
+铭,{"kTraditionalVariant": "U+9298 &#x9298;"}
+铮,{"kTraditionalVariant": "U+931A &#x931A;"}
+铯,{"kTraditionalVariant": "U+92AB &#x92AB;"}
+铰,{"kTraditionalVariant": "U+9278 &#x9278;"}
+铱,{"kTraditionalVariant": "U+92A5 &#x92A5;"}
+铲,{"kTraditionalVariant": "U+93DF &#x93DF;"}
+铳,{"kTraditionalVariant": "U+9283 &#x9283;"}
+铴,{"kTraditionalVariant": "U+940B &#x940B;"}
+铵,{"kTraditionalVariant": "U+92A8 &#x92A8;"}
+银,{"kTraditionalVariant": "U+9280 &#x9280;"}
+铷,{"kTraditionalVariant": "U+92A3 &#x92A3;"}
+镹,{}
+閆,{"kSemanticVariant": "U+95BB &#x95BB;", "kSimplifiedVariant": "U+95EB &#x95EB;"}
+閇,{"kZVariant": "U+9589 &#x9589;"}
+閈,{"kSimplifiedVariant": "U+95EC &#x95EC;"}
+閉,{"kSimplifiedVariant": "U+95ED &#x95ED;", "kZVariant": "U+9587 &#x9587;"}
+閊,{}
+阇,{"kTraditionalVariant": "U+95CD &#x95CD;"}
+阈,{"kTraditionalVariant": "U+95BE &#x95BE;"}
+阉,{"kTraditionalVariant": "U+95B9 &#x95B9;"}
+阊,{"kTraditionalVariant": "U+95B6 &#x95B6;"}
+阋,{"kTraditionalVariant": "U+9B29 &#x9B29;"}
+阌,{"kTraditionalVariant": "U+95BF &#x95BF;"}
+阍,{"kTraditionalVariant": "U+95BD &#x95BD;"}
+阎,{"kTraditionalVariant": "U+95BB &#x95BB;"}
+阏,{"kTraditionalVariant": "U+95BC &#x95BC;"}
+阐,{"kTraditionalVariant": "U+95E1 &#x95E1;"}
+陚,{}
+陪,{}
+陫,{}
+陬,{}
+陭,{}
+陮,{}
+陯,{}
+陰,{"kSemanticVariant": "U+9634 &#x9634;U+9682 &#x9682;", "kSimplifiedVariant": "U+9634 &#x9634;"}
+陱,{}
+陲,{}
+陳,{"kSimplifiedVariant": "U+9648 &#x9648;", "kSpecializedSemanticVariant": "U+9663 &#x9663;"}
+陴,{}
+陵,{"kZVariant": "U+F959 &#xF959;"}
+陶,{"kSemanticVariant": "U+530B &#x530B;"}
+陷,{"kZVariant": "U+9665 &#x9665;"}
+陸,{"kSimplifiedVariant": "U+9646 &#x9646;", "kSpecializedSemanticVariant": "U+516D &#x516D;"}
+陹,{}
+険,{"kZVariant": "U+96AA &#x96AA;"}
+隿,{}
+雀,{}
+雩,{}
+雪,{}
+雫,{}
+靪,{}
 頂,{"kSemanticVariant": "U+29811 &#x29811;", "kSimplifiedVariant": "U+9876 &#x9876;"}
 頃,{"kSimplifiedVariant": "U+9877 &#x9877;"}
 頄,{}
-逖,{"kSemanticVariant": "U+9037 &#x9037;"}
-惭,{"kTraditionalVariant": "U+615A &#x615A;"}
-惮,{"kTraditionalVariant": "U+619A &#x619A;"}
-惯,{"kTraditionalVariant": "U+6163 &#x6163;"}
-庼,{"kZVariant": "U+5ECE &#x5ECE;"}
-庸,{"kSemanticVariant": "U+342F &#x342F;U+2018C &#x2018C;"}
-庹,{}
-庺,{}
-庻,{"kZVariant": "U+5EB6 &#x5EB6;"}
-庴,{}
-庵,{"kSemanticVariant": "U+83F4 &#x83F4;", "kZVariant": "U+83F4 &#x83F4;"}
-庶,{"kZVariant": "U+5EBB &#x5EBB;"}
-康,{}
-庰,{}
-庱,{}
-庲,{}
-庳,{}
-貥,{}
-㳫,{}
-㳽,{"kTraditionalVariant": "U+7030 &#x7030;"}
-㳿,{}
-㳾,{}
-㳹,{}
-㳸,{}
-㳻,{}
-㳺,{}
-㳵,{}
-㳴,{}
-㳷,{}
-㳶,{}
-郫,{}
-郩,{}
-部,{"kZVariant": "U+5369 &#x5369;"}
-郯,{}
-郮,{}
-郭,{}
-郬,{}
-郸,{"kTraditionalVariant": "U+9132 &#x9132;"}
-郳,{}
-郲,{}
-郱,{}
-郰,{"kSemanticVariant": "U+9139 &#x9139;"}
-郷,{"kSemanticVariant": "U+9109 &#x9109;", "kZVariant": "U+9109 &#x9109;"}
-郵,{"kSimplifiedVariant": "U+90AE &#x90AE;"}
-郴,{}
-㥇,{}
-㥆,{}
-㥅,{}
-㥄,{}
-㥃,{"kSemanticVariant": "U+60B6 &#x60B6;U+61E3 &#x61E3;"}
-㥂,{}
-㥀,{}
-㥏,{}
-㥍,{}
-㥌,{}
-㥊,{}
-㥉,{}
-㥗,{}
-逗,{}
-㥔,{}
-㥓,{}
-㥒,{}
-㥙,{}
-㥘,{}
-﨡,{}
-﨣,{}
-毬,{"kZVariant": "U+7403 &#x7403;"}
-毭,{}
-毮,{}
-毫,{}
-匮,{"kTraditionalVariant": "U+5331 &#x5331;"}
-匬,{}
-匭,{"kSimplifiedVariant": "U+5326 &#x5326;"}
-釶,{}
-匾,{}
-匿,{"kZVariant": "U+F9EB &#xF9EB;"}
-硅,{}
-匏,{"kSemanticVariant": "U+74DF &#x74DF;"}
-啌,{}
-匘,{"kSemanticVariant": "U+8166 &#x8166;"}
-匙,{"kSemanticVariant": "U+9349 &#x9349;"}
-匐,{}
-离,{"kTraditionalVariant": "U+96E2 &#x96E2;", "kSpecializedSemanticVariant": "U+96E2 &#x96E2;"}
-問,{"kSimplifiedVariant": "U+95EE &#x95EE;"}
-啎,{"kSemanticVariant": "U+5FE4 &#x5FE4;"}
-戝,{"kZVariant": "U+8CCA &#x8CCA;"}
-戜,{}
-戛,{"kZVariant": "U+621E &#x621E;"}
-戚,{}
-啉,{}
-䝖,{}
-䝗,{}
-䝘,{}
-䝙,{"kTraditionalVariant": "U+8C99 &#x8C99;"}
-䝆,{}
-䝇,{}
-䝧,{}
-䝨,{}
-皎,{"kSemanticVariant": "U+3FDF &#x3FDF;U+76A6 &#x76A6;"}
-皏,{}
-袌,{}
-袏,{}
-袎,{}
-袉,{}
-皐,{"kZVariant": "U+768B &#x768B;"}
-皑,{"kTraditionalVariant": "U+769A &#x769A;"}
-娶,{}
-娷,{}
-娵,{}
-袋,{"kSemanticVariant": "U+5E12 &#x5E12;"}
-娾,{}
-娿,{"kZVariant": "U+5A40 &#x5A40;"}
-娼,{}
-袊,{}
-娺,{}
-娻,{}
-娸,{}
-娹,{}
-娬,{"kSemanticVariant": "U+5AF5 &#x5AF5;"}
-皲,{"kTraditionalVariant": "U+76B8 &#x76B8;"}
-蛊,{"kTraditionalVariant": "U+8831 &#x8831;"}
-產,{"kSimplifiedVariant": "U+4EA7 &#x4EA7;"}
-産,{"kZVariant": "U+7522 &#x7522;"}
-䬢,{}
-蛈,{}
-蛉,{}
-赼,{}
-蛎,{"kTraditionalVariant": "U+8823 &#x8823;"}
-赾,{}
-赿,{}
-赹,{}
-赺,{}
-蛏,{"kTraditionalVariant": "U+87F6 &#x87F6;"}
-袝,{}
-赇,{"kTraditionalVariant": "U+8CD5 &#x8CD5;"}
-蛌,{"kSemanticVariant": "U+86C4 &#x86C4;"}
-盘,{"kTraditionalVariant": "U+76E4 &#x76E4;"}
-蛍,{"kZVariant": "U+87A2 &#x87A2;"}
-赈,{"kTraditionalVariant": "U+8CD1 &#x8CD1;"}
-袟,{}
-赊,{"kTraditionalVariant": "U+8CD2 &#x8CD2;"}
-蛂,{}
-袞,{"kSemanticVariant": "U+886E &#x886E;", "kSimplifiedVariant": "U+886E &#x886E;"}
-蛃,{}
-袙,{}
-甛,{}
-甜,{"kZVariant": "U+751B &#x751B;"}
-蛀,{}
-袘,{}
-梳,{}
-梲,{"kSemanticVariant": "U+68F3 &#x68F3;", "kSimplifiedVariant": "U+68C1 &#x68C1;"}
-梱,{}
-械,{}
-梷,{}
-梶,{}
-梵,{}
-梴,{}
-梻,{}
-梺,{}
-梹,{"kSemanticVariant": "U+6AB3 &#x6AB3;", "kZVariant": "U+6AB3 &#x6AB3;"}
-梸,{}
-梿,{"kTraditionalVariant": "U+69E4 &#x69E4;"}
-梾,{"kTraditionalVariant": "U+68F6 &#x68F6;"}
-梽,{}
-梼,{"kTraditionalVariant": "U+6AAE &#x6AAE;"}
-梣,{}
-梢,{}
-梡,{}
-梠,{}
-梧,{}
-梦,{"kSemanticVariant": "U+5922 &#x5922;", "kTraditionalVariant": "U+5922 &#x5922;"}
-梥,{}
-梤,{}
-梫,{}
-梪,{}
-梩,{}
-梨,{"kSemanticVariant": "U+68C3 &#x68C3;", "kZVariant": "U+F9E2 &#xF9E2;"}
-梯,{}
-梮,{}
-梭,{}
-梬,{}
-梓,{}
-梒,{}
-梑,{}
-梐,{}
-梗,{}
-梖,{}
-梕,{}
-梔,{"kSimplifiedVariant": "U+6800 &#x6800;"}
-梛,{}
-梚,{}
-梙,{}
-梘,{"kSimplifiedVariant": "U+67A7 &#x67A7;"}
-梟,{"kSemanticVariant": "U+9D1E &#x9D1E;", "kSimplifiedVariant": "U+67AD &#x67AD;"}
-梞,{}
-條,{"kSemanticVariant": "U+6761 &#x6761;U+7CF6 &#x7CF6;", "kSimplifiedVariant": "U+6761 &#x6761;"}
-梜,{}
-梃,{}
-梂,{}
-梁,{"kSemanticVariant": "U+6A11 &#x6A11;", "kZVariant": "U+F97A &#xF97A;"}
-梀,{}
-梇,{}
-梆,{}
-梅,{"kZVariant": "U+6973 &#x6973;"}
-梄,{}
-梋,{}
-梊,{}
-梉,{}
-梈,{}
-梏,{}
-梎,{}
-梍,{}
-梌,{}
-袭,{"kTraditionalVariant": "U+8972 &#x8972;"}
-㲖,{}
-㲗,{}
-㲔,{}
-㲕,{}
-㲚,{}
-㲘,{}
-㲙,{}
-㲀,{}
-袮,{}
-釹,{"kSimplifiedVariant": "U+9495 &#x9495;"}
-袩,{}
-袨,{}
-㲵,{}
-袪,{}
-袈,{}
-䫸,{}
-釸,{}
-䏯,{}
-䏺,{}
-䏻,{}
-䏸,{}
-䏹,{}
-䏲,{}
-䏳,{}
-䏰,{}
-䏱,{}
-䏶,{}
-䏷,{}
-䏴,{}
-䏵,{}
-㞆,{}
-㞄,{}
-㞅,{}
-㞃,{}
-釦,{}
-㞘,{}
-㞙,{}
-乾,{"kSimplifiedVariant": "U+5E72 &#x5E72;", "kSpecializedSemanticVariant": "U+4E81 &#x4E81;"}
-乿,{}
-欸,{"kSemanticVariant": "U+5509 &#x5509;", "kSpecializedSemanticVariant": "U+5509 &#x5509;", "kZVariant": "U+5509 &#x5509;"}
-欳,{}
-欲,{"kSemanticVariant": "U+617E &#x617E;", "kZVariant": "U+617E &#x617E;"}
-欵,{"kSemanticVariant": "U+6B3E &#x6B3E;"}
-欴,{}
-欷,{}
-欶,{"kSemanticVariant": "U+20CBF &#x20CBF;"}
-釣,{"kSimplifiedVariant": "U+9493 &#x9493;"}
-趹,{}
-趻,{}
-趺,{}
-趽,{}
-趿,{}
-趾,{}
-痍,{}
-痌,{}
-痏,{}
-痎,{}
-痋,{}
-痊,{}
-痕,{}
-痔,{}
-痖,{"kTraditionalVariant": "U+7602 &#x7602;"}
-痑,{}
-痐,{"kSemanticVariant": "U+8698 &#x8698;"}
-痓,{}
-痒,{"kSemanticVariant": "U+7662 &#x7662;", "kTraditionalVariant": "U+7662 &#x7662;"}
-馗,{}
+颅,{"kTraditionalVariant": "U+9871 &#x9871;"}
+领,{"kTraditionalVariant": "U+9818 &#x9818;"}
+颇,{"kTraditionalVariant": "U+9817 &#x9817;"}
+颈,{"kTraditionalVariant": "U+9838 &#x9838;"}
+飡,{"kSemanticVariant": "U+9910 &#x9910;"}
+飢,{"kSemanticVariant": "U+9951 &#x9951;", "kSimplifiedVariant": "U+9965 &#x9965;"}
+飣,{"kSimplifiedVariant": "U+9964 &#x9964;"}
+飤,{"kSemanticVariant": "U+98FC &#x98FC;"}
+馃,{"kTraditionalVariant": "U+991C &#x991C;"}
 馄,{"kTraditionalVariant": "U+991B &#x991B;"}
 馅,{"kTraditionalVariant": "U+9921 &#x9921;"}
 馆,{"kTraditionalVariant": "U+9928 &#x9928;"}
-馃,{"kTraditionalVariant": "U+991C &#x991C;"}
-硛,{}
-硚,{"kTraditionalVariant": "U+7904 &#x7904;", "kZVariant": "U+7904 &#x7904;"}
-硙,{"kTraditionalVariant": "U+78D1 &#x78D1;"}
-硘,{}
-硗,{"kTraditionalVariant": "U+78FD &#x78FD;"}
-硖,{"kTraditionalVariant": "U+7864 &#x7864;"}
-硕,{"kTraditionalVariant": "U+78A9 &#x78A9;"}
-硔,{}
-硓,{}
-硒,{}
-硑,{}
-硐,{}
-硏,{}
-硎,{"kZVariant": "U+7814 &#x7814;"}
-硍,{}
-硌,{}
-硋,{}
-硊,{}
-硉,{}
-硈,{}
-硇,{}
-硆,{}
-扈,{}
-硄,{}
-硃,{}
-硂,{}
-釯,{}
-釷,{"kSimplifiedVariant": "U+948D &#x948D;"}
-閇,{"kZVariant": "U+9589 &#x9589;"}
-淍,{}
-㤮,{}
-釵,{"kSimplifiedVariant": "U+9497 &#x9497;", "kSpecializedSemanticVariant": "U+53C9 &#x53C9;"}
-㤵,{"kSemanticVariant": "U+6148 &#x6148;"}
-釴,{}
-㤰,{}
-㤲,{}
-釳,{"kSimplifiedVariant": "U+28C3F &#x28C3F;"}
-㤾,{}
-㤿,{}
-釮,{}
-㤻,{}
-釱,{}
-釰,{}
-氫,{"kSimplifiedVariant": "U+6C22 &#x6C22;"}
-氪,{}
-㹻,{}
-㹺,{}
-釭,{}
-㹹,{}
-釼,{"kZVariant": "U+528D &#x528D;"}
-䯆,{}
-㹾,{}
-淂,{}
-㹼,{}
-釧,{"kSimplifiedVariant": "U+948F &#x948F;"}
-珼,{}
-釥,{}
-釤,{"kSimplifiedVariant": "U+9490 &#x9490;"}
-珹,{}
+馗,{}
+骐,{"kTraditionalVariant": "U+9A0F &#x9A0F;"}
+骑,{"kTraditionalVariant": "U+9A0E &#x9A0E;"}
+骒,{"kTraditionalVariant": "U+9A0D &#x9A0D;"}
+骓,{"kTraditionalVariant": "U+9A05 &#x9A05;"}
+骔,{"kTraditionalVariant": "U+9A0C &#x9A0C;", "kZVariant": "U+9B03 &#x9B03;"}
+骕,{"kTraditionalVariant": "U+9A4C &#x9A4C;"}
+骖,{"kTraditionalVariant": "U+9A42 &#x9A42;"}
+魚,{"kSimplifiedVariant": "U+9C7C &#x9C7C;"}
+鱾,{"kTraditionalVariant": "U+9B62 &#x9B62;"}
+鳥,{"kSimplifiedVariant": "U+9E1F &#x9E1F;"}
+鸷,{"kTraditionalVariant": "U+9DD9 &#x9DD9;"}
+鸸,{"kTraditionalVariant": "U+9D2F &#x9D2F;"}
+鸹,{"kTraditionalVariant": "U+9D30 &#x9D30;"}
+鸺,{"kTraditionalVariant": "U+9D42 &#x9D42;"}
+鸻,{"kTraditionalVariant": "U+9D34 &#x9D34;"}
+鸼,{"kTraditionalVariant": "U+9D43 &#x9D43;"}
+鸽,{"kTraditionalVariant": "U+9D3F &#x9D3F;"}
+鸾,{"kTraditionalVariant": "U+9E1E &#x9E1E;"}
+鸿,{"kTraditionalVariant": "U+9D3B &#x9D3B;"}
+鹵,{"kSimplifiedVariant": "U+5364 &#x5364;"}
+鹿,{"kZVariant": "U+F940 &#xF940;"}
+麥,{"kSimplifiedVariant": "U+9EA6 &#x9EA6;"}
+麦,{"kTraditionalVariant": "U+9EA5 &#x9EA5;"}
+麸,{"kTraditionalVariant": "U+9EA9 &#x9EA9;"}
+麻,{"kSemanticVariant": "U+8534 &#x8534;", "kSpecializedSemanticVariant": "U+8534 &#x8534;", "kZVariant": "U+83FB &#x83FB;"}
+龁,{"kTraditionalVariant": "U+9F55 &#x9F55;"}
+龚,{"kTraditionalVariant": "U+9F94 &#x9F94;"}
+龛,{"kTraditionalVariant": "U+9F95 &#x9F95;"}
+鹿,{"kZVariant": "U+F940 &#xF940;"}
+淚,{"kSemanticVariant": "U+6CEA &#x6CEA;", "kSimplifiedVariant": "U+6CEA &#x6CEA;", "kZVariant": "U+F94D &#xF94D;"}
+累,{"kTraditionalVariant": "U+7E8D &#x7E8D;"}
+勒,{"kZVariant": "U+F952 &#xF952;"}
+陵,{"kZVariant": "U+F959 &#xF959;"}
+率,{"kZVariant": "U+F961 &#xF961;"}
+參,{"kSemanticVariant": "U+53C5 &#x53C5;", "kSimplifiedVariant": "U+53C2 &#x53C2;", "kSpecializedSemanticVariant": "U+53C5 &#x53C5;U+8593 &#x8593;", "kZVariant": "U+F96B &#xF96B;"}
+殺,{"kSimplifiedVariant": "U+6740 &#x6740;", "kZVariant": "U+F970 &#xF970;"}
+若,{"kZVariant": "U+F974 &#xF974;"}
+掠,{"kZVariant": "U+F975 &#xF975;"}
+略,{"kSemanticVariant": "U+7567 &#x7567;", "kZVariant": "U+7567 &#x7567;"}
+梁,{"kSemanticVariant": "U+6A11 &#x6A11;", "kZVariant": "U+F97A &#xF97A;"}
+連,{"kSimplifiedVariant": "U+8FDE &#x8FDE;", "kZVariant": "U+F99A &#xF99A;"}
+捻,{"kZVariant": "U+F9A4 &#xF9A4;"}
+羚,{"kZVariant": "U+F9AF &#xF9AF;"}
+聆,{"kZVariant": "U+F9B0 &#xF9B0;"}
+惡,{"kSimplifiedVariant": "U+6076 &#x6076;", "kZVariant": "U+F9B9 &#xF9B9;"}
+琉,{"kSemanticVariant": "U+7460 &#x7460;", "kZVariant": "U+F9CC &#xF9CC;"}
+陸,{"kSimplifiedVariant": "U+9646 &#x9646;", "kSpecializedSemanticVariant": "U+516D &#x516D;"}
+崙,{"kSemanticVariant": "U+4F96 &#x4F96;U+5D18 &#x5D18;", "kZVariant": "U+F9D5 &#xF9D5;"}
+淪,{"kSimplifiedVariant": "U+6CA6 &#x6CA6;"}
+率,{"kZVariant": "U+F961 &#xF961;"}
+梨,{"kSemanticVariant": "U+68C3 &#x68C3;", "kZVariant": "U+F9E2 &#xF9E2;"}
+理,{"kZVariant": "U+F9E4 &#xF9E4;"}
+匿,{"kZVariant": "U+F9EB &#xF9EB;"}
+淋,{"kZVariant": "U+F9F5 &#xF9F5;"}
+笠,{"kZVariant": "U+F9F8 &#xF9F8;"}
+粒,{"kZVariant": "U+F9F9 &#xF9F9;"}
+猪,{"kSemanticVariant": "U+8C6C &#x8C6C;", "kTraditionalVariant": "U+8C6C &#x8C6C;", "kZVariant": "U+FA16 &#xFA16;"}
+祥,{"kZVariant": "U+FA1A &#xFA1A;"}
+﨡,{}
+﨣,{}
+[,{}
+],{}
+亀,{"kZVariant": "U+9F9C &#x9F9C;"}
