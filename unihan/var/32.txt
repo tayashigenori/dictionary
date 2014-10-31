@@ -1,6 +1,6 @@
-䨊,{}
-籲,{"kSemanticVariant": "U+9FA5 &#x9FA5;"}
-灪,{}
-龖,{}
-],{}
 [,{}
+],{}
+䨊,{}
+灪,{}
+籲,{"kSemanticVariant": "U+9FA5 &#x9FA5;"}
+龖,{}

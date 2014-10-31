@@ -1,16 +1,16 @@
-韊,{}
-鱺,{"kSimplifiedVariant": "U+9CA1 &#x9CA1;"}
-䶑,{}
-䖆,{}
-䂅,{}
-䆐,{}
-驫,{"kSimplifiedVariant": "U+9A89 &#x9A89;"}
-,,{}
-癵,{}
-鸞,{"kSimplifiedVariant": "U+9E3E &#x9E3E;"}
-䉹,{}
-鸝,{"kSimplifiedVariant": "U+9E42 &#x9E42;"}
 [,{}
 ],{}
-籱,{}
+䂅,{}
+䆐,{}
+䉹,{}
+䖆,{}
+䶑,{}
 厵,{"kZVariant": "U+6E90 &#x6E90;"}
+癵,{}
+籱,{}
+韊,{}
+驫,{"kSimplifiedVariant": "U+9A89 &#x9A89;"}
+鱺,{"kSimplifiedVariant": "U+9CA1 &#x9CA1;"}
+鸝,{"kSimplifiedVariant": "U+9E42 &#x9E42;"}
+鸞,{"kSimplifiedVariant": "U+9E3E &#x9E3E;"}
+,,{}
