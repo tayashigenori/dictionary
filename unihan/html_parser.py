@@ -96,9 +96,9 @@ def main():
     #codepoint = "4E00"
     #target_url = UNIHAN_URL_BASE %(codepoint)
     #pages = [target_url]
-    target = TARGET_READINGS
+    target = TARGET_VARIANTS
     STROKES_UPPER = 65
-    for stroke in range(1, 16):
+    for stroke in range(16, STROKES_UPPER):
         # get url and parse
         source_url_name = SOURCE_URL_PATH_BASE %(stroke)
         values = get_from_source_url(source_url_name, target)
