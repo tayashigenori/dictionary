@@ -121,13 +121,39 @@ class JsonParser:
 
             #sys.stdout.write( unichr(int(hex_value, 16)).encode(ENCODING) )
 
-def main():
+def save_frequency_list(res, filename):
+    f = open(filename, "w+")
+    try:
+        for l in res:
+            f.write("%s" %l[0])
+            f.write(",%s" %l[1])
+            f.write(",%s\n" %l[2])
+    finally:
+        f.close()
+    return
+
+def get_frequency_list(filename):
+    res = []
     jp = JsonParser()
-    #d = "./dict/"
-    #jp.print_all_from_dir(d)
-    f = "./dict/5.txt"
-    #jp.print_all_from_file(f)
-    jp.print_value_from_file(f, "kHanyuPinlu")
+    for codepoint, pinlus in jp.get_value_from_file(filename, "kHanyuPinlu").items():
+        sep = re.compile("\s+")
+        for p in re.split(sep, pinlus):
+            #print pinlus
+            closing_braket = re.compile("\)")
+            opening_braket = re.compile("\(")
+            p_ = re.sub(closing_braket, "", p)
+            (pinyin, freq) = re.split(opening_braket, p_)
+            res.append([codepoint, pinyin, freq])
+            #sys.stdout.write(",".join( [pinyin, freq] ) + "\n")
+    return res
+
+def main():
+    for stroke in range(1, 65):
+        #stroke = 5
+        input_filename = os.path.join("./dict/", "%s.txt" %(stroke))
+        output_filename = os.path.join("./freq/", "%s.txt" %(stroke))
+        res = get_frequency_list(input_filename)
+        save_frequency_list(res, output_filename)
 
 if __name__ == '__main__':
     main()
