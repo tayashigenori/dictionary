@@ -28,7 +28,7 @@ def main():
     for stroke in range(1, 65):
         #stroke = 5
         input_filename = os.path.join("./freq/", "%s.txt" %(stroke))
-        output_filename = os.path.join("./freq/", "%s.txt" %(stroke))
+        output_filename = os.path.join("./_partial/freq/", "%s.txt" %(stroke))
         res = get_frequency_list(input_filename)
         res_sorted = sorted(res, key=itemgetter(2), reverse=True)
         #print res_sorted
