@@ -1,0 +1,5 @@
+䯂,{'CantoneseLastC': u'n', 'CantoneseHeadC': u's', 'CantoneseTone': u'1', 'CantoneseVowel': u'a', 'CantoneseTail': u'an', 'CantoneseInit': u'sa'},{'MandarinTail': u'\u0113n', 'MandarinHeadC': u'sh', 'MandarinVowel': u'\u0113', 'MandarinTone': u'', 'MandarinInit': u'sh\u0113', 'MandarinLastC': u'n'}
+[,
+],
+䴑,{'CantoneseLastC': u'p', 'CantoneseHeadC': u'd', 'CantoneseTone': u'6', 'CantoneseVowel': u'i', 'CantoneseTail': u'ip', 'CantoneseInit': u'di'},{'MandarinTail': u'i\xe9', 'MandarinHeadC': u'd', 'MandarinVowel': u'i\xe9', 'MandarinTone': u'', 'MandarinInit': u'di\xe9', 'MandarinLastC': ''}
+䰱,{'CantoneseLastC': u'ng', 'CantoneseHeadC': u'l', 'CantoneseTone': u'4', 'CantoneseVowel': u'i', 'CantoneseTail': u'ing', 'CantoneseInit': u'li'},{'MandarinTail': u'\xedng', 'MandarinHeadC': u'l', 'MandarinVowel': u'\xed', 'MandarinTone': u'', 'MandarinInit': u'l\xed', 'MandarinLastC': u'ng'}

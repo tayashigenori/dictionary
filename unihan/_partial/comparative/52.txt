@@ -1,0 +1,3 @@
+䨻,{'MandarinTail': u'\xe8ng', 'MandarinHeadC': u'b', 'MandarinVowel': u'\xe8', 'MandarinTone': u'', 'MandarinInit': u'b\xe8', 'MandarinLastC': u'ng'}
+[,
+],

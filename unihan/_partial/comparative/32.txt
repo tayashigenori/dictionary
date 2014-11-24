@@ -1,0 +1,6 @@
+䨊,{'MandarinTail': u'yu\u0101n', 'MandarinHeadC': '', 'MandarinVowel': u'yu\u0101', 'MandarinTone': u'', 'MandarinInit': u'yu\u0101', 'MandarinLastC': u'n'}
+籲,{'KoreanVowel': u'YU', 'KoreanTone': u'', 'KoreanLastC': '', 'KoreanTail': u'YU', 'KoreanInit': u'YU', 'KoreanHeadC': ''},{'JapaneseTail': u'YAKU YU', 'JapaneseHeadC': '', 'JapaneseInit': u'YA YU', 'JapaneseLastC': u'KU', 'JapaneseTone': u'', 'JapaneseVowel': u'YA YU'},{'CantoneseLastC': u'k', 'CantoneseHeadC': u'j j', 'CantoneseTone': u'6 6', 'CantoneseVowel': u'yu oe', 'CantoneseTail': u'yu oek', 'CantoneseInit': u'jyu joe'},{'MandarinTail': u'y\xf9', 'MandarinHeadC': '', 'MandarinVowel': u'y\xf9', 'MandarinTone': u'', 'MandarinInit': u'y\xf9', 'MandarinLastC': ''}
+灪,{'MandarinTail': u'y\xf9', 'MandarinHeadC': '', 'MandarinVowel': u'y\xf9', 'MandarinTone': u'', 'MandarinInit': u'y\xf9', 'MandarinLastC': ''}
+龖,{'JapaneseTail': u'OU OU OU', 'JapaneseHeadC': u'S D T', 'JapaneseInit': u'SOU DOU TOU', 'JapaneseLastC': '', 'JapaneseTone': u'', 'JapaneseVowel': u'OU OU OU'},{'MandarinTail': u'\xe1', 'MandarinHeadC': u'd', 'MandarinVowel': u'\xe1', 'MandarinTone': u'', 'MandarinInit': u'd\xe1', 'MandarinLastC': ''}
+],
+[,

@@ -214,7 +214,7 @@ def get_broken_readings(filename):
 
 def main():
     STROKE_MIN = 1
-    STROKE_MAX = 10
+    STROKE_MAX = 65
     for stroke in range(STROKE_MIN, STROKE_MAX):
         input_filename = os.path.join("./dict/", "%s.txt" %(stroke))
         output_filename = os.path.join("./_partial/comparative/", "%s.txt" %(stroke))
