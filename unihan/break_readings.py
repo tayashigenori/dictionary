@@ -6,6 +6,8 @@ import json
 
 #from json_parser import JsonParser
 
+# taking two dicts with the same length
+# join dict values (expecting string) with sep
 def join_dict(d1, d2, sep = " "):
     return dict([ (k, # key
                    sep.join( [d1.get(k, ""), d2.get(k, "")] ).strip() # value
@@ -84,7 +86,7 @@ class ReadingBreaker:
 
 class ReadingBreakerMand(ReadingBreaker):
     HEAD_C = ["b", "p", "m", "f", "d", "t", "n", "l",
-              "z", "c", "s", "zh", "ch", "sh", "r",
+              "zh", "ch", "sh", "r", "z", "c", "s",
               "x", "j", "q", "g", "k", "h",]
     LAST_C = ["ng", "n",]
     SEMI_VOWELS = ["y", "w",]
@@ -110,8 +112,12 @@ class ReadingBreakerKore(ReadingBreaker):
     COLNAME_TONE   = "KoreanTone" #
 
 class ReadingBreakerViet(ReadingBreaker):
-    HEAD_C = []
-    LAST_C = []
+    HEAD_C = ["ng", "q",
+              "b", "p", "m", "f", "d", "t", "n", "l",
+              "zh", "ch", "sh", "r", "z", "c", "s",
+              "x", "j", "q", "g", "k", "h",]
+    LAST_C = ["ng", "n", "m",
+              "k", "t", "p",]
     TONE = []
     COLNAME_HEAD_C = "VietnameseHeadC"
     COLNAME_TAIL   = "VietnameseTail"
@@ -136,7 +142,7 @@ class ReadingBreakerCant(ReadingBreaker):
 
 class ReadingBreakerJapa(ReadingBreaker):
     HEAD_C = ["K", "S", "T", "N", "H", "M", "R",
-                "G", "Z", "D",      "B",]
+              "G", "Z", "D",      "B",]
     LAST_C = ["KI", "KU", "CHI", "TSU", "N"]
     SEMI_BOWELS = ["Y", "W"]
     TONE = []
@@ -148,7 +154,7 @@ class ReadingBreakerJapa(ReadingBreaker):
     COLNAME_TONE   = "JapaneseTone" #
 
 class ReadingBreakerPinl(ReadingBreakerMand):
-    TONE = [str(i) for i in range(1,5)]
+    TONE = [str(i) for i in range(1,10)] # ??
     COLNAME_HEAD_C = "PinluHeadC"
     COLNAME_TAIL   = "PinluTail"
     COLNAME_LAST_C = "PinluLastC"
@@ -161,8 +167,9 @@ class ReadingBreakerPinl(ReadingBreakerMand):
         return map(lambda x: re.sub(pat, "", x), ReadingBreaker.get_readings(self, col) )
 
 class ReadingBreakerTang(ReadingBreaker):
-    HEAD_C = ["b", "p", "m", "f", "d", "t", "n", "l",
-              "z", "c", "s", "zh", "ch", "sh", "r",
+    HEAD_C = ["ng", "q",
+              "b", "p", "m", "f", "d", "t", "n", "l",
+              "zh", "ch", "sh", "r", "z", "c", "s",
               "x", "j", "q", "g", "k", "h",]
     LAST_C = ["ng", "n", "m",
               "k", "t", "p",]
@@ -207,7 +214,7 @@ def get_broken_readings(filename):
 
 def main():
     STROKE_MIN = 1
-    STROKE_MAX = 5
+    STROKE_MAX = 10
     for stroke in range(STROKE_MIN, STROKE_MAX):
         input_filename = os.path.join("./dict/", "%s.txt" %(stroke))
         output_filename = os.path.join("./_partial/comparative/", "%s.txt" %(stroke))
