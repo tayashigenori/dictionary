@@ -1,35 +1,29 @@
-聽,ting1 ting5,teng1 ting1 ting3
-權,quan2,kyun4
+藹,ai3,oi2
+顫,chan4,zin3
+襯,chen4,can3
+疊,die2,daap6 dip6
 讀,du2,dau6 duk6 dau6 duk6
 歡,huan5 huan1,fun1
-歡,huan5 huan1,fun1
-彎,wan1,waan1
-蘋,ping2,pan4 ping4
-攤,tan1,taan1
-顫,chan4,zin3
-驕,jiao1,giu1
-灘,tan1,taan1 taan5
-臟,zang4 zang1,zong6
-臟,zang4 zang1,zong6
-聽,ting1 ting5,teng1 ting1 ting3
-襯,chen4,can3
-蘆,lu2 lu5,lou4 lou4
-襲,xi2,zaap6
-籠,long2 long5 long3,lung4 lung5 lung4 lung5
-疊,die2,daap6 dip6
-竊,qie4,sit3
-鑄,zhu4,zyu3
-籠,long2 long5 long3,lung4 lung5 lung4 lung5
-蘇,su1,sou1
 鑒,jian4,gaam3
-蘆,lu2 lu5,lou4 lou4
-籠,long2 long5 long3,lung4 lung5 lung4 lung5
-藹,ai3,oi2
-镶,xiang1,soeng1
 韁,jiang1,goeng1
-蘊,yun4,wan3 wan5
-巒,luan2,lyun4
-鷗,ou1,au1
-蘑,mo2,mo4
+驕,jiao1,giu1
 戀,lian4,lyun2 lyun5
+籠,long2 long5 long3,lung4 lung5 lung4 lung5
+蘆,lu2 lu5,lou4 lou4
+巒,luan2,lyun4
+蘑,mo2,mo4
+鷗,ou1,au1
+蘋,ping2,pan4 ping4
+竊,qie4,sit3
+權,quan2,kyun4
+蘇,su1,sou1
+攤,tan1,taan1
+灘,tan1,taan1 taan5
+聽,ting1 ting5,teng1 ting1 ting3
+彎,wan1,waan1
+襲,xi2,zaap6
+镶,xiang1,soeng1
+蘊,yun4,wan3 wan5
 攢,zan3,cyun4 zaan2
+臟,zang4 zang1,zong6
+鑄,zhu4,zyu3

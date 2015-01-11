@@ -1,155 +1,138 @@
-學,xue2,hok6
-頭,tou2 tou5,tau4
-機,ji1,gei1
-戰,zhan4,zin3
 辦,ban4,baan6
-應,ying1 ying4 ying5,jing1 jing3
-親,qin1 qin5,can1 can3
-樹,shu4,syu6
-歷,li4,lik6 lik6
-錢,qian2 qian5,cin2 cin4 zin2
-錯,cuo4,co3 cok3 cou3
-據,ju4,geoi3
-器,qi4,hei3
-頭,tou2 tou5,tau4
-擊,ji1,gik1
-隨,sui2,ceoi4
-積,ji1,zik1
-橋,qiao2,kiu4
-舉,ju3 ju5,geoi2
-鋼,gang1,gong1 gong3
-燈,deng1,dang1
-靜,jing4 jing5,zing6
-縣,xian4,jyun2 jyun4 jyun6
-親,qin1 qin5,can1 can3
-激,ji1 ji5,gik1
-應,ying1 ying4 ying5,jing1 jing3
-燒,shao1,siu1
-懂,dong3,dung2
-選,xuan3,syun2
-擔,dan1 dan4 dan5,daam1 daam3
-镜,jing4,geng3
-奮,fen4,fan5
-燃,ran2,jin4 jin6
-獨,du2,duk6
-輸,shu1,syu1
-蓋,gai4 gai5,gap3 goi3 hap6 koi3
-險,xian3,him2
-應,ying1 ying4 ying5,jing1 jing3
-醒,xing3,seng2 sing1 sing2
-默,mo4,mak6
-謂,wei4,wai6
-辩,bian4,bin6
-餓,e4,ngo6
-赞,zan4,zaan3
-噸,dun1,deon1
 壁,bi4,bek3 bik1 bik3
-錄,lu4,luk6 luk6
-凝,ning2,jing4 king4
-憑,ping2,bang6 pang4
-操,cao1,cou1 cou3
-橫,heng2,waang4 waang6
-蓝,lan2,laam4
-擁,yong1,jung2 ung2
-駱,luo4,lok3 lok6 lok3 lok6
-濃,nong2,jung4 nung4
-蒸,zheng1,zing1
-憶,yi4,jik1
-遲,chi2,ci4
-噢,o1,juk1 jyu2 o1 ou3
-遺,yi2,wai4 wai6
-謀,mou2 mou5,mau4
-糖,tang2,tong2 tong4 tong2 tong4
-遵,zun1,zeon1 zyun1
-磨,mo2 mo5 mo4,mo4 mo6
-擋,dang3,dong2 dong3
-曉,xiao3,hiu2
-豬,zhu1,zyu1
-衡,heng2,hang4 waang4
-劑,ji4,zai1
-錢,qian2 qian5,cin2 cin4 zin2
-龍,long2,lung4 lung4
-艙,cang1,cong1
-篮,lan2,laam4
-隸,li4,dai6 lai6
-擇,ze2,zaak6
-蒼,cang1,cong1
-鲸,jing1,king4
-懇,ken3,han2
-貓,mao1,maau1
-蒙,meng2 meng1 meng3,mung4
-褲,ku4,fu3
-擔,dan1 dan4 dan5,daam1 daam3
-燕,yan4,jin1 jin3
-橘,ju2,gwat1
-錦,jin3,gam2
 辨,bian4,bin6
-激,ji1 ji5,gik1
-颠,dian1,din1
-頻,pin2,pan4
-磚,zhuan1,zyun1
-膨,peng2,paang4
-餐,can1,caan1
-磨,mo2 mo5 mo4,mo4 mo6
-鴨,ya1,aap3 ngaap3
-輯,ji5 ji2,cap1
-螞,ma3,maa1 maa5 maa6
-豫,yu4,jyu6
-雕,diao1,diu1
-踱,duo2,dok6
-擔,dan1 dan4 dan5,daam1 daam3
-縛,fu4,bok3 fok3
-遷,qian1,cin1
-瞞,man2,mun4
-遼,liao2,liu4 liu4
-輻,fu2,fuk1 fuk1
-懒,lan3,laan5
-澱,dian4,din6
-艘,sou1,sau1 sau2
-燙,tang4,tong3
-濁,zhuo2,zuk6
-磨,mo2 mo5 mo4,mo4 mo6
-橡,xiang4,zoeng6
-靜,jing4 jing5,zing6
-賴,lai4,laai6
-輯,ji5 ji2,cap1
-撿,jian3,gim2
-融,rong2,jung4
-錫,xi1,sek3 sik1 sik3
-諸,zhu1,zyu1 zyu1
-謀,mou2 mou5,mau4
-澡,zao3,cou3 zou2
-骼,ge2,gaak3
-隧,sui4,seoi6
-憾,han4,ham6
+辩,bian4,bin6
 憋,bie1,bit3
-螢,ying2,jing4
+餐,can1,caan1
+艙,cang1,cong1
+蒼,cang1,cong1
+操,cao1,cou1 cou3
+遲,chi2,ci4
+錘,chui2,ceoi4
+錯,cuo4,co3 cok3 cou3
+擔,dan1 dan4 dan5,daam1 daam3
+擋,dang3,dong2 dong3
+燈,deng1,dang1
+颠,dian1,din1
+澱,dian4,din6
+雕,diao1,diu1
+錠,ding4,ding3
+懂,dong3,dung2
+獨,du2,duk6
+賭,du3,dou2
+噸,dun1,deon1
+踱,duo2,dok6
+餓,e4,ngo6
+奮,fen4,fan5
+諷,feng3,fung3
+輻,fu2,fuk1 fuk1
+縛,fu4,bok3 fok3
+蓋,gai4 gai5,gap3 goi3 hap6 koi3
+鋼,gang1,gong1 gong3
 糕,gao1,gou1
+骼,ge2,gaak3
+龜,gui1,gau1 gwai1 gwan1 gau1 gwai1 gwan1 gau1 gwai1 gwan1
+憾,han4,ham6
 撼,han4,ham6
+衡,heng2,hang4 waang4
+橫,heng2,waang4 waang6
+樺,hua4,waa4 waa6
+激,ji1 ji5,gik1
+機,ji1,gei1
+擊,ji1,gik1
+積,ji1,zik1
+劑,ji4,zai1
+輯,ji5 ji2,cap1
+頰,jia2,gaap3 haap3
+撿,jian3,gim2
 缰,jiang1,goeng1
 缴,jiao3,giu2
-錘,chui2,ceoi4
-蒙,meng2 meng1 meng3,mung4
-蹄,ti2,tai4
-噪,zao4,cou3
-諷,feng3,fung3
-鋸,ju4,geoi3 goe3
-錠,ding4,ding3
-蒙,meng2 meng1 meng3,mung4
+錦,jin3,gam2
+鲸,jing1,king4
 頸,jing3,geng2
-篩,shai1,sai1
-樺,hua4,waa4 waa6
-龜,gui1,gau1 gwai1 gwan1 gau1 gwai1 gwan1 gau1 gwai1 gwan1
-瓢,piao2,piu4
-橢,tuo3,to5
-穎,ying3,wing6
-蓄,xu4,cuk1
-霎,sha4,saap3 sap3
-墾,ken3,han2
-賭,du3,dou2
-穆,mu4,muk6
-蓋,gai4 gai5,gap3 goi3 hap6 koi3
-頰,jia2,gaap3 haap3
-舆,yu2,jyu4
-蒜,suan4,syun3
+靜,jing4 jing5,zing6
+镜,jing4,geng3
+橘,ju2,gwat1
 舉,ju3 ju5,geoi2
+據,ju4,geoi3
+鋸,ju4,geoi3 goe3
+墾,ken3,han2
+懇,ken3,han2
+褲,ku4,fu3
+賴,lai4,laai6
+篮,lan2,laam4
+蓝,lan2,laam4
+懒,lan3,laan5
+隸,li4,dai6 lai6
+歷,li4,lik6 lik6
+遼,liao2,liu4 liu4
+龍,long2,lung4 lung4
+錄,lu4,luk6 luk6
+駱,luo4,lok3 lok6 lok3 lok6
+螞,ma3,maa1 maa5 maa6
+瞞,man2,mun4
+貓,mao1,maau1
+蒙,meng2 meng1 meng3,mung4
+磨,mo2 mo5 mo4,mo4 mo6
+默,mo4,mak6
+謀,mou2 mou5,mau4
+穆,mu4,muk6
+凝,ning2,jing4 king4
+濃,nong2,jung4 nung4
+噢,o1,juk1 jyu2 o1 ou3
+膨,peng2,paang4
+瓢,piao2,piu4
+頻,pin2,pan4
+憑,ping2,bang6 pang4
+器,qi4,hei3
+遷,qian1,cin1
+錢,qian2 qian5,cin2 cin4 zin2
+橋,qiao2,kiu4
+親,qin1 qin5,can1 can3
+燃,ran2,jin4 jin6
+融,rong2,jung4
+霎,sha4,saap3 sap3
+篩,shai1,sai1
+燒,shao1,siu1
+輸,shu1,syu1
+樹,shu4,syu6
+艘,sou1,sau1 sau2
+蒜,suan4,syun3
+隨,sui2,ceoi4
+隧,sui4,seoi6
+糖,tang2,tong2 tong4 tong2 tong4
+燙,tang4,tong3
+蹄,ti2,tai4
+頭,tou2 tou5,tau4
+橢,tuo3,to5
+謂,wei4,wai6
+錫,xi1,sek3 sik1 sik3
+險,xian3,him2
+縣,xian4,jyun2 jyun4 jyun6
+橡,xiang4,zoeng6
+曉,xiao3,hiu2
+醒,xing3,seng2 sing1 sing2
+蓄,xu4,cuk1
+選,xuan3,syun2
+學,xue2,hok6
+鴨,ya1,aap3 ngaap3
+燕,yan4,jin1 jin3
+遺,yi2,wai4 wai6
+憶,yi4,jik1
+應,ying1 ying4 ying5,jing1 jing3
+螢,ying2,jing4
+穎,ying3,wing6
+擁,yong1,jung2 ung2
+舆,yu2,jyu4
+豫,yu4,jyu6
+赞,zan4,zaan3
+澡,zao3,cou3 zou2
+噪,zao4,cou3
+擇,ze2,zaak6
+戰,zhan4,zin3
+蒸,zheng1,zing1
+豬,zhu1,zyu1
+諸,zhu1,zyu1 zyu1
+磚,zhuan1,zyun1
+濁,zhuo2,zuk6
+遵,zun1,zeon1 zyun1

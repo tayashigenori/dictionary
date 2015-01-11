@@ -1,66 +1,63 @@
-題,ti2,tai4
-轉,zhuan3 zhuan4,zyun2 zyun3
-織,zhi1,zik1
-斷,duan4,dyun3 dyun6 tyun5
-舊,jiu4,gau6
-醫,yi1,ji1
-簡,jian3,gaan2
-礎,chu3,co2
-雙,shuang1,soeng1
-翻,fan1,faan1
-雜,za2,zaap6
-糧,liang2,loeng4 loeng4
 擺,bai3,baai2
-雞,ji1,gai1
-鎮,zhen4,zan3
-轉,zhuan3 zhuan4,zyun2 zyun3
-職,zhi2,zik1
-嬸,shen3 shen5,sam2
-擴,kuo4,gwok3 kong3 kwok3 kwong3
-戴,dai4,daai3
-騎,qi2,gei6 ke4 kei4
-顏,yan2,ngaan4
-禮,li3,lai5 lai5
-額,e2,ngaak6
-歸,gui1,gwai1
-繞,rao4 rao3,jiu2 jiu5
-獵,lie4,lip6 lip6
-叢,cong2,cung4
-鎖,suo3,so2
-蕩,dang4,dong6
-嬸,shen3 shen5,sam2
-蔽,bi4,bai3
-闖,chuang3,cong2
-竄,cuan4,cyun2 cyun3
-蟬,chan2,sim4 sin4
-鞭,bian1,bin1
-繞,rao4 rao3,jiu2 jiu5
-醬,jiang4,zoeng3
-擾,rao3,jiu2 jiu5
-朦,meng2,mung4
-翹,qiao4,kiu4
 蹦,beng4,baang6
-壘,lei3,leoi5 leot6 leoi5 leot6
-覆,fu4,fau6 fuk1
-謬,miu4,mau6
-儲,chu3,cyu1 cyu5
-鵝,e2,ngo4
-濺,jian4,zin1 zin3
-翼,yi4,jik6
-繡,xiu4,sau3
-謹,jin3,gan2
-瀑,pu4,buk6
-鹰,ying1,jing1
+蔽,bi4,bai3
 斃,bi4,bai6
+鞭,bian1,bin1
+蟬,chan2,sim4 sin4
+礎,chu3,co2
+儲,chu3,cyu1 cyu5
+闖,chuang3,cong2
+叢,cong2,cung4
+竄,cuan4,cyun2 cyun3
+戴,dai4,daai3
+蕩,dang4,dong6
+斷,duan4,dyun3 dyun6 tyun5
+額,e2,ngaak6
+鵝,e2,ngo4
+翻,fan1,faan1
+覆,fu4,fau6 fuk1
+歸,gui1,gwai1
+雞,ji1,gai1
+簡,jian3,gaan2
+濺,jian4,zin1 zin3
+醬,jiang4,zoeng3
+蕉,jiao1,ziu1
+謹,jin3,gan2
+舊,jiu4,gau6
 鵑,juan1,gyun1
 檻,kan3,haam5 laam6
-擲,zhi4,zaak6
-蕴,yun4,wan3
-蕉,jiao1,ziu1
-镰,lian2,lim4
-瞻,zhan1,zim1
-蹤,zong1,zung1
+擴,kuo4,gwok3 kong3 kwok3 kwong3
+壘,lei3,leoi5 leot6 leoi5 leot6
+禮,li3,lai5 lai5
 鯉,li3,lei5
-簫,xiao1,siu1
-軀,qu1,keoi1
+镰,lian2,lim4
+糧,liang2,loeng4 loeng4
+獵,lie4,lip6 lip6
+朦,meng2,mung4
+謬,miu4,mau6
 攆,nian3,lin5
+瀑,pu4,buk6
+騎,qi2,gei6 ke4 kei4
+翹,qiao4,kiu4
+軀,qu1,keoi1
+擾,rao3,jiu2 jiu5
+繞,rao4 rao3,jiu2 jiu5
+嬸,shen3 shen5,sam2
+雙,shuang1,soeng1
+鎖,suo3,so2
+題,ti2,tai4
+簫,xiao1,siu1
+繡,xiu4,sau3
+顏,yan2,ngaan4
+醫,yi1,ji1
+翼,yi4,jik6
+鹰,ying1,jing1
+蕴,yun4,wan3
+雜,za2,zaap6
+瞻,zhan1,zim1
+鎮,zhen4,zan3
+織,zhi1,zik1
+職,zhi2,zik1
+擲,zhi4,zaak6
+轉,zhuan3 zhuan4,zyun2 zyun3
+蹤,zong1,zung1

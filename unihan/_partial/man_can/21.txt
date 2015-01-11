@@ -1,35 +1,35 @@
-鐵,tie3,tit3
-藝,yi4,ngai6
-續,xu4,zuk6
-護,hu4,wu6
-藥,yao4,joek6
-屬,shu3,suk6 zuk1
-顧,gu4,gu3
-辯,bian4,bin6
-灌,guan4,gun3
-躍,yue4,joek3 joek6 tik1
-攝,she4,nip6 sip3
-爛,lan4,laan6 laan6
-殲,jian1,cim1
-轟,hong1,gwang1
-魔,mo2,mo1
-覽,lan3,laam5
-欄,lan2,laan4 laan4
-襪,wa4,maat6 mat6
-蠟,la4,laap6 laap6
-譽,yu4,jyu6
-纏,chan2,cin4 zin6
-霸,ba4,baa3
-躊,chou2,cau4
-饒,rao2,jiu4
-騾,luo2,lo4
-攜,xie2,kwai4
-懼,ju4,geoi6
-鐺,dang5,cang1 dong1
-嚼,jue2,ziu6 zoek3 zoek6
-鐮,lian2,lim4
-藤,teng2,tang4
-譴,qian3,hin2
-巍,wei1,ngai4
-驅,qu1,keoi1
 黯,an4,am2
+霸,ba4,baa3
+辯,bian4,bin6
+纏,chan2,cin4 zin6
+躊,chou2,cau4
+鐺,dang5,cang1 dong1
+顧,gu4,gu3
+灌,guan4,gun3
+轟,hong1,gwang1
+護,hu4,wu6
+殲,jian1,cim1
+懼,ju4,geoi6
+嚼,jue2,ziu6 zoek3 zoek6
+蠟,la4,laap6 laap6
+欄,lan2,laan4 laan4
+覽,lan3,laam5
+爛,lan4,laan6 laan6
+鐮,lian2,lim4
+騾,luo2,lo4
+魔,mo2,mo1
+譴,qian3,hin2
+驅,qu1,keoi1
+饒,rao2,jiu4
+攝,she4,nip6 sip3
+屬,shu3,suk6 zuk1
+藤,teng2,tang4
+鐵,tie3,tit3
+襪,wa4,maat6 mat6
+巍,wei1,ngai4
+攜,xie2,kwai4
+續,xu4,zuk6
+藥,yao4,joek6
+藝,yi4,ngai6
+譽,yu4,jyu6
+躍,yue4,joek3 joek6 tik1
