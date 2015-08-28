@@ -18,7 +18,7 @@ def get_kr():
             if line == "":
                 continue
             li = line.split(sep)
-            grade = li[0]
+            grade = li[0].strip()
             kr_pairs = li[1:]
             tmp[ grade ] = kr_pairs
     finally:
@@ -33,7 +33,9 @@ def get_kr():
                 continue
             #print kr_pair
             (kanji, reading) = kr_pair.split(sep_colon)
-            r[ grade ].update( { kanji: reading } )
+            reading = reading.replace(u",", u" | ")
+            r[ grade ].update( { kanji.strip():
+                                 reading.strip() } )
     return r
 
 def save_kr(kr):
@@ -42,7 +44,7 @@ def save_kr(kr):
         f = open(file_name, 'w')
         for grade, kr_pair in kr.items():
             for kanji, reading in kr_pair.items():
-                message = u"%s\t%s\t%s\n" %(grade, kanji, reading)
+                message = u"%s,%s,%s\n" %(grade, kanji, reading)
                 f.write(message.encode("utf-8"))
     finally:
         f.close()

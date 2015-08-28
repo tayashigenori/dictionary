@@ -1,0 +1,104 @@
+巴,ba5 ba1,baa1
+办,ban4,baan6
+贝,bei4,bui3
+比,bi3,bei2 bei6 pei4
+币,bi4,bai6
+必,bi4,bit1
+不,bu4 bu5,bat1 fau2 bat1 fau2
+仓,cang1,cong1
+车,che1,ce1 geoi1
+尺,chi3,ce2 cek3
+仇,chou2,cau4 kau4 sau4
+丑,chou3,cau2
+从,cong2 cong1,cung4
+丹,dan1 dan5,daan1 daan1
+订,ding4,ding3 ding6
+斗,dou4,dau2
+反,fan3,faan1 faan2
+方,fang1 fang5,fong1
+分,fen1 fen4 fen5,fan1 fan6
+丰,feng1,fung1
+风,feng1,fung1
+凤,feng4,fung6
+父,fu4,fu2 fu6
+夫,fu5 fu1,fu1 fu4
+冈,gang1,gong1
+公,gong1,gung1
+勾,gou1,au1 gau1 ngau1
+戶,hu4 hu5,wu6
+户,hu4 hu5,wu6
+互,hu4,wu6
+化,hua4,faa3
+幻,huan4,waan6
+火,huo3,fo2
+讥,ji1,gei1
+及,ji2,gap6 kap6
+计,ji4 ji5,gai3
+见,jian4 xian4 jian5,gin3
+介,jie4,gaai3
+今,jin1,gam1
+斤,jin1,gan1
+仅,jin3,gan2
+井,jing3,zeng2 zing2
+开,kai1,hoi1
+孔,kong3,hung2
+历,li4,lik6
+六,liu4,luk6 luk6
+毛,mao2 mao5,mou4
+木,mu4,muk6
+內,nei4,naap6 noi6
+内,nei4,noi6
+廿,nian4,jaa6 je6 nim6
+牛,niu2,ngau4
+匹,pi3,pat1
+片,pian4 pian1,pin3
+气,qi4 qi5,hei3
+欠,qian4 qian5,him3
+切,qie4 qie1,cai3 cit3 cai3 cit3
+区,qu1,au1 keoi1
+犬,quan3,hyun2
+劝,quan4,hyun3
+认,ren4,jing6
+仍,reng2,jing4
+日,ri4,jat6
+少,shao3 shao5 shao4,siu2 siu3
+什,shen2 shen5,sam6 sap6 zaap6 sam6 sap6 zaap6
+升,sheng1,sing1
+氏,shi4,si6 zi1
+手,shou3 shou5,sau2
+书,shu1,syu1
+双,shuang1,soeng1
+水,shui3,seoi2
+太,tai4 tai5,taai3
+天,tian1 tian5,tin1
+厅,ting1,teng1
+王,wang2,wong4 wong6
+为,wei4 wei2,wai4 wai6
+文,wen2,man4 man6
+乌,wu1,wu1
+无,wu2,mou4
+午,wu3 wu5,ng5
+五,wu3,ng5
+心,xin1 xin5,sam1
+凶,xiong1,hung1
+牙,ya2,ngaa4
+忆,yi4,jik1
+引,yin3,jan5
+尤,you2,jau4
+友,you5 you3,jau5
+与,yu3 yu4,jyu4 jyu5 jyu6
+予,yu3,jyu4 jyu5
+元,yuan2,jyun4
+曰,yue1,joek6 jyut6
+月,yue4 yue5,jyut6
+云,yun2,wan4
+勻,yun2,wan4
+匀,yun2,wan4
+允,yun3,wan5
+扎,zha1 zha2,zaat3
+爪,zhao3 zhua3,zaau2
+之,zhi1,zi1
+支,zhi1,zi1
+止,zhi3,zi2
+中,zhong1 zhong4,zung1 zung3
+专,zhuan1,zyun1

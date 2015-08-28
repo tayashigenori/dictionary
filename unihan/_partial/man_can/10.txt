@@ -1,0 +1,371 @@
+挨,ai1,aai1
+埃,ai1,aai1 oi1
+爱,ai4,ngoi3 oi3
+氨,an1,ngoi1 on1
+俺,an3,jim3
+案,an4,ngon3 on3
+袄,ao3,ou2
+罢,ba5 ba4,baa6
+笆,ba5,baa1
+班,ban1,baan1
+颁,ban1,baan1
+般,ban1,bo1 bun1
+帮,bang1,bong1
+豹,bao4,baau3 paau3
+狽,bei4,bui3
+倍,bei4,pui5
+唄,bei5,baai6
+笔,bi3,bat1
+毙,bi4,bai6
+宾,bin1,ban1
+病,bing4,beng6 bing6
+剝,bo1,bok1 mok1
+剥,bo1,bok1 mok1
+哺,bu3,bou1 bou6
+捕,bu3,bou6
+財,cai2,coi4
+蚕,can2,caam4 tim5
+残,can2,caan1 caan4
+倉,cang1,cong1
+舱,cang1,cong1
+苍,cang1,cong1
+差,cha4 cha1 chai1,caa1 caai1 ci1
+豺,chai2,caai4
+倡,chang4,coeng1 coeng3
+称,cheng1 chen4,cing1 cing3
+乘,cheng2,sing4 sing6
+秤,cheng4,cing1 cing3
+哧,chi1,ci1
+蚩,chi1,ci1
+恥,chi3,ci2
+耻,chi3,ci2
+翅,chi4,ci3
+臭,chou4,cau3
+除,chu2,ceoi4 cyu4
+础,chu3,co2
+畜,chu4 xu4,cuk1
+唇,chun2,seon4
+純,chun2,seon4 zeon2
+脆,cui4,ceoi3
+挫,cuo4,co3
+耽,dan1,daam1
+党,dang3,dong2
+档,dang4,dong2 dong3
+島,dao3,dou2
+捣,dao3,dou2
+倒,dao4 dao3,dou2 dou3
+敌,di2,dik6
+涤,di2,dik6
+调,diao4 tiao2,diu6 tiu4
+爹,die1,de1
+釘,ding1,deng1 ding1
+凍,dong4,dung1 dung3
+蚪,dou3,dau2
+陡,dou3,dau2
+读,du2,duk6
+顿,dun4,deon6 duk6
+峨,e2,ngo4
+恶,e4 wu4,ngok3 ok3 wu1 wu3
+饿,e4,ngo6
+烦,fan2 fan5,faan4
+紡,fang3,fong2
+匪,fei3,fei2
+紛,fen1,fan1
+粉,fen3,fan2
+峰,feng1,fung1
+浮,fu2,fau4
+俯,fu3,fu2
+赶,gan3,gon2
+剛,gang1,gong1
+羔,gao1,gou1
+高,gao1,gou1
+哥,ge1 ge5,go1
+胳,ge1,gaak3 lok3
+格,ge2 ge5,gaak3
+個,ge4 ge5 ge3,go3
+根,gen1,gan1
+耕,geng1,gaang1 gang1
+哽,geng3,ang2 gang2
+宮,gong1,gung1
+躬,gong1,gung1
+貢,gong4,gung3
+蚣,gong5,gung1
+骨,gu3 gu2,gwat1
+钴,gu3,gu2
+顾,gu4,gu3
+鬼,gui3,gwai2
+海,hai3,hoi2
+害,hai4 hai5,hoi6 hot3
+捍,han4,hon2 hon5 hon6
+航,hang2,hong4
+耗,hao4,hou3
+浩,hao4,hou5 hou6
+核,he2,hat6 wat6
+哼,heng1,hang1 hng6 ng1
+烘,hong1,hong3 hung1 hung4
+候,hou5 hou4,hau6
+壶,hu2,wu4
+花,hua1 hua5,faa1
+桦,hua4,waa6
+唤,huan4 huan5,wun6
+换,huan4,wun6
+晃,huang5 huang4 huang3,fong2
+悔,hui3,fui3
+积,ji1,zik1
+迹,ji1,zik1
+級,ji2,kap1
+疾,ji2,zat6
+脊,ji2,zek3 zik3
+記,ji4 ji5,gei3
+继,ji4,gai3
+家,jia1 jia5,gaa1 gu1
+监,jian1,gaam1 gaam3
+兼,jian1,gim1
+捡,jian3,gim2
+舰,jian4,laam6
+浆,jiang1,zoeng1
+桨,jiang3,zoeng2
+胶,jiao1,gaau1
+较,jiao4,gaau3
+轿,jiao4,giu6
+借,jie4,ze3
+紧,jin3,gan2
+浸,jin4,zam3
+徑,jing4,ging3
+竞,jing4,ging3
+酒,jiu3,zau2
+桔,ju2,aat1 gat1
+俱,ju4,geoi1 keoi1
+剧,ju4,kek6
+矩,ju5,geoi2
+捐,juan1,gyun1
+绢,juan4,gyun3
+倦,juan4,gyun6
+峻,jun4,zeon3
+烤,kao3,haau1 haau2
+课,ke4,fo3
+恳,ken3,han2
+恐,kong3,hung2
+哭,ku1,huk1
+庫,ku4,fu3
+宽,kuan1,fun1
+框,kuang1 kuang4,hong1 kwaang1
+捆,kun3,kwan2
+旅,l&#xfc;3,leoi5 leoi5
+狼,lang2,long4 long4
+朗,lang3,long5
+浪,lang4,long4 long6 long4 long6
+捞,lao1,laau4 lou4
+砾,li4,nik1
+哩,li5,le1 lei5 li1
+狸,li5,lei4
+倆,lia3,loeng5
+恋,lian4,lyun2 lyun5
+凉,liang2,loeng4 loeng4
+谅,liang4,loeng6
+料,liao4,liu2 liu6 liu2 liu6
+烈,lie4,lit6 lit6
+铃,ling2,ling1 ling4
+流,liu2,lau4
+留,liu2,lau4 lau4
+芦,lu2 lu5,lou4
+虜,lu3,lou5 lou5
+馬,ma3,maa5
+埋,mai2 man2,maai4
+脈,mai4,mak6
+們,men5,mun4
+迷,mi2,mai4
+秘,mi4,bei3 bit1
+眠,mian2,min4
+畝,mu3,mau5
+拿,na2,naa4
+哪,na3 na5,naa1 naa4 naa5
+納,na4,naap6
+难,nan2 nan5 nan4,naan4 naan6
+脑,nao3,nou5
+能,neng2,nang4
+娘,niang5 niang2,noeng4
+捏,nie1,nip6
+紐,niu3,nau2 nau2
+哦,o2 o4 e2,ngo4 o2 o4 o6
+畔,pan4,bun6
+旁,pang2,pong4
+配,pei4,pui3
+砰,peng1,ping1
+疲,pi2,pei4
+破,po4,po3
+剖,pou1,fau2 pau2
+凄,qi1,cai1
+起,qi3,hei2
+豈,qi3,hei2 hoi2 hei2 hoi2
+氣,qi4 qi5,hei3
+铅,qian1,jyun4
+钱,qian2 qian5,cin2 cin4
+钳,qian2,kim4
+悄,qiao1,ciu2 ciu5
+桥,qiao2,kiu4
+峭,qiao4,ciu3
+倾,qing1,king1
+请,qing3,cing2
+拳,quan2,kyun4
+缺,que1,kyut3
+热,re4,jit6
+容,rong2,jung4
+辱,ru3,juk6
+润,run4,jeon6
+弱,ruo4,joek6
+桑,sang1,song1
+紗,sha1,saa1
+晒,shai4,saai3
+閃,shan3,sim2
+扇,shan4 shan1,sin3
+晌,shang3,hoeng2
+捎,shao1,saau1
+烧,shao1,siu1
+哨,shao4,saau3
+射,she4,je6 jik6 se6
+涉,she4,sip3
+神,shen2 shen5,san1 san4 san1 san4
+師,shi1,si1
+時,shi2,si4
+适,shi4,kut3 sik1
+書,shu1,syu1
+殊,shu1,syu4
+衰,shuai1,ceoi1 seoi1
+谁,shui2,seoi4
+耸,song3,sung2
+送,song4,sung3
+颂,song4,zung6
+苏,su1,sou1
+素,su4,sou3
+肃,su4,suk1
+孫,sun1,syun1
+损,sun3,syun2
+索,suo3 suo5,saak3 sok3 suk3 saak3 sok3 suk3
+谈,tan2,taam4
+倘,tang3,soeng4 tong2
+烫,tang4,tong3
+涛,tao1,tou4
+桃,tao2,tou4
+逃,tao2,tou4
+討,tao3,tou2
+套,tao4,tou3
+特,te4,dak6
+疼,teng2,tang4 tung3
+剔,ti1,tik1
+涕,ti4,tai3
+铁,tie3,tit3
+庭,ting2,ting4
+挺,ting3,ting2 ting5
+徒,tu2,tou4
+涂,tu5 tu2,tou4
+退,tui4,teoi3
+顽,wan2,wan4
+挽,wan3,waan5
+桅,wei2,ngai4 wai4
+苇,wei3,wai5
+蚊,wen2,man1 man4
+紋,wen2,man4
+翁,weng1,jung1
+涡,wo1,gwo1 wo1
+烏,wu1,wu1
+捂,wu3,wu2
+悟,wu4,ng6
+牺,xi1,hei1
+席,xi2,zik6
+息,xi5 xi1,sik1
+狹,xia2,gip6 haap6
+峽,xia2,haap6
+夏,xia4,haa6
+险,xian3,him2
+哮,xiao1,haau1
+宵,xiao1,siu1
+消,xiao1,siu1
+晓,xiao3,hiu2
+校,xiao4,gaau3 haau6
+效,xiao4,haau6
+笑,xiao4,siu3
+挾,xie2,haap6 hip6
+脅,xie2,hip3
+屑,xie4,sit3
+芯,xin1,sam1
+胸,xiong1,hung1
+修,xiu1,sau1
+绣,xiu4,sau3
+虛,xu1,heoi1
+徐,xu2,ceoi4
+选,xuan3,syun2
+訊,xun4,seon3
+逊,xun4,seon3
+訓,xun5 xun4,fan3
+鸭,ya1,aap3 ngaap3
+芽,ya2,ngaa4
+蚜,ya2,ngaa4
+烟,yan1,jin1
+盐,yan2,jim4
+艳,yan4,jim6
+验,yan4,jim6
+宴,yan4,jin3
+秧,yang1,joeng1
+氧,yang3,joeng5
+样,yang4,joeng6
+舀,yao3,jiu5
+倚,yi3,ji2
+谊,yi4,ji4 ji6
+益,yi4,jik1 jik1
+蚓,yin3,jan5
+涌,yong3,cung1 jung2
+铀,you2,jau4
+娛,yu2,jyu4
+娱,yu2,jyu4
+预,yu4,jyu6
+冤,yuan1,jyun1
+原,yuan2,jyun4
+圆,yuan2,jyun4
+員,yuan2,jyun4 wan4
+院,yuan4,jyun2 jyun6
+悅,yue4,jyut6
+悦,yue4,jyut6
+阅,yue4,jyut6
+晕,yun1,wan4
+砸,za2,zaap3
+栽,zai1,zoi1
+宰,zai3,zoi2
+载,zai4 zai3,zoi2 zoi3
+脏,zang4 zang1,zong6
+贼,zei2,caak6
+眨,zha3,zaam2 zaap3
+窄,zhai3,zaak3
+债,zhai4,zaai3
+展,zhan3 zhan5,zin2
+盏,zhan3,zaan2
+站,zhan4,zaam6
+涨,zhang3 zhang4,zoeng2 zoeng3
+哲,zhe2,zit3
+者,zhe3,ze2
+針,zhen1,zam1
+真,zhen1,zan1
+振,zhen4,zan3
+陣,zhen4,zan6
+症,zheng4,zing1 zing3
+脂,zhi1,zi1
+芝,zhi1,zi1
+值,zhi2,zik6
+紙,zhi3,zi2
+秩,zhi4,dit6
+皱,zhou4,zau3
+株,zhu1,zyu1
+珠,zhu1,zyu1
+诸,zhu1,zyu1
+烛,zhu2,zuk1
+祝,zhu4,zuk1
+桩,zhuang1,zong1
+追,zhui1,zeoi1
+准,zhun3,zeon2
+桌,zhuo1,coek3 zoek3
+捉,zhuo1,zuk1 zuk3
+资,zi1,zi1
+租,zu1,zou1
+祖,zu3,zou2
+钻,zuan1,zyun1
+座,zuo4,zo6

@@ -1,0 +1,43 @@
+才,cai2 cai5,coi4
+寸,cun4 cun5,cyun3
+大,da4 dai4,daai6
+凡,fan2,faan4
+飞,fei1,fei1
+干,gan4 gan1,gon1
+个,ge4 ge5 ge3,go3
+工,gong1,gung1
+弓,gong1,gung1
+广,guang3,jim2
+己,ji3,gei2
+巾,jin1,gan1
+久,jiu3,gau2
+口,kou3 kou5,hau2
+亏,kui1,kwai1
+马,ma3,maa5
+么,me5,jiu1 mo1
+门,men2 men5,mun4
+女,n&#xfc;3 n&#xfc;5,jyu5 neoi5 neoi6 jyu5 neoi5 neoi6
+千,qian1,cin1
+三,san1,saam1 saam3
+山,shan1,saan1
+上,shang4 shang5,soeng5 soeng6
+尸,shi1,si1
+士,shi4 shi5,si6
+土,tu3,tou2
+丸,wan2,jyun2 jyun4
+万,wan4,maan6 mak6
+亡,wang2,mong4 mou4
+卫,wei4,wai6
+夕,xi1,zik6
+习,xi2,zaap6
+下,xia4 xia5,haa5 haa6
+乡,xiang1,hoeng1
+小,xiao3,siu2
+丫,ya1,aa1
+也,ye3,jaa5
+已,yi3,ji5
+义,yi4,ji6
+亿,yi4,jik1
+于,yu2,jyu1 jyu4
+丈,zhang4,zoeng6
+子,zi5 zi3,zi2
