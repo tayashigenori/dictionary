@@ -1,3 +1,0 @@
-[,
-],
-䲜,{'CantoneseLastC': u'p', 'CantoneseHeadC': u'z', 'CantoneseTone': u'6', 'CantoneseVowel': u'i', 'CantoneseTail': u'ip', 'CantoneseInit': u'zi'},{'MandarinTail': u'y\xe8', 'MandarinHeadC': '', 'MandarinVowel': u'y\xe8', 'MandarinTone': u'', 'MandarinInit': u'y\xe8', 'MandarinLastC': ''}

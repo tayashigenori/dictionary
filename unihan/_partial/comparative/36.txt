@@ -1,4 +1,0 @@
-齉,{'CantoneseLastC': u'ng ng', 'CantoneseHeadC': u'n n', 'CantoneseTone': u'6 6', 'CantoneseVowel': u'u o', 'CantoneseTail': u'ung ong', 'CantoneseInit': u'nu no'},{'MandarinTail': u'\xe0ng', 'MandarinHeadC': u'n', 'MandarinVowel': u'\xe0', 'MandarinTone': u'', 'MandarinInit': u'n\xe0', 'MandarinLastC': u'ng'}
-[,
-],
-䨺,{'MandarinTail': u'u\xec', 'MandarinHeadC': u'd', 'MandarinVowel': u'u\xec', 'MandarinTone': u'', 'MandarinInit': u'du\xec', 'MandarinLastC': ''}

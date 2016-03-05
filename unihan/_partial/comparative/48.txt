@@ -1,3 +1,0 @@
-龘,{'JapaneseTail': u'OU', 'JapaneseHeadC': u'T', 'JapaneseInit': u'TOU', 'JapaneseLastC': '', 'JapaneseTone': u'', 'JapaneseVowel': u'OU'},{'CantoneseLastC': u'p', 'CantoneseHeadC': u'd', 'CantoneseTone': u'6', 'CantoneseVowel': u'aa', 'CantoneseTail': u'aap', 'CantoneseInit': u'daa'},{'MandarinTail': u'\xe1', 'MandarinHeadC': u'd', 'MandarinVowel': u'\xe1', 'MandarinTone': u'', 'MandarinInit': u'd\xe1', 'MandarinLastC': ''}
-[,
-],
