@@ -19,6 +19,12 @@ class VietnameseSyllable(Syllable):
         "á":("a",5), "ắ":("ă",5), "ấ":("â",5), "é":("e",5), "ế":("ê",5), "í":("i",5), "ó":("o",5), "ố":("ô",5), "ớ":("ơ",5), "ú":("u",5), "ứ":("ư",5), "ý":("y",5),
         "ạ":("a",6), "ặ":("ă",6), "ậ":("â",6), "ẹ":("e",6), "ệ":("ê",6), "ị":("i",6), "ọ":("o",6), "ộ":("ô",6), "ợ":("ơ",6), "ụ":("u",6), "ự":("ư",6), "ỵ":("y",6),
     }
+
+    def __init__(self, surface, is_tone_numeral = True):
+        Syllable.__init__(self, surface)
+        self._is_tone_numeral = is_tone_numeral
+        self._has_tone = True
+
     def preprocess_tone(self,):
         if self._is_tone_numeral == False:
             matched = False
@@ -33,12 +39,12 @@ class VietnameseSyllable(Syllable):
 
 def main():
     original = "quôc5"
-    vs = VietnameseSyllable(original, romanization_scheme="pinyin", is_tone_numeral=True)
+    vs = VietnameseSyllable(original, is_tone_numeral=True)
     vs.analyze()
     print ( "original: " +  original + ", split: " + vs.__str__())
 
     original = "quốc"
-    vs = VietnameseSyllable(original, romanization_scheme="pinyin", is_tone_numeral=False)
+    vs = VietnameseSyllable(original, is_tone_numeral=False)
     vs.analyze()
     print ( "original: " +  original + ", split: " + vs.__str__())
 

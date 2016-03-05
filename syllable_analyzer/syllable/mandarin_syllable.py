@@ -17,6 +17,12 @@ class MandarinSyllable(Syllable):
         "ǎ": ("a", 3), "ě": ("e", 3), "ǒ": ("o", 3), "ǐ": ("i", 3), "ǔ": ("u", 3), "ǚ": ("v", 3),
         "à": ("a", 4), "è": ("e", 4), "ò": ("o", 4), "ì": ("i", 4), "ù": ("u", 4), "ǜ": ("v", 4),
     }
+
+    def __init__(self, surface, is_tone_numeral = True):
+        Syllable.__init__(self, surface)
+        self._is_tone_numeral = is_tone_numeral
+        self._has_tone = True
+
     def get_semi_vowels(self,):
         return self.SEMI_VOWELS.keys()
     def preprocess_tone(self,):
@@ -34,12 +40,12 @@ class MandarinSyllable(Syllable):
 
 def main():
     original = "tian2"
-    ms = MandarinSyllable(original, romanization_scheme="pinyin", is_tone_numeral=True)
+    ms = MandarinSyllable(original, is_tone_numeral=True)
     ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 
     original = "tián"
-    ms = MandarinSyllable(original, romanization_scheme="pinyin", is_tone_numeral=False)
+    ms = MandarinSyllable(original, is_tone_numeral=False)
     ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 

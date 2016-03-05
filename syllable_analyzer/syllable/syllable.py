@@ -23,10 +23,8 @@ def find_longest(haystack, needles, at=0):
         return ("", 0)
 
 class Syllable:
-    def __init__(self, surface, romanization_scheme, has_tone = True, is_tone_numeral = True):
+    def __init__(self, surface, is_tone_numeral = True):
         self._surface = surface
-        self._rs = romanization_scheme
-        self._has_tone = has_tone
         self._is_tone_numeral = is_tone_numeral
         return
     def __str__(self,):
