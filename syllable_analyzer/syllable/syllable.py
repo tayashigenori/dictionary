@@ -39,43 +39,63 @@ class Syllable:
         return self.LASTS
 
     def analyze(self,):
-        if self._is_tone_numeral == False:
-            self.normalize_tone()
+        self.preprocess_tone()
         self.analyze_tone()
-        self.analyze_head()
-        self.analyze_semi_vowel()
-        self.normalize_semi_vowel()
-        self.analyze_last()
+        self.postprocess_tone()
 
+        self.preprocess_head()
+        self.analyze_head()
+        self.postprocess_head()
+
+        self.preprocess_semi_vowel()
+        self.analyze_semi_vowel()
+        self.postprocess_semi_vowel()
+
+        self.preprocess_last()
+        self.analyze_last()
+        self.postprocess_last()
+        self.postprocess_nucleus()
+
+    def preprocess_tone(self,):
+        return
     def analyze_tone(self,):
         self._tone = int (self._surface[-1] )
         self._surface = self._surface[:-1]
+        return
+    def postprocess_tone(self,):
+        return
+
+    def preprocess_head(self,):
         return
     def analyze_head(self,):        
         (head, head_length) = find_longest(self._surface, self.get_heads())
         self._head = head
         self._tail = self._surface[ head_length: ]
         return
+    def postprocess_head(self,):
+        return
+
+    def preprocess_semi_vowel(self,):
+        return
     def analyze_semi_vowel(self,):
         (semi_vowel, semi_vowel_length) = find_longest(self._tail, self.get_semi_vowels())
         self._semi_vowel = semi_vowel
         self._rhyme = self._tail[ semi_vowel_length : ]
         return
+    def postprocess_semi_vowel(self,):
+        return
+
+    def preprocess_last(self,):
+        return
     def analyze_last(self,):
         (last, last_length) = find_longest(self._rhyme, self.get_lasts(),
-                                             at=len(self._rhyme)-1
-                                             )
+                                           at=len(self._rhyme)-1
+                                          )
         self._last = last
         self._nucleus = self._rhyme[ : -last_length ]
         return
-
-    def normalize_tone(self,):
+    def postprocess_last(self,):
         return
-    def normalize_head(self,):
+    def postprocess_nucleus(self,):
         return
-    def normalize_semi_vowel(self,):
-        return
-    def normalize_last(self,):
-        return
-
 

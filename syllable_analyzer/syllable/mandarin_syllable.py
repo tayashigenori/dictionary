@@ -19,12 +19,13 @@ class MandarinSyllable(Syllable):
     }
     def get_semi_vowels(self,):
         return self.SEMI_VOWELS.keys()
-    def normalize_tone(self,):
-        for c, (normalized_c, tone_num) in self.VOWELS_WITH_TONE.items():
-            if self._surface.find(c) != -1:
-                self._surface = self._surface.replace(c, normalized_c) + str( tone_num )
+    def preprocess_tone(self,):
+        if self._is_tone_numeral == False:
+            for c, (normalized_c, tone_num) in self.VOWELS_WITH_TONE.items():
+                if self._surface.find(c) != -1:
+                    self._surface = self._surface.replace(c, normalized_c) + str( tone_num )
         return
-    def normalize_semi_vowel(self,):
+    def postprocess_semi_vowel(self,):
         #for c, normalized in self.SEMI_VOWELS.items():
         #    if self._semi_vowel.find(c) != -1:
         #        self._semi_vowel = self._semi_vowel.replace(c, normalized)
