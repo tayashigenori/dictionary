@@ -4,14 +4,14 @@ from syllable import TonalSyllable
 
 """
 for convenience tones are mapped to numbers as follows
-  - a -> a1
-  - à -> a2
-  - ả -> a3
-  - ã -> a4
-  - á -> a5
-  - ạ -> a6
-  - ác -> ac7
-  - ạc -> ac8
+  - a (ngang "level")	-> a1
+  - à (huyền "hanging")	-> a2
+  - á (sắc "sharp")	-> a3
+  - ạ (nặng "heavy")	-> a4
+  - ả (hỏi "asking")	-> a5
+  - ã (ngã "tumbling")	-> a6
+  - ác (sắc "sharp" + ctp)	-> ac7
+  - ạc (nặng "heavy" + ctp)	-> ac8
 """
 
 class VietnameseSyllable(TonalSyllable):
@@ -26,11 +26,12 @@ class VietnameseSyllable(TonalSyllable):
     VOWELS_WITH_TONE = {
 #        "a":("a",1), "ă":("ă",1), "â":("â",1), "e":("e",1), "ê":("ê",1), "i":("i",1), "o":("o",1), "ô":("ô",1), "ơ":("ơ",1), "u":("u",1), "ư":("ư",1), "y":("y",1),
         "à":("a",2), "ằ":("ă",2), "ầ":("â",2), "è":("e",2), "ề":("ê",2), "ì":("i",2), "ò":("o",2), "ồ":("ô",2), "ờ":("ơ",2), "ù":("u",2), "ừ":("ư",2), "ỳ":("y",2),
-        "ả":("a",3), "ẳ":("ă",3), "ẩ":("â",3), "ẻ":("e",3), "ể":("ê",3), "ỉ":("i",3), "ỏ":("o",3), "ổ":("ô",3), "ở":("ơ",3), "ủ":("u",3), "ử":("ư",3), "ỷ":("y",3),
-        "ã":("a",4), "ẵ":("ă",4), "ẫ":("â",4), "ẽ":("e",4), "ễ":("ê",4), "ĩ":("i",4), "õ":("o",4), "ỗ":("ô",4), "ỡ":("ơ",4), "ũ":("u",4), "ữ":("ư",4), "ỹ":("y",4),
-        "á":("a",5), "ắ":("ă",5), "ấ":("â",5), "é":("e",5), "ế":("ê",5), "í":("i",5), "ó":("o",5), "ố":("ô",5), "ớ":("ơ",5), "ú":("u",5), "ứ":("ư",5), "ý":("y",5),
-        "ạ":("a",6), "ặ":("ă",6), "ậ":("â",6), "ẹ":("e",6), "ệ":("ê",6), "ị":("i",6), "ọ":("o",6), "ộ":("ô",6), "ợ":("ơ",6), "ụ":("u",6), "ự":("ư",6), "ỵ":("y",6),
+        "á":("a",3), "ắ":("ă",3), "ấ":("â",3), "é":("e",3), "ế":("ê",3), "í":("i",3), "ó":("o",3), "ố":("ô",3), "ớ":("ơ",3), "ú":("u",3), "ứ":("ư",3), "ý":("y",3),
+        "ạ":("a",4), "ặ":("ă",4), "ậ":("â",4), "ẹ":("e",4), "ệ":("ê",4), "ị":("i",4), "ọ":("o",4), "ộ":("ô",4), "ợ":("ơ",4), "ụ":("u",4), "ự":("ư",4), "ỵ":("y",4),
+        "ả":("a",5), "ẳ":("ă",5), "ẩ":("â",5), "ẻ":("e",5), "ể":("ê",5), "ỉ":("i",5), "ỏ":("o",5), "ổ":("ô",5), "ở":("ơ",5), "ủ":("u",5), "ử":("ư",5), "ỷ":("y",5),
+        "ã":("a",6), "ẵ":("ă",6), "ẫ":("â",6), "ẽ":("e",6), "ễ":("ê",6), "ĩ":("i",6), "õ":("o",6), "ỗ":("ô",6), "ỡ":("ơ",6), "ũ":("u",6), "ữ":("ư",6), "ỹ":("y",6),
     }
+    DEFAULT_TONE = "1"
 
     def __init__(self, surface, is_tone_numeral = True):
         TonalSyllable.__init__(self, surface, is_tone_numeral)
@@ -43,13 +44,13 @@ class VietnameseSyllable(TonalSyllable):
                     self._surface = self._surface.replace(c, normalized_c) + str( tone_num )
                     matched = True
             if matched == False:
-                self._surface += "1"
+                self._surface += self.DEFAULT_TONE
         return
     def postprocess_last(self,):
         if self._last in ["c", "ch", "t", "p"]:
-            if self._tone == 5:
+            if self._tone == 3:
                 self._tone = 7
-            if self._tone == 6:
+            if self._tone == 4:
                 self._tone = 8
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
@@ -57,7 +58,7 @@ class VietnameseSyllable(TonalSyllable):
             self._semi_vowel = None
 
 def main():
-    original = "quôc5"
+    original = "quôc3"
     vs = VietnameseSyllable(original, is_tone_numeral=True)
     print ( "original: " +  original + ", split: " + vs.__str__())
 
