@@ -2,6 +2,18 @@
 
 from syllable import TonalSyllable
 
+"""
+for convenience tones are mapped to numbers as follows
+  - a -> a1
+  - à -> a2
+  - ả -> a3
+  - ã -> a4
+  - á -> a5
+  - ạ -> a6
+  - ác -> ac7
+  - ạc -> ac8
+"""
+
 class VietnameseSyllable(TonalSyllable):
     HEADS = ["ng", "q",
              "b", "p", "m", "f", "d", "t", "n", "l",
@@ -9,7 +21,7 @@ class VietnameseSyllable(TonalSyllable):
              "x", "j", "q", "g", "k", "h",]
     LASTS = ["ng", "n", "nh", "m",
              "c", "ch", "t", "p",]
-    SEMI_VOWELS = ["u", "o"] # ??
+    SEMI_VOWELS = ["u", "ư", "o", "ô", "ơ"] # ??
 
     VOWELS_WITH_TONE = {
 #        "a":("a",1), "ă":("ă",1), "â":("â",1), "e":("e",1), "ê":("ê",1), "i":("i",1), "o":("o",1), "ô":("ô",1), "ơ":("ơ",1), "u":("u",1), "ư":("ư",1), "y":("y",1),
@@ -31,9 +43,18 @@ class VietnameseSyllable(TonalSyllable):
                     self._surface = self._surface.replace(c, normalized_c) + str( tone_num )
                     matched = True
             if matched == False:
-                self._surface = self._surface.replace(c, normalized_c) + "1"
+                self._surface += "1"
         return
-
+    def postprocess_last(self,):
+        if self._last in ["c", "ch", "t", "p"]:
+            if self._tone == 5:
+                self._tone = 7
+            if self._tone == 6:
+                self._tone = 8
+    def postprocess_nucleus(self,):
+        if self._nucleus == '' and self._semi_vowel != '':
+            self._nucleus = self._semi_vowel
+            self._semi_vowel = None
 
 def main():
     original = "quôc5"
@@ -41,6 +62,10 @@ def main():
     print ( "original: " +  original + ", split: " + vs.__str__())
 
     original = "quốc"
+    vs = VietnameseSyllable(original, is_tone_numeral=False)
+    print ( "original: " +  original + ", split: " + vs.__str__())
+
+    original = "Ngữ"
     vs = VietnameseSyllable(original, is_tone_numeral=False)
     print ( "original: " +  original + ", split: " + vs.__str__())
 

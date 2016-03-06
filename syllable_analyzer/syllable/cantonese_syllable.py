@@ -28,6 +28,10 @@ class CantoneseSyllable(TonalSyllable):
                 self._tone = 8
             if self._tone == 6:
                 self._tone = 9
+    def postprocess_nucleus(self,):
+        if self._nucleus == '' and self._semi_vowel != '':
+            self._nucleus = self._semi_vowel
+            self._semi_vowel = None
 
 def main():
     original = "jat1"

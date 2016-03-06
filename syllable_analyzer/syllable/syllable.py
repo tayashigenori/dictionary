@@ -23,7 +23,7 @@ def find_longest(haystack, needles, at="beginning"):
         # return longest
         return value_sorted[-1]
     else:
-        return ("", 0)
+        return (None, 0)
 
 
 class Syllable:
@@ -91,7 +91,10 @@ class Syllable:
     def analyze_last(self,):
         (last, last_length) = find_longest(self._rhyme, self.get_lasts(), at="end")
         self._last = last
-        self._nucleus = self._rhyme[ : -last_length ]
+        if last_length > 0:
+            self._nucleus = self._rhyme[ : -last_length ]
+        else:
+            self._nucleus = self._rhyme
         return
     def postprocess_last(self,):
         return
