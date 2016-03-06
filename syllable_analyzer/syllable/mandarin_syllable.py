@@ -6,9 +6,12 @@ class MandarinSyllable(Syllable):
     HEADS = ["b", "p", "m", "f", "d", "t", "n", "l",
              "zh", "ch", "sh", "r", "z", "c", "s",
              "x", "j", "q", "g", "k", "h",]
-    SEMI_VOWELS = {"i": "y",
-                   "u": "w"
-                  }
+    SEMI_VOWELS = {
+        "y": "i",
+        "w": "u",
+        "i": "i",
+        "u": "u",
+    }
     LASTS = ["ng", "n",]
 
     VOWELS_WITH_TONE = {
@@ -32,9 +35,9 @@ class MandarinSyllable(Syllable):
                     self._surface = self._surface.replace(c, normalized_c) + str( tone_num )
         return
     def postprocess_semi_vowel(self,):
-        #for c, normalized in self.SEMI_VOWELS.items():
-        #    if self._semi_vowel.find(c) != -1:
-        #        self._semi_vowel = self._semi_vowel.replace(c, normalized)
+        for c, normalized in self.SEMI_VOWELS.items():
+            if self._semi_vowel.find(c) != -1:
+                self._semi_vowel = self._semi_vowel.replace(c, normalized)
         return
 
 
@@ -46,6 +49,11 @@ def main():
 
     original = "tián"
     ms = MandarinSyllable(original, is_tone_numeral=False)
+    ms.analyze()
+    print ( "original: " +  original + ", split: " + ms.__str__())
+
+    original = "yan2"
+    ms = MandarinSyllable(original, is_tone_numeral=True)
     ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 
