@@ -1,25 +1,23 @@
 # coding: utf-8
 
-from syllable import Syllable
+from syllable import AtonalSyllable
 
-class KoreanSyllable(Syllable):
+class KoreanSyllable(AtonalSyllable):
     HEADS = ["g", "n", "d", "r", "m", "b", "s",
              "j", "ch", "k", "t", "p", "h",]
     LASTS = ["k", "l", "p",
              "ng", "n", "m",]
-    SEMI_VOWELS = [] # ??
+    SEMI_VOWELS = ["y", "w"] # ??
 
     VOWELS_WITH_TONE = {
     }
 
     def __init__(self, surface):
-        Syllable.__init__(self, surface)
-        self._has_tone = False
+        AtonalSyllable.__init__(self, surface)
 
 def main():
     original = "il"
     ks = KoreanSyllable(original)
-    ks.analyze()
     print ( "original: " +  original + ", split: " + ks.__str__())
 
 if __name__ == '__main__':

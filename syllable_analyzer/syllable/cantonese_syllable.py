@@ -1,8 +1,8 @@
 # coding: utf-8
 
-from syllable import Syllable
+from syllable import TonalSyllable
 
-class CantoneseSyllable(Syllable):
+class CantoneseSyllable(TonalSyllable):
     HEADS = ["b", "p", "m", "f", "d", "t", "n", "l",
              "z", "c", "s", "zh", "ch", "sh", "r",
              "x", "q", "g", "k", "h",
@@ -16,10 +16,9 @@ class CantoneseSyllable(Syllable):
     VOWELS_WITH_TONE = {
     }
 
-    def __init__(self, surface, romanization_scheme="jyutping"):
-        Syllable.__init__(self, surface)
-        self._has_tone = True
-        self._is_tone_numeral = True
+    def __init__(self, surface, is_tone_numeral=True, romanization_scheme="jyutping"):
+        self._rs = romanization_scheme
+        TonalSyllable.__init__(self, surface, is_tone_numeral)
 
     def postprocess_last(self,):
         if self._last in ["k", "t", "p"]:
@@ -33,7 +32,6 @@ class CantoneseSyllable(Syllable):
 def main():
     original = "jat1"
     cs = CantoneseSyllable(original)
-    cs.analyze()
     print ( "original: " +  original + ", split: " + cs.__str__())
 
 if __name__ == '__main__':

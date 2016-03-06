@@ -25,22 +25,14 @@ def find_longest(haystack, needles, at="beginning"):
     else:
         return ("", 0)
 
+
 class Syllable:
-    def __init__(self, surface, is_tone_numeral = True):
+    def __init__(self, surface):
         self._surface = surface
-        self._is_tone_numeral = is_tone_numeral
+        self.analyze()
         return
     def __str__(self,):
-        return self.get_all_features().__str__()
-    def get_all_features(self,):
-        return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone ]
-
-    def get_heads(self,):
-        return self.HEADS
-    def get_semi_vowels(self,):
-        return self.SEMI_VOWELS
-    def get_lasts(self,):
-        return self.LASTS
+        return self.get_all_parts().__str__()
 
     def analyze(self,):
         self._surface = self._surface.lower()
@@ -105,4 +97,25 @@ class Syllable:
         return
     def postprocess_nucleus(self,):
         return
+
+    def get_all_parts(self,):
+        return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone ]
+    def get_heads(self,):
+        return self.HEADS
+    def get_semi_vowels(self,):
+        return self.SEMI_VOWELS
+    def get_lasts(self,):
+        return self.LASTS
+
+class TonalSyllable(Syllable):
+    def __init__(self, surface, is_tone_numeral = True):
+        self._has_tone = True
+        self._is_tone_numeral = is_tone_numeral
+        Syllable.__init__(self, surface)
+
+class AtonalSyllable(Syllable):
+    def __init__(self, surface,):
+        self._has_tone = False
+        Syllable.__init__(self, surface)
+
 

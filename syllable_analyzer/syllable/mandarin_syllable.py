@@ -1,8 +1,8 @@
 # coding: utf-8
 
-from syllable import Syllable
+from syllable import TonalSyllable
 
-class MandarinSyllable(Syllable):
+class MandarinSyllable(TonalSyllable):
     HEADS = ["b", "p", "m", "f", "d", "t", "n", "l",
              "zh", "ch", "sh", "r", "z", "c", "s",
              "x", "j", "q", "g", "k", "h",]
@@ -21,10 +21,8 @@ class MandarinSyllable(Syllable):
         "à": ("a", 4), "è": ("e", 4), "ò": ("o", 4), "ì": ("i", 4), "ù": ("u", 4), "ǜ": ("v", 4),
     }
 
-    def __init__(self, surface, is_tone_numeral = True):
-        Syllable.__init__(self, surface)
-        self._is_tone_numeral = is_tone_numeral
-        self._has_tone = True
+    def __init__(self, surface, is_tone_numeral):
+        TonalSyllable.__init__(self, surface, is_tone_numeral)
 
     def get_semi_vowels(self,):
         return self.SEMI_VOWELS.keys()
@@ -44,22 +42,18 @@ class MandarinSyllable(Syllable):
 def main():
     original = "tian2"
     ms = MandarinSyllable(original, is_tone_numeral=True)
-    ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 
     original = "tián"
     ms = MandarinSyllable(original, is_tone_numeral=False)
-    ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 
     original = "yan2"
     ms = MandarinSyllable(original, is_tone_numeral=True)
-    ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 
     original = "tiang2"
     ms = MandarinSyllable(original, is_tone_numeral=True)
-    ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 
 if __name__ == '__main__':

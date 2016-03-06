@@ -1,8 +1,8 @@
 # coding: utf-8
 
-from syllable import Syllable
+from syllable import TonalSyllable
 
-class VietnameseSyllable(Syllable):
+class VietnameseSyllable(TonalSyllable):
     HEADS = ["ng", "q",
              "b", "p", "m", "f", "d", "t", "n", "l",
              "zh", "ch", "sh", "r", "z", "c", "s",
@@ -21,9 +21,7 @@ class VietnameseSyllable(Syllable):
     }
 
     def __init__(self, surface, is_tone_numeral = True):
-        Syllable.__init__(self, surface)
-        self._is_tone_numeral = is_tone_numeral
-        self._has_tone = True
+        TonalSyllable.__init__(self, surface, is_tone_numeral)
 
     def preprocess_tone(self,):
         if self._is_tone_numeral == False:
@@ -40,12 +38,10 @@ class VietnameseSyllable(Syllable):
 def main():
     original = "quôc5"
     vs = VietnameseSyllable(original, is_tone_numeral=True)
-    vs.analyze()
     print ( "original: " +  original + ", split: " + vs.__str__())
 
     original = "quốc"
     vs = VietnameseSyllable(original, is_tone_numeral=False)
-    vs.analyze()
     print ( "original: " +  original + ", split: " + vs.__str__())
 
 if __name__ == '__main__':

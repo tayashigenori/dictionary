@@ -1,8 +1,8 @@
 # coding: utf-8
 
-from syllable import Syllable
+from syllable import AtonalSyllable
 
-class JapaneseSyllable(Syllable):
+class JapaneseSyllable(AtonalSyllable):
     HEADS = ["k", "s", "t", "n", "h", "m", "r",
              "g", "z", "d",      "b",
              "ky", "sh", "sy", "ch", "ty", "ny", "hy", "my", "ry",
@@ -26,8 +26,7 @@ class JapaneseSyllable(Syllable):
     }
 
     def __init__(self, surface):
-        Syllable.__init__(self, surface)
-        self._has_tone = False
+        AtonalSyllable.__init__(self, surface)
 
     def get_semi_vowels(self,):
         return self.SEMI_VOWELS.keys()
@@ -42,17 +41,14 @@ class JapaneseSyllable(Syllable):
 def main():
     original = "koku"
     js = JapaneseSyllable(original)
-    js.analyze()
     print ( "original: " +  original + ", split: " + js.__str__())
 
     original = "jutsu"
     js = JapaneseSyllable(original)
-    js.analyze()
     print ( "original: " +  original + ", split: " + js.__str__())
 
     original = "kou"
     js = JapaneseSyllable(original)
-    js.analyze()
     print ( "original: " +  original + ", split: " + js.__str__())
 
 if __name__ == '__main__':
