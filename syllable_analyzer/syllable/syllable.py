@@ -11,14 +11,17 @@
 only NUCLEUS is mandatory
 """
 
-def find_longest(haystack, needles, at=0):
+def find_longest(haystack, needles, at="beginning"):
     found = {}
     for needle in needles:
-        if haystack.find(needle) == at:
+        if at == "beginning" and haystack.startswith(needle) == True:
+            found[needle] = len(needle)
+        elif at == "end" and haystack.endswith(needle) == True:
             found[needle] = len(needle)
     value_sorted = sorted(found.items(), key=lambda x: x[1])
     if len(value_sorted) > 0:
-        return value_sorted[0]
+        # return longest
+        return value_sorted[-1]
     else:
         return ("", 0)
 
@@ -28,7 +31,9 @@ class Syllable:
         self._is_tone_numeral = is_tone_numeral
         return
     def __str__(self,):
-        return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone ].__str__()
+        return self.get_all_features().__str__()
+    def get_all_features(self,):
+        return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone ]
 
     def get_heads(self,):
         return self.HEADS
@@ -40,10 +45,9 @@ class Syllable:
     def analyze(self,):
         self._surface = self._surface.lower()
 
-        if self._has_tone == True:
-            self.preprocess_tone()
-            self.analyze_tone()
-            self.postprocess_tone()
+        self.preprocess_tone()
+        self.analyze_tone()
+        self.postprocess_tone()
 
         self.preprocess_head()
         self.analyze_head()
@@ -61,6 +65,9 @@ class Syllable:
     def preprocess_tone(self,):
         return
     def analyze_tone(self,):
+        if self._has_tone == False:
+            self._tone = None
+            return
         self._tone = int (self._surface[-1] )
         self._surface = self._surface[:-1]
         return
@@ -90,9 +97,7 @@ class Syllable:
     def preprocess_last(self,):
         return
     def analyze_last(self,):
-        (last, last_length) = find_longest(self._rhyme, self.get_lasts(),
-                                           at=len(self._rhyme)-1
-                                          )
+        (last, last_length) = find_longest(self._rhyme, self.get_lasts(), at="end")
         self._last = last
         self._nucleus = self._rhyme[ : -last_length ]
         return

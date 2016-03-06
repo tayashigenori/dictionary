@@ -9,7 +9,7 @@ class VietnameseSyllable(Syllable):
              "x", "j", "q", "g", "k", "h",]
     LASTS = ["ng", "n", "nh", "m",
              "c", "ch", "t", "p",]
-    SEMI_VOWELS = [] # ??
+    SEMI_VOWELS = ["u", "o"] # ??
 
     VOWELS_WITH_TONE = {
 #        "a":("a",1), "ă":("ă",1), "â":("â",1), "e":("e",1), "ê":("ê",1), "i":("i",1), "o":("o",1), "ô":("ô",1), "ơ":("ơ",1), "u":("u",1), "ư":("ư",1), "y":("y",1),

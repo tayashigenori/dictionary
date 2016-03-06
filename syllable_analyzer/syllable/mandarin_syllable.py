@@ -57,6 +57,11 @@ def main():
     ms.analyze()
     print ( "original: " +  original + ", split: " + ms.__str__())
 
+    original = "tiang2"
+    ms = MandarinSyllable(original, is_tone_numeral=True)
+    ms.analyze()
+    print ( "original: " +  original + ", split: " + ms.__str__())
+
 if __name__ == '__main__':
     main()
 
