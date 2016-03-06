@@ -51,6 +51,8 @@ def main():
     js = JapaneseSyllable(original)
     print ( "original: " +  original + ", split: " + js.__str__())
 
+    print (js.get_all_features())
+
 if __name__ == '__main__':
     main()
 

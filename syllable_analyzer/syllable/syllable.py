@@ -9,6 +9,16 @@
   - v: vowel
   - c: consonant
 only NUCLEUS is mandatory
+
+and the following features are also retrievable from this class
+==================================================|
+| INIT                                 | LAST (c) |
+| HEAD+ (c + semi-vowel) | NUCLEUS (v) |          |
+| HEAD (c) | SEMI_VOWEL  |                        |
+==================================================|
+==================================================|
+| HEAD (c) |                           | LAST (c) |
+==================================================|
 """
 
 def find_longest(haystack, needles, at="beginning"):
@@ -109,6 +119,20 @@ class Syllable:
         return self.SEMI_VOWELS
     def get_lasts(self,):
         return self.LASTS
+
+    def get_all_features(self,):
+        return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone,
+                 self.get_init(),
+                 self.get_head_plus(),
+                 self.get_head_last(),
+               ]
+    def get_init(self,):
+        return "".join([s for s in [self._head, self._semi_vowel, self._nucleus] if s is not None])
+    def get_head_plus(self,):
+        return "".join([s for s in [self._head, self._semi_vowel] if s is not None])
+    def get_head_last(self,):
+        return ",".join([s for s in [self._head, self._last] if s is not None])
+
 
 class TonalSyllable(Syllable):
     def __init__(self, surface, is_tone_numeral = True):
