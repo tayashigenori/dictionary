@@ -2,7 +2,7 @@
 
 import sys,os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
-from syllable import AtonalSyllable
+from syllable import AtonalSyllable, Ideogram
 
 class JapaneseSyllable(AtonalSyllable):
     HEADS = ["k", "s", "t", "n", "h", "m", "r",
@@ -39,21 +39,33 @@ class JapaneseSyllable(AtonalSyllable):
                 self._semi_vowel = normalized_semi_vowel
         return
 
+class Kanji(Ideogram):
+    def __init__(self, surfaces):
+        self._surfaces = []
+        if type(surfaces) == str:
+            self._surfaces.append( JapaneseSyllable( surfaces ) )
+        elif type(surfaces) == list:
+            for s in surfaces:
+                self._surfaces.append( JapaeseSyllable(s) )
+        else:
+            raise ValueError("Invalid surace")
+
 
 def main():
     original = "koku"
-    js = JapaneseSyllable(original)
-    print ( "original: " +  original + ", split: " + js.__str__())
+    kj = Kanji(original)
+    print ( "original: " +  original + ", split: " + kj.__str__())
 
     original = "jutsu"
-    js = JapaneseSyllable(original)
-    print ( "original: " +  original + ", split: " + js.__str__())
+    kj = Kanji(original)
+    print ( "original: " +  original + ", split: " + kj.__str__())
 
     original = "kou"
-    js = JapaneseSyllable(original)
-    print ( "original: " +  original + ", split: " + js.__str__())
+    kj = Kanji(original)
+    print ( "original: " +  original + ", split: " + kj.__str__())
 
-    print (js.get_all_features())
+    for f in kj.get_all_features():
+        print (f)
 
 if __name__ == '__main__':
     main()

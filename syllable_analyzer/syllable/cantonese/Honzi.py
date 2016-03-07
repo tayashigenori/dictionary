@@ -2,7 +2,7 @@
 
 import sys,os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
-from syllable import TonalSyllable
+from syllable import TonalSyllable, Ideogram
 
 class CantoneseSyllable(TonalSyllable):
     HEADS = ["b", "p", "m", "f", "d", "t", "n", "l",
@@ -35,10 +35,22 @@ class CantoneseSyllable(TonalSyllable):
             self._nucleus = self._semi_vowel
             self._semi_vowel = None
 
+class Honzi(Ideogram):
+    def __init__(self, surfaces):
+        self._surfaces = []
+        if type(surfaces) == str:
+            self._surfaces.append( CantoneseSyllable( surfaces ) )
+        elif type(surfaces) == list:
+            for s in surfaces:
+                self._surfaces.append( CantoneseSyllable(s) )
+        else:
+            raise ValueError("Invalid surace")
+
+
 def main():
     original = "jat1"
-    cs = CantoneseSyllable(original)
-    print ( "original: " +  original + ", split: " + cs.__str__())
+    hz = Honzi(original)
+    print ( "original: " +  original + ", split: " + hz.__str__())
 
 if __name__ == '__main__':
     main()

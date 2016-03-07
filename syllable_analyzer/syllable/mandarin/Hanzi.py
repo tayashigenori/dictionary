@@ -2,7 +2,7 @@
 
 import sys,os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
-from syllable import TonalSyllable
+from syllable import TonalSyllable, Ideogram
 
 class MandarinSyllable(TonalSyllable):
     HEADS = ["b", "p", "m", "f", "d", "t", "n", "l",
@@ -44,23 +44,34 @@ class MandarinSyllable(TonalSyllable):
             self._nucleus = self._semi_vowel
             self._semi_vowel = None
 
+class Hanzi(Ideogram):
+    def __init__(self, surfaces, is_tone_numeral):
+        self._surfaces = []
+        if type(surfaces) == str:
+            self._surfaces.append( MandarinSyllable( surfaces, is_tone_numeral ) )
+        elif type(surfaces) == list:
+            for s in surfaces:
+                self._surfaces.append( MandarinSyllable(s, is_tone_numeral) )
+        else:
+            raise ValueError("Invalid surace")
+
 
 def main():
     original = "tian2"
-    ms = MandarinSyllable(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + ms.__str__())
+    hz = Hanzi(original, is_tone_numeral=True)
+    print ( "original: " +  original + ", split: " + hz.__str__())
 
     original = "tián"
-    ms = MandarinSyllable(original, is_tone_numeral=False)
-    print ( "original: " +  original + ", split: " + ms.__str__())
+    hz = Hanzi(original, is_tone_numeral=False)
+    print ( "original: " +  original + ", split: " + hz.__str__())
 
     original = "yan2"
-    ms = MandarinSyllable(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + ms.__str__())
+    hz = Hanzi(original, is_tone_numeral=True)
+    print ( "original: " +  original + ", split: " + hz.__str__())
 
     original = "tiang2"
-    ms = MandarinSyllable(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + ms.__str__())
+    hz = Hanzi(original, is_tone_numeral=True)
+    print ( "original: " +  original + ", split: " + hz.__str__())
 
 if __name__ == '__main__':
     main()

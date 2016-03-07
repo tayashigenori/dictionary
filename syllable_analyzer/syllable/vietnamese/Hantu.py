@@ -2,7 +2,7 @@
 
 import sys,os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
-from syllable import TonalSyllable
+from syllable import TonalSyllable, Ideogram
 
 """
 for convenience tones are mapped to numbers as follows
@@ -59,18 +59,30 @@ class VietnameseSyllable(TonalSyllable):
             self._nucleus = self._semi_vowel
             self._semi_vowel = None
 
+class Hantu(Ideogram):
+    def __init__(self, surfaces, is_tone_numeral = True):
+        self._surfaces = []
+        if type(surfaces) == str:
+            self._surfaces.append( VietnameseSyllable( surfaces , is_tone_numeral ) )
+        elif type(surfaces) == list:
+            for s in surfaces:
+                self._surfaces.append( VietnameseSyllable(s, is_tone_numeral ) )
+        else:
+            raise ValueError("Invalid surace")
+
+
 def main():
     original = "quôc3"
-    vs = VietnameseSyllable(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + vs.__str__())
+    ht = Hantu(original, is_tone_numeral=True)
+    print ( "original: " +  original + ", split: " + ht.__str__())
 
     original = "quốc"
-    vs = VietnameseSyllable(original, is_tone_numeral=False)
-    print ( "original: " +  original + ", split: " + vs.__str__())
+    ht = Hantu(original, is_tone_numeral=False)
+    print ( "original: " +  original + ", split: " + ht.__str__())
 
     original = "Ngữ"
-    vs = VietnameseSyllable(original, is_tone_numeral=False)
-    print ( "original: " +  original + ", split: " + vs.__str__())
+    ht = Hantu(original, is_tone_numeral=False)
+    print ( "original: " +  original + ", split: " + ht.__str__())
 
 if __name__ == '__main__':
     main()

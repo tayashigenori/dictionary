@@ -145,4 +145,12 @@ class AtonalSyllable(Syllable):
         self._has_tone = False
         Syllable.__init__(self, surface)
 
+class Ideogram:
+    def __init__(self,):
+        self._surfaces = []
+        return
+    def __str__(self,):
+        return "".join( map(lambda syllable: syllable.__str__(), self._surfaces) )
+    def get_all_features(self,):
+        return map(lambda syllable: syllable.get_all_features(), self._surfaces)
 
