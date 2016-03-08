@@ -33,7 +33,7 @@ class CantoneseSyllable(TonalSyllable):
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
             self._nucleus = self._semi_vowel
-            self._semi_vowel = None
+            self._semi_vowel = ''
 
 class Honzi(Ideogram):
     def __init__(self, surfaces):

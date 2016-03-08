@@ -33,11 +33,13 @@ def find_longest(haystack, needles, at="beginning"):
         # return longest
         return value_sorted[-1]
     else:
-        return (None, 0)
+        return ("", 0)
 
 
 class Syllable:
     def __init__(self, surface):
+        if len(surface) == 0:
+            raise ValueError("Invalid surface")
         self._surface = surface
         self.analyze()
         return

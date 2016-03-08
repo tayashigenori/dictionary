@@ -30,9 +30,13 @@ class MandarinSyllable(TonalSyllable):
         return self.SEMI_VOWELS.keys()
     def preprocess_tone(self,):
         if self._is_tone_numeral == False:
+            matched = False
             for c, (normalized_c, tone_num) in self.VOWELS_WITH_TONE.items():
                 if self._surface.find(c) != -1:
                     self._surface = self._surface.replace(c, normalized_c) + str( tone_num )
+                    matched = True
+            if matched == False:
+                self._surface = self._surface.replace(c, normalized_c) + "5"
         return
     def postprocess_semi_vowel(self,):
         for c, normalized in self.SEMI_VOWELS.items():
@@ -42,7 +46,7 @@ class MandarinSyllable(TonalSyllable):
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
             self._nucleus = self._semi_vowel
-            self._semi_vowel = None
+            self._semi_vowel = ''
 
 class Hanzi(Ideogram):
     def __init__(self, surfaces, is_tone_numeral):
