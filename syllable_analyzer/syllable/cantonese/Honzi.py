@@ -50,7 +50,7 @@ class Honzi(Ideogram):
 def main():
     original = "jat1"
     hz = Honzi(original)
-    print ( "original: " +  original + ", split: " + hz.__str__())
+    print ( "original: " +  original + ", split: " + str(hz) )
 
 if __name__ == '__main__':
     main()

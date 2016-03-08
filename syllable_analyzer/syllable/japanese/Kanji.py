@@ -46,7 +46,7 @@ class Kanji(Ideogram):
             self._surfaces.append( JapaneseSyllable( surfaces ) )
         elif type(surfaces) == list:
             for s in surfaces:
-                self._surfaces.append( JapaeseSyllable(s) )
+                self._surfaces.append( JapaneseSyllable(s) )
         else:
             raise ValueError("Invalid surace")
 
@@ -54,18 +54,19 @@ class Kanji(Ideogram):
 def main():
     original = "koku"
     kj = Kanji(original)
-    print ( "original: " +  original + ", split: " + kj.__str__())
+    print ( "original: " +  original + ", split: " + str(kj) )
 
     original = "jutsu"
     kj = Kanji(original)
-    print ( "original: " +  original + ", split: " + kj.__str__())
+    print ( "original: " +  original + ", split: " + str(kj) )
 
     original = "kou"
     kj = Kanji(original)
-    print ( "original: " +  original + ", split: " + kj.__str__())
+    print ( "original: " +  original + ", split: " + str(kj) )
 
-    for f in kj.get_all_features():
-        print (f)
+    original = ["kei", "kyou"]
+    kj = Kanji(original)
+    print ( "original: " +  str(original) + ", split: " + str(kj) )
 
 if __name__ == '__main__':
     main()

@@ -59,19 +59,19 @@ class Hanzi(Ideogram):
 def main():
     original = "tian2"
     hz = Hanzi(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + hz.__str__())
+    print ( "original: " +  original + ", split: " + str(hz) )
 
     original = "tián"
     hz = Hanzi(original, is_tone_numeral=False)
-    print ( "original: " +  original + ", split: " + hz.__str__())
+    print ( "original: " +  original + ", split: " + str(hz) )
 
     original = "yan2"
     hz = Hanzi(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + hz.__str__())
+    print ( "original: " +  original + ", split: " + str(hz) )
 
     original = "tiang2"
     hz = Hanzi(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + hz.__str__())
+    print ( "original: " +  original + ", split: " + str(hz) )
 
 if __name__ == '__main__':
     main()

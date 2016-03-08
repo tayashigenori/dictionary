@@ -74,15 +74,15 @@ class Hantu(Ideogram):
 def main():
     original = "quôc3"
     ht = Hantu(original, is_tone_numeral=True)
-    print ( "original: " +  original + ", split: " + ht.__str__())
+    print ( "original: " +  original + ", split: " + str(ht) )
 
     original = "quốc"
     ht = Hantu(original, is_tone_numeral=False)
-    print ( "original: " +  original + ", split: " + ht.__str__())
+    print ( "original: " +  original + ", split: " + str(ht) )
 
     original = "Ngữ"
     ht = Hantu(original, is_tone_numeral=False)
-    print ( "original: " +  original + ", split: " + ht.__str__())
+    print ( "original: " +  original + ", split: " + str(ht) )
 
 if __name__ == '__main__':
     main()

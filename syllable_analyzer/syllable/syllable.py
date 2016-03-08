@@ -42,7 +42,9 @@ class Syllable:
         self.analyze()
         return
     def __str__(self,):
-        return self.get_all_parts().__str__()
+        return str( self.get_all_parts() )
+    def __list__(self,):
+        return self.get_all_parts()
 
     def analyze(self,):
         self._surface = self._surface.lower()
@@ -150,7 +152,13 @@ class Ideogram:
         self._surfaces = []
         return
     def __str__(self,):
-        return "".join( map(lambda syllable: syllable.__str__(), self._surfaces) )
+        m = self.get_all_parts()
+        return str( list(m) )
+    def __list__(self,):
+        m = self.get_all_parts()
+        return list(m)
+    def get_all_parts(self,):
+        return map(lambda syllable: syllable.get_all_parts(), self._surfaces)
     def get_all_features(self,):
         return map(lambda syllable: syllable.get_all_features(), self._surfaces)
 

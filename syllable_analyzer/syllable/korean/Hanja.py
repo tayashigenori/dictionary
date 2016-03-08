@@ -32,7 +32,7 @@ class Hanja(Ideogram):
 def main():
     original = "il"
     hj = Hanja(original)
-    print ( "original: " +  original + ", split: " + hj.__str__())
+    print ( "original: " +  original + ", split: " + str(hj) )
 
 if __name__ == '__main__':
     main()
