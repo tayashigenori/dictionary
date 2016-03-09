@@ -9,10 +9,14 @@ class MandarinSyllable(TonalSyllable):
              "zh", "ch", "sh", "r", "z", "c", "s",
              "x", "j", "q", "g", "k", "h",]
     SEMI_VOWELS = {
+        "yu": "iu",
         "y": "i",
         "w": "u",
+        "iu": "iu",
         "i": "i",
         "u": "u",
+        "ü": "v",
+        "&#xfc;": "v"
     }
     LASTS = ["ng", "n",]
 
@@ -22,6 +26,16 @@ class MandarinSyllable(TonalSyllable):
         "ǎ": ("a", 3), "ě": ("e", 3), "ǒ": ("o", 3), "ǐ": ("i", 3), "ǔ": ("u", 3), "ǚ": ("v", 3),
         "à": ("a", 4), "è": ("e", 4), "ò": ("o", 4), "ì": ("i", 4), "ù": ("u", 4), "ǜ": ("v", 4),
     }
+    NUCLEUS = [
+               'ao', 'ai', 'a',
+               'i',
+               #'ue', 'ua', 'u',
+               'u',
+               #'ve', 'v',
+               'v',
+               'er', 'e', 'ei',
+               'o', 'ou',
+              ]
 
     def __init__(self, surface, is_tone_numeral):
         TonalSyllable.__init__(self, surface, is_tone_numeral)
@@ -45,8 +59,14 @@ class MandarinSyllable(TonalSyllable):
         return
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
-            self._nucleus = self._semi_vowel
-            self._semi_vowel = ''
+            ###
+            if self._nucleus == '' and self._semi_vowel == 'iu':
+                self._semi_vowel = 'i'
+                self._nucleus = 'u'
+            else:
+                self._nucleus = self._semi_vowel
+                self._semi_vowel = ''
+
 
 class Hanzi(Ideogram):
     def __init__(self, surfaces, is_tone_numeral):

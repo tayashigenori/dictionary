@@ -35,11 +35,16 @@ def find_longest(haystack, needles, at="beginning"):
     else:
         return ("", 0)
 
+class SyllableError(Exception):
+    def __init__(self, value):
+        self.value = value
+    def __str__(self):
+        return repr(self.value)
 
 class Syllable:
     def __init__(self, surface):
         if len(surface) == 0:
-            raise ValueError("Invalid surface")
+            raise SyllableError("Invalid surface")
         self._surface = surface
         self.analyze()
         return
@@ -67,6 +72,8 @@ class Syllable:
         self.analyze_last()
         self.postprocess_last()
         self.postprocess_nucleus()
+
+        self.validate_nucleus()
 
     def preprocess_tone(self,):
         return
@@ -114,6 +121,11 @@ class Syllable:
         return
     def postprocess_nucleus(self,):
         return
+    def validate_nucleus(self,):
+        if self._nucleus not in self.NUCLEUS:
+            raise SyllableError("Irregular syllable")
+        return
+
 
     def get_all_parts(self,):
         return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone ]
