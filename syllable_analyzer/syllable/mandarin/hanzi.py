@@ -27,15 +27,13 @@ class MandarinSyllable(TonalSyllable):
         "à": ("a", 4), "è": ("e", 4), "ò": ("o", 4), "ì": ("i", 4), "ù": ("u", 4), "ǜ": ("v", 4),
     }
     NUCLEUS = [
-               'ao', 'ai', 'a',
-               'i',
-               #'ue', 'ua', 'u',
-               'u',
-               #'ve', 'v',
-               'v',
-               'er', 'e', 'ei',
-               'o', 'ou',
-              ]
+        'a', 'ai', 'ao',
+        'i',
+        'u',
+        'v',
+        'e', 'ei', 'er',
+        'o', 'ou',
+    ]
 
     def __init__(self, surface, is_tone_numeral):
         TonalSyllable.__init__(self, surface, is_tone_numeral)
