@@ -17,13 +17,17 @@ for convenience tones are mapped to numbers as follows
 """
 
 class VietnameseSyllable(TonalSyllable):
-    HEADS = ["ng", "q",
-             "b", "p", "m", "f", "d", "t", "n", "l",
-             "zh", "ch", "sh", "r", "z", "c", "s",
+    HEADS = [
+             "b", "p", "ph", "v", "m", "h",
+             "t", "th", "x", "s", "d", "g", "r", "đ",
+             "l", "n", "ch", "tr", "nh",
+             "c", "k", "q", "kh", "g", "gh", "ng", "ngh",
              "x", "j", "q", "g", "k", "h",]
     LASTS = ["ng", "n", "nh", "m",
              "c", "ch", "t", "p",]
-    SEMI_VOWELS = ["u", "ư", "o", "ô", "ơ"] # ??
+    SEMI_VOWELS = [
+        "uy", "iu", "iư", "y", "i", "u", "ư", "o", "ô", "ơ"
+    ]
 
     VOWELS_WITH_TONE = {
 #        "a":("a",1), "ă":("ă",1), "â":("â",1), "e":("e",1), "ê":("ê",1), "i":("i",1), "o":("o",1), "ô":("ô",1), "ơ":("ơ",1), "u":("u",1), "ư":("ư",1), "y":("y",1),
@@ -34,8 +38,29 @@ class VietnameseSyllable(TonalSyllable):
         "ã":("a",6), "ẵ":("ă",6), "ẫ":("â",6), "ẽ":("e",6), "ễ":("ê",6), "ĩ":("i",6), "õ":("o",6), "ỗ":("ô",6), "ỡ":("ơ",6), "ũ":("u",6), "ữ":("ư",6), "ỹ":("y",6),
     }
     DEFAULT_TONE = "1"
+    NUCLEUS = [
+        'a',
+        'ai', 'ay',
+        'au',
+        'ao',
+        'â', 'ă',
+        'ây',
+        'âu',
+        'y',
+        #'yêu', 'ya', 'yê'
+        'i',
+        'ư',
+        #'ươ',
+        'u', 'uy',
+        #'ua',
+        'e', 'eo',
+        'ê', 'êu',
+        'o', 'oe',
+        'ô', 'ôi',
+        'ơ', 'ơu', 'ơi',
+    ]
 
-    def __init__(self, surface, is_tone_numeral = True):
+    def __init__(self, surface, is_tone_numeral = False):
         TonalSyllable.__init__(self, surface, is_tone_numeral)
 
     def preprocess_tone(self,):
@@ -56,11 +81,19 @@ class VietnameseSyllable(TonalSyllable):
                 self._tone = 8
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
-            self._nucleus = self._semi_vowel
+            ###
+            if self._nucleus == '' and self._semi_vowel == 'iu':
+                self._semi_vowel = 'i'
+                self._nucleus = 'u'
+            else:
+                self._nucleus = self._semi_vowel
+                self._semi_vowel = ''
+        if self._nucleus == '' and self._semi_vowel == 'y':
             self._semi_vowel = ''
+            self._nucleus = 'y'
 
 class Hantu(Ideogram):
-    def __init__(self, surfaces, is_tone_numeral = True):
+    def __init__(self, surfaces, is_tone_numeral = False):
         self._surfaces = []
         if type(surfaces) == str:
             self._surfaces.append( VietnameseSyllable( surfaces , is_tone_numeral ) )

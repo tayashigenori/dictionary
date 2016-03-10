@@ -69,8 +69,6 @@ class CantoneseSyllable(TonalSyllable):
             self._nucleus = "@"
         if self._head == 'h' and self._last == 'ng':
             self._nucleus = "@"
-    def validate_nucleus(self,):
-        return
 
 class Honzi(Ideogram):
     def __init__(self, surfaces):

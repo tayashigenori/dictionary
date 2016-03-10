@@ -16,7 +16,7 @@ from vietnamese.hantu import Hantu
 
 SOURCE_URL_PATH_BASE = os.path.dirname(os.path.abspath(__file__)) + "/../../crawler/unihan/dict_tsv/%d.tsv"
 
-mandarin_nucleus = [
+MANDARIN_NUCLEUS = [
         'a', 'ai', 'ao',
         'i',
         'u',
@@ -24,13 +24,34 @@ mandarin_nucleus = [
         'e', 'ei', 'er',
         'o', 'ou',
 ]
-cantonese_nucleus = [
+CANTONESE_NUCLEUS = [
         'a', 'aa', 'ai', 'aai', 'au', 'aau',
         'i',
         'u',
         'o', 'oi', 'ou', 'oe',
         'e', 'ei', 'eu', 'eo', 'eoi',
         '@',
+]
+VIETNAMESE_NUCLEUS = [
+        'a',
+        'ai', 'ay',
+        'au',
+        'ao',
+        'â', 'ă',
+        'ây',
+        'âu',
+        'y',
+        #'yêu', 'ya', 'yê'
+        'i',
+        'ư',
+        #'ươ',
+        'u', 'uy',
+        #'ua',
+        'e', 'eo',
+        'ê', 'êu',
+        'o', 'oe',
+        'ô', 'ôi',
+        'ơ', 'ơu', 'ơi',
 ]
 
 def remove_bracket(v):
@@ -45,7 +66,7 @@ def usage():
     #TODO
     return
 
-def process_mand(mand, mand_num, l):
+def process_mand(mand, mand_num,):
     r = {}
     if len(mand) > 0:
         #sys.stderr.write("%s\n" %mand)
@@ -53,8 +74,9 @@ def process_mand(mand, mand_num, l):
         #print (str(hz))
         for s in hz._surfaces:
             r[s._nucleus] = {}
-            if s._nucleus not in mandarin_nucleus:
-                sys.stderr.write("----invalid nucleus %s,%s\n" %(l, str(hz)) )
+            if s._nucleus not in MANDARIN_NUCLEUS:
+                sys.stderr.write("----invalid nucleus %s, " %(str(hz)) )
+                raise SyllableError("invalid nucleus")
     if len(mand_num) > 0:
         mand_num = remove_bracket(mand_num)
         #sys.stderr.write("%s\n" %mand_num)
@@ -62,11 +84,11 @@ def process_mand(mand, mand_num, l):
         #print (str(hz))
         for s in hz._surfaces:
             r[s._nucleus] = {}
-            if s._nucleus not in mandarin_nucleus:
-                sys.stderr.write("----invalid nucleus %s,%s\n" %(l, str(hz)) )
+            if s._nucleus not in MANDARIN_NUCLEUS:
+                sys.stderr.write("----invalid nucleus %s, " %(str(hz)) )
+                raise SyllableError("invalid nucleus")
     return r
-
-def process_cant(cant, l):
+def process_cant(cant):
     r = {}
     if len(cant) > 0:
         #sys.stderr.write("%s\n" %cant)
@@ -74,9 +96,23 @@ def process_cant(cant, l):
         #print (str(hz))
         for s in hz._surfaces:
             r[s._nucleus] = {}
-            if s._nucleus not in cantonese_nucleus:
-                sys.stderr.write("----invalid nucleus %s,%s\n" %(l, str(hz)) )
+            if s._nucleus not in CANTONESE_NUCLEUS:
+                sys.stderr.write("----invalid nucleus %s, " %(str(hz)) )
+                raise SyllableError("invalid nucleus")
     return r
+def process_viet(viet):
+    r = {}
+    if len(viet) > 0:
+        #sys.stderr.write("%s\n" %viet)
+        ht = Hantu(split(viet))
+        #print (str(ht))
+        for s in ht._surfaces:
+            r[s._nucleus] = {}
+            if s._nucleus not in VIETNAMESE_NUCLEUS:
+                sys.stderr.write("----invalid nucleus %s, " %(str(ht)) )
+                raise SyllableError("invalid nucleus")
+    return r
+
 
 def main():
     # get options
@@ -113,16 +149,18 @@ def main():
                     (char, ja, ko, ko_roman, mand, mand_num, cant, viet, tang) = l.split(u"\t")
                     #print ("%s,%s,%s,%s,%s,%s,%s,%s,%s" %(char, ja, ko, ko_roman, man, man_num, can, viet, tang))
                     if lang.lower() in ["m", "man", "mand", "mandarin"]:
-                        r.update ( process_mand(mand, mand_num, l) )
+                        r.update ( process_mand(mand, mand_num) )
                     elif lang.lower() in ["c", "can", "cant", "cantonese"]:
-                        r.update ( process_cant(cant, l) )
+                        r.update ( process_cant(cant) )
+                    elif lang.lower() in ["v", "viet", "vietnamese"]:
+                        r.update ( process_viet(viet) )
 
-                #except TypeError:
-                #    sys.stderr.write("TypeError skipped: %s\n" %l)
+                except TypeError:
+                    sys.stderr.write("TypeError. skipped: %s\n" %l)
                 except ValueError:
-                    sys.stderr.write("ValueError skipped: %s\n" %l)
+                    sys.stderr.write("ValueError. skipped: %s\n" %l)
                 except SyllableError as e:
-                    sys.stderr.write("%s skipped: %s\n" %(e.value, l) )
+                    sys.stderr.write("%s. skipped: %s\n" %(e.value, l) )
         finally:
             f.close()
     print (r.keys())
