@@ -7,7 +7,7 @@ from syllable import TonalSyllable, Ideogram
 class CantoneseSyllable(TonalSyllable):
     HEADS = ["b", "p", "m", "f", "d", "t", "n", "l",
              "z", "c", "s", "zh", "ch", "sh", "r",
-             "x", "q", "g", "k", "h", "ng",
+             "x", "q", "g", "k", "h", "ng", #"j", "w",
             ]
     LASTS = ["ng", "n", "m",
              "k", "t", "p",]
@@ -45,8 +45,8 @@ class CantoneseSyllable(TonalSyllable):
 
     def postprocess_semi_vowel(self,):
         for c, normalized in self.SEMI_VOWELS.items():
-            if self._semi_vowel.find(c) != -1:
-                self._semi_vowel = self._semi_vowel.replace(c, normalized)
+            if self._semi_vowel == c:
+                self._semi_vowel = normalized
         return
     def postprocess_last(self,):
         if self._last in ["k", "t", "p"]:

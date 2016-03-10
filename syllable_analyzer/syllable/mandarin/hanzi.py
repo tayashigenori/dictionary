@@ -52,8 +52,8 @@ class MandarinSyllable(TonalSyllable):
         return
     def postprocess_semi_vowel(self,):
         for c, normalized in self.SEMI_VOWELS.items():
-            if self._semi_vowel.find(c) != -1:
-                self._semi_vowel = self._semi_vowel.replace(c, normalized)
+            if self._semi_vowel == c:
+                self._semi_vowel = normalized
         return
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
