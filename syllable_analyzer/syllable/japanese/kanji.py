@@ -5,10 +5,12 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
 from syllable import AtonalSyllable, Ideogram
 
 class JapaneseSyllable(AtonalSyllable):
-    HEADS = ["k", "s", "t", "n", "h", "m", "r",
-             "g", "z", "d",      "b",
+    HEADS = ["k", "s", "t", "ts", "n", "h", "f", "m", "y", "r", "w",
+             "g", "z", "d",       "b",
              "ky", "sh", "sy", "ch", "ty", "ny", "hy", "my", "ry",
              "gy", "j",  "zy",                   "by",
+             "kuw", "guw",
+             "jiy", "niy", "hiy", # ??
             ]
     SEMI_VOWELS = {
         "ky": ("k", "y"),
@@ -21,11 +23,33 @@ class JapaneseSyllable(AtonalSyllable):
         "gy": ("g", "y"),
         "j":  ("z", "y"),
         "by": ("b", "y"),
+        "y": ("", "y"),
+        "w": ("", "w"),
+        "kuw": ("k", "w"),
+        "guw": ("g", "w"),
+        "jiy": ("z", "y"),
+        "niy": ("n", "y"),
+        "hiy": ("h", "y"),
     }
-    LASTS = ["ki", "ku", "chi", "tsu", "n", "i", "u"]
+    LASTS = [
+        "ki", "ku",	# k
+        "chi", "tsu",	# t
+        "hu",	# p
+        "i", "u",	# ng
+        "n",	# n
+        "m",	# m
+        "o",	# ??
+    ]
 
     VOWELS_WITH_TONE = {
     }
+    NUCLEUS = [
+        'a',
+        'i',
+        'u',
+        'e',
+        'o',
+    ]
 
     def __init__(self, surface):
         AtonalSyllable.__init__(self, surface)
@@ -38,6 +62,11 @@ class JapaneseSyllable(AtonalSyllable):
                 self._head = normalized_head
                 self._semi_vowel = normalized_semi_vowel
         return
+    def postprocess_nucleus(self,):
+        if self._nucleus == '' and self._last != '':
+            ###
+            self._nucleus = self._last
+            self._last = ''
 
 class Kanji(Ideogram):
     def __init__(self, surfaces):

@@ -28,9 +28,16 @@ CANTONESE_NUCLEUS = [
         'a', 'aa', 'ai', 'aai', 'au', 'aau',
         'i',
         'u',
-        'o', 'oi', 'ou', 'oe',
         'e', 'ei', 'eu', 'eo', 'eoi',
+        'o', 'oi', 'ou', 'oe',
         '@',
+]
+JAPANESE_NUCLEUS = [
+        'a',
+        'i',
+        'u',
+        'e',
+        'o',
 ]
 VIETNAMESE_NUCLEUS = [
         'a',
@@ -100,6 +107,18 @@ def process_cant(cant):
                 sys.stderr.write("----invalid nucleus %s, " %(str(hz)) )
                 raise SyllableError("invalid nucleus")
     return r
+def process_ja(ja):
+    r = {}
+    if len(ja) > 0:
+        #sys.stderr.write("%s\n" %ja)
+        kj = Kanji(split(ja))
+        #print (str(kj))
+        for s in kj._surfaces:
+            r[s._nucleus] = {}
+            if s._nucleus not in JAPANESE_NUCLEUS:
+                sys.stderr.write("----invalid nucleus %s, " %(str(kj)) )
+                raise SyllableError("invalid nucleus")
+    return r
 def process_viet(viet):
     r = {}
     if len(viet) > 0:
@@ -154,6 +173,8 @@ def main():
                         r.update ( process_cant(cant) )
                     elif lang.lower() in ["v", "viet", "vietnamese"]:
                         r.update ( process_viet(viet) )
+                    elif lang.lower() in ["j", "ja", "japanese"]:
+                        r.update ( process_ja(ja) )
 
                 except TypeError:
                     sys.stderr.write("TypeError. skipped: %s\n" %l)
