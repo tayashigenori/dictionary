@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 
 import os,sys
+import sys,os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../syllable/')
+
 import re
 import getopt
 
