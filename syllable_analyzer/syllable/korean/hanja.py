@@ -5,17 +5,34 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
 from syllable import AtonalSyllable, Ideogram
 
 class KoreanSyllable(AtonalSyllable):
-    HEADS = ["g", "n", "d", "r", "m", "b", "s",
-             "j", "ch", "k", "t", "p", "h",]
-    LASTS = ["k", "l", "p",
-             "ng", "n", "m",]
+    HEADS = ["g", "n", "d", "l", "m", "b", "s",
+             "j", "c", "k", "t", "p", "h",
+             "ch", "kh", "th", "ph",
+             "kk", "pp", "ss",
+            ]
+    LASTS = ["k", "c", "l", "p",
+             "ng", "n", "m",
+             "s", # ??
+            ]
     SEMI_VOWELS = ["y", "w"] # ??
 
     VOWELS_WITH_TONE = {
     }
+    NUCLEUS = [
+        'a',
+        'ay',
+        'i',
+        'u',
+        'uy',
+        'e',
+        'ey',
+        'o',
+        'oy',
+    ]
 
     def __init__(self, surface):
         AtonalSyllable.__init__(self, surface)
+
 
 class Hanja(Ideogram):
     def __init__(self, surfaces):

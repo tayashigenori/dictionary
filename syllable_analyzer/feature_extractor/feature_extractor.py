@@ -39,6 +39,17 @@ JAPANESE_NUCLEUS = [
         'e',
         'o',
 ]
+KOREAN_NUCLEUS = [
+        'a',
+        'ay',
+        'i',
+        'u',
+        'uy',
+        'e',
+        'ey',
+        'o',
+        'oy',
+]
 VIETNAMESE_NUCLEUS = [
         'a',
         'ai', 'ay',
@@ -119,6 +130,18 @@ def process_ja(ja):
                 sys.stderr.write("----invalid nucleus %s, " %(str(kj)) )
                 raise SyllableError("invalid nucleus")
     return r
+def process_ko(ko):
+    r = {}
+    if len(ko) > 0:
+        #sys.stderr.write("%s\n" %ko)
+        hj = Hanja(split(ko))
+        #print (str(hj))
+        for s in hj._surfaces:
+            r[s._nucleus] = {}
+            if s._nucleus not in KOREAN_NUCLEUS:
+                sys.stderr.write("----invalid nucleus %s, " %(str(hj)) )
+                raise SyllableError("invalid nucleus")
+    return r
 def process_viet(viet):
     r = {}
     if len(viet) > 0:
@@ -175,6 +198,8 @@ def main():
                         r.update ( process_viet(viet) )
                     elif lang.lower() in ["j", "ja", "japanese"]:
                         r.update ( process_ja(ja) )
+                    elif lang.lower() in ["k", "ko", "korean"]:
+                        r.update ( process_ko(ko_roman) )
 
                 except TypeError:
                     sys.stderr.write("TypeError. skipped: %s\n" %l)
