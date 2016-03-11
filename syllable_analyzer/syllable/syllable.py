@@ -1,5 +1,8 @@
 # coding: utf-8
 
+from functools import reduce
+import numpy as np
+
 """
 ==================================================
 | HEAD (c) | TAIL                                |
@@ -135,6 +138,8 @@ class Syllable:
         return self.SEMI_VOWELS
     def get_lasts(self,):
         return self.LASTS
+    def get_nucleus(self,):
+        return self.NUCLEUS
 
     def get_all_features(self,):
         return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone,
@@ -148,6 +153,19 @@ class Syllable:
         return "".join([s for s in [self._head, self._semi_vowel] if s is not None])
     def get_head_last(self,):
         return ",".join([s for s in [self._head, self._last] if s is not None])
+
+    def vectorize_head(self,):
+        li = [h == self._head for h in self.get_heads()]
+        return np.array(li, dtype=bool)
+    def vectorize_semi_vowel(self,):
+        li = [s == self._semi_vowel for s in self.get_semi_vowels()]
+        return np.array(li, dtype=bool)
+    def vectorize_nucleus(self,):
+        li = [n == self._nucleus for n in self.get_nucleus()]
+        return np.array(li, dtype=bool)
+    def vectorize_last(self,):
+        li = [l == self._last for l in self.get_lasts()]
+        return np.array(li, dtype=bool)
 
 
 class TonalSyllable(Syllable):
@@ -175,4 +193,25 @@ class Ideogram:
         return map(lambda syllable: syllable.get_all_parts(), self._surfaces)
     def get_all_features(self,):
         return map(lambda syllable: syllable.get_all_features(), self._surfaces)
+
+    def vectorize(self,):
+        r = []
+        # head
+        m = map( lambda s : s.vectorize_head(), self._surfaces )
+        na = reduce( lambda x, y: np.logical_and(x, x), m)
+        r += na.astype(int).tolist()
+        # semi vowel
+        m = map( lambda s: s.vectorize_semi_vowel(), self._surfaces )
+        na = reduce( lambda x, y: np.logical_and(x, y), m)
+        r += na.astype(int).tolist()
+        # nucleus
+        m = map( lambda s: s.vectorize_nucleus(), self._surfaces )
+        na = reduce( lambda x, y: np.logical_and(x, x), m)
+        r += na.astype(int).tolist()
+        # last
+        m = map( lambda s: s.vectorize_last(), self._surfaces )
+        na = reduce( lambda x, y: np.logical_and(x, x), m)
+        r += na.astype(int).tolist()
+        return r
+
 
