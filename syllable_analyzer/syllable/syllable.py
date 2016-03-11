@@ -123,7 +123,7 @@ class Syllable:
         return
     def validate_nucleus(self,):
         if self._nucleus not in self.NUCLEUS:
-            raise SyllableError("Irregular syllable")
+            raise SyllableError("Irregular syllable: %s" %(self._surface) )
         return
 
 

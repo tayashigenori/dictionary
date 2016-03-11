@@ -14,7 +14,7 @@ from japanese.kanji import Kanji
 from korean.hanja import Hanja
 from vietnamese.hantu import Hantu
 
-SOURCE_URL_PATH_BASE = os.path.dirname(os.path.abspath(__file__)) + "/../../crawler/unihan/dict_tsv/%d.tsv"
+SOURCE_PATH_BASE = os.path.dirname(os.path.abspath(__file__)) + "/../../crawler/unihan/dict_tsv/%d.tsv"
 
 MANDARIN_NUCLEUS = [
         'a', 'ai', 'ao',
@@ -181,7 +181,7 @@ def main():
 
     r = {}
     for i in range(1, 30):
-        filename = SOURCE_URL_PATH_BASE %i
+        filename = SOURCE_PATH_BASE %i
         try:
             f = open(filename)
             for l in f.readlines():
