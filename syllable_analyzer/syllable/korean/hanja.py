@@ -18,6 +18,7 @@ class KoreanSyllable(AtonalSyllable):
 
     VOWELS_WITH_TONE = {
     }
+    TONE_MAX = -1
     NUCLEUS = [
         'a',
         'ay',

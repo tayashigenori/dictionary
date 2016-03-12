@@ -27,6 +27,8 @@ class CantoneseSyllable(TonalSyllable):
 
     VOWELS_WITH_TONE = {
     }
+    TONE_MAX = 9 # 6 tones will be normalized to 9 tones
+
     NUCLEUS = [
         'a', 'aa', 'ai', 'aai', 'au', 'aau',
         'i',
@@ -40,9 +42,15 @@ class CantoneseSyllable(TonalSyllable):
         self._rs = romanization_scheme
         TonalSyllable.__init__(self, surface, is_tone_numeral)
 
-    def get_semi_vowels(self,):
+    """
+    getter
+    """
+    def get_all_semi_vowels(self,):
         return self.SEMI_VOWELS.keys()
 
+    """
+    analyzer
+    """
     def postprocess_semi_vowel(self,):
         for c, normalized in self.SEMI_VOWELS.items():
             if self._semi_vowel == c:
@@ -58,7 +66,7 @@ class CantoneseSyllable(TonalSyllable):
                 self._tone = 9
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
-            ###
+            ### adhoc..
             if self._nucleus == '' and self._semi_vowel == 'iu':
                 self._semi_vowel = 'i'
                 self._nucleus = 'u'

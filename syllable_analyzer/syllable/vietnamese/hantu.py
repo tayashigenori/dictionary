@@ -5,7 +5,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
 from syllable import TonalSyllable, Ideogram
 
 """
-for convenience tones are mapped to numbers as follows
+for convenience tones are mapped to 8 numbers as follows
   - a (ngang "level")	-> a1
   - à (huyền "hanging")	-> a2
   - á (sắc "sharp")	-> a3
@@ -37,6 +37,7 @@ class VietnameseSyllable(TonalSyllable):
         "ả":("a",5), "ẳ":("ă",5), "ẩ":("â",5), "ẻ":("e",5), "ể":("ê",5), "ỉ":("i",5), "ỏ":("o",5), "ổ":("ô",5), "ở":("ơ",5), "ủ":("u",5), "ử":("ư",5), "ỷ":("y",5),
         "ã":("a",6), "ẵ":("ă",6), "ẫ":("â",6), "ẽ":("e",6), "ễ":("ê",6), "ĩ":("i",6), "õ":("o",6), "ỗ":("ô",6), "ỡ":("ơ",6), "ũ":("u",6), "ữ":("ư",6), "ỹ":("y",6),
     }
+    TONE_MAX = 8 # 6 tones will be mapped to 8 tones (ru sheng counted as separeted tones)
     DEFAULT_TONE = "1"
     NUCLEUS = [
         'a',
@@ -63,6 +64,9 @@ class VietnameseSyllable(TonalSyllable):
     def __init__(self, surface, is_tone_numeral = False):
         TonalSyllable.__init__(self, surface, is_tone_numeral)
 
+    """
+    analyzer
+    """
     def preprocess_tone(self,):
         if self._is_tone_numeral == False:
             matched = False
@@ -81,7 +85,7 @@ class VietnameseSyllable(TonalSyllable):
                 self._tone = 8
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
-            ###
+            ### adhoc
             if self._nucleus == '' and self._semi_vowel == 'iu':
                 self._semi_vowel = 'i'
                 self._nucleus = 'u'

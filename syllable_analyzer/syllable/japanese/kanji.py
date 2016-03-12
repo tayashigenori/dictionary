@@ -43,6 +43,7 @@ class JapaneseSyllable(AtonalSyllable):
 
     VOWELS_WITH_TONE = {
     }
+    TONE_MAX = -1
     NUCLEUS = [
         'a',
         'i',
@@ -54,8 +55,14 @@ class JapaneseSyllable(AtonalSyllable):
     def __init__(self, surface):
         AtonalSyllable.__init__(self, surface)
 
-    def get_semi_vowels(self,):
+    """
+    getter
+    """
+    def get_all_semi_vowels(self,):
         return self.SEMI_VOWELS.keys()
+    """
+    analyzer
+    """
     def postprocess_semi_vowel(self,):
         for head, (normalized_head, normalized_semi_vowel) in self.SEMI_VOWELS.items():
             if self._head.find(head) != -1:
@@ -64,7 +71,7 @@ class JapaneseSyllable(AtonalSyllable):
         return
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._last != '':
-            ###
+            ### adhoc
             self._nucleus = self._last
             self._last = ''
 

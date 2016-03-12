@@ -26,6 +26,7 @@ class MandarinSyllable(TonalSyllable):
         "ǎ": ("a", 3), "ě": ("e", 3), "ǒ": ("o", 3), "ǐ": ("i", 3), "ǔ": ("u", 3), "ǚ": ("v", 3),
         "à": ("a", 4), "è": ("e", 4), "ò": ("o", 4), "ì": ("i", 4), "ù": ("u", 4), "ǜ": ("v", 4),
     }
+    TONE_MAX = 5 # 4 + qing sheng
     NUCLEUS = [
         'a', 'ai', 'ao',
         'i',
@@ -38,8 +39,14 @@ class MandarinSyllable(TonalSyllable):
     def __init__(self, surface, is_tone_numeral):
         TonalSyllable.__init__(self, surface, is_tone_numeral)
 
-    def get_semi_vowels(self,):
+    """
+    getter
+    """
+    def get_all_semi_vowels(self,):
         return self.SEMI_VOWELS.keys()
+    """
+    analyzer
+    """
     def preprocess_tone(self,):
         if self._is_tone_numeral == False:
             matched = False
@@ -48,7 +55,7 @@ class MandarinSyllable(TonalSyllable):
                     self._surface = self._surface.replace(c, normalized_c) + str( tone_num )
                     matched = True
             if matched == False:
-                self._surface = self._surface.replace(c, normalized_c) + "5"
+                self._surface = self._surface.replace(c, normalized_c) + str( self.TONE_MAX )
         return
     def postprocess_semi_vowel(self,):
         for c, normalized in self.SEMI_VOWELS.items():
@@ -57,7 +64,7 @@ class MandarinSyllable(TonalSyllable):
         return
     def postprocess_nucleus(self,):
         if self._nucleus == '' and self._semi_vowel != '':
-            ###
+            ### adhoc...
             if self._nucleus == '' and self._semi_vowel == 'iu':
                 self._semi_vowel = 'i'
                 self._nucleus = 'u'

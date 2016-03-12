@@ -56,6 +56,9 @@ class Syllable:
     def __list__(self,):
         return self.get_all_parts()
 
+    """
+    analyze syllable
+    """
     def analyze(self,):
         self._surface = self._surface.lower()
 
@@ -93,7 +96,7 @@ class Syllable:
     def preprocess_head(self,):
         return
     def analyze_head(self,):        
-        (head, head_length) = find_longest(self._surface, self.get_heads())
+        (head, head_length) = find_longest(self._surface, self.get_all_heads())
         self._head = head
         self._tail = self._surface[ head_length: ]
         return
@@ -103,7 +106,7 @@ class Syllable:
     def preprocess_semi_vowel(self,):
         return
     def analyze_semi_vowel(self,):
-        (semi_vowel, semi_vowel_length) = find_longest(self._tail, self.get_semi_vowels())
+        (semi_vowel, semi_vowel_length) = find_longest(self._tail, self.get_all_semi_vowels())
         self._semi_vowel = semi_vowel
         self._rhyme = self._tail[ semi_vowel_length : ]
         return
@@ -113,12 +116,9 @@ class Syllable:
     def preprocess_last(self,):
         return
     def analyze_last(self,):
-        (last, last_length) = find_longest(self._rhyme, self.get_lasts(), at="end")
+        (last, last_length) = find_longest(self._rhyme, self.get_all_lasts(), at="end")
         self._last = last
-        if last_length > 0:
-            self._nucleus = self._rhyme[ : -last_length ]
-        else:
-            self._nucleus = self._rhyme
+        self._nucleus = self._rhyme[ : -last_length ] if last_length > 0 else self._rhyme
         return
     def postprocess_last(self,):
         return
@@ -129,17 +129,21 @@ class Syllable:
             raise SyllableError("Irregular syllable: %s" %(self._surface) )
         return
 
-
+    """
+    getters
+    """
     def get_all_parts(self,):
         return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone ]
-    def get_heads(self,):
+    def get_all_heads(self,):
         return self.HEADS
-    def get_semi_vowels(self,):
+    def get_all_semi_vowels(self,):
         return self.SEMI_VOWELS
-    def get_lasts(self,):
+    def get_all_lasts(self,):
         return self.LASTS
-    def get_nucleus(self,):
+    def get_all_nucleus(self,):
         return self.NUCLEUS
+    def get_all_tones(self,):
+        return range( self.TONE_MAX + 1 ) 
 
     def get_all_features(self,):
         return [ self._head, self._semi_vowel, self._nucleus, self._last, self._tone,
@@ -154,17 +158,23 @@ class Syllable:
     def get_head_last(self,):
         return ",".join([s for s in [self._head, self._last] if s is not None])
 
+    """
+    vectorizer
+    """
     def vectorize_head(self,):
-        li = [h == self._head for h in self.get_heads()]
+        li = [h == self._head for h in self.get_all_heads()]
         return np.array(li, dtype=bool)
     def vectorize_semi_vowel(self,):
-        li = [s == self._semi_vowel for s in self.get_semi_vowels()]
+        li = [s == self._semi_vowel for s in self.get_all_semi_vowels()]
         return np.array(li, dtype=bool)
     def vectorize_nucleus(self,):
-        li = [n == self._nucleus for n in self.get_nucleus()]
+        li = [n == self._nucleus for n in self.get_all_nucleus()]
         return np.array(li, dtype=bool)
     def vectorize_last(self,):
-        li = [l == self._last for l in self.get_lasts()]
+        li = [l == self._last for l in self.get_all_lasts()]
+        return np.array(li, dtype=bool)
+    def vectorize_tone(self,):
+        li = [l == self._tone for l in self.get_all_tones()]
         return np.array(li, dtype=bool)
 
 
@@ -198,7 +208,7 @@ class Ideogram:
         r = []
         # head
         m = map( lambda s : s.vectorize_head(), self._surfaces )
-        na = reduce( lambda x, y: np.logical_and(x, x), m)
+        na = reduce( lambda x, y: np.logical_and(x, y), m)
         r += na.astype(int).tolist()
         # semi vowel
         m = map( lambda s: s.vectorize_semi_vowel(), self._surfaces )
@@ -206,11 +216,15 @@ class Ideogram:
         r += na.astype(int).tolist()
         # nucleus
         m = map( lambda s: s.vectorize_nucleus(), self._surfaces )
-        na = reduce( lambda x, y: np.logical_and(x, x), m)
+        na = reduce( lambda x, y: np.logical_and(x, y), m)
         r += na.astype(int).tolist()
         # last
         m = map( lambda s: s.vectorize_last(), self._surfaces )
-        na = reduce( lambda x, y: np.logical_and(x, x), m)
+        na = reduce( lambda x, y: np.logical_and(x, y), m)
+        r += na.astype(int).tolist()
+        # last
+        m = map( lambda s: s.vectorize_tone(), self._surfaces )
+        na = reduce( lambda x, y: np.logical_and(x, y), m)
         r += na.astype(int).tolist()
         return r
 
