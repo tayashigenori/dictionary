@@ -177,6 +177,20 @@ class Syllable:
         li = [l == self._tone for l in self.get_all_tones()]
         return np.array(li, dtype=bool)
 
+    """
+    make transaction
+    """
+    def make_transaction_head(self,):
+        return "[%s:%s]%s" %(self.__class__.__name__[:4], "hd", self._head)
+    def make_transaction_semi_vowel(self,):
+        return "[%s:%s]%s" %(self.__class__.__name__[:4], "sv", self._semi_vowel)
+    def make_transaction_nucleus(self,):
+        return "[%s:%s]%s" %(self.__class__.__name__[:4], "nc", self._nucleus)
+    def make_transaction_last(self,):
+        return "[%s:%s]%s" %(self.__class__.__name__[:4], "lt", self._last)
+    def make_transaction_tone(self,):
+        return "[%s:%s]%s" %(self.__class__.__name__[:4], "tn", str( self._tone ))
+
 
 class TonalSyllable(Syllable):
     def __init__(self, surface, is_tone_numeral = True):
@@ -226,6 +240,21 @@ class Ideogram:
         m = map( lambda s: s.vectorize_tone(), self._surfaces )
         na = reduce( lambda x, y: np.logical_and(x, y), m)
         r += na.astype(int).tolist()
+        return r
+
+    def make_transaction(self,):
+        r = []
+        for s in self._surfaces:
+            # head
+            r.append( s.make_transaction_head() )
+            # semi vowel
+            r.append( s.make_transaction_semi_vowel() )
+            # nucleus
+            r.append( s.make_transaction_nucleus() )
+            # last
+            r.append( s.make_transaction_last() )
+            # last
+            r.append( s.make_transaction_tone() )
         return r
 
 
