@@ -27,7 +27,7 @@
 䶥	zh,,a,,1	z,,eoi,,2			
 䶦	z,,e,,2	z,,a,k,8			
 圞	l,u,a,n,2	l,i,u,n,4			r,,a,n,None
-彠	,iu,e,,1				k,w,a,ku,None|,w,a,ku,None|k,,a,ku,None|k,y,a,ku,None|,y,a,ku,None
+彠	,iu,e,,1				k,w,a,ku,None|,w,a,ku,None|k,,a,ku,None|,y,a,ku,None|,y,a,ku,None
 欜	n,,a,ng,2				
 欝	,i,u,,4	,u,a,t,7			,,u,tsu,None
 氎	d,i,e,,2				t,y,o,u,None|z,y,o,u,None
@@ -43,13 +43,13 @@
 虃	j,i,a,n,1				
 虄	s,,a,,4				
 虅	t,,e,ng,5				
-蠼	q,,u,,2	f,,o,k,8|k,,eoi,,4			k,y,a,ku,None|k,,a,ku,None|k,,e,ki,None|k,,u,,None
+蠼	q,,u,,2	f,,o,k,8|k,,eoi,,4			,y,a,ku,None|k,,a,ku,None|k,,e,ki,None|k,,u,,None
 讚	z,,a,n,4	z,,aa,n,3	ch,,a,n,None	t,,a,n,3	s,,a,n,None
 讛	,i,i,,4				
 趲	z,,a,n,3	z,,aa,n,2	ch,,a,n,None		s,,a,n,None|z,,a,n,None|s,,o,,None
 躦	c,u,o,,2	z,i,u,n,1|z,i,u,n,2			
-躧	x,,i,,3				s,y,i,,None|r,,i,,None|s,,a,i,None|s,y,a,,None
-釃	sh,,ai,,1	s,,i,,1	s,,i,,None		s,y,i,,None|s,y,o,,None|s,,o,,None
+躧	x,,i,,3				s,,i,,None|r,,i,,None|s,,a,i,None|s,y,a,,None
+釃	sh,,ai,,1	s,,i,,1	s,,i,,None		s,,i,,None|s,y,o,,None|s,,o,,None
 釄	m,,i,,2				
 鑴	x,,i,,1	k,u,ai,,4			
 鑵	g,u,a,n,4	g,,u,n,3	k,w,a,n,None		k,,a,n,None
@@ -64,14 +64,14 @@
 饟	x,i,a,ng,3	h,,@,ng,2			s,y,o,u,None
 驠	,i,a,n,4	,i,i,n,3			
 驡	l,,o,ng,2				
-驢	l,,v,,2	l,,eoi,,4|l,,ou,,4	l,y,e,,None	l,ư,a,,2	r,y,o,,None|r,,o,,None
+驢	l,,v,,2	l,,eoi,,4|l,,ou,,4	l,y,e,,None	l,ư,a,,2	,y,o,,None|r,,o,,None
 驣	t,,e,ng,2				
 髗	l,,u,,2		l,,o,,None		r,,o,,None
 鱱	l,,i,,4				
-鱲	l,i,e,,4	l,,aa,p,9|l,,i,p,9			r,y,o,u,None
+鱲	l,i,e,,4	l,,aa,p,9|l,,i,p,9			,y,o,u,None
 鱳	l,,i,,4				
 鱴	m,i,e,,4				
-鱵	zh,,e,n,1	z,,a,m,1			s,y,i,n,None
+鱵	zh,,e,n,1	z,,a,m,1			s,,i,n,None
 鱶	x,i,a,ng,3				s,y,o,u,None
 鸓	l,,ei,,3	l,,eoi,,5			
 鸔	b,,ao,,4				

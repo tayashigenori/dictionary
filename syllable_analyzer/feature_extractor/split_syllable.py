@@ -15,7 +15,7 @@ from korean.hanja import Hanja
 from vietnamese.hantu import Hantu
 
 SOURCE_PATH_BASE = os.path.dirname(os.path.abspath(__file__)) + "/../../crawler/unihan/dict_tsv/%d.tsv"
-OUTPUT_PATH_BASE = os.path.dirname(os.path.abspath(__file__)) + "/dict_csv/%d.tsv"
+OUTPUT_PATH_BASE = os.path.dirname(os.path.abspath(__file__)) + "/split/%d.tsv"
 
 def remove_bracket(v):
     pat = re.compile(u"\(\d+\)")

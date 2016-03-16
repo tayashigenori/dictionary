@@ -165,7 +165,7 @@
 巗	,i,a,n,2				
 廲	l,,i,,2				r,,e,i,None|r,,a,i,None|r,,i,,None
 彎	,u,a,n,1	,u,aa,n,1	m,,a,n,None		,w,a,n,None
-彲	ch,,i,,1				t,y,i,,None
+彲	ch,,i,,1				t,,i,,None
 懿	,i,i,,4	,i,i,,3	,,uy,,None		,,i,,None
 戂	m,,i,,2				
 戵	q,,u,,2		k,w,u,,None		g,,u,,None
@@ -176,7 +176,7 @@
 攢	z,,a,n,3	c,i,u,n,4|z,,aa,n,2	ch,,a,n,None		s,,a,n,None
 攣	l,u,a,n,2	l,i,u,n,4	l,y,e,n,None		r,,e,n,None
 攤	t,,a,n,1	t,,aa,n,1	th,,a,n,None	n,,ă,n,4	t,,a,n,None|d,,a,n,None|d,,a,,None
-攦	l,,i,,4	l,,ai,,6			r,,e,i,None|r,,a,i,None|s,y,i,,None|r,,i,,None
+攦	l,,i,,4	l,,ai,,6			r,,e,i,None|r,,a,i,None|s,,i,,None|r,,i,,None
 攧	d,i,a,n,1				
 櫷	g,u,i,,1				
 欆	sh,u,a,ng,1				s,,o,u,None
@@ -188,7 +188,7 @@
 欍	j,i,u,,5				
 欎	,i,u,,4				
 歡	h,u,a,n,5	f,,u,n,1	h,w,a,n,None	h,o,a,n,1	k,,a,n,None
-氍	q,,u,,2	k,,eoi,,4			k,,u,,None|g,,u,,None|k,y,o,,None|g,,o,,None
+氍	q,,u,,2	k,,eoi,,4			k,,u,,None|g,,u,,None|,y,o,,None|g,,o,,None
 灑	s,,a,,3	s,,aa,,2	s,,ay,,None|s,w,ay,,None	ng,,ơ,,1|r,ơ,i,,4	s,,a,i,None|s,y,a,,None
 灒	z,,a,n,4	z,,aa,n,3|z,,aa,n,6			
 灔	,i,a,n,4				,,e,n,None
@@ -207,7 +207,7 @@
 瓗	q,i,o,ng,2				
 瓘	g,u,a,n,4	g,,u,n,3	k,w,a,n,None		k,,a,n,None
 瓙	d,,ao,,4				
-瓤	r,,a,ng,2	n,,o,ng,4			s,y,o,u,None|,y,o,u,None|d,,o,u,None|n,,o,u,None
+瓤	r,,a,ng,2	n,,o,ng,4			s,y,o,u,None|n,y,o,u,None|d,,o,u,None|n,,o,u,None
 疉	d,i,e,,2				z,y,o,u,None|t,y,o,u,None
 疊	d,i,e,,2	d,,aa,p,9|d,,i,p,9	ch,,e,p,None	đ,i,ê,p,8	z,y,o,u,None|t,y,o,u,None
 癬	x,u,a,n,3	s,,i,n,2	s,,e,n,None		s,,e,n,None
@@ -222,7 +222,7 @@
 竸	j,,i,ng,4		k,y,e,ng,None		k,,e,i,None
 籗	zh,u,o,,2				
 籘	t,,e,ng,2				t,,o,u,None
-籙	l,,u,,4	l,,u,k,9			r,y,o,ku,None|r,,o,ku,None
+籙	l,,u,,4	l,,u,k,9			,y,o,ku,None|r,,o,ku,None
 籚	l,,u,,2	l,,ou,,4		g,,ă,t,7|l,,ơ,,2	r,,o,,None|r,,u,,None
 籛	j,i,a,n,3	z,,i,n,1	c,,e,n,None		s,,e,n,None|s,,a,n,None
 籜	t,u,o,,4	t,,o,k,8	th,,a,k,None		t,,a,ku,None
@@ -247,7 +247,7 @@
 臟	z,,a,ng,4	z,,o,ng,6	c,,a,ng,None	t,,a,ng,4	z,,o,u,None|s,,o,u,None
 艫	l,,u,,2	l,,ou,,4	l,,o,,None		r,,o,,None
 藮	q,i,ao,,2				
-藶	l,,i,,4	l,,i,k,9		l,,i,ch,8	r,,e,ki,None|r,y,a,ku,None
+藶	l,,i,,4	l,,i,k,9		l,,i,ch,8	r,,e,ki,None|,y,a,ku,None
 藷	sh,,u,,3	s,i,u,,4|s,i,u,,5	c,,e,,None		s,y,o,,None|z,y,o,,None
 藸	ch,,u,,2	z,i,u,,1			
 藹	,,ai,,3	,,oi,,2	,,ay,,None		,,a,i,None|,,a,tsu,None
@@ -277,7 +277,7 @@
 蘑	m,,o,,2	m,,o,,4			m,,a,,None
 蘓	s,,u,,1				s,,o,,None|s,,u,,None
 蘔	j,i,o,ng,1				
-蘢	l,,o,ng,2	l,,u,ng,4	l,,o,ng,None	l,,u,ng,2	r,,o,u,None|r,y,o,u,None
+蘢	l,,o,ng,2	l,,u,ng,4	l,,o,ng,None	l,,u,ng,2	r,,o,u,None|,y,o,u,None
 蠥	n,i,e,,4	,i,i,p,9|,i,i,t,9			
 蠦	l,,u,,2	l,,ou,,4			
 蠧	d,,u,,4				t,,o,,None
@@ -286,7 +286,7 @@
 蠪	l,,o,ng,2	l,,u,ng,4			
 蠫	l,,i,,4				
 蠬	l,,o,ng,2			r,,ô,ng,2	
-襯	ch,,e,n,4	c,,a,n,3	ch,,i,n,None		s,y,i,n,None
+襯	ch,,e,n,4	c,,a,n,3	ch,,i,n,None		s,,i,n,None
 襱	l,,o,ng,2	l,,u,ng,4			
 襲	x,,i,,2	z,,aa,p,9	s,,u,p,None	t,,â,p,8	s,y,u,u,None|z,y,u,u,None
 覾	sh,,e,n,3				
@@ -300,16 +300,16 @@
 讂	x,u,a,n,4	h,i,u,n,3			
 讃	z,,a,n,4				s,,a,n,None
 讄	l,,ei,,3				r,,u,,None|,,i,,None
-讅	sh,,e,n,3	s,,a,m,2			s,y,i,n,None
+讅	sh,,e,n,3	s,,a,m,2			s,,i,n,None
 豄	d,,u,,2				
 贕	d,,u,,2	d,,u,k,9			
 贖	sh,,u,,2	s,,u,k,9	s,,o,k,None	ch,u,ô,c,8	s,y,o,ku,None
 贗	,i,a,n,4	ng,,aa,n,6|ng,,a,n,3			k,,e,n,None|g,,a,n,None|g,,e,n,None
 贘	sh,,a,ng,3				
-躐	l,i,e,,4	l,,i,p,9	l,y,e,p,None	l,,a,p,7	r,y,o,u,None
+躐	l,i,e,,4	l,,i,p,9	l,y,e,p,None	l,,a,p,7	,y,o,u,None
 躑	zh,,i,,2	z,,aa,k,9	ch,,e,k,None		t,,e,ki,None
-躒	l,,i,,4	l,,i,k,7|l,,o,k,8			r,,e,ki,None|r,y,a,ku,None|r,,a,ku,None
-躓	zh,,i,,4	z,,i,,3	c,,i,,None		t,y,i,,None
+躒	l,,i,,4	l,,i,k,7|l,,o,k,8			r,,e,ki,None|,y,a,ku,None|r,,a,ku,None
+躓	zh,,i,,4	z,,i,,3	c,,i,,None		t,,i,,None
 躔	ch,,a,n,2	c,,i,n,4	c,,e,n,None		t,,e,n,None
 躕	ch,,u,,2	c,i,u,,4			t,y,u,,None|z,y,u,,None|z,y,u,u,None
 躖	d,u,a,n,4				
@@ -317,14 +317,14 @@
 轡	p,,ei,,4	b,,ei,,3	p,,i,,None		h,,i,,None
 轢	l,,i,,4	l,,i,k,7	l,y,e,k,None		r,,e,ki,None
 酇	z,,a,n,4	z,,aa,n,3|z,i,u,n,2			s,,a,n,None|z,,a,n,None|s,,a,,None|z,,a,,None
-酈	l,,i,,4	l,,i,k,9	l,y,e,k,None		r,,i,,None|r,,e,ki,None|r,y,a,ku,None
+酈	l,,i,,4	l,,i,k,9	l,y,e,k,None		r,,i,,None|r,,e,ki,None|,y,a,ku,None
 鑂	x,,u,n,4		h,w,u,n,None		
 鑃	d,i,ao,,4				,y,o,u,None
 鑄	zh,,u,,4	z,i,u,,3	c,w,u,,None		t,y,u,u,None
 鑅	h,,e,ng,2			l,,o,ng,5|v,,a,nh,2	k,,o,u,None
 鑆	zh,u,i,,4				
 鑇	j,,i,,1				
-鑈	n,i,e,,4				g,,e,i,None|n,,a,i,None|s,y,i,,None|n,,i,,None|z,y,o,u,None|,y,o,u,None
+鑈	n,i,e,,4				g,,e,i,None|n,,a,i,None|s,,i,,None|n,,i,,None|z,y,o,u,None|n,y,o,u,None
 鑉	h,,e,,2				
 鑊	h,u,o,,4	,u,o,k,9	h,w,a,k,None	v,,a,c,8	k,,a,ku,None|,w,a,ku,None
 鑋	q,,i,ng,1	h,,@,ng,1			
@@ -348,7 +348,7 @@
 霿	m,,e,ng,2	m,,u,ng,6			
 靀	m,,e,ng,2			m,,ô,ng,3	
 韀	j,i,a,n,1				
-韁	j,i,a,ng,1	g,,oe,ng,1	k,,a,ng,None	c,ư,ơ,ng,1	k,y,o,u,None|k,,o,u,None
+韁	j,i,a,ng,1	g,,oe,ng,1	k,,a,ng,None	c,ư,ơ,ng,1	,y,o,u,None|k,,o,u,None
 韂	ch,,a,n,4				
 韃	d,,a,,2	t,,aa,t,8	t,,a,l,None		d,,a,tsu,None|t,,a,tsu,None
 韣	d,,u,,2	d,,u,k,9			
@@ -359,7 +359,7 @@
 饔	,i,o,ng,1	,i,u,ng,1	,,o,ng,None		,y,o,u,None|,y,u,,None
 饕	t,,ao,,1	t,,ou,,1	t,,o,,None		t,,o,u,None
 饖	,u,ei,,4				
-饗	x,i,a,ng,3	h,,@,ng,2	h,y,a,ng,None		k,y,o,u,None
+饗	x,i,a,ng,3	h,,@,ng,2	h,y,a,ng,None		,y,o,u,None
 饘	zh,,a,n,1	z,,i,n,1			s,,e,n,None
 饙	f,,e,n,1	f,,a,n,1			f,,u,n,None
 驈	,i,u,,4	,u,a,t,9			
@@ -367,24 +367,24 @@
 驊	h,u,a,,2	,u,aa,,4	h,w,a,,None		k,,a,,None|g,,e,,None
 驋	b,,o,,1				h,,a,tsu,None|h,,a,chi,None
 驌	s,,u,,4	s,,u,k,7	s,w,u,k,None		s,y,u,ku,None|s,,u,ku,None
-驍	x,i,ao,,1	h,i,u,,1	h,y,o,,None		,y,o,u,None|k,y,o,u,None
+驍	x,i,ao,,1	h,i,u,,1	h,y,o,,None		,y,o,u,None|,y,o,u,None
 驎	l,,i,n,2	l,,eo,n,4	l,,i,n,None		r,,i,n,None
 驏	zh,,a,n,4	c,,i,n,5|z,,aa,n,2	c,,a,n,None		
 驐	d,,u,n,1				
-驑	l,i,u,,2				r,y,u,u,None|r,,u,,None
+驑	l,i,u,,2				,y,u,u,None|r,,u,,None
 驒	t,u,o,,2	t,,o,,4	th,,a,n,None		t,,a,n,None|d,,a,n,None|d,,a,,None
 驓	c,,e,ng,2				
 驔	d,i,a,n,4	t,,aa,m,4|t,,i,m,5			t,,e,n,None|d,,e,n,None|t,,a,n,None|d,,o,n,None
-驕	j,i,ao,,1	g,i,u,,1	k,y,o,,None|h,y,o,,None	k,i,êu,,1	k,y,o,u,None
-髐	x,i,ao,,1	h,,aau,,1			k,,o,u,None|k,y,o,u,None
+驕	j,i,ao,,1	g,i,u,,1	k,y,o,,None|h,y,o,,None	k,i,êu,,1	,y,o,u,None
+髐	x,i,ao,,1	h,,aau,,1			k,,o,u,None|,y,o,u,None
 髝	l,,ao,,2				
 鬙	s,,e,ng,1	z,,a,ng,1	s,,u,ng,None		s,,o,u,None
 鬚	x,,u,,1	s,,ou,,1	s,w,u,,None	t,,u,,1	s,y,u,,None|s,,u,,None
-鬛	l,i,e,,4				r,y,o,u,None
+鬛	l,i,e,,4				,y,o,u,None
 鬜	q,i,a,n,1				k,,a,n,None|k,,e,n,None|s,,a,n,None|z,,e,n,None
 鬻	,i,u,,4	,i,u,k,9			s,y,u,ku,None|,,i,ku,None
 魕	j,,i,,3				k,,i,,None
-魖	x,,u,,1	h,,eoi,,1			k,y,o,,None|k,,o,,None
+魖	x,,u,,1	h,,eoi,,1			,y,o,,None|k,,o,,None
 鰱	l,i,a,n,2	l,,i,n,4	l,y,e,n,None	n,,ă,n,4|l,ư,ơ,n,1	r,,e,n,None
 鰲	,,ao,,2	ng,,ou,,4	,,o,,None		g,,o,u,None
 鰳	l,,e,,4	l,,a,k,9			
@@ -398,10 +398,10 @@
 鰻	m,,a,n,2	m,,aa,n,4	m,,a,n,None		b,,a,n,None|m,,a,n,None
 鰼	x,,i,,2	z,,aa,p,9			
 鰽	q,i,u,,2	c,,ou,,4			s,y,u,u,None|z,y,u,,None
-鰾	b,i,ao,,4	p,i,u,,5	ph,y,o,,None		h,y,o,u,None
+鰾	b,i,ao,,4	p,i,u,,5	ph,y,o,,None		,y,o,u,None
 鰿	j,,i,,4	z,,i,k,7			
 鱀	j,,i,,4				
-鱁	zh,,u,,2	z,,u,k,9			t,y,i,ku,None|z,y,i,ku,None
+鱁	zh,,u,,2	z,,u,k,9			t,,i,ku,None|z,,i,ku,None
 鱂	j,i,a,ng,1				s,y,o,u,None|s,,o,u,None
 鱃	x,i,u,,1				s,y,u,u,None|s,y,u,,None
 鱄	zh,u,a,n,1	z,i,u,n,1			s,,e,n,None|z,,e,n,None|t,,a,n,None|d,,a,n,None|r,,e,n,None
@@ -420,8 +420,8 @@
 鷖	,i,i,,1	,i,i,,1	,y,ey,,None		,,e,i,None
 鷗	,,ou,,1	,,au,,1	k,w,u,,None		,,o,u,None
 鷘	ch,,i,,4	c,,i,k,7			
-鷙	zh,,i,,4	z,,i,,3	c,,i,,None		s,y,i,,None|t,y,i,tsu,None
-鷚	l,i,u,,4	l,,au,,6			r,y,u,u,None|r,,u,,None|b,,o,u,None|m,,u,,None
+鷙	zh,,i,,4	z,,i,,3	c,,i,,None		s,,i,,None|t,,i,tsu,None
+鷚	l,i,u,,4	l,,au,,6			,y,u,u,None|r,,u,,None|b,,o,u,None|m,,u,,None
 鷛	,i,o,ng,1	,i,u,ng,4			
 鷜	l,,v,,2				
 鷝	b,,i,,4				
@@ -432,9 +432,9 @@
 鹴	sh,u,a,ng,1				
 麞	zh,,a,ng,1	z,,oe,ng,1	c,,a,ng,None		s,y,o,u,None
 麶	ch,,i,,5				
-黐	ch,,i,,1	c,,i,,1	l,,i,,None		t,y,i,,None|r,,i,,None
-黰	zh,,e,n,3	z,,a,n,2			s,y,i,n,None|,,a,n,None|,,e,n,None
-黱	d,,ai,,4				t,,a,i,None|d,,a,i,None|t,y,i,n,None|z,y,i,n,None
+黐	ch,,i,,1	c,,i,,1	l,,i,,None		t,,i,,None|r,,i,,None
+黰	zh,,e,n,3	z,,a,n,2			s,,i,n,None|,,a,n,None|,,e,n,None
+黱	d,,ai,,4				t,,a,i,None|d,,a,i,None|t,,i,n,None|z,,i,n,None
 鼲	h,,u,n,2	,u,a,n,4			k,,o,n,None|g,,o,n,None
 鼳	j,,u,,2				
 鼴	,i,a,n,3	,i,i,n,2	,,e,n,None		,,e,n,None|,,o,n,None
@@ -444,7 +444,7 @@
 齫	k,,u,n,3		k,,o,n,None		
 齬	,i,u,,3	,i,u,,5	,,e,,None		,y,o,,None|g,,o,,None
 龓	l,,o,ng,3				
-龔	g,,o,ng,1	g,,u,ng,1	k,,o,ng,None		k,y,o,u,None|k,,u,,None|,y,o,u,None|,y,u,,None
+龔	g,,o,ng,1	g,,u,ng,1	k,,o,ng,None		,y,o,u,None|k,,u,,None|,y,o,u,None|,y,u,,None
 龕	k,,a,n,1	h,,a,m,1	k,,a,m,None		g,,a,n,None|k,,a,n,None
 龢	h,,e,,2	,u,o,,4	h,w,a,,None		k,,a,,None|,w,a,,None
 蘆	l,,u,,2	l,,ou,,4	l,,o,,None|,y,e,,None		r,,o,,None

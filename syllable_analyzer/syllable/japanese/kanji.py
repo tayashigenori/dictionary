@@ -74,6 +74,8 @@ class JapaneseSyllable(AtonalSyllable):
             ### adhoc
             self._nucleus = self._last
             self._last = ''
+        if self._head in ['s', 'z', 't'] and self._semi_vowel == 'y' and  self._nucleus == 'i':
+            self._semi_vowel = ''
 
 class Kanji(Ideogram):
     def __init__(self, surfaces):
