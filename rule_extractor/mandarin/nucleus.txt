@@ -1,0 +1,11 @@
+[Mand:nc]a
+[Mand:nc]ai
+[Mand:nc]ao
+[Mand:nc]e
+[Mand:nc]ei
+[Mand:nc]er
+[Mand:nc]i
+[Mand:nc]o
+[Mand:nc]ou
+[Mand:nc]u
+[Mand:nc]v
