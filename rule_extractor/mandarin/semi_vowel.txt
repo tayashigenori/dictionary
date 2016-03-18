@@ -1,5 +1,5 @@
-[Mand:sv]
-[Mand:sv]i
-[Mand:sv]iu
-[Mand:sv]u
-[Mand:sv]v
+MAND-SEMIVOWEL=
+MAND-SEMIVOWEL=i
+MAND-SEMIVOWEL=iu
+MAND-SEMIVOWEL=u
+MAND-SEMIVOWEL=v

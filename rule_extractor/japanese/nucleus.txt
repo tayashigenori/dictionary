@@ -1,5 +1,5 @@
-[Japa:nc]a
-[Japa:nc]e
-[Japa:nc]i
-[Japa:nc]o
-[Japa:nc]u
+JAPA-NUCLEUS=a
+JAPA-NUCLEUS=e
+JAPA-NUCLEUS=i
+JAPA-NUCLEUS=o
+JAPA-NUCLEUS=u

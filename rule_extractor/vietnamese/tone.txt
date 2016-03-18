@@ -1,8 +1,8 @@
-[Viet:tn]1
-[Viet:tn]2
-[Viet:tn]3
-[Viet:tn]4
-[Viet:tn]5
-[Viet:tn]6
-[Viet:tn]7
-[Viet:tn]8
+VIET-TONE=1
+VIET-TONE=2
+VIET-TONE=3
+VIET-TONE=4
+VIET-TONE=5
+VIET-TONE=6
+VIET-TONE=7
+VIET-TONE=8

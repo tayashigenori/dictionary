@@ -1,7 +1,7 @@
-[Cant:lt]
-[Cant:lt]k
-[Cant:lt]m
-[Cant:lt]n
-[Cant:lt]ng
-[Cant:lt]p
-[Cant:lt]t
+CANT-LAST=
+CANT-LAST=k
+CANT-LAST=m
+CANT-LAST=n
+CANT-LAST=ng
+CANT-LAST=p
+CANT-LAST=t

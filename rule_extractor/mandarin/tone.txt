@@ -1,5 +1,5 @@
-[Mand:tn]1
-[Mand:tn]2
-[Mand:tn]3
-[Mand:tn]4
-[Mand:tn]5
+MAND-TONE=1
+MAND-TONE=2
+MAND-TONE=3
+MAND-TONE=4
+MAND-TONE=5

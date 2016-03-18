@@ -1,8 +1,8 @@
-[Kore:lt]
-[Kore:lt]c
-[Kore:lt]k
-[Kore:lt]l
-[Kore:lt]m
-[Kore:lt]n
-[Kore:lt]ng
-[Kore:lt]p
+KORE-LAST=
+KORE-LAST=c
+KORE-LAST=k
+KORE-LAST=l
+KORE-LAST=m
+KORE-LAST=n
+KORE-LAST=ng
+KORE-LAST=p
