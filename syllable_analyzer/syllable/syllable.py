@@ -257,4 +257,26 @@ class Ideogram:
             r.append( s.make_transaction_tone() )
         return r
 
+    def make_transaction2(self, sep="&"):
+        r = []
+        heads = set( map( lambda s: s._head, self._surfaces ) )
+        heads_sorted = sorted(heads)
+        r.append( sep.join( heads_sorted ) )
+
+        semi_vowels = set( map( lambda s: s._semi_vowel, self._surfaces ) )
+        semi_vowels_sorted = sorted(semi_vowels)
+        r.append( sep.join( semi_vowels_sorted ) )
+
+        nucleus = set( map( lambda s: s._nucleus, self._surfaces ) )
+        nucleus_sorted = sorted(nucleus)
+        r.append( sep.join( nucleus_sorted ) )
+
+        lasts = set( map( lambda s: s._last, self._surfaces ) )
+        lasts_sorted = sorted(lasts)
+        r.append( sep.join( lasts_sorted ) )
+
+        tones = list( map( lambda s: str(s._tone), self._surfaces) )
+        tones_sorted = sorted(tones)
+        r.append( sep.join( tones_sorted ) )
+        return r
 
