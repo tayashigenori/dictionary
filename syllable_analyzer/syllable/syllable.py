@@ -275,7 +275,7 @@ class Ideogram:
         lasts_sorted = sorted(lasts)
         r.append( sep.join( lasts_sorted ) )
 
-        tones = list( map( lambda s: str(s._tone), self._surfaces) )
+        tones = set( map( lambda s: str(s._tone), self._surfaces) )
         tones_sorted = sorted(tones)
         r.append( sep.join( tones_sorted ) )
         return r
