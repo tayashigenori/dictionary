@@ -1,63 +1,41 @@
 
-mand_all <- scan("mandarin/sorted.uniq.txt", what="", sep="\n")
-mand_hd  <- scan("mandarin/head.txt",        what="", sep="\n")
-mand_sv  <- scan("mandarin/semi_vowel.txt",  what="", sep="\n")
-mand_nc  <- scan("mandarin/nucleus.txt",     what="", sep="\n")
-mand_lt  <- scan("mandarin/last.txt",        what="", sep="\n")
-mand_tn  <- scan("mandarin/tone.txt",        what="", sep="\n")
-
-cant_all <- scan("cantonese/sorted.uniq.txt", what="", sep="\n")
-cant_hd  <- scan("cantonese/head.txt",        what="", sep="\n")
-cant_sv  <- scan("cantonese/semi_vowel.txt",  what="", sep="\n")
-cant_nc  <- scan("cantonese/nucleus.txt",     what="", sep="\n")
-cant_lt  <- scan("cantonese/last.txt",        what="", sep="\n")
-cant_tn  <- scan("cantonese/tone.txt",        what="", sep="\n")
-
-kore_all <- scan("korean/sorted.uniq.txt", what="", sep="\n")
-kore_hd  <- scan("korean/head.txt",        what="", sep="\n")
-kore_sv  <- scan("korean/semi_vowel.txt",  what="", sep="\n")
-kore_nc  <- scan("korean/nucleus.txt",     what="", sep="\n")
-kore_lt  <- scan("korean/last.txt",        what="", sep="\n")
-kore_tn  <- scan("korean/tone.txt",        what="", sep="\n")
-
-viet_all <- scan("vietnamese/sorted.uniq.txt", what="", sep="\n")
-viet_hd  <- scan("vietnamese/head.txt",        what="", sep="\n")
-viet_sv  <- scan("vietnamese/semi_vowel.txt",  what="", sep="\n")
-viet_nc  <- scan("vietnamese/nucleus.txt",     what="", sep="\n")
-viet_lt  <- scan("vietnamese/last.txt",        what="", sep="\n")
-viet_tn  <- scan("vietnamese/tone.txt",        what="", sep="\n")
-
-japa_all <- scan("japanese/sorted.uniq.txt", what="", sep="\n")
-japa_hd  <- scan("japanese/head.txt",        what="", sep="\n")
-japa_sv  <- scan("japanese/semi_vowel.txt",  what="", sep="\n")
-japa_nc  <- scan("japanese/nucleus.txt",     what="", sep="\n")
-japa_lt  <- scan("japanese/last.txt",        what="", sep="\n")
-japa_tn  <- scan("japanese/tone.txt",        what="", sep="\n")
-
-
+# package を更新
 list.of.packages <- c("arules")
 new.packages <- list.of.packages[ !(list.of.packages %in% installed.packages()[,"Package"]) ]
 if(length(new.packages)) install.packages(new.packages)
 
-library(arules)
-d = read.csv(
-        "all.csv",
+# tsv を読み込み
+d = read.delim(
+        "all.tsv",
+        sep="\t",
         header=FALSE,
-        na.strings = c("",
-                       "[Mand:hd]", "[Mand:sv]", "[Mand:lt]",
-                       "[Cant:hd]", "[Cant:sv]", "[Cant:lt]",
-                       "[Viet:hd]", "[Viet:sv]", "[Viet:lt]",
-                       "[Kore:hd]", "[Kore:sv]", "[Kore:lt]", "[Kore:tn]None",
-                       "[Japa:hd]", "[Japa:sv]", "[Japa:lt]", "[Japa:tn]None"
-                      )
+        colClasses=c( rep("factor", 26) ),
+        na.strings = c("", "None")
         )
+colnames(d) <- c(
+    "CHAR",
+    "MAND-HEAD", "MAND-SEMIVOWEL", "MAND-NUCLEUS", "MAND-LAST", "MAND-TONE",
+    "CANT-HEAD", "CANT-SEMIVOWEL", "CANT-NUCLEUS", "CANT-LAST", "CANT-TONE",
+    "KORE-HEAD", "KORE-SEMIVOWEL", "KORE-NUCLEUS", "KORE-LAST", "KORE-TONE",
+    "VIET-HEAD", "VIET-SEMIVOWEL", "VIET-NUCLEUS", "VIET-LAST", "VIET-TONE",
+    "JAPA-HEAD", "JAPA-SEMIVOWEL", "JAPA-NUCLEUS", "JAPA-LAST", "JAPA-TONE"
+)
+
+# ルールを抽出
+library(arules)
 rules = apriori(
             d,
-            parameter=list(support=0.001, confidence=0.8, maxlen=10)
-#            appearance = list(
-#                rhs=mand_tn,
-#                default="lhs"
-#            )
+            parameter=list(support=0.001, confidence=0.8, maxlen=10),
+            appearance = list(
+                rhs = c(
+                           "MAND-TONE=1", "MAND-TONE=2", "MAND-TONE=3", "MAND-TONE=4", "MAND-TONE=5",
+                           "CANT-TONE=1", "CANT-TONE=2", "CANT-TONE=3", "CANT-TONE=4", "CANT-TONE=5", "CANT-TONE=6",
+                           "CANT-TONE=7", "CANT-TONE=8", "CANT-TONE=9",
+                           "VIET-TONE=1", "VIET-TONE=2", "VIET-TONE=3", "VIET-TONE=4", "VIET-TONE=5", "VIET-TONE=6",
+                           "VIET-TONE=7", "VIET-TONE=8"
+                       ),
+                default = "lhs"
+            )
         )
 print(rules)
 rules.sorted <- sort(rules, by="support")
