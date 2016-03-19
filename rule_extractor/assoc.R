@@ -4,6 +4,9 @@ list.of.packages <- c("arules")
 new.packages <- list.of.packages[ !(list.of.packages %in% installed.packages()[,"Package"]) ]
 if(length(new.packages)) install.packages(new.packages)
 
+#
+source("load_operands.R")
+
 # tsv を読み込み
 d = read.delim(
         "all.tsv",
@@ -25,17 +28,12 @@ colnames(d) <- c(
 library(arules)
 rules = apriori(
             d,
-            parameter=list(support=0.001, confidence=0.8, maxlen=10),
-            appearance = list(
-                rhs = c(
-                           "MAND-TONE=1", "MAND-TONE=2", "MAND-TONE=3", "MAND-TONE=4", "MAND-TONE=5",
-                           "CANT-TONE=1", "CANT-TONE=2", "CANT-TONE=3", "CANT-TONE=4", "CANT-TONE=5", "CANT-TONE=6",
-                           "CANT-TONE=7", "CANT-TONE=8", "CANT-TONE=9",
-                           "VIET-TONE=1", "VIET-TONE=2", "VIET-TONE=3", "VIET-TONE=4", "VIET-TONE=5", "VIET-TONE=6",
-                           "VIET-TONE=7", "VIET-TONE=8"
-                       ),
-                default = "lhs"
-            )
+            parameter=list(support=0.001, confidence=0.8, maxlen=10)
+# TODO
+#            appearance = list(
+#                rhs = c(mand_tns, cant_tns, viet_tns)
+#                default = "lhs"
+#            )
         )
 print(rules)
 rules.sorted <- sort(rules, by="support")
