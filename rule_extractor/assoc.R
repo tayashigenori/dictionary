@@ -17,23 +17,23 @@ d = read.delim(
         )
 colnames(d) <- c(
     "CHAR",
-    "MAND-HEAD", "MAND-SEMIVOWEL", "MAND-NUCLEUS", "MAND-LAST", "MAND-TONE",
-    "CANT-HEAD", "CANT-SEMIVOWEL", "CANT-NUCLEUS", "CANT-LAST", "CANT-TONE",
-    "KORE-HEAD", "KORE-SEMIVOWEL", "KORE-NUCLEUS", "KORE-LAST", "KORE-TONE",
-    "VIET-HEAD", "VIET-SEMIVOWEL", "VIET-NUCLEUS", "VIET-LAST", "VIET-TONE",
-    "JAPA-HEAD", "JAPA-SEMIVOWEL", "JAPA-NUCLEUS", "JAPA-LAST", "JAPA-TONE"
+    "HANZ-HEAD", "HANZ-SEMIVOWEL", "HANZ-NUCLEUS", "HANZ-LAST", "HANZ-TONE",
+    "HONZ-HEAD", "HONZ-SEMIVOWEL", "HONZ-NUCLEUS", "HONZ-LAST", "HONZ-TONE",
+    "HANJ-HEAD", "HANJ-SEMIVOWEL", "HANJ-NUCLEUS", "HANJ-LAST", "HANJ-TONE",
+    "HANT-HEAD", "HANT-SEMIVOWEL", "HANT-NUCLEUS", "HANT-LAST", "HANT-TONE",
+    "KANJ-HEAD", "KANJ-SEMIVOWEL", "KANJ-NUCLEUS", "KANJ-LAST", "KANJ-TONE"
 )
 
 # ルールを抽出
 library(arules)
 rules = apriori(
             d,
-            parameter=list(support=0.001, confidence=0.8, maxlen=10)
+            parameter=list(support=0.001, confidence=0.8, maxlen=10),
 # TODO
-#            appearance = list(
-#                rhs = c(mand_tns, cant_tns, viet_tns)
-#                default = "lhs"
-#            )
+            appearance = list(
+                lhs = c( kanj_all , honz_all ),
+                default = "rhs"
+            )
         )
 print(rules)
 rules.sorted <- sort(rules, by="support")
