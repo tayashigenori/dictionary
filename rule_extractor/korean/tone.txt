@@ -1,1 +1,1 @@
-KORE-TONE=None
+HANJ-TONE=None
